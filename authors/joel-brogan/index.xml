@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joel Brogan on Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/authors/joel-brogan/</link>
+    <description>Recent content in Joel Brogan on Daniel Moreira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
+    <lastBuildDate>Sun, 24 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://danielmoreira.github.io/authors/joel-brogan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Needle in a Haystack: A Framework for Seeking Small Objects in Big Datasets</title>
+      <link>https://danielmoreira.github.io/publication/2019_preprint_needle/</link>
+      <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2019_preprint_needle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Pixels: Image Provenance Analysis Leveraging Metadata</title>
+      <link>https://danielmoreira.github.io/publication/2019_wacv_metada/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2019_wacv_metada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Provenance Analysis at Scale</title>
+      <link>https://danielmoreira.github.io/publication/2018_tip/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2018_tip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provenance filtering for multimedia phylogeny</title>
+      <link>https://danielmoreira.github.io/publication/2017_icip_filtering/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2017_icip_filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotting the difference: Context retrieval and analysis for improved forgery detection and localization</title>
+      <link>https://danielmoreira.github.io/publication/2017_icip_spotting/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2017_icip_spotting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U-Phylogeny: Undirected provenance graph construction in the wild</title>
+      <link>https://danielmoreira.github.io/publication/2017_icip_uphylogeny/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2017_icip_uphylogeny/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

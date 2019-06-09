@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TRoF on Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tags/trof/</link>
+    <description>Recent content in TRoF on Daniel Moreira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://danielmoreira.github.io/tags/trof/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TRoF</title>
+      <link>https://danielmoreira.github.io/project/trof/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/project/trof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Robust Features for Violence Detection</title>
+      <link>https://danielmoreira.github.io/publication/2017_wacv/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2017_wacv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pornography classification: The hidden clues in video space–time</title>
+      <link>https://danielmoreira.github.io/publication/2016_fsi/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2016_fsi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

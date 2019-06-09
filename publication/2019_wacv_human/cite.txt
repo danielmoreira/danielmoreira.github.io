@@ -1,0 +1,7 @@
+@inproceedings{8658624,
+  title={Performance of Humans in Iris Recognition: The Impact of Iris Condition and Annotation-Driven Verification},
+  author={Daniel Moreira and Mateusz Trokielewicz and Adam Czajka and Kevin Bowyer and Patrick Flynn},
+  booktitle={IEEE Winter Conference on Applications of Computer Vision},
+  pages={941--949},
+  year={2019}
+}

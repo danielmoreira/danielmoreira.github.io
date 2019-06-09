@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Provenance Graph Construction on Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tags/provenance-graph-construction/</link>
+    <description>Recent content in Provenance Graph Construction on Daniel Moreira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://danielmoreira.github.io/tags/provenance-graph-construction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MediFor</title>
+      <link>https://danielmoreira.github.io/project/medifor/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/project/medifor/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Ongoing, &lt;strong&gt;Funded by:&lt;/strong&gt; DARPA&lt;br /&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://www.wjscheirer.com/&#34; target=&#34;_blank&#34;&gt;Walter Scheirer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Media Forensics research project (&lt;a href=&#34;https://www.darpa.mil/program/media-forensics&#34; target=&#34;_blank&#34;&gt;MediFor&lt;/a&gt;) is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA) and the Air Force Research Laboratory (AFRL), whose goal is to develop solutions for the automated assessment of the integrity of digital images.&lt;/p&gt;
+
+&lt;p&gt;Working together with the Universities of Purdue, South California (USC), New York (NYU), Siena, Campinas (Unicamp), and the Politécnico di Milano, our team leads the development of solutions to the problem of Provenance Analysis. Given a questioned image, namely a probe, and a large corpus of images (such as the Internet), Provenance Analysis aims at two major tasks:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Finding the images that directly and transitively share content with the probe (a task we call Provenance Filtering).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Building the directed acyclic graph whose nodes individually represent the probe and related images, and whose edges express the edition and content-donation history (e.g., cropping, blurring, removal, splicing, etc.) between pairs of images, linking seminal to generated elements (a task we call Provenance Graph Construction).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;By combining ideas from the areas of image retrieval, digital image forensics, and graph theory, Provenance Analysis constitutes an interesting interdisciplinary topic that spans the fields of image processing and computer vision.&lt;/p&gt;
+
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prof. Walter Scheirer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Anderson Rocha (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Patrick Flynn (PI)&lt;/li&gt;
+&lt;li&gt;Daniel Moreira (Postdoc)&lt;/li&gt;
+&lt;li&gt;Aparna Bharati (PhD Student)&lt;/li&gt;
+&lt;li&gt;Joel Brogan (PhD Student)&lt;/li&gt;
+&lt;li&gt;Allan Pinto (PhD Student)&lt;/li&gt;
+&lt;li&gt;Michael Parowski (Undergrad Student)&lt;/li&gt;
+&lt;li&gt;Patricia Hale (Undergrad Student)&lt;/li&gt;
+&lt;li&gt;William Badart (Undergrad Student)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond Pixels: Image Provenance Analysis Leveraging Metadata</title>
+      <link>https://danielmoreira.github.io/publication/2019_wacv_metada/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2019_wacv_metada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Provenance Analysis at Scale</title>
+      <link>https://danielmoreira.github.io/publication/2018_tip/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2018_tip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U-Phylogeny: Undirected provenance graph construction in the wild</title>
+      <link>https://danielmoreira.github.io/publication/2017_icip_uphylogeny/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2017_icip_uphylogeny/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

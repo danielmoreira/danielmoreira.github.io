@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nathaniel Blanchard on Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/authors/nathaniel-blanchard/</link>
+    <description>Recent content in Nathaniel Blanchard on Daniel Moreira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
+    <lastBuildDate>Fri, 20 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://danielmoreira.github.io/authors/nathaniel-blanchard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting the subtext without the text: Scalable multimodal sentiment classification from visual and acoustic modalities</title>
+      <link>https://danielmoreira.github.io/publication/2018_acl/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2018_acl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

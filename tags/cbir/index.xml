@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CBIR on Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tags/cbir/</link>
+    <description>Recent content in CBIR on Daniel Moreira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
+    <lastBuildDate>Sun, 24 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://danielmoreira.github.io/tags/cbir/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Needle in a Haystack: A Framework for Seeking Small Objects in Big Datasets</title>
+      <link>https://danielmoreira.github.io/publication/2019_preprint_needle/</link>
+      <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2019_preprint_needle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Provenance Analysis at Scale</title>
+      <link>https://danielmoreira.github.io/publication/2018_tip/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2018_tip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

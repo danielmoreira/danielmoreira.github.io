@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/project/</link>
+    <description>Recent content in Projects on Daniel Moreira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://danielmoreira.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MediFor</title>
+      <link>https://danielmoreira.github.io/project/medifor/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/project/medifor/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Ongoing, &lt;strong&gt;Funded by:&lt;/strong&gt; DARPA&lt;br /&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://www.wjscheirer.com/&#34; target=&#34;_blank&#34;&gt;Walter Scheirer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Media Forensics research project (&lt;a href=&#34;https://www.darpa.mil/program/media-forensics&#34; target=&#34;_blank&#34;&gt;MediFor&lt;/a&gt;) is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA) and the Air Force Research Laboratory (AFRL), whose goal is to develop solutions for the automated assessment of the integrity of digital images.&lt;/p&gt;
+
+&lt;p&gt;Working together with the Universities of Purdue, South California (USC), New York (NYU), Siena, Campinas (Unicamp), and the Politécnico di Milano, our team leads the development of solutions to the problem of Provenance Analysis. Given a questioned image, namely a probe, and a large corpus of images (such as the Internet), Provenance Analysis aims at two major tasks:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Finding the images that directly and transitively share content with the probe (a task we call Provenance Filtering).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Building the directed acyclic graph whose nodes individually represent the probe and related images, and whose edges express the edition and content-donation history (e.g., cropping, blurring, removal, splicing, etc.) between pairs of images, linking seminal to generated elements (a task we call Provenance Graph Construction).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;By combining ideas from the areas of image retrieval, digital image forensics, and graph theory, Provenance Analysis constitutes an interesting interdisciplinary topic that spans the fields of image processing and computer vision.&lt;/p&gt;
+
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prof. Walter Scheirer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Anderson Rocha (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Patrick Flynn (PI)&lt;/li&gt;
+&lt;li&gt;Daniel Moreira (Postdoc)&lt;/li&gt;
+&lt;li&gt;Aparna Bharati (PhD Student)&lt;/li&gt;
+&lt;li&gt;Joel Brogan (PhD Student)&lt;/li&gt;
+&lt;li&gt;Allan Pinto (PhD Student)&lt;/li&gt;
+&lt;li&gt;Michael Parowski (Undergrad Student)&lt;/li&gt;
+&lt;li&gt;Patricia Hale (Undergrad Student)&lt;/li&gt;
+&lt;li&gt;William Badart (Undergrad Student)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SREFV</title>
+      <link>https://danielmoreira.github.io/project/srefv/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/project/srefv/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Wrapping up&lt;br /&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;http://sites.nd.edu/patrick-flynn/&#34; target=&#34;_blank&#34;&gt;Patrick Flynn&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The SREFV project aims at extending &lt;a href=&#34;https://cvrl.nd.edu/projects/?project_name=Synthesis%20of%20Realistic%20Example%20Face%20Images%20(SREFI)&#34; target=&#34;_blank&#34;&gt;prior research&lt;/a&gt; on synthesis of realistic faces, to support the generation of videos containing animated faces with synthetic identities, depicted either frontally or in varying poses.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;sample.gif&#34; alt=&#34;SREFV preliminary results.&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Besides the obvious artistic and entertainment purposes, the outcome of this project will constitute an interesting tool to de-identify and diversify the faces depicted in video training datasets, helping to protect the identity of volunteers, and to mitigate eventual age, gender, and ethnic dataset collection biases.&lt;/p&gt;
+
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prof. Patrick Flynn (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Adam Czajka (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Walter Scheirer (PI)&lt;/li&gt;
+&lt;li&gt;Daniel Moreira (Postdoc)&lt;/li&gt;
+&lt;li&gt;Sandipan Banerjee (PhD Student)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sci-Int</title>
+      <link>https://danielmoreira.github.io/project/sciint/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/project/sciint/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Ongoing, &lt;strong&gt;Funded by:&lt;/strong&gt; DARPA&lt;br /&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://www.wjscheirer.com/&#34; target=&#34;_blank&#34;&gt;Walter Scheirer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Scientific Integrity (Sci-Int) project is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA), whose goal is to develop solutions to identify misconduct in scientific research through the detection of image tampering in scientific papers.&lt;/p&gt;
+
+&lt;p&gt;Working together with the Universities of Purdue, South California (USC), Campinas (Unicamp), and the Politécnico di Milano, our team leads the development of techniques to (1) rule out false positive cases of misidentified misconduct, and to (2) better report and document misconduct practices in retraction notices.&lt;/p&gt;
+
+&lt;p&gt;To accomplish item (1), we plan to perform semantic analyses of the suspect paper cases, in order to identify situations in which duplications or manipulations of content were made with fair scientific purpose (e.g., to visually highlight or to better explain previous results). To do that, we plan to use natural language processing to perform basic automated paper text and image caption interpretation.&lt;/p&gt;
+
+&lt;p&gt;To accomplish item (2), we plan to rely on techniques of Provenance Graph Construction to present better explanations of how problematic images relate to each other, and how they share content across different papers.&lt;/p&gt;
+
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prof. Walter Scheirer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Anderson Rocha (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Patrick Flynn (PI)&lt;/li&gt;
+&lt;li&gt;Daniel Moreira (Postdoc)&lt;/li&gt;
+&lt;li&gt;Aparna Bharati (PhD Student)&lt;/li&gt;
+&lt;li&gt;Joel Brogan (PhD Student)&lt;/li&gt;
+&lt;li&gt;Abigail Graese (PhD Student)&lt;/li&gt;
+&lt;li&gt;João P. Cardenuto (MSc Student)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TSHEPII</title>
+      <link>https://danielmoreira.github.io/project/tshepii/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/project/tshepii/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Wrapping up&lt;br /&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34;&gt;Adam Czajka&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The TSHEPII project aims at developing a software tool to support the human examination of post-mortem iris images.
+The tool puts together diverse computer vision techniques to automatically process, extract, annotate, and match iris regions from two different eye captures.
+The idea is to give to the user enough iris texture matching and non-matching information, so they can decided if the two given images depict the same eye or not.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FLlXDv8EdeU&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;TSHEPII Interface Demo&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://www.youtube.com/watch?v=FLlXDv8EdeU&#34; target=&#34;_blank&#34;&gt;video&lt;/a&gt; above depicts a demo of the TSHEPII tool, with all the computer vision techniques added to the software.
+As the project name suggests (Tool Supporting the Human Examination of &lt;strong&gt;Post-Mortem&lt;/strong&gt; Iris Images), the tool is particularly tuned to the case of comparing post-mortem irises, which, contrary to the common sense, might still be useful for performing iris recognition.&lt;/p&gt;
+
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prof. Adam Czajka (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Patrick Flynn (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
+&lt;li&gt;Daniel Moreira (Postdoc)&lt;/li&gt;
+&lt;li&gt;Mateusz Trokielewicz (PhD Student)&lt;/li&gt;
+&lt;li&gt;M.D. Piotr Maciejewicz (Collaborator)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TRoF</title>
+      <link>https://danielmoreira.github.io/project/trof/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/project/trof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMA</title>
+      <link>https://danielmoreira.github.io/project/sma/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/project/sma/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded, &lt;strong&gt;Funded by:&lt;/strong&gt; Samsung Eletrônica da Amazônia Ltda.&lt;br /&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://www.ic.unicamp.br/~rocha/index.html&#34; target=&#34;_blank&#34;&gt;Anderson Rocha&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Sensitive Media Analysis (SMA) project aims at researching solutions to combine different and complementary data representations and pattern classifiers for detecting sensitive content in digital images and videos.&lt;/p&gt;
+
+&lt;p&gt;Sensitive media can be defined as the digital content whose depiction to particular audiences (e.g., children or unwary spectators), at particular places (e.g., at work, at school, in the church) may inflict harm (e.g., trauma, shock, or fear) due to its inappropriateness.
+Typical representatives include – but are not limited to – scenes depicting pornography and violence, animal cruelty and child abuse, hate speech, etc.&lt;/p&gt;
+
+&lt;p&gt;The innovation aspects of the project reside on the development of solutions that are amenable to deployment on mobile devices (e.g., smartphones and tablets), observing their constraints of memory footprint, processing power, and runtime responsiveness.&lt;/p&gt;
+
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prof. Anderson Rocha (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Siome Goldenstein (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Eduardo Valle (PI)&lt;/li&gt;
+&lt;li&gt;Dr. Vanessa Testoni (Samsung Collaborator)&lt;/li&gt;
+&lt;li&gt;Dr. Sandra Avila (Postdoc)&lt;/li&gt;
+&lt;li&gt;Daniel Moreira (PhD Student)&lt;/li&gt;
+&lt;li&gt;Mauricio Perez (MSc Student)&lt;/li&gt;
+&lt;li&gt;Daniel Moraes (Programmer)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

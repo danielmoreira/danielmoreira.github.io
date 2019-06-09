@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biometrics on Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tags/biometrics/</link>
+    <description>Recent content in Biometrics on Daniel Moreira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
+    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://danielmoreira.github.io/tags/biometrics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SREFV</title>
+      <link>https://danielmoreira.github.io/project/srefv/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/project/srefv/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Wrapping up&lt;br /&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;http://sites.nd.edu/patrick-flynn/&#34; target=&#34;_blank&#34;&gt;Patrick Flynn&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The SREFV project aims at extending &lt;a href=&#34;https://cvrl.nd.edu/projects/?project_name=Synthesis%20of%20Realistic%20Example%20Face%20Images%20(SREFI)&#34; target=&#34;_blank&#34;&gt;prior research&lt;/a&gt; on synthesis of realistic faces, to support the generation of videos containing animated faces with synthetic identities, depicted either frontally or in varying poses.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;sample.gif&#34; alt=&#34;SREFV preliminary results.&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Besides the obvious artistic and entertainment purposes, the outcome of this project will constitute an interesting tool to de-identify and diversify the faces depicted in video training datasets, helping to protect the identity of volunteers, and to mitigate eventual age, gender, and ethnic dataset collection biases.&lt;/p&gt;
+
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prof. Patrick Flynn (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Adam Czajka (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Walter Scheirer (PI)&lt;/li&gt;
+&lt;li&gt;Daniel Moreira (Postdoc)&lt;/li&gt;
+&lt;li&gt;Sandipan Banerjee (PhD Student)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TSHEPII</title>
+      <link>https://danielmoreira.github.io/project/tshepii/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/project/tshepii/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Wrapping up&lt;br /&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34;&gt;Adam Czajka&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The TSHEPII project aims at developing a software tool to support the human examination of post-mortem iris images.
+The tool puts together diverse computer vision techniques to automatically process, extract, annotate, and match iris regions from two different eye captures.
+The idea is to give to the user enough iris texture matching and non-matching information, so they can decided if the two given images depict the same eye or not.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FLlXDv8EdeU&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;TSHEPII Interface Demo&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://www.youtube.com/watch?v=FLlXDv8EdeU&#34; target=&#34;_blank&#34;&gt;video&lt;/a&gt; above depicts a demo of the TSHEPII tool, with all the computer vision techniques added to the software.
+As the project name suggests (Tool Supporting the Human Examination of &lt;strong&gt;Post-Mortem&lt;/strong&gt; Iris Images), the tool is particularly tuned to the case of comparing post-mortem irises, which, contrary to the common sense, might still be useful for performing iris recognition.&lt;/p&gt;
+
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prof. Adam Czajka (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Patrick Flynn (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
+&lt;li&gt;Daniel Moreira (Postdoc)&lt;/li&gt;
+&lt;li&gt;Mateusz Trokielewicz (PhD Student)&lt;/li&gt;
+&lt;li&gt;M.D. Piotr Maciejewicz (Collaborator)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Domain-Specific Human-Inspired Binarized Statistical Image Features for Iris Recognition</title>
+      <link>https://danielmoreira.github.io/publication/2019_wacv_bsif/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2019_wacv_bsif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of Humans in Iris Recognition: The Impact of Iris Condition and Annotation-Driven Verification</title>
+      <link>https://danielmoreira.github.io/publication/2019_wacv_human/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2019_wacv_human/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isabela Cota on Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/authors/isabela-cota/</link>
+    <description>Recent content in Isabela Cota on Daniel Moreira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
+    <lastBuildDate>Thu, 16 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://danielmoreira.github.io/authors/isabela-cota/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RECOD at MediaEval 2014: Violent Scenes Detection Task</title>
+      <link>https://danielmoreira.github.io/publication/2014_mediaeval/</link>
+      <pubDate>Thu, 16 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2014_mediaeval/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

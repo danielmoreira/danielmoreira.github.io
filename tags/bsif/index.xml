@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BSIF on Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tags/bsif/</link>
+    <description>Recent content in BSIF on Daniel Moreira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
+    <lastBuildDate>Mon, 07 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://danielmoreira.github.io/tags/bsif/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Domain-Specific Human-Inspired Binarized Statistical Image Features for Iris Recognition</title>
+      <link>https://danielmoreira.github.io/publication/2019_wacv_bsif/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2019_wacv_bsif/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

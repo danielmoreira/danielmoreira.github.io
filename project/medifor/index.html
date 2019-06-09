@@ -1,0 +1,1968 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Daniel H. Moreira">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Integrity assessment of digital images through content provenance analysis.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://danielmoreira.github.io/project/medifor/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.747d92dc45be93ba6055a623fe5bcc0a.css">
+
+  
+
+  
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-111737118-2', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://danielmoreira.github.io/project/medifor/">
+
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@d_henriques">
+  <meta property="twitter:creator" content="@d_henriques">
+  
+  <meta property="og:site_name" content="Daniel Moreira">
+  <meta property="og:url" content="https://danielmoreira.github.io/project/medifor/">
+  <meta property="og:title" content="MediFor | Daniel Moreira">
+  <meta property="og:description" content="Integrity assessment of digital images through content provenance analysis."><meta property="og:image" content="https://danielmoreira.github.io/project/medifor/featured.jpg">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2019-06-01T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2019-06-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>MediFor | Daniel Moreira</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Daniel Moreira</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about">
+            
+            <span>About</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#experience">
+            
+            <span>Experience</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#accomplishments">
+            
+            <span>Awards</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <article class="article article-project" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="article-header d-xl-none">
+  <div class="featured-image" style="background-image: url('/project/medifor/featured_hud5894e73490520df850fc25feb1f6e40_92011_800x0_resize_q90_lanczos.jpg');"></div>
+  
+</div>
+
+
+<div class="container-fluid split-header d-none d-xl-block">
+  <div class="row">
+    <div class="col-6">
+      <div class="split-header-content">
+        <h1 itemprop="name">MediFor</h1>
+
+        
+
+        
+
+
+
+<meta content="2019-06-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2019-06-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>Jun 1, 2019</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/CVRL/Reddit_Provenance_Datasets" target="_blank" rel="noopener">
+  Dataset
+</a>
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://docs.google.com/presentation/d/1P5qeZR2t2pplcJT_niXtSZE9AxeD9kuNf63JcRQCHzM/edit?usp=sharing" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+</div>
+
+
+
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=MediFor&amp;url=https%3a%2f%2fdanielmoreira.github.io%2fproject%2fmedifor%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fdanielmoreira.github.io%2fproject%2fmedifor%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fdanielmoreira.github.io%2fproject%2fmedifor%2f&amp;title=MediFor"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fdanielmoreira.github.io%2fproject%2fmedifor%2f&amp;title=MediFor"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=MediFor&amp;body=https%3a%2f%2fdanielmoreira.github.io%2fproject%2fmedifor%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/project/medifor/featured_hud5894e73490520df850fc25feb1f6e40_92011_680x500_fill_q90_lanczos_center.jpg" itemprop="image" alt="">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-container d-xl-none">
+  <h1 itemprop="name">MediFor</h1>
+
+  
+
+  
+
+
+
+<meta content="2019-06-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2019-06-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>Jun 1, 2019</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=MediFor&amp;url=https%3a%2f%2fdanielmoreira.github.io%2fproject%2fmedifor%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fdanielmoreira.github.io%2fproject%2fmedifor%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fdanielmoreira.github.io%2fproject%2fmedifor%2f&amp;title=MediFor"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fdanielmoreira.github.io%2fproject%2fmedifor%2f&amp;title=MediFor"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=MediFor&amp;body=https%3a%2f%2fdanielmoreira.github.io%2fproject%2fmedifor%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/CVRL/Reddit_Provenance_Datasets" target="_blank" rel="noopener">
+  Dataset
+</a>
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://docs.google.com/presentation/d/1P5qeZR2t2pplcJT_niXtSZE9AxeD9kuNf63JcRQCHzM/edit?usp=sharing" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<p><strong>Status:</strong> Ongoing, <strong>Funded by:</strong> DARPA<br />
+<strong>Advisor:</strong> Prof. <a href="https://www.wjscheirer.com/" target="_blank">Walter Scheirer</a></p>
+
+<p>The Media Forensics research project (<a href="https://www.darpa.mil/program/media-forensics" target="_blank">MediFor</a>) is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA) and the Air Force Research Laboratory (AFRL), whose goal is to develop solutions for the automated assessment of the integrity of digital images.</p>
+
+<p>Working together with the Universities of Purdue, South California (USC), New York (NYU), Siena, Campinas (Unicamp), and the Politécnico di Milano, our team leads the development of solutions to the problem of Provenance Analysis. Given a questioned image, namely a probe, and a large corpus of images (such as the Internet), Provenance Analysis aims at two major tasks:</p>
+
+<ol>
+<li><p>Finding the images that directly and transitively share content with the probe (a task we call Provenance Filtering).</p></li>
+
+<li><p>Building the directed acyclic graph whose nodes individually represent the probe and related images, and whose edges express the edition and content-donation history (e.g., cropping, blurring, removal, splicing, etc.) between pairs of images, linking seminal to generated elements (a task we call Provenance Graph Construction).</p></li>
+</ol>
+
+<p>By combining ideas from the areas of image retrieval, digital image forensics, and graph theory, Provenance Analysis constitutes an interesting interdisciplinary topic that spans the fields of image processing and computer vision.</p>
+
+<h2 id="research-team">Research Team</h2>
+
+<ul>
+<li>Prof. Walter Scheirer (PI)</li>
+<li>Prof. Anderson Rocha (PI)</li>
+<li>Prof. Kevin Bowyer (PI)</li>
+<li>Prof. Patrick Flynn (PI)</li>
+<li>Daniel Moreira (Postdoc)</li>
+<li>Aparna Bharati (PhD Student)</li>
+<li>Joel Brogan (PhD Student)</li>
+<li>Allan Pinto (PhD Student)</li>
+<li>Michael Parowski (Undergrad Student)</li>
+<li>Patricia Hale (Undergrad Student)</li>
+<li>William Badart (Undergrad Student)</li>
+</ul>
+
+    </div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/media-forensics/">Media Forensics</a>
+  
+  <a class="badge badge-light" href="/tags/provenance-analysis/">Provenance Analysis</a>
+  
+  <a class="badge badge-light" href="/tags/provenance-filtering/">Provenance Filtering</a>
+  
+  <a class="badge badge-light" href="/tags/provenance-graph-construction/">Provenance Graph Construction</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+      
+      <img class="portrait mr-3" src="/authors/daniel/avatar_hudd4a76fdd1418ef19e5c7e82173a6378_49743_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="https://danielmoreira.github.io/">Daniel H. Moreira</a></h5>
+      <h6 class="card-subtitle">Postdoctoral Researcher</h6>
+      <p class="card-text" itemprop="description">Computer scientist with interests in (but not limited to) Computer Vision, Machine Learning, and Visual Media Forensics.</p>
+      <ul class="network-icon" aria-hidden="true">
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+          <li>
+            <a itemprop="sameAs" href="mailto:dhenriq1@nd.edu" >
+              <i class="fas fa-envelope"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="/files/cv.pdf" >
+              <i class="fab fa-adobe"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://scholar.google.com/citations?user=duhWplcAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://www.linkedin.com/in/dhmoreira/" target="_blank" rel="noopener">
+              <i class="fab fa-linkedin"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4734372Z3" target="_blank" rel="noopener">
+              <i class="ai ai-lattes"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://github.com/danielmoreira" target="_blank" rel="noopener">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://hub.docker.com/u/dmoreira" target="_blank" rel="noopener">
+              <i class="fab fa-docker"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+      <h2>Publications</h2>
+      
+        
+          
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2019_preprint_needle/" itemprop="url">Needle in a Haystack: A Framework for Seeking Small Objects in Big Datasets</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      2019 Preprint
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/joel-brogan/">Joel Brogan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/aparna-bharati/">Aparna Bharati</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/daniel-moreira/">Daniel Moreira</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/kevin-bowyer/">Kevin Bowyer</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/patrick-flynn/">Patrick Flynn</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/anderson-rocha/">Anderson Rocha</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/walter-scheirer/">Walter Scheirer</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/1903.10019.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/medifor/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1903.10019" target="_blank" rel="noopener">
+    
+    Web
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2019_preprint_needle/">
+      <img src="/publication/2019_preprint_needle/featured_hudd4a76fdd1418ef19e5c7e82173a6378_913253_150x0_resize_q90_lanczos.jpg" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2019_wacv_metada/" itemprop="url">Beyond Pixels: Image Provenance Analysis Leveraging Metadata</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      2019 IEEE Winter Conference on Applications of Computer Vision
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/aparna-bharati/">Aparna Bharati</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/daniel-moreira/">Daniel Moreira</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/joel-brogan/">Joel Brogan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/patricia-hale/">Patricia Hale</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/kevin-bowyer/">Kevin Bowyer</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/patrick-flynn/">Patrick Flynn</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/anderson-rocha/">Anderson Rocha</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/walter-scheirer/">Walter Scheirer</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/1807.03376.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2019_wacv_metada/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/medifor/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://doi.org/10.1109/WACV.2019.00185" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/8658404" target="_blank" rel="noopener">
+    
+    Web
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2019_wacv_metada/">
+      <img src="/publication/2019_wacv_metada/featured_hudd4a76fdd1418ef19e5c7e82173a6378_145262_150x0_resize_q90_lanczos.jpg" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2018_tip/" itemprop="url">Image Provenance Analysis at Scale</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      2018 IEEE Transactions on Image Processing
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/daniel-moreira/">Daniel Moreira</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/aparna-bharati/">Aparna Bharati</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/joel-brogan/">Joel Brogan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/allan-pinto/">Allan Pinto</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/michael-parowski/">Michael Parowski</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/kevin-bowyer/">Kevin Bowyer</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/patrick-flynn/">Patrick Flynn</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/anderson-rocha/">Anderson Rocha</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/walter-scheirer/">Walter Scheirer</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/1801.06510.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2018_tip/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/CVRL/Scalable_Provenance/tree/master/graph_building" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/CVRL/Reddit_Provenance_Datasets" target="_blank" rel="noopener">
+  Dataset
+</a>
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/medifor/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://doi.org/10.1109/TIP.2018.2865674" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2018_tip/">
+      <img src="/publication/2018_tip/featured_hudd4a76fdd1418ef19e5c7e82173a6378_88843_150x0_resize_q90_lanczos.jpg" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2017_icip_filtering/" itemprop="url">Provenance filtering for multimedia phylogeny</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      2017 IEEE International Conference on Image Processing
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/allan-pinto/">Allan Pinto</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/daniel-moreira/">Daniel Moreira</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/aparna-bharati/">Aparna Bharati</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/joel-brogan/">Joel Brogan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/kevin-bowyer/">Kevin Bowyer</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/patrick-flynn/">Patrick Flynn</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/walter-scheirer/">Walter Scheirer</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/anderson-rocha/">Anderson Rocha</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/1706.00447.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2017_icip_filtering/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gitlab.com/notredame-provenance/filtering" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/medifor/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://doi.org/10.1109/ICIP.2017.8296532" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/8296532" target="_blank" rel="noopener">
+    
+    Web
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2017_icip_filtering/">
+      <img src="/publication/2017_icip_filtering/featured_hu49c03114a9ce8ad2bc0bd62c0ddb3f2a_210423_150x0_resize_q90_lanczos.jpg" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2017_icip_spotting/" itemprop="url">Spotting the difference: Context retrieval and analysis for improved forgery detection and localization</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      2017 IEEE International Conference on Image Processing
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/joel-brogan/">Joel Brogan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/paolo-bestagini/">Paolo Bestagini</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/aparna-bharati/">Aparna Bharati</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/allan-pinto/">Allan Pinto</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/daniel-moreira/">Daniel Moreira</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/kevin-bowyer/">Kevin Bowyer</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/patrick-flynn/">Patrick Flynn</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/anderson-rocha/">Anderson Rocha</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/walter-scheirer/">Walter Scheirer</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/1705.00604.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2017_icip_spotting/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/medifor/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://doi.org/10.1109/ICIP.2017.8297049" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/8297049" target="_blank" rel="noopener">
+    
+    Web
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2017_icip_spotting/">
+      <img src="/publication/2017_icip_spotting/featured_hu39e0550dbc9eb931334d104f49f832c8_87346_150x0_resize_q90_lanczos.jpg" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2017_icip_uphylogeny/" itemprop="url">U-Phylogeny: Undirected provenance graph construction in the wild</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      2017 IEEE International Conference on Image Processing
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/aparna-bharati/">Aparna Bharati</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/daniel-moreira/">Daniel Moreira</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/allan-pinto/">Allan Pinto</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/joel-brogan/">Joel Brogan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/kevin-bowyer/">Kevin Bowyer</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/patrick-flynn/">Patrick Flynn</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/walter-scheirer/">Walter Scheirer</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/anderson-rocha/">Anderson Rocha</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/1705.11187.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2017_icip_uphylogeny/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gitlab.com/notredame-provenance/u-phylogeny" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/medifor/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://doi.org/10.1109/ICIP.2017.8296535" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/8296535" target="_blank" rel="noopener">
+    
+    Web
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2017_icip_uphylogeny/">
+      <img src="/publication/2017_icip_uphylogeny/featured_hu14e285c1062b76a88802e8c109c044de_70935_150x0_resize_q90_lanczos.jpg" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+        
+      
+    
+
+    
+    
+    
+
+  </div>
+</article>
+
+
+
+      
+
+    
+    
+    
+    <script src="/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.174c04eddb854712a9c7aaae9021446f.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    &copy; Daniel Moreira, 2019 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
