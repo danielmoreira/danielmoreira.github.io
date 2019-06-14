@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://danielmoreira.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random Thoughts</title>
+      <link>https://danielmoreira.github.io/tags/random-thoughts/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/random-thoughts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Media Forensics</title>
@@ -240,7 +249,7 @@
     <item>
       <title>MediaEval</title>
       <link>https://danielmoreira.github.io/tags/mediaeval/</link>
-      <pubDate>Thu, 16 Oct 2014 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/tags/mediaeval/</guid>
       <description></description>
