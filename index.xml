@@ -20,11 +20,11 @@
       <guid>https://danielmoreira.github.io/post/bettersoc/</guid>
       <description>
 
-&lt;p&gt;One of the major challenges I face while doing my research is how to drive it towards building a better society.
-Although I understand the concept of a &lt;em&gt;better society&lt;/em&gt; may be different from one culture to the other, I try to make things simpler by believing that any society gets better whenever &lt;strong&gt;all&lt;/strong&gt; of its members experience more &lt;strong&gt;freedom&lt;/strong&gt; to enjoy their &lt;strong&gt;rights&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;One of the things I worry about while doing my research is how to drive it towards building a better society.
+Although the concept of a &lt;em&gt;better society&lt;/em&gt; may differ from one culture to the other, I believe any society gets better whenever &lt;strong&gt;all&lt;/strong&gt; of its members experience more &lt;strong&gt;freedom&lt;/strong&gt; to enjoy their &lt;strong&gt;rights&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Among the untold manners technology can be used to breach people&amp;rsquo;s rights, five setbacks in the way we are doing informatics get my attention.
-Devices and programs usually suffer from (1) lack of &lt;strong&gt;safety&lt;/strong&gt;, (2) nonobservance of &lt;strong&gt;data integrity&lt;/strong&gt;, (3) lack of &lt;strong&gt;privacy&lt;/strong&gt;, (4) nonobservance of &lt;strong&gt;diversity&lt;/strong&gt;, and (5) lack of &lt;strong&gt;accountability&lt;/strong&gt;.
+&lt;p&gt;Among the untold manners technology can be used to breach people&amp;rsquo;s rights, five flaws in the way we are doing informatics get my attention.
+Devices and programs usually suffer from (1) lack of &lt;strong&gt;safety&lt;/strong&gt;, (2) lack of &lt;strong&gt;trustworthiness&lt;/strong&gt;, (3) lack of &lt;strong&gt;privacy&lt;/strong&gt;, (4) ignorance of &lt;strong&gt;diversity&lt;/strong&gt;, and (5) lack of &lt;strong&gt;accountability&lt;/strong&gt;.
 Not unintentionally, the &lt;a href=&#34;https://danielmoreira.github.io/#projects&#34;&gt;projects&lt;/a&gt; I&amp;rsquo;ve been contributing to in the past few years tackle one or more of these issues.&lt;/p&gt;
 
 &lt;h2 id=&#34;safety&#34;&gt;Safety&lt;/h2&gt;
@@ -47,7 +47,7 @@ Rather than aiming at denouncing or morally condemning the lawful consumers of c
 
 &lt;p&gt;I&amp;rsquo;ve had the chance to tackle the lack of safety in video streaming systems through the &lt;a href=&#34;https://danielmoreira.github.io/project/sma&#34;&gt;SMA&lt;/a&gt; project.&lt;/p&gt;
 
-&lt;h2 id=&#34;data-integrity&#34;&gt;Data Integrity&lt;/h2&gt;
+&lt;h2 id=&#34;trustworthiness&#34;&gt;Trustworthiness&lt;/h2&gt;
 
 
 
@@ -64,11 +64,11 @@ People are conscious of the existence of image editing software (e.g., &lt;em&gt
 Although many of these manipulations have benign purposes (no, there is nothing wrong with &lt;em&gt;your memes&lt;/em&gt;), some contents are generated with malicious intents, such as general public deception and propaganda.&lt;/p&gt;
 
 &lt;p&gt;The lack of available solutions to assess the integrity of images and videos allows adversarial manipulated data to have a negative impact on the way people relate to each other on the Internet.
-They don&amp;rsquo;t know what to trust anymore.
+They don&amp;rsquo;t know what to believe or whom to trust anymore.
 In addition, fraudulent images represent a challenge even for the &lt;a href=&#34;https://www.nature.com/articles/s41419-018-0430-3&#34; target=&#34;_blank&#34;&gt;scientific community&lt;/a&gt;.
 Aware of this scenario, &lt;a href=&#34;https://www.darpa.mil/program/media-forensics&#34; target=&#34;_blank&#34;&gt;DARPA&lt;/a&gt; has been funding us, at &lt;a href=&#34;https://cvrl.nd.edu/&#34; target=&#34;_blank&#34;&gt;CVRL&lt;/a&gt;, to conduct research on the development of tools to verify the integrity of digital images.&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;m having the chance to tackle the nonobservance of data integrity in visual media systems through the &lt;a href=&#34;https://danielmoreira.github.io/project/medifor&#34;&gt;MediFor&lt;/a&gt; and &lt;a href=&#34;https://danielmoreira.github.io/project/sciint&#34;&gt;Sci-Int&lt;/a&gt; projects.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m having the chance to tackle the lack of trustworthiness in visual media systems through the &lt;a href=&#34;https://danielmoreira.github.io/project/medifor&#34;&gt;MediFor&lt;/a&gt; and &lt;a href=&#34;https://danielmoreira.github.io/project/sciint&#34;&gt;Sci-Int&lt;/a&gt; projects.&lt;/p&gt;
 
 &lt;h2 id=&#34;privacy-and-diversity&#34;&gt;Privacy and Diversity&lt;/h2&gt;
 
@@ -105,11 +105,11 @@ The idea is to de-identify the recorded individuals, by replacing their faces wi
 Consider, for instance, training video footages collected in China.
 It is very &lt;a href=&#34;https://www.nationalgeographic.com/travel/destinations/asia/china/black-tourist-china/&#34; target=&#34;_blank&#34;&gt;unlikely&lt;/a&gt; that black people will be represented in such a dataset.&lt;/p&gt;
 
-&lt;p&gt;Limitations of this nature comprise what I call &lt;em&gt;nonobservance of diversity&lt;/em&gt; and are the potential cause of many &lt;a href=&#34;http://www.cnn.com/2009/TECH/12/22/hp.webcams/index.html&#34; target=&#34;_blank&#34;&gt;technological failures&lt;/a&gt; in the presence of underrepresented groups.
+&lt;p&gt;Limitations of this nature comprise what I call &lt;em&gt;ignorance of diversity&lt;/em&gt; and are the potential cause of many &lt;a href=&#34;http://www.cnn.com/2009/TECH/12/22/hp.webcams/index.html&#34; target=&#34;_blank&#34;&gt;technological failures&lt;/a&gt; in the presence of underrepresented groups.
 Unfortunately, glitches like these may go &lt;a href=&#34;https://www.forbes.com/sites/mzhang/2015/07/01/google-photos-tags-two-african-americans-as-gorillas-through-facial-recognition-software/#41ebc8e8713d&#34; target=&#34;_blank&#34;&gt;beyond the technological aspects&lt;/a&gt; and prejudice the rights of equality in face of diversity.
 To cope with this problem, similar to the privacy protection strategy, synthetic identities can be used to diversify the recorded individuals by performing face replacement, providing controlled variation of not only ethnicity but also of age and of gender.&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;m having the chance to tackle the lack of privacy and nonobservance of diversity in image and video datasets through the &lt;a href=&#34;https://danielmoreira.github.io/project/srefv&#34;&gt;SREFV&lt;/a&gt; project.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m having the chance to tackle the lack of privacy and ignorance of diversity in image and video datasets through the &lt;a href=&#34;https://danielmoreira.github.io/project/srefv&#34;&gt;SREFV&lt;/a&gt; project.&lt;/p&gt;
 
 &lt;h2 id=&#34;accountability&#34;&gt;Accountability&lt;/h2&gt;
 
