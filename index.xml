@@ -172,6 +172,13 @@ As he advises, &lt;em&gt;I keep pushing&lt;/em&gt;.&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;Building the directed acyclic graph whose nodes individually represent the probe and related images, and whose edges express the edition and content-donation history (e.g., cropping, blurring, removal, splicing, etc.) between pairs of images, linking seminal to generated elements (a task we call Provenance Graph Construction).&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Na43QFKW9PE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&amp;NewLine;&lt;/p&gt;
+
 &lt;p&gt;By combining ideas from the areas of image retrieval, digital image forensics, and graph theory, Provenance Analysis constitutes an interesting interdisciplinary topic that spans the fields of image processing and computer vision.&lt;/p&gt;
 
 &lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
@@ -272,11 +279,12 @@ As he advises, &lt;em&gt;I keep pushing&lt;/em&gt;.&lt;/p&gt;
 The tool puts together diverse computer vision techniques to automatically process, extract, annotate, and match iris regions from two different eye captures.
 The idea is to give to the user enough iris texture matching and non-matching information, so they can decided if the two given images depict the same eye or not.&lt;/p&gt;
 
-
+&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/FLlXDv8EdeU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+&amp;NewLine;&lt;/p&gt;
 
 &lt;p&gt;The video above depicts a demo of the TSHEPII tool, with all the computer vision techniques added to the software.
 As the project name suggests (Tool Supporting the Human Examination of &lt;strong&gt;Post-Mortem&lt;/strong&gt; Iris Images), the tool is particularly tuned to the case of comparing post-mortem irises, which, contrary to the common sense, might still be useful for performing iris recognition.&lt;/p&gt;
