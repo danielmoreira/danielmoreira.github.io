@@ -18,17 +18,12 @@
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/post/bettersoc/</guid>
-      <description>
-
-&lt;p&gt;One of the things I worry about while doing my research is how to drive it towards building a better society.
+      <description>&lt;p&gt;One of the things I worry about while doing my research is how to drive it towards building a better society.
 Although the concept of a &lt;em&gt;better society&lt;/em&gt; may differ from one culture to the other, I believe any society gets better whenever &lt;strong&gt;all&lt;/strong&gt; of its members experience more &lt;strong&gt;freedom&lt;/strong&gt; to enjoy their &lt;strong&gt;rights&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Among the untold manners technology can be used to breach people&amp;rsquo;s rights, five flaws in the way we are doing informatics get my attention.
+&lt;p&gt;Among the untold manners technology can be used to breach people&#39;s rights, five flaws in the way we are doing informatics get my attention.
 Devices and programs usually suffer from (1) lack of &lt;strong&gt;safety&lt;/strong&gt;, (2) lack of &lt;strong&gt;trustworthiness&lt;/strong&gt;, (3) lack of &lt;strong&gt;privacy&lt;/strong&gt;, (4) ignorance of &lt;strong&gt;diversity&lt;/strong&gt;, and (5) lack of &lt;strong&gt;accountability&lt;/strong&gt;.
-Not unintentionally, the &lt;a href=&#34;https://danielmoreira.github.io/#projects&#34;&gt;projects&lt;/a&gt; I&amp;rsquo;ve been contributing to in the past few years tackle one or more of these issues.&lt;/p&gt;
-
+Not unintentionally, the &lt;a href=&#34;https://danielmoreira.github.io/#projects&#34;&gt;projects&lt;/a&gt; I&#39;ve been contributing to in the past few years tackle one or more of these issues.&lt;/p&gt;
 &lt;h2 id=&#34;safety&#34;&gt;Safety&lt;/h2&gt;
-
 
 
 
@@ -38,17 +33,12 @@ Not unintentionally, the &lt;a href=&#34;https://danielmoreira.github.io/#projec
 &lt;/a&gt;
 
 &lt;/figure&gt;
-
-&lt;p&gt;From the many ways safety can be harmed by technology, the improper dissemination of sensitive content (such as pornography or violence), to inadequate audiences (such as kids or unwary spectators), gained my attention while I was developing my PhD, under the supervision of prof. &lt;a href=&#34;https://www.ic.unicamp.br/~rocha/index.html&#34; target=&#34;_blank&#34;&gt;Anderson Rocha&lt;/a&gt; (who generously proposed the topic).&lt;/p&gt;
-
-&lt;p&gt;With the popularity and pervasiveness of online video streams, sensitive scenes depicting &lt;a href=&#34;https://www.washingtonpost.com/news/the-intersect/wp/2017/01/15/a-12-year-old-girl-live-streamed-her-suicide-it-took-two-weeks-for-facebook-to-take-the-video-down/?utm_term=.ea8124e4a0e9&#34; target=&#34;_blank&#34;&gt;suicide&lt;/a&gt;, &lt;a href=&#34;https://www.cnn.com/videos/us/2016/06/17/man-shot-killed-while-live-streaming-orig-vstan-dlewis.cnn&#34; target=&#34;_blank&#34;&gt;murder&lt;/a&gt;, and even &lt;a href=&#34;https://www.nytimes.com/2016/04/19/us/periscope-rape-case-columbus-ohio-video-livestreaming.html&#34; target=&#34;_blank&#34;&gt;rape&lt;/a&gt; have been broadcasted on the Internet, raising questions about the safety of these services.
-Aware of this situation, &lt;a href=&#34;https://www.samsung.com/br/&#34; target=&#34;_blank&#34;&gt;Samsung&lt;/a&gt; has funded us to focus on the development of solutions to detect sensitive video.
+&lt;p&gt;From the many ways safety can be harmed by technology, the improper dissemination of sensitive content (such as pornography or violence), to inadequate audiences (such as kids or unwary spectators), gained my attention while I was developing my PhD, under the supervision of prof. &lt;a href=&#34;https://www.ic.unicamp.br/~rocha/index.html&#34;&gt;Anderson Rocha&lt;/a&gt; (who generously proposed the topic).&lt;/p&gt;
+&lt;p&gt;With the popularity and pervasiveness of online video streams, sensitive scenes depicting &lt;a href=&#34;https://www.washingtonpost.com/news/the-intersect/wp/2017/01/15/a-12-year-old-girl-live-streamed-her-suicide-it-took-two-weeks-for-facebook-to-take-the-video-down/?utm_term=.ea8124e4a0e9&#34;&gt;suicide&lt;/a&gt;, &lt;a href=&#34;https://www.cnn.com/videos/us/2016/06/17/man-shot-killed-while-live-streaming-orig-vstan-dlewis.cnn&#34;&gt;murder&lt;/a&gt;, and even &lt;a href=&#34;https://www.nytimes.com/2016/04/19/us/periscope-rape-case-columbus-ohio-video-livestreaming.html&#34;&gt;rape&lt;/a&gt; have been broadcasted on the Internet, raising questions about the safety of these services.
+Aware of this situation, &lt;a href=&#34;https://www.samsung.com/br/&#34;&gt;Samsung&lt;/a&gt; has funded us to focus on the development of solutions to detect sensitive video.
 Rather than aiming at denouncing or morally condemning the lawful consumers of certain types of sensitive content, our intent has always been to support the implementation of filtering and warning features that would make player systems safer (especially in the case of child spectators).&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve had the chance to tackle the lack of safety in video streaming systems through the &lt;a href=&#34;https://danielmoreira.github.io/project/sma&#34;&gt;SMA&lt;/a&gt; project.&lt;/p&gt;
-
+&lt;p&gt;I&#39;ve had the chance to tackle the lack of safety in video streaming systems through the &lt;a href=&#34;https://danielmoreira.github.io/project/sma&#34;&gt;SMA&lt;/a&gt; project.&lt;/p&gt;
 &lt;h2 id=&#34;trustworthiness&#34;&gt;Trustworthiness&lt;/h2&gt;
-
 
 
 
@@ -58,20 +48,15 @@ Rather than aiming at denouncing or morally condemning the lawful consumers of c
 
 
 &lt;/figure&gt;
-
 &lt;p&gt;In the era of misinformation and &lt;em&gt;fake news&lt;/em&gt;, there is a symptomatic undermining of trust not only in textual but also in visual information.
 People are conscious of the existence of image editing software (e.g., &lt;em&gt;Photoshop&lt;/em&gt;), with which even unskilled users can easily fabricate and manipulate pictures.
 Although many of these manipulations have benign purposes (no, there is nothing wrong with &lt;em&gt;your memes&lt;/em&gt;), some contents are generated with malicious intents, such as general public deception and propaganda.&lt;/p&gt;
-
 &lt;p&gt;The lack of available solutions to assess the integrity of images and videos allows adversarial manipulated data to have a negative impact on the way people relate to each other on the Internet.
-They don&amp;rsquo;t know what to believe or whom to trust anymore.
-In addition, fraudulent images represent a challenge even for the &lt;a href=&#34;https://www.nature.com/articles/s41419-018-0430-3&#34; target=&#34;_blank&#34;&gt;scientific community&lt;/a&gt;.
-Aware of this scenario, &lt;a href=&#34;https://www.darpa.mil/program/media-forensics&#34; target=&#34;_blank&#34;&gt;DARPA&lt;/a&gt; has been funding us, at &lt;a href=&#34;https://cvrl.nd.edu/&#34; target=&#34;_blank&#34;&gt;CVRL&lt;/a&gt;, to conduct research on the development of tools to verify the integrity of digital images.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m having the chance to tackle the lack of trustworthiness in visual media systems through the &lt;a href=&#34;https://danielmoreira.github.io/project/medifor&#34;&gt;MediFor&lt;/a&gt; and &lt;a href=&#34;https://danielmoreira.github.io/project/sciint&#34;&gt;Sci-Int&lt;/a&gt; projects.&lt;/p&gt;
-
+They don&#39;t know what to believe or whom to trust anymore.
+In addition, fraudulent images represent a challenge even for the &lt;a href=&#34;https://www.nature.com/articles/s41419-018-0430-3&#34;&gt;scientific community&lt;/a&gt;.
+Aware of this scenario, &lt;a href=&#34;https://www.darpa.mil/program/media-forensics&#34;&gt;DARPA&lt;/a&gt; has been funding us, at &lt;a href=&#34;https://cvrl.nd.edu/&#34;&gt;CVRL&lt;/a&gt;, to conduct research on the development of tools to verify the integrity of digital images.&lt;/p&gt;
+&lt;p&gt;I&#39;m having the chance to tackle the lack of trustworthiness in visual media systems through the &lt;a href=&#34;https://danielmoreira.github.io/project/medifor&#34;&gt;MediFor&lt;/a&gt; and &lt;a href=&#34;https://danielmoreira.github.io/project/sciint&#34;&gt;Sci-Int&lt;/a&gt; projects.&lt;/p&gt;
 &lt;h2 id=&#34;privacy-and-diversity&#34;&gt;Privacy and Diversity&lt;/h2&gt;
-
 
 
 
@@ -81,16 +66,13 @@ Aware of this scenario, &lt;a href=&#34;https://www.darpa.mil/program/media-fore
 
 
 &lt;/figure&gt;
-
 &lt;p&gt;With the advent of deep learning and the necessity for large datasets, &lt;em&gt;visual data collection&lt;/em&gt; has become an important step of Computer Vision and Machine Learning research.
 Due to the popularity of image and video capture devices (such as digital cameras, smartphones, dash cams, etc.), large datasets can now be quickly generated.
 Nevertheless, a major question that stands out in such a process is how to protect the privacy of people who are eventually being recorded.
 Imagine, for example, a dash cam that is collecting road data for a self-driving car project.
 In a major city, plenty of people will certainly be captured in the footages, and it is very unlikely that one will be able to obtain image rights for each individual.&lt;/p&gt;
-
-&lt;p&gt;Interested in such issue, we, at &lt;a href=&#34;https://cvrl.nd.edu/&#34; target=&#34;_blank&#34;&gt;CVRL&lt;/a&gt;, investigate the generation of realistic synthetic faces, whose identities do not belong to a real existing person, hence avoiding privacy breaches.
+&lt;p&gt;Interested in such issue, we, at &lt;a href=&#34;https://cvrl.nd.edu/&#34;&gt;CVRL&lt;/a&gt;, investigate the generation of realistic synthetic faces, whose identities do not belong to a real existing person, hence avoiding privacy breaches.
 The idea is to de-identify the recorded individuals, by replacing their faces with synthetic assets.&lt;/p&gt;
-
 
 
 
@@ -100,19 +82,14 @@ The idea is to de-identify the recorded individuals, by replacing their faces wi
 &lt;/a&gt;
 
 &lt;/figure&gt;
-
 &lt;p&gt;In addition, collected data may be biased, due to a lack of diversity in the captured individuals.
 Consider, for instance, training video footages collected in China.
-It is very &lt;a href=&#34;https://www.nationalgeographic.com/travel/destinations/asia/china/black-tourist-china/&#34; target=&#34;_blank&#34;&gt;unlikely&lt;/a&gt; that black people will be represented in such a dataset.&lt;/p&gt;
-
-&lt;p&gt;Limitations of this nature comprise what I call &lt;em&gt;ignorance of diversity&lt;/em&gt; and are the potential cause of many &lt;a href=&#34;http://www.cnn.com/2009/TECH/12/22/hp.webcams/index.html&#34; target=&#34;_blank&#34;&gt;technological failures&lt;/a&gt; in the presence of underrepresented groups.
-Unfortunately, glitches like these may go &lt;a href=&#34;https://www.forbes.com/sites/mzhang/2015/07/01/google-photos-tags-two-african-americans-as-gorillas-through-facial-recognition-software/#41ebc8e8713d&#34; target=&#34;_blank&#34;&gt;beyond the technological aspects&lt;/a&gt; and prejudice the rights of equality in face of diversity.
+It is very &lt;a href=&#34;https://www.nationalgeographic.com/travel/destinations/asia/china/black-tourist-china/&#34;&gt;unlikely&lt;/a&gt; that black people will be represented in such a dataset.&lt;/p&gt;
+&lt;p&gt;Limitations of this nature comprise what I call &lt;em&gt;ignorance of diversity&lt;/em&gt; and are the potential cause of many &lt;a href=&#34;http://www.cnn.com/2009/TECH/12/22/hp.webcams/index.html&#34;&gt;technological failures&lt;/a&gt; in the presence of underrepresented groups.
+Unfortunately, glitches like these may go &lt;a href=&#34;https://www.forbes.com/sites/mzhang/2015/07/01/google-photos-tags-two-african-americans-as-gorillas-through-facial-recognition-software/#41ebc8e8713d&#34;&gt;beyond the technological aspects&lt;/a&gt; and prejudice the rights of equality in face of diversity.
 To cope with this problem, similar to the privacy protection strategy, synthetic identities can be used to diversify the recorded individuals by performing face replacement, providing controlled variation of not only ethnicity but also of age and of gender.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m having the chance to tackle the lack of privacy and ignorance of diversity in image and video datasets through the &lt;a href=&#34;https://danielmoreira.github.io/project/srefv&#34;&gt;SREFV&lt;/a&gt; project.&lt;/p&gt;
-
+&lt;p&gt;I&#39;m having the chance to tackle the lack of privacy and ignorance of diversity in image and video datasets through the &lt;a href=&#34;https://danielmoreira.github.io/project/srefv&#34;&gt;SREFV&lt;/a&gt; project.&lt;/p&gt;
 &lt;h2 id=&#34;accountability&#34;&gt;Accountability&lt;/h2&gt;
-
 
 
 
@@ -122,20 +99,15 @@ To cope with this problem, similar to the privacy protection strategy, synthetic
 
 
 &lt;/figure&gt;
-
 &lt;p&gt;People have the right to understand in details the decisions made about them by algorithms belonging to either government or industry.
-This is fundamental to give them the possibility of questioning determinations and defending against resolutions that might be the outcome of incorrect, rigged, or even &lt;a href=&#34;https://www.youtube.com/watch?v=rga2-d1oi30&#34; target=&#34;_blank&#34;&gt;bogus&lt;/a&gt; computations.
+This is fundamental to give them the possibility of questioning determinations and defending against resolutions that might be the outcome of incorrect, rigged, or even &lt;a href=&#34;https://www.youtube.com/watch?v=rga2-d1oi30&#34;&gt;bogus&lt;/a&gt; computations.
 In this context, &lt;em&gt;accountability&lt;/em&gt; becomes a relevant concept, since it comprises the property of an automated decision system to be fair, transparent, and explainable to human beings.
 As a consequence, the more accountable a system is, the more audit power it gives to people.&lt;/p&gt;
-
 &lt;p&gt;Within the field of Biometrics, traditional iris recognition solutions are well known for constituting very reliable methods of identity verification.
 Nevertheless, since they are not human-friendly enough to convince people who do not possess image processing expertise, their usage before a jury in courts of law is usually avoided.
-Aware of this limitation, Prof. &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34;&gt;Adam Czajka&lt;/a&gt; has started at &lt;a href=&#34;https://cvrl.nd.edu/&#34; target=&#34;_blank&#34;&gt;CVRL&lt;/a&gt; the investigation of human-intelligible iris matching strategies.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m having the chance to tackle the lack of accountability in iris recognition algorithms through the &lt;a href=&#34;https://danielmoreira.github.io/project/tshepii&#34;&gt;TSHEPII&lt;/a&gt; project.&lt;/p&gt;
-
+Aware of this limitation, Prof. &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34;&gt;Adam Czajka&lt;/a&gt; has started at &lt;a href=&#34;https://cvrl.nd.edu/&#34;&gt;CVRL&lt;/a&gt; the investigation of human-intelligible iris matching strategies.&lt;/p&gt;
+&lt;p&gt;I&#39;m having the chance to tackle the lack of accountability in iris recognition algorithms through the &lt;a href=&#34;https://danielmoreira.github.io/project/tshepii&#34;&gt;TSHEPII&lt;/a&gt; project.&lt;/p&gt;
 &lt;h2 id=&#34;keep-pushing&#34;&gt;Keep pushing&lt;/h2&gt;
-
 
 
 
@@ -145,8 +117,7 @@ Aware of this limitation, Prof. &lt;a href=&#34;https://engineering.nd.edu/profi
 &lt;/a&gt;
 
 &lt;/figure&gt;
-
-&lt;p&gt;Although the aforementioned efforts may seem minuscule in face of the size of the challenge of building a better society, I try to calm myself down by making a parallel to the &lt;a href=&#34;http://matt.might.net/articles/phd-school-in-pictures/&#34; target=&#34;_blank&#34;&gt;explanation&lt;/a&gt; of Prof. Matt Might on how the human knowledge increases with the progress of scientific research.
+&lt;p&gt;Although the aforementioned efforts may seem minuscule in face of the size of the challenge of building a better society, I try to calm myself down by making a parallel to the &lt;a href=&#34;http://matt.might.net/articles/phd-school-in-pictures/&#34;&gt;explanation&lt;/a&gt; of Prof. Matt Might on how the human knowledge increases with the progress of scientific research.
 As he advises, &lt;em&gt;I keep pushing&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
