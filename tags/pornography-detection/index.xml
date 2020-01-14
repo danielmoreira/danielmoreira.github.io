@@ -18,13 +18,20 @@
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/project/sma/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded, &lt;strong&gt;Funded by:&lt;/strong&gt; Samsung Eletrônica da Amazônia Ltda.&lt;br&gt;
-&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://www.ic.unicamp.br/~rocha/index.html&#34;&gt;Anderson Rocha&lt;/a&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded, &lt;strong&gt;Funded by:&lt;/strong&gt; Samsung Eletrônica da Amazônia Ltda.&lt;br /&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://www.ic.unicamp.br/~rocha/index.html&#34; target=&#34;_blank&#34;&gt;Anderson Rocha&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;The Sensitive Media Analysis (SMA) project aims at researching solutions to combine different and complementary data representations and pattern classifiers for detecting sensitive content in digital images and videos.&lt;/p&gt;
+
 &lt;p&gt;Sensitive media can be defined as the digital content whose depiction to particular audiences (e.g., children or unwary spectators), at particular places (e.g., at work, at school, in the church) may inflict harm (e.g., trauma, shock, or fear) due to its inappropriateness.
 Typical representatives include – but are not limited to – scenes depicting pornography and violence, animal cruelty and child abuse, hate speech, etc.&lt;/p&gt;
+
 &lt;p&gt;The innovation aspects of the project reside on the development of solutions that are amenable to deployment on mobile devices (e.g., smartphones and tablets), observing their constraints of memory footprint, processing power, and runtime responsiveness.&lt;/p&gt;
+
 &lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+
 &lt;ul&gt;
 &lt;li&gt;Prof. Anderson Rocha (PI)&lt;/li&gt;
 &lt;li&gt;Prof. Siome Goldenstein (PI)&lt;/li&gt;
@@ -82,7 +89,7 @@ Typical representatives include – but are not limited to – scenes depicting 
       <guid>https://danielmoreira.github.io/publication/2016_fsi/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/ZfaW5kvXjMo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/ZfaW5kvXjMo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>

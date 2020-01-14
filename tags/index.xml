@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://danielmoreira.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Biometrics</title>
+      <link>https://danielmoreira.github.io/tags/biometrics/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/biometrics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CBIR</title>
@@ -63,15 +72,6 @@
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/tags/provenance-graph-construction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biometrics</title>
-      <link>https://danielmoreira.github.io/tags/biometrics/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/tags/biometrics/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,59 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://danielmoreira.github.io/tags/biometrics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Biometrics, Spring 2020</title>
+      <link>https://danielmoreira.github.io/teaching/biometrics-spr20/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/teaching/biometrics-spr20/</guid>
+      <description>
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;nd.jpg&#34; width=&#34;250px&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;Course: CSE 40537 / 60537 Biometrics&lt;br /&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (dhenriq1@nd.edu)&lt;br /&gt;
+Lectures: TUE and THR, 5:05 to 6:20 PM, 125 DeBartolo Hall&lt;br /&gt;
+Office Hours: MON and WED, 2:00 to 4:00 PM, 150N Fitzpatrick Hall
+Slack: &lt;a href=&#34;https://cse-biometrics-spr20.slack.com &#34; target=&#34;_blank&#34;&gt;https://cse-biometrics-spr20.slack.com &lt;/a&gt;&lt;br /&gt;
+Panopto: &lt;em&gt;Soon.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;progress&#34;&gt;Progress&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;01/14/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_00.pdf&#34;&gt;Syllabus&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Soon.&lt;/em&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
     
     <item>
       <title>SREFV</title>
@@ -18,12 +67,19 @@
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/project/srefv/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Wrapping up&lt;br&gt;
-&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;http://sites.nd.edu/patrick-flynn/&#34;&gt;Patrick Flynn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The SREFV project aims at extending &lt;a href=&#34;https://cvrl.nd.edu/projects/?project_name=Synthesis%20of%20Realistic%20Example%20Face%20Images%20(SREFI)&#34;&gt;prior research&lt;/a&gt; on synthesis of realistic faces, to support the generation of videos containing animated faces with synthetic identities, depicted either frontally or in varying poses.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;sample.gif&#34; alt=&#34;SREFV preliminary results.&#34;&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Wrapping up&lt;br /&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;http://sites.nd.edu/patrick-flynn/&#34; target=&#34;_blank&#34;&gt;Patrick Flynn&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The SREFV project aims at extending &lt;a href=&#34;https://cvrl.nd.edu/projects/?project_name=Synthesis%20of%20Realistic%20Example%20Face%20Images%20(SREFI)&#34; target=&#34;_blank&#34;&gt;prior research&lt;/a&gt; on synthesis of realistic faces, to support the generation of videos containing animated faces with synthetic identities, depicted either frontally or in varying poses.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;sample.gif&#34; alt=&#34;SREFV preliminary results.&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Besides the obvious artistic and entertainment purposes, the outcome of this project will constitute an interesting tool to de-identify and diversify the faces depicted in video training datasets, helping to protect the identity of volunteers, and to mitigate eventual age, gender, and ethnic dataset collection biases.&lt;/p&gt;
+
 &lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+
 &lt;ul&gt;
 &lt;li&gt;Prof. Patrick Flynn (PI)&lt;/li&gt;
 &lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
@@ -41,21 +97,27 @@
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/project/tshepii/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Wrapping up&lt;br&gt;
-&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34;&gt;Adam Czajka&lt;/a&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Wrapping up&lt;br /&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34;&gt;Adam Czajka&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;The TSHEPII project aims at developing a software tool to support the human examination of post-mortem iris images.
 The tool puts together diverse computer vision techniques to automatically process, extract, annotate, and match iris regions from two different eye captures.
 The idea is to give to the user enough iris texture matching and non-matching information, so they can decided if the two given images depict the same eye or not.&lt;/p&gt;
+
 &lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/FLlXDv8EdeU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/FLlXDv8EdeU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+&amp;NewLine;&lt;/p&gt;
 
-&lt;/p&gt;
 &lt;p&gt;The video above depicts a demo of the TSHEPII tool, with all the computer vision techniques added to the software.
 As the project name suggests (Tool Supporting the Human Examination of &lt;strong&gt;Post-Mortem&lt;/strong&gt; Iris Images), the tool is particularly tuned to the case of comparing post-mortem irises, which, contrary to the common sense, might still be useful for performing iris recognition.&lt;/p&gt;
+
 &lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+
 &lt;ul&gt;
 &lt;li&gt;Prof. Adam Czajka (PI)&lt;/li&gt;
 &lt;li&gt;Prof. Patrick Flynn (PI)&lt;/li&gt;
