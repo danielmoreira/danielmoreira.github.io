@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://danielmoreira.github.io/authors/anderson-rocha/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning Transformation-Aware Embeddings for Image Forensics</title>
+      <link>https://danielmoreira.github.io/publication/2020_preprint_tae/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2020_preprint_tae/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamic Spatial Verification for Large-Scale Object-Level Image Retrieval</title>

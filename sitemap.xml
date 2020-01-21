@@ -3,55 +3,161 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://danielmoreira.github.io/tags/biometrics/</loc>
-    <lastmod>2020-01-16T01:09:45-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/teaching/biometrics-spr20/</loc>
-    <lastmod>2020-01-16T01:09:45-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/</loc>
-    <lastmod>2020-01-16T01:09:45-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/tags/</loc>
-    <lastmod>2020-01-16T01:09:45-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/teaching/</loc>
-    <lastmod>2020-01-16T01:09:45-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://danielmoreira.github.io/publication_types/3/</loc>
-    <lastmod>2019-12-04T11:58:40-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/authors/anderson-rocha/</loc>
-    <lastmod>2019-12-04T11:58:40-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/authors/aparna-bharati/</loc>
-    <lastmod>2019-12-04T11:58:40-05:00</lastmod>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://danielmoreira.github.io/authors/</loc>
-    <lastmod>2019-12-04T11:58:40-05:00</lastmod>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/publication/2020_preprint_memeority/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/daniel-moreira/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/tags/image-fitlering/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/joel-brogan/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/tags/meme-genres/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/pamela-bilo-thomas/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/pascal-phoa/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/tags/politics/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/publication_types/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/tags/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/tim-weninger/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/walter-scheirer/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/william-theisen/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/tags/biometrics/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/teaching/biometrics-spr20/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/teaching/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/anderson-rocha/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/aparna-bharati/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/tags/deep-learning/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/kevin-bowyer/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/publication/2020_preprint_tae/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/tags/media-forensics/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/patrick-flynn/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/tags/provenance-analysis/</loc>
+    <lastmod>2020-01-21T01:34:54-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -62,60 +168,12 @@
   </url>
   
   <url>
-    <loc>https://danielmoreira.github.io/authors/daniel-moreira/</loc>
-    <lastmod>2019-12-04T11:58:40-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://danielmoreira.github.io/publication/2019_preprint_needle/</loc>
     <lastmod>2019-12-04T11:58:40-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://danielmoreira.github.io/authors/joel-brogan/</loc>
-    <lastmod>2019-12-04T11:58:40-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/authors/kevin-bowyer/</loc>
-    <lastmod>2019-12-04T11:58:40-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/tags/media-forensics/</loc>
-    <lastmod>2019-12-04T11:58:40-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/authors/patrick-flynn/</loc>
-    <lastmod>2019-12-04T11:58:40-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/tags/provenance-analysis/</loc>
-    <lastmod>2019-12-04T11:58:40-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://danielmoreira.github.io/tags/provenance-filtering/</loc>
-    <lastmod>2019-12-04T11:58:40-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/publication_types/</loc>
-    <lastmod>2019-12-04T11:58:40-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/authors/walter-scheirer/</loc>
     <lastmod>2019-12-04T11:58:40-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -441,12 +499,6 @@
   <url>
     <loc>https://danielmoreira.github.io/publication/2017_wacv/</loc>
     <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/tags/deep-learning/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

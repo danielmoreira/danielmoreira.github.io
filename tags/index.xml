@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://danielmoreira.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Image Fitlering</title>
+      <link>https://danielmoreira.github.io/tags/image-fitlering/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/image-fitlering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meme Genres</title>
+      <link>https://danielmoreira.github.io/tags/meme-genres/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/meme-genres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>https://danielmoreira.github.io/tags/politics/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/politics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Biometrics</title>
@@ -22,18 +49,18 @@
     </item>
     
     <item>
-      <title>CBIR</title>
-      <link>https://danielmoreira.github.io/tags/cbir/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      <title>Deep Learning</title>
+      <link>https://danielmoreira.github.io/tags/deep-learning/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://danielmoreira.github.io/tags/cbir/</guid>
+      <guid>https://danielmoreira.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Media Forensics</title>
       <link>https://danielmoreira.github.io/tags/media-forensics/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/tags/media-forensics/</guid>
       <description></description>
@@ -42,9 +69,18 @@
     <item>
       <title>Provenance Analysis</title>
       <link>https://danielmoreira.github.io/tags/provenance-analysis/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/tags/provenance-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CBIR</title>
+      <link>https://danielmoreira.github.io/tags/cbir/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/cbir/</guid>
       <description></description>
     </item>
     
@@ -234,15 +270,6 @@
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/tags/forgery-localization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://danielmoreira.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://danielmoreira.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automatic Discovery of Political Meme Genres with Diverse Appearances</title>
+      <link>https://danielmoreira.github.io/publication/2020_preprint_memeority/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2020_preprint_memeority/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Biometrics, Spring 2020</title>
@@ -48,6 +57,7 @@ Panopto: &lt;em&gt;Soon.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;01/14/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_00.pdf&#34;&gt;Syllabus&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;01/16/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_01.pdf&#34;&gt;Basics I&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;01/21/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_02.pdf&#34;&gt;Basics II&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -70,6 +80,15 @@ Panopto: &lt;em&gt;Soon.&lt;/em&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Learning Transformation-Aware Embeddings for Image Forensics</title>
+      <link>https://danielmoreira.github.io/publication/2020_preprint_tae/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2020_preprint_tae/</guid>
+      <description></description>
     </item>
     
     <item>
