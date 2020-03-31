@@ -44,11 +44,18 @@
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
 
 &lt;p&gt;Course: CSE 40537 / 60537 Biometrics&lt;br /&gt;
-Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (dhenriq1@nd.edu)&lt;br /&gt;
-Lectures: TUE and THR, 5:05 to 6:20 PM, 125 DeBartolo Hall&lt;br /&gt;
-Office Hours: MON and WED, 2:00 to 4:00 PM, 150N Fitzpatrick Hall
-Slack: &lt;a href=&#34;https://cse-biometrics-spr20.slack.com &#34; target=&#34;_blank&#34;&gt;https://cse-biometrics-spr20.slack.com &lt;/a&gt;&lt;br /&gt;
-Panopto: &lt;em&gt;Soon.&lt;/em&gt;&lt;/p&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (dhenriq1@nd.edu)&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;Lectures: TUE and THR, 5:05 to 6:20 PM, 125 DeBartolo Hall&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br /&gt;
+&lt;del&gt;Office Hours: MON and WED, 2:00 to 4:00 PM, 150N Fitzpatrick Hall&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
+Lectures: TUE and THR, 2:00 to 3:15 PM, through Zoom&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br /&gt;
+Office Hours: TUE and THR, 5:05 to 6:15 PM, through Zoom&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br /&gt;
+&lt;em&gt;Students are not obligated to attend classes at 2:00 pm.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;All classes are being recorded with Panopto.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Slack: &lt;a href=&#34;https://cse-biometrics-spr20.slack.com&#34; target=&#34;_blank&#34;&gt;https://cse-biometrics-spr20.slack.com&lt;/a&gt;&lt;br /&gt;
+Panopto: &lt;a href=&#34;https://bit.ly/33ZkU97&#34; target=&#34;_blank&#34;&gt;https://bit.ly/33ZkU97&lt;/a&gt;&lt;br /&gt;
+Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_blank&#34;&gt;https://notredame.zoom.us/my/dmoreira&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -59,16 +66,25 @@ Panopto: &lt;em&gt;Soon.&lt;/em&gt;&lt;/p&gt;
 &lt;li&gt;01/16/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_01.pdf&#34;&gt;Basics I,&lt;/a&gt; Biometrics, traits, and systems.&lt;/li&gt;
 &lt;li&gt;01/21/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_02.pdf&#34;&gt;Basics II,&lt;/a&gt; Errors, metrics, and attacks.&lt;/li&gt;
 &lt;li&gt;01/23/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_03.zip&#34;&gt;1st Coding Class,&lt;/a&gt; Implementation of metrics.&lt;/li&gt;
-&lt;li&gt;01/28/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_04.pdf&#34;&gt;Fingerprint Recognition I,&lt;/a&gt; History and features.&lt;/li&gt;
-&lt;li&gt;01/30/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_05.pdf&#34;&gt;Fingerprint Recognition II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
-&lt;li&gt;02/04/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_06.pdf&#34;&gt;Fingerprint Recognition III,&lt;/a&gt; Minutiae detection.&lt;/li&gt;
+&lt;li&gt;01/28/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_04.pdf&#34;&gt;Fingerprint Recog. I,&lt;/a&gt; History and features.&lt;/li&gt;
+&lt;li&gt;01/30/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_05.pdf&#34;&gt;Fingerprint Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;02/04/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_06.pdf&#34;&gt;Fingerprint Recog. III,&lt;/a&gt; Minutiae detection.&lt;/li&gt;
 &lt;li&gt;02/06/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_07.zip&#34;&gt;Fingerprint Data Collection,&lt;/a&gt; password with instructor.&lt;/li&gt;
 &lt;li&gt;02/11/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_08_09.zip&#34;&gt;2nd Coding Class,&lt;/a&gt; Minutiae-based recognition.&lt;/li&gt;
 &lt;li&gt;02/13/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_08_09.zip&#34;&gt;2nd Coding Class,&lt;/a&gt; continuation.&lt;/li&gt;
-&lt;li&gt;02/18/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_10.pdf&#34;&gt;Face Recognition I,&lt;/a&gt; Why faces and faces vs. fingerprints.&lt;/li&gt;
-&lt;li&gt;02/20/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_11.pdf&#34;&gt;Face Recognition II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
-&lt;li&gt;02/25/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_12.pdf&#34;&gt;Face Recognition III,&lt;/a&gt; Description and matching.&lt;/li&gt;
-&lt;li&gt;02/27/2020 - 3rd Coding Class, Face detection, description, and matching.&lt;/li&gt;
+&lt;li&gt;02/18/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_10.pdf&#34;&gt;Face Recog. I,&lt;/a&gt; Why faces and faces vs. fingerprints.&lt;/li&gt;
+&lt;li&gt;02/20/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_11.pdf&#34;&gt;Face Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;02/25/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_12.pdf&#34;&gt;Face Recog. III,&lt;/a&gt; Description and matching.&lt;/li&gt;
+&lt;li&gt;02/27/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_13.zip&#34;&gt;3rd Coding Class,&lt;/a&gt; Face recognition.&lt;/li&gt;
+&lt;li&gt;03/03/2020 - Fingerprints assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;03/05/2020 - Fingerprints assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;03/10/2020 - Spring Break, enjoy it!&lt;/li&gt;
+&lt;li&gt;03/12/2020 - Spring Break, enjoy it!&lt;/li&gt;
+&lt;li&gt;03/17/2020 - Extended Spring Break&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;03/18/2020 - Extended Spring Break&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;03/24/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_16.pdf&#34;&gt;New Course Directions&lt;sup&gt;1&lt;/sup&gt;.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;03/26/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_17.pdf&#34;&gt;Iris Recog. I,&lt;/a&gt; Why irises and irises vs. other traits.&lt;/li&gt;
+&lt;li&gt;03/31/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_18.pdf&#34;&gt;Iris Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -76,13 +92,18 @@ Panopto: &lt;em&gt;Soon.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;03/03/2020 - Fingerprints assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;03/05/2020 - Fingerprints assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;03/31/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;04/02/2020 - Faces assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;04/14/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;04/16/2020 - Irises assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;04/28/2020 - Last assignment, &lt;em&gt;Collaboration day&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;03/03/2020 - Fingerprints assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;03/05/2020 - Fingerprints assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;03/31/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/02/2020 - Faces assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/14/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/16/2020 - Irises assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/28/2020 - Last assignment, &lt;em&gt;Collaboration day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;04/14/2020 (5:05 PM at Zoom) - Dr. Andrey Kuehlkamp&amp;rsquo;s seminar.&lt;/li&gt;
+&lt;li&gt;04/16/2020 (5:05 PM at Zoom) - Dr. Adam Czajka&amp;rsquo;s seminar.&lt;/li&gt;
+&lt;li&gt;04/21/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
+&lt;li&gt;04/23/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
+&lt;li&gt;04/28/2020 - Final Report due date&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
 &lt;li&gt;05/04/2020 - Final exam.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -99,6 +120,12 @@ Panopto: &lt;em&gt;Soon.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
 
 &lt;p&gt;This course is heavily based on &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34;&gt;Dr. Adam Czajka&amp;rsquo;s&lt;/a&gt; and &lt;a href=&#34;https://www.wjscheirer.com/teaching/biometrics/yr2015fa/&#34; target=&#34;_blank&#34;&gt;Dr. Walter Scheirer&amp;rsquo;s&lt;/a&gt; previous Biometrics courses. I sincerely thank them for kindly allowing me to rely upon their materials.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;covid-19&#34;&gt;COVID-19&lt;/h2&gt;
+
+&lt;p&gt;&lt;a name=&#34;covid19&#34;&gt;1&lt;/a&gt;: Modified/canceled due to &lt;a href=&#34;https://coronavirus.nd.edu/&#34; target=&#34;_blank&#34;&gt;COVID-19.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
