@@ -78,6 +78,8 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_bl
 &lt;li&gt;04/02/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_19.pdf&#34;&gt;Iris Recog. III,&lt;/a&gt; Description and matching.&lt;/li&gt;
 &lt;li&gt;04/07/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_20.zip&#34;&gt;4th Coding Class,&lt;/a&gt; Iris recognition.&lt;/li&gt;
 &lt;li&gt;04/09/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_21.pdf&#34;&gt;Multibiometrics,&lt;/a&gt; Other traits, data fusion.&lt;/li&gt;
+&lt;li&gt;04/14/2020 - &lt;a href=&#34;#kuehlkamp&#34;&gt;1st Invited Talk,&lt;/a&gt; Dr. Andrey Kuehlkamp.&lt;/li&gt;
+&lt;li&gt;04/16/2020 - &lt;a href=&#34;#czajka&#34;&gt;2nd Invited Talk,&lt;/a&gt; Dr. Adam Czajka.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -92,13 +94,79 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_bl
 &lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/14/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/16/2020 - Irises assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/28/2020 - Last assignment, &lt;em&gt;Collaboration day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;04/14/2020 (5:05 PM at Zoom) - Dr. Andrey Kuehlkamp&amp;rsquo;s seminar.&lt;/li&gt;
-&lt;li&gt;04/16/2020 (5:05 PM at Zoom) - Dr. Adam Czajka&amp;rsquo;s seminar.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/14/2020 (5:05 PM at Zoom) - Dr. Andrey Kuehlkamp&amp;rsquo;s talk.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;04/16/2020 (5:05 PM at Zoom) - Dr. Adam Czajka&amp;rsquo;s talk.&lt;/li&gt;
 &lt;li&gt;04/21/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
 &lt;li&gt;04/23/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
 &lt;li&gt;04/28/2020 - Final Report due date&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
 &lt;li&gt;05/04/2020 - Final exam.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a name=&#34;kuehlkamp&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;kuehlkamp.jpg&#34; alt=&#34;Dr. Andrey Kuehlkamp&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://crc.nd.edu/about/people/andrey-kuehlkamp&#34; target=&#34;_blank&#34;&gt;Dr. Andrey Kuehkamp&lt;/a&gt;&lt;/br&gt; Postdoctoral Research Associate at the Center for Research Computing, University of Notre Dame&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Diverse Aspects in Advancing Iris Recognition Systems&lt;/strong&gt;&lt;/br&gt;&lt;/br&gt; Are we ready for widespread, mass-scale adoption of iris recognition systems? Following the miniaturization of fingerprint scanners, these have dominated recognition systems and have even become almost commonplace for unlocking cell phones, but what if in the not-so-far-off future they were replaced with iris scanners, would you be comfortable with it? Since its initial introduction in 1993, automated iris recognition has dramatically grown in popularity and soon could become the dominant method for automated recognition. Take for example the largest recognition system in the world &amp;mdash; India’s Aadhaar program &amp;mdash; which has collected more than 1.1 billion irises from their citizens to be used as the primary identification for banking, pensions, and welfare programs. Even more recently &amp;mdash; November 2017 &amp;mdash; Somaliland became the first country in the world to use iris recognition as the means for identification in a public election, which had more than 800,000 registered voters. Although a mature technology in many regards, the drastic increase in iris recognition adoption has revealed many opportunities for improvement. In this talk I present an overview of my research, which focuses on improving iris recognition in three ways: speed, accuracy, and robustness. &lt;a name=&#34;czajka&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;czajka.jpg&#34; alt=&#34;Dr. Adam Czajka&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34;&gt;Dr. Adam Czajka&lt;/a&gt;&lt;/br&gt; Assistant Professor at the Department of Computer Science and Engineering, University of Notre Dame&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Is this eye alive or artificial?&lt;/strong&gt;&lt;/br&gt; &lt;em&gt;Oh wait, maybe it’s dead? Detection of unknown presentation attacks in biometrics.&lt;/em&gt;&lt;/br&gt;&lt;/br&gt; Presentation attacks are those physical presentations to a biometric system that aim at driving it into an incorrect decision. Rediscovered recently in general computer vision community (and raising a significant interest; look &amp;mdash; for instance &amp;mdash; for famous stop sign attacks on deep learning-based object detection models), these attacks are known in biometrics for several decades. In this talk, I will use iris recognition as an example and will present the huge creativity of attackers in using various artifacts (printouts, patterned contact lenses, plastic eyes, GAN-generated fakes and&amp;hellip; dead eyes) to spoof a system. Although training a model to recognize each of these presentation attack instruments is relatively easy and works well, a big challenge now is how to build models that generalize onto unknown attack types, going beyond our understanding of attackers’ creativity when training our models. I will present a few methods we are exploring in our research to provide presentation attack detection methods that perform promisingly in open-set classification scenario.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;hr /&gt;
 
