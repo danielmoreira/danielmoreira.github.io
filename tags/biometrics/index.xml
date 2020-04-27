@@ -80,6 +80,8 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_bl
 &lt;li&gt;04/09/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_21.pdf&#34;&gt;Multibiometrics,&lt;/a&gt; Other traits, data fusion.&lt;/li&gt;
 &lt;li&gt;04/14/2020 - &lt;a href=&#34;#kuehlkamp&#34;&gt;1st Invited Talk,&lt;/a&gt; Dr. Andrey Kuehlkamp.&lt;/li&gt;
 &lt;li&gt;04/16/2020 - &lt;a href=&#34;#czajka&#34;&gt;2nd Invited Talk,&lt;/a&gt; Dr. Adam Czajka.&lt;/li&gt;
+&lt;li&gt;04/21/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;04/23/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -96,8 +98,8 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_bl
 &lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/28/2020 - Last assignment, &lt;em&gt;Collaboration day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;04/14/2020 (5:05 PM at Zoom) - Dr. Andrey Kuehlkamp&amp;rsquo;s talk.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;04/16/2020 (5:05 PM at Zoom) - Dr. Adam Czajka&amp;rsquo;s talk.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;04/21/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
-&lt;li&gt;04/23/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/21/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/23/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;04/28/2020 - Final Report due date&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
 &lt;li&gt;05/04/2020 - Final exam.&lt;/li&gt;
 &lt;/ul&gt;
@@ -170,12 +172,13 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_bl
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;a name=&#34;covid19&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;documents&#34;&gt;Documents&lt;/h2&gt;
+&lt;h2 id=&#34;important-links&#34;&gt;Important Links&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/panopto.pdf&#34;&gt;Classroom recording notification.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/panopto.pdf&#34;&gt;Classroom recording notification.&lt;/a&gt;&lt;br /&gt;
+&lt;a name=&#34;covid19&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vision.ucsd.edu/content/yale-face-database&#34; target=&#34;_blank&#34;&gt;Yale face dataset, &lt;/a&gt; used to replace face acquisition&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://biometrics.idealtest.org/dbDetailForUser.do?id=1&#34; target=&#34;_blank&#34;&gt;CASIA-IrisV1, &lt;/a&gt; used to replace iris acquisition&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
