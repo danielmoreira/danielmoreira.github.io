@@ -56,6 +56,9 @@ Office Hours: TUE and THR, 5:05 to 6:20 PM, at Zoom&lt;sup&gt;&lt;a href=&#34;#c
 Panopto: &lt;a href=&#34;https://bit.ly/33ZkU97&#34; target=&#34;_blank&#34;&gt;https://bit.ly/33ZkU97&lt;/a&gt;&lt;br /&gt;
 Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_blank&#34;&gt;https://notredame.zoom.us/my/dmoreira&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Course grades are now &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/grades.pdf&#34;&gt;available.&lt;/a&gt;&lt;/strong&gt;
+&lt;img src=&#34;fake-fingers.jpg&#34; alt=&#34;Fake fingers made by students.&#34; /&gt;&lt;/p&gt;
+
 &lt;hr /&gt;
 
 &lt;h2 id=&#34;progress&#34;&gt;Progress&lt;/h2&gt;
@@ -91,6 +94,8 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_bl
 &lt;li&gt;04/16/2020 - &lt;a href=&#34;#czajka&#34;&gt;2nd Invited Talk,&lt;/a&gt; Dr. Adam Czajka.&lt;/li&gt;
 &lt;li&gt;04/21/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;04/23/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;04/28/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/assignment-grades.pdf&#34;&gt;Assignment Report&lt;/a&gt; due date.&lt;/li&gt;
+&lt;li&gt;05/04/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/exam.pdf&#34;&gt;Final exam,&lt;/a&gt; see &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/exam-grades.pdf&#34;&gt;grades.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -109,8 +114,8 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_bl
 &lt;li&gt;&lt;del&gt;04/16/2020 (5:05 PM at Zoom) - Dr. Adam Czajka&amp;rsquo;s talk.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;04/21/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;04/23/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;04/28/2020 - Final Report due date&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
-&lt;li&gt;05/04/2020 - Final exam.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/28/2020 - Final Report due date&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;05/04/2020 - Final exam.&lt;/del&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -181,13 +186,41 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_bl
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;important-links&#34;&gt;Important Links&lt;/h2&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/panopto.pdf&#34;&gt;Classroom recording notification.&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&#34;covid19&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/panopto.pdf&#34;&gt;Classroom recording notification.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://vision.ucsd.edu/content/yale-face-database&#34; target=&#34;_blank&#34;&gt;Yale face dataset, &lt;/a&gt; used to replace face acquisition&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://biometrics.idealtest.org/dbDetailForUser.do?id=1&#34; target=&#34;_blank&#34;&gt;CASIA-IrisV1, &lt;/a&gt; used to replace iris acquisition&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;biometrics-on-the-news&#34;&gt;Biometrics on the News&lt;/h2&gt;
+
+&lt;p&gt;Posted by the students and the instructor on Slack:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://vancouversun.com/news/local-news/biometric-opioid-vending-machine-unveiled-in-vancouver&#34; target=&#34;_blank&#34;&gt;https://vancouversun.com/news/local-news/biometric-opioid-vending-machine-unveiled-in-vancouver&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html&#34; target=&#34;_blank&#34;&gt;https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.landmobile.co.uk/news/metropolitan-police-service-nec-live-facial-recognition/&#34; target=&#34;_blank&#34;&gt;https://www.landmobile.co.uk/news/metropolitan-police-service-nec-live-facial-recognition/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html&#34; target=&#34;_blank&#34;&gt;https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202001/securiport-partners-with-university-of-notre-dame-in-biometrics-and-data-analytics-research-for-border-security&#34; target=&#34;_blank&#34;&gt;https://www.biometricupdate.com/202001/securiport-partners-with-university-of-notre-dame-in-biometrics-and-data-analytics-research-for-border-security&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/02/06/business/facial-recognition-schools.html&#34; target=&#34;_blank&#34;&gt;https://www.nytimes.com/2020/02/06/business/facial-recognition-schools.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.abacusnews.com/tech/why-your-palm-could-be-safer-fingerprints-or-facial-recognition/article/3046162&#34; target=&#34;_blank&#34;&gt;https://www.abacusnews.com/tech/why-your-palm-could-be-safer-fingerprints-or-facial-recognition/article/3046162&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.cnn.com/2020/02/26/tech/clearview-ai-hack/index.html&#34; target=&#34;_blank&#34;&gt;https://www.cnn.com/2020/02/26/tech/clearview-ai-hack/index.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://nakedsecurity.sophos.com/2020/04/08/as-if-the-world-couldnt-get-any-weirder-this-ai-toilet-scans-your-anus-to-identify-you/&#34; target=&#34;_blank&#34;&gt;https://nakedsecurity.sophos.com/2020/04/08/as-if-the-world-couldnt-get-any-weirder-this-ai-toilet-scans-your-anus-to-identify-you/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://arstechnica.com/information-technology/2020/04/attackers-can-bypass-fingerprint-authentication-with-an-80-success-rate/&#34; target=&#34;_blank&#34;&gt;https://arstechnica.com/information-technology/2020/04/attackers-can-bypass-fingerprint-authentication-with-an-80-success-rate/&lt;/a&gt;
+&lt;a name=&#34;covid19&#34;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
