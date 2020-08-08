@@ -7,17 +7,17 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://danielmoreira.github.io/tags/provenance-filtering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dynamic Spatial Verification for Large-Scale Object-Level Image Retrieval</title>
-      <link>https://danielmoreira.github.io/publication/2019_preprint_needle/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      <link>https://danielmoreira.github.io/publication/2020_preprint_needle/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://danielmoreira.github.io/publication/2019_preprint_needle/</guid>
+      <guid>https://danielmoreira.github.io/publication/2020_preprint_needle/</guid>
       <description></description>
     </item>
     
@@ -29,7 +29,7 @@
       <guid>https://danielmoreira.github.io/project/medifor/</guid>
       <description>
 
-&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Ongoing, &lt;strong&gt;Funded by:&lt;/strong&gt; DARPA&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded, &lt;strong&gt;Funded by:&lt;/strong&gt; DARPA&lt;br /&gt;
 &lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://www.wjscheirer.com/&#34; target=&#34;_blank&#34;&gt;Walter Scheirer&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The Media Forensics research project (&lt;a href=&#34;https://www.darpa.mil/program/media-forensics&#34; target=&#34;_blank&#34;&gt;MediFor&lt;/a&gt;) is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA) and the Air Force Research Laboratory (AFRL), whose goal is to develop solutions for the automated assessment of the integrity of digital images.&lt;/p&gt;
