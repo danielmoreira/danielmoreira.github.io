@@ -7,26 +7,26 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://danielmoreira.github.io/authors/patrick-flynn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Learning Transformation-Aware Embeddings for Image Forensics</title>
-      <link>https://danielmoreira.github.io/publication/2020_preprint_tae/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Fast Local Spatial Verification for Feature-Agnostic Large-Scale Image Retrieval</title>
+      <link>https://danielmoreira.github.io/publication/2021_tip/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://danielmoreira.github.io/publication/2020_preprint_tae/</guid>
+      <guid>https://danielmoreira.github.io/publication/2021_tip/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dynamic Spatial Verification for Large-Scale Object-Level Image Retrieval</title>
-      <link>https://danielmoreira.github.io/publication/2020_preprint_needle/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Transformation-Aware Embeddings for Image Provenance</title>
+      <link>https://danielmoreira.github.io/publication/2021_tifs/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://danielmoreira.github.io/publication/2020_preprint_needle/</guid>
+      <guid>https://danielmoreira.github.io/publication/2021_tifs/</guid>
       <description></description>
     </item>
     

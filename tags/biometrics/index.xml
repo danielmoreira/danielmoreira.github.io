@@ -21,39 +21,28 @@
       <description>
 
 
-
-
 &lt;figure&gt;
 
 &lt;img src=&#34;nd.jpg&#34; width=&#34;250px&#34; /&gt;
 
 
 &lt;/figure&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
-
-&lt;p&gt;Course: CSE 40537 / 60537 Biometrics&lt;br /&gt;
-Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (dhenriq1@nd.edu)&lt;/p&gt;
-
-&lt;p&gt;&lt;del&gt;Lectures: TUE and THR, 5:05 to 6:20 PM, 125 DeBartolo Hall&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br /&gt;
-&lt;del&gt;Office Hours: MON and WED, 2:00 to 4:00 PM, 150N Fitzpatrick Hall&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
-Lectures: TUE and THR, 2:00 to 3:15 PM, at Zoom&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br /&gt;
-Office Hours: TUE and THR, 5:05 to 6:20 PM, at Zoom&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br /&gt;
+&lt;p&gt;Course: CSE 40537 / 60537 Biometrics&lt;br&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dhenriq1@nd.edu&#34;&gt;dhenriq1@nd.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;Lectures: TUE and THR, 5:05 to 6:20 PM, 125 DeBartolo Hall&lt;/del&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;del&gt;Office Hours: MON and WED, 2:00 to 4:00 PM, 150N Fitzpatrick Hall&lt;/del&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;
+Lectures: TUE and THR, 2:00 to 3:15 PM, at Zoom&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Office Hours: TUE and THR, 5:05 to 6:20 PM, at Zoom&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 &lt;em&gt;Students are not obligated to attend classes at 2:00 pm, but are certainly welcome. All classes are being recorded with Panopto.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Slack: &lt;del&gt;&lt;a href=&#34;https://cse-biometrics-spr20.slack.com&#34; target=&#34;_blank&#34;&gt;https://cse-biometrics-spr20.slack.com&lt;/a&gt;&lt;/del&gt; &lt;em&gt;(now deactivated)&lt;/em&gt;
-Panopto: &lt;a href=&#34;https://bit.ly/33ZkU97&#34; target=&#34;_blank&#34;&gt;https://bit.ly/33ZkU97&lt;/a&gt;&lt;br /&gt;
-Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_blank&#34;&gt;https://notredame.zoom.us/my/dmoreira&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;Slack: ~~&lt;a href=&#34;https://cse-biometrics-spr20.slack.com~~&#34;&gt;https://cse-biometrics-spr20.slack.com~~&lt;/a&gt; &lt;em&gt;(now deactivated)&lt;/em&gt;
+Panopto: &lt;a href=&#34;https://bit.ly/33ZkU97&#34;&gt;https://bit.ly/33ZkU97&lt;/a&gt;&lt;br&gt;
+Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34;&gt;https://notredame.zoom.us/my/dmoreira&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Course grades are now &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/grades.pdf&#34;&gt;available.&lt;/a&gt;&lt;/strong&gt;
-&lt;img src=&#34;fake-fingers.jpg&#34; alt=&#34;Fake fingers made by students.&#34; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;img src=&#34;fake-fingers.jpg&#34; alt=&#34;Fake fingers made by students.&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;progress&#34;&gt;Progress&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;01/14/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_00.pdf&#34;&gt;Syllabus,&lt;/a&gt; Course details.&lt;/li&gt;
 &lt;li&gt;01/16/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_01.pdf&#34;&gt;Basics I,&lt;/a&gt; Biometrics, traits, and systems.&lt;/li&gt;
@@ -73,9 +62,9 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_bl
 &lt;li&gt;03/05/2020 - Fingerprints assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;03/10/2020 - Spring Break.&lt;/li&gt;
 &lt;li&gt;03/12/2020 - Spring Break.&lt;/li&gt;
-&lt;li&gt;03/17/2020 - Extended Spring Break&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
-&lt;li&gt;03/18/2020 - Extended Spring Break&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
-&lt;li&gt;03/24/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_16.pdf&#34;&gt;New Course Directions&lt;sup&gt;1&lt;/sup&gt;.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;03/17/2020 - Extended Spring Break&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;.&lt;/li&gt;
+&lt;li&gt;03/18/2020 - Extended Spring Break&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;.&lt;/li&gt;
+&lt;li&gt;03/24/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_16.pdf&#34;&gt;New Course Directions&lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;03/26/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_17.pdf&#34;&gt;Iris Recog. I,&lt;/a&gt; Why irises and irises vs. other traits.&lt;/li&gt;
 &lt;li&gt;03/31/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_18.pdf&#34;&gt;Iris Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
 &lt;li&gt;04/02/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_19.pdf&#34;&gt;Iris Recog. III,&lt;/a&gt; Description and matching.&lt;/li&gt;
@@ -88,33 +77,26 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_bl
 &lt;li&gt;04/28/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/assignment-grades.pdf&#34;&gt;Assignment Report&lt;/a&gt; due date.&lt;/li&gt;
 &lt;li&gt;05/04/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/exam.pdf&#34;&gt;Final exam,&lt;/a&gt; see &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/exam-grades.pdf&#34;&gt;grades.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;del&gt;03/03/2020 - Fingerprints assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;03/05/2020 - Fingerprints assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;03/31/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/02/2020 - Faces assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/14/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/16/2020 - Irises assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/28/2020 - Last assignment, &lt;em&gt;Collaboration day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;04/14/2020 (5:05 PM at Zoom) - Dr. Andrey Kuehlkamp&amp;rsquo;s talk.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;04/16/2020 (5:05 PM at Zoom) - Dr. Adam Czajka&amp;rsquo;s talk.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;04/21/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;04/23/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;04/28/2020 - Final Report due date&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;~~03/31/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.~~&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;~~04/02/2020 - Faces assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.~~&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;~~04/14/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.~~&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;~~04/16/2020 - Irises assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.~~&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;~~04/28/2020 - Last assignment, &lt;em&gt;Collaboration day&lt;/em&gt;.~~&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/14/2020 (5:05 PM at Zoom) - Dr. Andrey Kuehlkamp&#39;s talk.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/16/2020 (5:05 PM at Zoom) - Dr. Adam Czajka&#39;s talk.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;~~04/21/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;.~~&lt;/li&gt;
+&lt;li&gt;~~04/23/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;.~~&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/28/2020 - Final Report due date&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;05/04/2020 - Final exam.&lt;/del&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a name=&#34;kuehlkamp&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
+&lt;hr&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h2 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h2&gt;
-
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -122,29 +104,25 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_bl
 &lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;kuehlkamp.jpg&#34; alt=&#34;Dr. Andrey Kuehlkamp&#34; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://crc.nd.edu/about/people/andrey-kuehlkamp&#34; target=&#34;_blank&#34;&gt;Dr. Andrey Kuehkamp&lt;/a&gt;&lt;/br&gt; Postdoctoral Research Associate at the Center for Research Computing, University of Notre Dame&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;kuehlkamp.jpg&#34; alt=&#34;Dr. Andrey Kuehlkamp&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://crc.nd.edu/about/people/andrey-kuehlkamp&#34;&gt;Dr. Andrey Kuehkamp&lt;/a&gt;&lt;!-- raw HTML omitted --&gt; Postdoctoral Research Associate at the Center for Research Computing, University of Notre Dame&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Diverse Aspects in Advancing Iris Recognition Systems&lt;/strong&gt;&lt;/br&gt;&lt;/br&gt; Are we ready for widespread, mass-scale adoption of iris recognition systems? Following the miniaturization of fingerprint scanners, these have dominated recognition systems and have even become almost commonplace for unlocking cell phones, but what if in the not-so-far-off future they were replaced with iris scanners, would you be comfortable with it? Since its initial introduction in 1993, automated iris recognition has dramatically grown in popularity and soon could become the dominant method for automated recognition. Take for example the largest recognition system in the world &amp;mdash; India’s Aadhaar program &amp;mdash; which has collected more than 1.1 billion irises from their citizens to be used as the primary identification for banking, pensions, and welfare programs. Even more recently &amp;mdash; November 2017 &amp;mdash; Somaliland became the first country in the world to use iris recognition as the means for identification in a public election, which had more than 800,000 registered voters. Although a mature technology in many regards, the drastic increase in iris recognition adoption has revealed many opportunities for improvement. In this talk I present an overview of my research, which focuses on improving iris recognition in three ways: speed, accuracy, and robustness. &lt;a name=&#34;czajka&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Diverse Aspects in Advancing Iris Recognition Systems&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; Are we ready for widespread, mass-scale adoption of iris recognition systems? Following the miniaturization of fingerprint scanners, these have dominated recognition systems and have even become almost commonplace for unlocking cell phones, but what if in the not-so-far-off future they were replaced with iris scanners, would you be comfortable with it? Since its initial introduction in 1993, automated iris recognition has dramatically grown in popularity and soon could become the dominant method for automated recognition. Take for example the largest recognition system in the world &amp;mdash; India’s Aadhaar program &amp;mdash; which has collected more than 1.1 billion irises from their citizens to be used as the primary identification for banking, pensions, and welfare programs. Even more recently &amp;mdash; November 2017 &amp;mdash; Somaliland became the first country in the world to use iris recognition as the means for identification in a public election, which had more than 800,000 registered voters. Although a mature technology in many regards, the drastic increase in iris recognition adoption has revealed many opportunities for improvement. In this talk I present an overview of my research, which focuses on improving iris recognition in three ways: speed, accuracy, and robustness. &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -152,81 +130,75 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_bl
 &lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;czajka.jpg&#34; alt=&#34;Dr. Adam Czajka&#34; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34;&gt;Dr. Adam Czajka&lt;/a&gt;&lt;/br&gt; Assistant Professor at the Department of Computer Science and Engineering, University of Notre Dame&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;czajka.jpg&#34; alt=&#34;Dr. Adam Czajka&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34;&gt;Dr. Adam Czajka&lt;/a&gt;&lt;!-- raw HTML omitted --&gt; Assistant Professor at the Department of Computer Science and Engineering, University of Notre Dame&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Is this eye alive or artificial?&lt;/strong&gt;&lt;/br&gt; &lt;em&gt;Oh wait, maybe it’s dead? Detection of unknown presentation attacks in biometrics.&lt;/em&gt;&lt;/br&gt;&lt;/br&gt; Presentation attacks are those physical presentations to a biometric system that aim at driving it into an incorrect decision. Rediscovered recently in general computer vision community (and raising a significant interest; look &amp;mdash; for instance &amp;mdash; for famous stop sign attacks on deep learning-based object detection models), these attacks are known in biometrics for several decades. In this talk, I will use iris recognition as an example and will present the huge creativity of attackers in using various artifacts (printouts, patterned contact lenses, plastic eyes, GAN-generated fakes and&amp;hellip; dead eyes) to spoof a system. Although training a model to recognize each of these presentation attack instruments is relatively easy and works well, a big challenge now is how to build models that generalize onto unknown attack types, going beyond our understanding of attackers’ creativity when training our models. I will present a few methods we are exploring in our research to provide presentation attack detection methods that perform promisingly in open-set classification scenario.&lt;/td&gt;
+&lt;td&gt;**Is this eye alive or artificial?**&lt;!-- raw HTML omitted --&gt; *Oh wait, maybe it’s dead? Detection of unknown presentation attacks in biometrics.*&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; Presentation attacks are those physical presentations to a biometric system that aim at driving it into an incorrect decision. Rediscovered recently in general computer vision community (and raising a significant interest; look &amp;mdash; for instance &amp;mdash; for famous stop sign attacks on deep learning-based object detection models), these attacks are known in biometrics for several decades. In this talk, I will use iris recognition as an example and will present the huge creativity of attackers in using various artifacts (printouts, patterned contact lenses, plastic eyes, GAN-generated fakes and&amp;hellip; dead eyes) to spoof a system. Although training a model to recognize each of these presentation attack instruments is relatively easy and works well, a big challenge now is how to build models that generalize onto unknown attack types, going beyond our understanding of attackers’ creativity when training our models. I will present a few methods we are exploring in our research to provide presentation attack detection methods that perform promisingly in open-set classification scenario.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/panopto.pdf&#34;&gt;Classroom recording notification.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://vision.ucsd.edu/content/yale-face-database&#34; target=&#34;_blank&#34;&gt;Yale face dataset, &lt;/a&gt; used to replace face acquisition&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://biometrics.idealtest.org/dbDetailForUser.do?id=1&#34; target=&#34;_blank&#34;&gt;CASIA-IrisV1, &lt;/a&gt; used to replace iris acquisition&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/panopto.pdf&#34;&gt;Classroom recording notification.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vision.ucsd.edu/content/yale-face-database&#34;&gt;Yale face dataset, &lt;/a&gt; used to replace face acquisition&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://biometrics.idealtest.org/dbDetailForUser.do?id=1&#34;&gt;CASIA-IrisV1, &lt;/a&gt; used to replace iris acquisition&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;h2 id=&#34;biometrics-on-the-news&#34;&gt;Biometrics on the News&lt;/h2&gt;
-
 &lt;p&gt;Posted by the students and the instructor on Slack:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://vancouversun.com/news/local-news/biometric-opioid-vending-machine-unveiled-in-vancouver&#34; target=&#34;_blank&#34;&gt;https://vancouversun.com/news/local-news/biometric-opioid-vending-machine-unveiled-in-vancouver&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html&#34; target=&#34;_blank&#34;&gt;https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.landmobile.co.uk/news/metropolitan-police-service-nec-live-facial-recognition/&#34; target=&#34;_blank&#34;&gt;https://www.landmobile.co.uk/news/metropolitan-police-service-nec-live-facial-recognition/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html&#34; target=&#34;_blank&#34;&gt;https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202001/securiport-partners-with-university-of-notre-dame-in-biometrics-and-data-analytics-research-for-border-security&#34; target=&#34;_blank&#34;&gt;https://www.biometricupdate.com/202001/securiport-partners-with-university-of-notre-dame-in-biometrics-and-data-analytics-research-for-border-security&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/02/06/business/facial-recognition-schools.html&#34; target=&#34;_blank&#34;&gt;https://www.nytimes.com/2020/02/06/business/facial-recognition-schools.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.abacusnews.com/tech/why-your-palm-could-be-safer-fingerprints-or-facial-recognition/article/3046162&#34; target=&#34;_blank&#34;&gt;https://www.abacusnews.com/tech/why-your-palm-could-be-safer-fingerprints-or-facial-recognition/article/3046162&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.cnn.com/2020/02/26/tech/clearview-ai-hack/index.html&#34; target=&#34;_blank&#34;&gt;https://www.cnn.com/2020/02/26/tech/clearview-ai-hack/index.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://nakedsecurity.sophos.com/2020/04/08/as-if-the-world-couldnt-get-any-weirder-this-ai-toilet-scans-your-anus-to-identify-you/&#34; target=&#34;_blank&#34;&gt;https://nakedsecurity.sophos.com/2020/04/08/as-if-the-world-couldnt-get-any-weirder-this-ai-toilet-scans-your-anus-to-identify-you/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://arstechnica.com/information-technology/2020/04/attackers-can-bypass-fingerprint-authentication-with-an-80-success-rate/&#34; target=&#34;_blank&#34;&gt;https://arstechnica.com/information-technology/2020/04/attackers-can-bypass-fingerprint-authentication-with-an-80-success-rate/&lt;/a&gt;
-&lt;a name=&#34;covid19&#34;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://vancouversun.com/news/local-news/biometric-opioid-vending-machine-unveiled-in-vancouver&#34;&gt;https://vancouversun.com/news/local-news/biometric-opioid-vending-machine-unveiled-in-vancouver&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html&#34;&gt;https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.landmobile.co.uk/news/metropolitan-police-service-nec-live-facial-recognition/&#34;&gt;https://www.landmobile.co.uk/news/metropolitan-police-service-nec-live-facial-recognition/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html&#34;&gt;https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202001/securiport-partners-with-university-of-notre-dame-in-biometrics-and-data-analytics-research-for-border-security&#34;&gt;https://www.biometricupdate.com/202001/securiport-partners-with-university-of-notre-dame-in-biometrics-and-data-analytics-research-for-border-security&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/02/06/business/facial-recognition-schools.html&#34;&gt;https://www.nytimes.com/2020/02/06/business/facial-recognition-schools.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.abacusnews.com/tech/why-your-palm-could-be-safer-fingerprints-or-facial-recognition/article/3046162&#34;&gt;https://www.abacusnews.com/tech/why-your-palm-could-be-safer-fingerprints-or-facial-recognition/article/3046162&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnn.com/2020/02/26/tech/clearview-ai-hack/index.html&#34;&gt;https://www.cnn.com/2020/02/26/tech/clearview-ai-hack/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://nakedsecurity.sophos.com/2020/04/08/as-if-the-world-couldnt-get-any-weirder-this-ai-toilet-scans-your-anus-to-identify-you/&#34;&gt;https://nakedsecurity.sophos.com/2020/04/08/as-if-the-world-couldnt-get-any-weirder-this-ai-toilet-scans-your-anus-to-identify-you/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arstechnica.com/information-technology/2020/04/attackers-can-bypass-fingerprint-authentication-with-an-80-success-rate/&#34;&gt;https://arstechnica.com/information-technology/2020/04/attackers-can-bypass-fingerprint-authentication-with-an-80-success-rate/&lt;/a&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;covid-19&#34;&gt;COVID-19&lt;/h2&gt;
-
-&lt;p&gt;1: Modified/canceled due to &lt;a href=&#34;https://coronavirus.nd.edu/&#34; target=&#34;_blank&#34;&gt;COVID-19.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
+&lt;h2 id=&#34;covid19&#34;&gt;COVID-19&lt;/h2&gt;
+&lt;p&gt;1: Modified/canceled due to &lt;a href=&#34;https://coronavirus.nd.edu/&#34;&gt;COVID-19.&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
-
-&lt;p&gt;This course is heavily based on &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34;&gt;Dr. Adam Czajka&amp;rsquo;s&lt;/a&gt; and &lt;a href=&#34;https://www.wjscheirer.com/&#34; target=&#34;_blank&#34;&gt;Dr. Walter Scheirer&amp;rsquo;s&lt;/a&gt; previous Biometrics courses. I sincerely thank them for kindly allowing me to rely upon their materials.&lt;/p&gt;
-
-&lt;hr /&gt;
+&lt;p&gt;This course is heavily based on &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34;&gt;Dr. Adam Czajka&#39;s&lt;/a&gt; and &lt;a href=&#34;https://www.wjscheirer.com/&#34;&gt;Dr. Walter Scheirer&#39;s&lt;/a&gt; previous Biometrics courses. I sincerely thank them for kindly allowing me to rely upon their materials.&lt;/p&gt;
+&lt;hr&gt;
 </description>
     </item>
     
@@ -236,19 +208,12 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_bl
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/project/srefv/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded&lt;br /&gt;
-&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;http://sites.nd.edu/patrick-flynn/&#34; target=&#34;_blank&#34;&gt;Patrick Flynn&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The SREFV project aims at extending &lt;a href=&#34;https://cvrl.nd.edu/projects/?project_name=Synthesis%20of%20Realistic%20Example%20Face%20Images%20(SREFI)&#34; target=&#34;_blank&#34;&gt;prior research&lt;/a&gt; on synthesis of realistic faces, to support the generation of videos containing animated faces with synthetic identities, depicted either frontally or in varying poses.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;sample.gif&#34; alt=&#34;SREFV preliminary results.&#34; /&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded&lt;br&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;http://sites.nd.edu/patrick-flynn/&#34;&gt;Patrick Flynn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The SREFV project aims at extending &lt;a href=&#34;https://cvrl.nd.edu/projects/?project_name=Synthesis%20of%20Realistic%20Example%20Face%20Images%20(SREFI)&#34;&gt;prior research&lt;/a&gt; on synthesis of realistic faces, to support the generation of videos containing animated faces with synthetic identities, depicted either frontally or in varying poses.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;sample.gif&#34; alt=&#34;SREFV preliminary results.&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Besides the obvious artistic and entertainment purposes, the outcome of this project will constitute an interesting tool to de-identify and diversify the faces depicted in video training datasets, helping to protect the identity of volunteers, and to mitigate eventual age, gender, and ethnic dataset collection biases.&lt;/p&gt;
-
 &lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Prof. Patrick Flynn (PI)&lt;/li&gt;
 &lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
@@ -266,27 +231,21 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_bl
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/project/tshepii/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded&lt;br /&gt;
-&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34;&gt;Adam Czajka&lt;/a&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded&lt;br&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34;&gt;Adam Czajka&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The TSHEPII project aims at developing a software tool to support the human examination of post-mortem iris images.
 The tool puts together diverse computer vision techniques to automatically process, extract, annotate, and match iris regions from two different eye captures.
 The idea is to give to the user enough iris texture matching and non-matching information, so they can decided if the two given images depict the same eye or not.&lt;/p&gt;
-
 &lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/FLlXDv8EdeU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/FLlXDv8EdeU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&amp;NewLine;&lt;/p&gt;
 
+&lt;/p&gt;
 &lt;p&gt;The video above depicts a demo of the TSHEPII tool, with all the computer vision techniques added to the software.
 As the project name suggests (Tool Supporting the Human Examination of &lt;strong&gt;Post-Mortem&lt;/strong&gt; Iris Images), the tool is particularly tuned to the case of comparing post-mortem irises, which, contrary to the common sense, might still be useful for performing iris recognition.&lt;/p&gt;
-
 &lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Prof. Adam Czajka (PI)&lt;/li&gt;
 &lt;li&gt;Prof. Patrick Flynn (PI)&lt;/li&gt;

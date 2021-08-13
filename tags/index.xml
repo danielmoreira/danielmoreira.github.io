@@ -7,15 +7,87 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://danielmoreira.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>CBIR</title>
+      <link>https://danielmoreira.github.io/tags/cbir/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/cbir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media Forensics</title>
+      <link>https://danielmoreira.github.io/tags/media-forensics/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/media-forensics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provenance Analysis</title>
+      <link>https://danielmoreira.github.io/tags/provenance-analysis/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/provenance-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provenance Filtering</title>
+      <link>https://danielmoreira.github.io/tags/provenance-filtering/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/provenance-filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Document Analysis</title>
+      <link>https://danielmoreira.github.io/tags/document-analysis/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/document-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Forensics</title>
+      <link>https://danielmoreira.github.io/tags/semantic-forensics/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/semantic-forensics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Manipulation Detection</title>
+      <link>https://danielmoreira.github.io/tags/image-manipulation-detection/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/image-manipulation-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://danielmoreira.github.io/tags/natural-language-processing/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Image Fitlering</title>
       <link>https://danielmoreira.github.io/tags/image-fitlering/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/tags/image-fitlering/</guid>
       <description></description>
@@ -24,7 +96,7 @@
     <item>
       <title>Meme Genres</title>
       <link>https://danielmoreira.github.io/tags/meme-genres/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/tags/meme-genres/</guid>
       <description></description>
@@ -33,9 +105,27 @@
     <item>
       <title>Politics</title>
       <link>https://danielmoreira.github.io/tags/politics/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/tags/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://danielmoreira.github.io/tags/deep-learning/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provenance Graph Construction</title>
+      <link>https://danielmoreira.github.io/tags/provenance-graph-construction/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/provenance-graph-construction/</guid>
       <description></description>
     </item>
     
@@ -85,83 +175,11 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://danielmoreira.github.io/tags/deep-learning/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Media Forensics</title>
-      <link>https://danielmoreira.github.io/tags/media-forensics/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/tags/media-forensics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Provenance Analysis</title>
-      <link>https://danielmoreira.github.io/tags/provenance-analysis/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/tags/provenance-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CBIR</title>
-      <link>https://danielmoreira.github.io/tags/cbir/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/tags/cbir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Provenance Filtering</title>
-      <link>https://danielmoreira.github.io/tags/provenance-filtering/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/tags/provenance-filtering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Random Thoughts</title>
       <link>https://danielmoreira.github.io/tags/random-thoughts/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/tags/random-thoughts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image Manipulation Detection</title>
-      <link>https://danielmoreira.github.io/tags/image-manipulation-detection/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/tags/image-manipulation-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing</title>
-      <link>https://danielmoreira.github.io/tags/natural-language-processing/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/tags/natural-language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Provenance Graph Construction</title>
-      <link>https://danielmoreira.github.io/tags/provenance-graph-construction/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/tags/provenance-graph-construction/</guid>
       <description></description>
     </item>
     

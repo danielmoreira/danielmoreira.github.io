@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://danielmoreira.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fast Local Spatial Verification for Feature-Agnostic Large-Scale Image Retrieval</title>
+      <link>https://danielmoreira.github.io/publication/2021_tip/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2021_tip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformation-Aware Embeddings for Image Provenance</title>
+      <link>https://danielmoreira.github.io/publication/2021_tifs/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/publication/2021_tifs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multimodal data fusion for sensitive scene localization</title>
@@ -47,7 +65,7 @@
       <guid>https://danielmoreira.github.io/publication/2016_fsi/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/ZfaW5kvXjMo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ZfaW5kvXjMo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>

@@ -7,78 +7,15 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://danielmoreira.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Daniel Moreira</title>
-      <link>https://danielmoreira.github.io/authors/daniel-moreira/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/authors/daniel-moreira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joel Brogan</title>
-      <link>https://danielmoreira.github.io/authors/joel-brogan/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/authors/joel-brogan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pamela Bilo Thomas</title>
-      <link>https://danielmoreira.github.io/authors/pamela-bilo-thomas/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/authors/pamela-bilo-thomas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pascal Phoa</title>
-      <link>https://danielmoreira.github.io/authors/pascal-phoa/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/authors/pascal-phoa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tim Weninger</title>
-      <link>https://danielmoreira.github.io/authors/tim-weninger/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/authors/tim-weninger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Walter Scheirer</title>
-      <link>https://danielmoreira.github.io/authors/walter-scheirer/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/authors/walter-scheirer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>William Theisen</title>
-      <link>https://danielmoreira.github.io/authors/william-theisen/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/authors/william-theisen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Anderson Rocha</title>
       <link>https://danielmoreira.github.io/authors/anderson-rocha/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/authors/anderson-rocha/</guid>
       <description></description>
@@ -87,16 +24,34 @@
     <item>
       <title>Aparna Bharati</title>
       <link>https://danielmoreira.github.io/authors/aparna-bharati/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/authors/aparna-bharati/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Daniel Moreira</title>
+      <link>https://danielmoreira.github.io/authors/daniel-moreira/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/daniel-moreira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joel Brogan</title>
+      <link>https://danielmoreira.github.io/authors/joel-brogan/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/joel-brogan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kevin Bowyer</title>
       <link>https://danielmoreira.github.io/authors/kevin-bowyer/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/authors/kevin-bowyer/</guid>
       <description></description>
@@ -105,9 +60,54 @@
     <item>
       <title>Patrick Flynn</title>
       <link>https://danielmoreira.github.io/authors/patrick-flynn/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/authors/patrick-flynn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walter Scheirer</title>
+      <link>https://danielmoreira.github.io/authors/walter-scheirer/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/walter-scheirer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pamela Bilo Thomas</title>
+      <link>https://danielmoreira.github.io/authors/pamela-bilo-thomas/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/pamela-bilo-thomas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pascal Phoa</title>
+      <link>https://danielmoreira.github.io/authors/pascal-phoa/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/pascal-phoa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Weninger</title>
+      <link>https://danielmoreira.github.io/authors/tim-weninger/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/tim-weninger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William Theisen</title>
+      <link>https://danielmoreira.github.io/authors/william-theisen/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/william-theisen/</guid>
       <description></description>
     </item>
     
@@ -244,9 +244,8 @@
       
       <guid>https://danielmoreira.github.io/authors/daniel/</guid>
       <description>&lt;p&gt;My name is Daniel and I am a computer scientist.
-I am currently an assistant research professor at the &lt;a href=&#34;https://www.timeshighereducation.com/world-university-rankings/university-notre-dame-0&#34; target=&#34;_blank&#34;&gt;University of Notre Dame&lt;/a&gt;, US, and I received my PhD degree from the &lt;a href=&#34;https://www.timeshighereducation.com/world-university-rankings/university-campinas&#34; target=&#34;_blank&#34;&gt;University of Campinas&lt;/a&gt;, Brazil, in 2016.&lt;/p&gt;
-
-&lt;p&gt;As a member of the &lt;a href=&#34;https://cvrl.nd.edu/&#34; target=&#34;_blank&#34;&gt;Computer Vision Research Lab&lt;/a&gt;, I investigate the application of techniques from the fields of Computer Vision, Machine Learning and Visual Media Forensics to make our &lt;a href=&#34;post/bettersoc&#34; target=&#34;_blank&#34;&gt;society better&lt;/a&gt;.&lt;/p&gt;
+I am currently an assistant research professor at the &lt;a href=&#34;https://www.timeshighereducation.com/world-university-rankings/university-notre-dame-0&#34;&gt;University of Notre Dame&lt;/a&gt;, USA, and I received my PhD degree from the &lt;a href=&#34;https://www.timeshighereducation.com/world-university-rankings/university-campinas&#34;&gt;University of Campinas&lt;/a&gt;, Brazil, in 2016.&lt;/p&gt;
+&lt;p&gt;As a member of the &lt;a href=&#34;https://cvrl.nd.edu/&#34;&gt;Computer Vision Research Lab&lt;/a&gt;, I investigate the application of techniques from the fields of Computer Vision, Machine Learning, Visual Media Forensics, and Biometrics to make our &lt;a href=&#34;post/bettersoc&#34;&gt;society better&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
