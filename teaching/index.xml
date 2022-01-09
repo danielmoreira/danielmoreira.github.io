@@ -7,10 +7,66 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://danielmoreira.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Biometrics, Spring 2022</title>
+      <link>https://danielmoreira.github.io/teaching/biometrics-spr22/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/teaching/biometrics-spr22/</guid>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;nd.jpg&#34; width=&#34;250px&#34; /&gt;
+
+
+&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;p&gt;Course: CSE 40537 / 60537 Biometrics&lt;br&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dhenriq1@nd.edu&#34;&gt;dhenriq1@nd.edu&lt;/a&gt;)&lt;br&gt;
+Teaching Assistant: Jason You (&lt;a href=&#34;mailto:syou@nd.edu&#34;&gt;syou@nd.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Lectures: TUE and THR, 3:30 to 4:45 PM, 356A Fitzpatrick Hall&lt;br&gt;
+Office Hours: Daniel - MON and WED, 5:00 to 6:00 PM, 313 Cushing Hall, Jason - WED and THR, 1:00 to 2:00 PM&lt;/p&gt;
+&lt;p&gt;Slack: &lt;a href=&#34;https://nd-biometrics-spr22.slack.com&#34;&gt;https://nd-biometrics-spr22.slack.com&lt;/a&gt;&lt;br&gt;
+Panopto: &lt;a href=&#34;https://bit.ly/33ZkU97&#34;&gt;https://bit.ly/33ZkU97&lt;/a&gt;&lt;br&gt;
+Zoom: &lt;a href=&#34;https://bit.ly/3JS9zMA&#34;&gt;https://bit.ly/3JS9zMA&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;progress&#34;&gt;Progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;01/11/2022 - Syllabus, course details.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;01/28/2022 - 1st assignment due date (10% of grade)&lt;/li&gt;
+&lt;li&gt;02/03/2022 - Fingerprint data collection&lt;/li&gt;
+&lt;li&gt;02/16/2022 - 2nd assignment due date (10% of grade)&lt;/li&gt;
+&lt;li&gt;02/24/2022 - Iris data collection&lt;/li&gt;
+&lt;li&gt;03/03/2022 - Midterm exam (20% of grade)&lt;/li&gt;
+&lt;li&gt;03/18/2022 - 3rd assignment due date (10% of grade)&lt;/li&gt;
+&lt;li&gt;03/24/2022 - Face data collection&lt;/li&gt;
+&lt;li&gt;04/05/2022 - Fingerprint presentation attack day&lt;/li&gt;
+&lt;li&gt;04/07/2022 - Iris presentation attack day&lt;/li&gt;
+&lt;li&gt;04/08/2022 - 4th assignment due date (10% of grade)&lt;/li&gt;
+&lt;li&gt;04/12/2022 - Face presentation attack day&lt;/li&gt;
+&lt;li&gt;04/19/2022 - Presentation attack report due date (20% of grade)&lt;/li&gt;
+&lt;li&gt;05/05/2022 - Final exam (20% of grade)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/panopto.pdf&#34;&gt;Classroom recording notification.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
     
     <item>
       <title>Biometrics, Spring 2020</title>
