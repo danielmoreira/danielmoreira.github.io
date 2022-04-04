@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://danielmoreira.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Anderson Rocha</title>
       <link>https://danielmoreira.github.io/authors/anderson-rocha/</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/authors/anderson-rocha/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Aparna Bharati</title>
       <link>https://danielmoreira.github.io/authors/aparna-bharati/</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/authors/aparna-bharati/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Daniel Moreira</title>
       <link>https://danielmoreira.github.io/authors/daniel-moreira/</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/authors/daniel-moreira/</guid>
       <description></description>
@@ -42,9 +42,27 @@
     <item>
       <title>Joel Brogan</title>
       <link>https://danielmoreira.github.io/authors/joel-brogan/</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/authors/joel-brogan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walter Scheirer</title>
+      <link>https://danielmoreira.github.io/authors/walter-scheirer/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/walter-scheirer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William Theisen</title>
+      <link>https://danielmoreira.github.io/authors/william-theisen/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/william-theisen/</guid>
       <description></description>
     </item>
     
@@ -63,15 +81,6 @@
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/authors/patrick-flynn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Walter Scheirer</title>
-      <link>https://danielmoreira.github.io/authors/walter-scheirer/</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/authors/walter-scheirer/</guid>
       <description></description>
     </item>
     
@@ -99,15 +108,6 @@
       <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/authors/tim-weninger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>William Theisen</title>
-      <link>https://danielmoreira.github.io/authors/william-theisen/</link>
-      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/authors/william-theisen/</guid>
       <description></description>
     </item>
     

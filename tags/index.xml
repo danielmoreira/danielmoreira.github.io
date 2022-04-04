@@ -7,10 +7,55 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://danielmoreira.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Image Clustering</title>
+      <link>https://danielmoreira.github.io/tags/image-clustering/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/image-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media Forensics</title>
+      <link>https://danielmoreira.github.io/tags/media-forensics/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/media-forensics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provenance Analysis</title>
+      <link>https://danielmoreira.github.io/tags/provenance-analysis/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/provenance-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provenance Filtering</title>
+      <link>https://danielmoreira.github.io/tags/provenance-filtering/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/provenance-filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provenance Graph Construction</title>
+      <link>https://danielmoreira.github.io/tags/provenance-graph-construction/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/tags/provenance-graph-construction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Biometrics</title>
@@ -67,33 +112,6 @@
     </item>
     
     <item>
-      <title>Media Forensics</title>
-      <link>https://danielmoreira.github.io/tags/media-forensics/</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/tags/media-forensics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Provenance Analysis</title>
-      <link>https://danielmoreira.github.io/tags/provenance-analysis/</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/tags/provenance-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Provenance Filtering</title>
-      <link>https://danielmoreira.github.io/tags/provenance-filtering/</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/tags/provenance-filtering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Document Analysis</title>
       <link>https://danielmoreira.github.io/tags/document-analysis/</link>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
@@ -130,15 +148,6 @@
     </item>
     
     <item>
-      <title>Image Fitlering</title>
-      <link>https://danielmoreira.github.io/tags/image-fitlering/</link>
-      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/tags/image-fitlering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Meme Genres</title>
       <link>https://danielmoreira.github.io/tags/meme-genres/</link>
       <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
@@ -162,15 +171,6 @@
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Provenance Graph Construction</title>
-      <link>https://danielmoreira.github.io/tags/provenance-graph-construction/</link>
-      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/tags/provenance-graph-construction/</guid>
       <description></description>
     </item>
     
