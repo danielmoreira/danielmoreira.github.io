@@ -68,6 +68,9 @@ Panopto: &lt;a href=&#34;https://bit.ly/3A4QEKc&#34;&gt;https://bit.ly/3A4QEKc&l
 &lt;li&gt;04/07/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_21.pdf&#34;&gt;Multibiometrics&lt;/a&gt;, Data fusion.&lt;/li&gt;
 &lt;li&gt;04/12/2022 - &lt;a href=&#34;#boyd&#34;&gt;2nd Invited Talk,&lt;/a&gt; Mr. Aidan Boyd.&lt;/li&gt;
 &lt;li&gt;04/14/2022 - Fingerprint presentation attack day.&lt;/li&gt;
+&lt;li&gt;04/19/2022 - Iris and face presentation attack day.&lt;/li&gt;
+&lt;li&gt;04/21/2022 - Grad students&amp;rsquo; presentations, concluding remarks.&lt;/li&gt;
+&lt;li&gt;05/05/2022 - Final exam.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--- bdgX4&amp;A?q];8?Up7 --&gt;
 &lt;hr&gt;
@@ -90,10 +93,10 @@ Panopto: &lt;a href=&#34;https://bit.ly/3A4QEKc&#34;&gt;https://bit.ly/3A4QEKc&l
 &lt;li&gt;&lt;del&gt;03/25/2022 - 3rd assignment due date.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;04/12/2022 - Mr. Aidan Boyd&amp;rsquo;s talk.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;04/14/2022 - Fingerprint presentation attack day.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;04/18/2022 - 4th assignment due date.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/18/2022 - 4th assignment due date.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;04/19/2022 - Iris and face presentation attack day.&lt;/li&gt;
 &lt;li&gt;04/21/2022 - Grad students&amp;rsquo; final report presentation.&lt;/li&gt;
-&lt;li&gt;05/05/2022 - Final exam.&lt;/li&gt;
+&lt;li&gt;05/05/2022 - Final exam, 10:30 AM to 12:30 PM.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;a name=&#34;kuehlkamp&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -323,7 +326,7 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34;&gt;https://notr
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;b&gt;Diverse Aspects in Advancing Iris Recognition Systems&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; Are we ready for widespread, mass-scale adoption of iris recognition systems? Following the miniaturization of fingerprint scanners, these have dominated recognition systems and have even become almost commonplace for unlocking cell phones, but what if in the not-so-far-off future they were replaced with iris scanners, would you be comfortable with it? Since its initial introduction in 1993, automated iris recognition has dramatically grown in popularity and soon could become the dominant method for automated recognition. Take for example the largest recognition system in the world &amp;mdash; India’s Aadhaar program &amp;mdash; which has collected more than 1.1 billion irises from their citizens to be used as the primary identification for banking, pensions, and welfare programs. Even more recently &amp;mdash; November 2017 &amp;mdash; Somaliland became the first country in the world to use iris recognition as the means for identification in a public election, which had more than 800,000 registered voters. Although a mature technology in many regards, the drastic increase in iris recognition adoption has revealed many opportunities for improvement. In this talk I present an overview of my research, which focuses on improving iris recognition in three ways: speed, accuracy, and robustness. &lt;a name=&#34;czajka&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;Diverse Aspects in Advancing Iris Recognition Systems&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; Are we ready for widespread, mass-scale adoption of iris recognition systems? Following the miniaturization of fingerprint scanners, these have dominated recognition systems and have even become almost commonplace for unlocking cell phones, but what if in the not-so-far-off future they were replaced with iris scanners, would you be comfortable with it? Since its initial introduction in 1993, automated iris recognition has dramatically grown in popularity and soon could become the dominant method for automated recognition. Take for example the largest recognition system in the world &amp;mdash; India’s Aadhaar program &amp;mdash; which has collected more than 1.1 billion irises from their citizens to be used as the primary identification for banking, pensions, and welfare programs. Even more recently &amp;mdash; November 2017 &amp;mdash; Somaliland became the first country in the world to use iris recognition as the means for identification in a public election, which had more than 800,000 registered voters. Although a mature technology in many regards, the drastic increase in iris recognition adoption has revealed many opportunities for improvement. In this talk I present an overview of my research, which focuses on improving iris recognition in three ways: speed, accuracy, and robustness. &lt;code&gt;&amp;lt;a name=&amp;quot;czajka&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
