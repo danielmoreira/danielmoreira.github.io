@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://danielmoreira.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,99 @@
     <item>
       <title>Anderson Rocha</title>
       <link>https://danielmoreira.github.io/authors/anderson-rocha/</link>
-      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/authors/anderson-rocha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Moreira</title>
+      <link>https://danielmoreira.github.io/authors/daniel-moreira/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/daniel-moreira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Davide Cozzolino</title>
+      <link>https://danielmoreira.github.io/authors/davide-cozzolino/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/davide-cozzolino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edoardo Cannas</title>
+      <link>https://danielmoreira.github.io/authors/edoardo-cannas/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/edoardo-cannas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edward Delp</title>
+      <link>https://danielmoreira.github.io/authors/edward-delp/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/edward-delp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joao Cardenuto</title>
+      <link>https://danielmoreira.github.io/authors/joao-cardenuto/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/joao-cardenuto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luisa Verdoliva</title>
+      <link>https://danielmoreira.github.io/authors/luisa-verdoliva/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/luisa-verdoliva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paolo Bestagini</title>
+      <link>https://danielmoreira.github.io/authors/paolo-bestagini/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/paolo-bestagini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sara Mandelli</title>
+      <link>https://danielmoreira.github.io/authors/sara-mandelli/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/sara-mandelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefano Tubaro</title>
+      <link>https://danielmoreira.github.io/authors/stefano-tubaro/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/stefano-tubaro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walter Scheirer</title>
+      <link>https://danielmoreira.github.io/authors/walter-scheirer/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/authors/walter-scheirer/</guid>
       <description></description>
     </item>
     
@@ -31,29 +121,11 @@
     </item>
     
     <item>
-      <title>Daniel Moreira</title>
-      <link>https://danielmoreira.github.io/authors/daniel-moreira/</link>
-      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/authors/daniel-moreira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Joel Brogan</title>
       <link>https://danielmoreira.github.io/authors/joel-brogan/</link>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/authors/joel-brogan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Walter Scheirer</title>
-      <link>https://danielmoreira.github.io/authors/walter-scheirer/</link>
-      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/authors/walter-scheirer/</guid>
       <description></description>
     </item>
     
@@ -220,15 +292,6 @@
     </item>
     
     <item>
-      <title>Paolo Bestagini</title>
-      <link>https://danielmoreira.github.io/authors/paolo-bestagini/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/authors/paolo-bestagini/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Isabela Cota</title>
       <link>https://danielmoreira.github.io/authors/isabela-cota/</link>
       <pubDate>Thu, 16 Oct 2014 00:00:00 +0000</pubDate>
@@ -247,7 +310,7 @@
 I am currently an assistant research professor at the &lt;a href=&#34;https://www.timeshighereducation.com/world-university-rankings/university-notre-dame-0&#34;&gt;University of Notre Dame&lt;/a&gt;, USA, and I received my PhD degree from the &lt;a href=&#34;https://www.timeshighereducation.com/world-university-rankings/university-campinas&#34;&gt;University of Campinas&lt;/a&gt;, Brazil, in 2016.&lt;/p&gt;
 &lt;p&gt;As a member of the &lt;a href=&#34;https://cvrl.nd.edu/&#34;&gt;Computer Vision Research Lab&lt;/a&gt;, I investigate the application of techniques from the fields of Computer Vision, Machine Learning, Visual Media Forensics, and Biometrics to make our &lt;a href=&#34;post/bettersoc&#34;&gt;society better&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;I&amp;rsquo;m glad to be joining the &lt;a href=&#34;https://www.luc.edu/cs/index.shtml&#34;&gt;Department of Computer Science&lt;/a&gt; at &lt;a href=&#34;https://www.luc.edu/&#34;&gt;Loyola University Chicago&lt;/a&gt; (starting on Aug 2022).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I&amp;rsquo;m glad to be joining the &lt;a href=&#34;https://www.luc.edu/cs/index.shtml&#34;&gt;Department of Computer Science&lt;/a&gt; at &lt;a href=&#34;https://www.luc.edu/&#34;&gt;Loyola University Chicago&lt;/a&gt; (starting on August 2022).&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

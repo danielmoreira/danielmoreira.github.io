@@ -3,27 +3,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://danielmoreira.github.io/publication_types/2/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/anderson-rocha/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/daniel-moreira/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/davide-cozzolino/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/edoardo-cannas/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/edward-delp/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/publication/2022_ieeeaccess/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/tags/gans/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/joao-cardenuto/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/luisa-verdoliva/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/tags/media-forensics/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/paolo-bestagini/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/publication_types/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/sara-mandelli/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/tags/scientific-integrity/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/stefano-tubaro/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/tags/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmoreira.github.io/authors/walter-scheirer/</loc>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://danielmoreira.github.io/publication_types/6/</loc>
     <lastmod>2022-04-04T18:03:13-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://danielmoreira.github.io/authors/anderson-rocha/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://danielmoreira.github.io/authors/aparna-bharati/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/authors/</loc>
-    <lastmod>2022-05-18T00:57:54-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/authors/daniel-moreira/</loc>
     <lastmod>2022-04-04T18:03:13-04:00</lastmod>
   </url>
   
@@ -43,11 +123,6 @@
   </url>
   
   <url>
-    <loc>https://danielmoreira.github.io/tags/media-forensics/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://danielmoreira.github.io/tags/provenance-analysis/</loc>
     <lastmod>2022-04-04T18:03:13-04:00</lastmod>
   </url>
@@ -59,21 +134,6 @@
   
   <url>
     <loc>https://danielmoreira.github.io/tags/provenance-graph-construction/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/publication_types/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/tags/</loc>
-    <lastmod>2022-05-10T16:38:53-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/authors/walter-scheirer/</loc>
     <lastmod>2022-04-04T18:03:13-04:00</lastmod>
   </url>
   
@@ -115,11 +175,6 @@
   <url>
     <loc>https://danielmoreira.github.io/teaching/</loc>
     <lastmod>2022-05-10T16:38:53-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielmoreira.github.io/publication_types/2/</loc>
-    <lastmod>2021-08-12T22:17:02-04:00</lastmod>
   </url>
   
   <url>
@@ -448,11 +503,6 @@
   </url>
   
   <url>
-    <loc>https://danielmoreira.github.io/authors/paolo-bestagini/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://danielmoreira.github.io/publication/2017_icip_filtering/</loc>
     <lastmod>2019-07-31T17:41:57-04:00</lastmod>
   </url>
@@ -504,7 +554,7 @@
   
   <url>
     <loc>https://danielmoreira.github.io/authors/daniel/</loc>
-    <lastmod>2022-05-18T00:57:54-04:00</lastmod>
+    <lastmod>2022-06-11T02:06:54-05:00</lastmod>
   </url>
   
   <url>
