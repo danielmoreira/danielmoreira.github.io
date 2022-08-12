@@ -18,7 +18,49 @@
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/project/trof/</guid>
-      <description></description>
+      <description>&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/oIeYz6Kj9Q4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;/p&gt;
+&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;Temporal Robust Features (TRoF) comprise a spatiotemporal video content detector and a descriptor developed to present low-memory footprint and small runtime.
+It was shown to be effective for the tasks of &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0379073816304169&#34;&gt;pornography&lt;/a&gt; and &lt;a href=&#34;https://ieeexplore.ieee.org/document/7926633&#34;&gt;violence&lt;/a&gt; detection.
+Please refer to both articles for further technical details.&lt;/p&gt;
+&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
+&lt;p&gt;TRoF executable is available through a &lt;a href=&#34;https://www.docker.com/&#34;&gt;docker&lt;/a&gt; image, available &lt;a href=&#34;https://hub.docker.com/r/dmoreira/trof/&#34;&gt;here&lt;/a&gt;.
+Prior to running it, you have to &lt;a href=&#34;https://docs.docker.com/install/&#34;&gt;install docker&lt;/a&gt; (available for various OS platforms).
+Once docker is running, you have to execute the following scripts, in command line:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;your-computer$ docker run -ti dmoreira/trof bash
+
+docker-instance# cd TRoF
+docker-instance# ./fast_trof_descriptor
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Follow the printed usage instructions for running TRoF.
+The software reads a video input file and outputs float feature vectors, one per line, in the following format:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;x y t v1 v2 v3 ... vn
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Pleaser refer to either &lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/cp/&#34;&gt;here&lt;/a&gt; or &lt;a href=&#34;https://docs.docker.com/storage/volumes/&#34;&gt;here&lt;/a&gt;, if you want to add videos to a running TRoF docker instance.&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;p&gt;If you are using TRoF, please cite:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;@article{moreira2016fsi,
+  title = {Pornography classification: the hidden clues in video space-time},
+  author={Daniel Moreira and Sandra Avila and Mauricio Perez and Daniel Moraes and
+     Vanessa Testoni and Eduardo Valle and Siome Goldenstein and Anderson Rocha},
+  journal = {Elsevier Forensic Science International},
+  year    = {2016},
+  volume  = {268},
+  number  = {1},
+  pages   = {46--61}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;
+&lt;p&gt;This software is provided by the authors as is, with no warranties and no support, &lt;strong&gt;for academic purposes only&lt;/strong&gt;.
+The authors assume no responsibility or liability for the use of the software.
+They do not convey any license or title under any patent or copyright, and they reserve the right to make changes in the software without notification.&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
+&lt;p&gt;This software was developed through the project &amp;ldquo;Sensitive Media Analysis&amp;rdquo;, sponsored by Samsung Eletronica da Amazonia Ltda., in the framework of Brazilian law N. 815 8,248/91.
+We thank the financial support of the Brazilian Council for Scientific and Technological Development - CNPq (Grants #477662/2013-7, #304472/2015-8), the Sao Paulo Research Foundation - Fapesp (DejaVu Grant #2015/19222-9), and the Coordination for the Improvement of Higher Level Education Personnel - CAPES (DeepEyes project).&lt;/p&gt;
+</description>
     </item>
     
   </channel>
