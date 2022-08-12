@@ -131,7 +131,7 @@
   
   <meta property="article:published_time" content="2019-05-28T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2022-08-12T17:05:38-05:00">
+  <meta property="article:modified_time" content="2022-08-12T17:39:15-05:00">
   
 
   
@@ -523,7 +523,7 @@
 
 
 <meta content="2019-05-28 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2022-08-12 17:05:38 -0500 CDT" itemprop="dateModified">
+<meta content="2022-08-12 17:39:15 -0500 CDT" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -684,7 +684,7 @@
 
 
 <meta content="2019-05-28 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2022-08-12 17:05:38 -0500 CDT" itemprop="dateModified">
+<meta content="2022-08-12 17:39:15 -0500 CDT" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -841,6 +841,7 @@
 <p>Temporal Robust Features (TRoF) comprise a spatiotemporal video content detector and a descriptor developed to present low-memory footprint and small runtime.
 It was shown to be effective for the tasks of <a href="https://www.sciencedirect.com/science/article/abs/pii/S0379073816304169">pornography</a> and <a href="https://ieeexplore.ieee.org/document/7926633">violence</a> detection.
 Please refer to both articles for further technical details.</p>
+<hr>
 <h2 id="usage">Usage</h2>
 <p>TRoF executable is available through a <a href="https://www.docker.com/">docker</a> image, available <a href="https://hub.docker.com/r/dmoreira/trof/">here</a>.
 Prior to running it, you have to <a href="https://docs.docker.com/install/">install docker</a> (available for various OS platforms).
@@ -853,6 +854,7 @@ docker-instance# ./fast_trof_descriptor
 The software reads a video input file and outputs float feature vectors, one per line, in the following format:</p>
 <pre><code class="language-console" data-lang="console">x y t v1 v2 v3 ... vn
 </code></pre><p>Pleaser refer to either <a href="https://docs.docker.com/engine/reference/commandline/cp/">here</a> or <a href="https://docs.docker.com/storage/volumes/">here</a>, if you want to add videos to a running TRoF docker instance.</p>
+<hr>
 <h2 id="citation">Citation</h2>
 <p>If you are using TRoF, please cite:</p>
 <pre><code class="language-console" data-lang="console">@article{moreira2016fsi,
@@ -865,10 +867,12 @@ The software reads a video input file and outputs float feature vectors, one per
   number  = {1},
   pages   = {46--61}
 }
-</code></pre><h2 id="disclaimer">Disclaimer</h2>
+</code></pre><hr>
+<h2 id="disclaimer">Disclaimer</h2>
 <p>This software is provided by the authors as is, with no warranties and no support, <strong>for academic purposes only</strong>.
 The authors assume no responsibility or liability for the use of the software.
 They do not convey any license or title under any patent or copyright, and they reserve the right to make changes in the software without notification.</p>
+<hr>
 <h2 id="acknowledgments">Acknowledgments</h2>
 <p>This software was developed through the project &ldquo;Sensitive Media Analysis&rdquo;, sponsored by Samsung Eletronica da Amazonia Ltda., in the framework of Brazilian law N. 815 8,248/91.
 We thank the financial support of the Brazilian Council for Scientific and Technological Development - CNPq (Grants #477662/2013-7, #304472/2015-8), the Sao Paulo Research Foundation - Fapesp (DejaVu Grant #2015/19222-9), and the Coordination for the Improvement of Higher Level Education Personnel - CAPES (DeepEyes project).</p>
