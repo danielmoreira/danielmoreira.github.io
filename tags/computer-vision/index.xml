@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision on Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tags/computer-vision/</link>
+    <description>Recent content in Computer Vision on Daniel Moreira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
+    <lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://danielmoreira.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Computer Vision Applications, Fall 2022</title>
+      <link>https://danielmoreira.github.io/teaching/cvapp-aut22/</link>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/teaching/cvapp-aut22/</guid>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;luc.png&#34; width=&#34;250px&#34; /&gt;
+
+
+&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;p&gt;Course: COMP 388-002 / COMP 488-002 Computer Science Topics&lt;br&gt;
+Format: Seminar, Level: Undergraduate and Graduate&lt;br&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Lectures: MON, 4:15 to 6:45 PM, 117 Cuneo Hall&lt;br&gt;
+Office Hours: TUE to FRI, 5:00 to 6:30 PM, 310 Doyle Center or Zoom, or by appointment
+(please contact the instructor for accommodation).&lt;br&gt;
+Zoom link (for remote office hours): &lt;a href=&#34;https://bit.ly/3Tnl9nR&#34;&gt;https://bit.ly/3Tnl9nR&lt;/a&gt;&lt;/p&gt;
+&lt;!--- Calendly link (for tickets to the office hours): --&gt;
+&lt;!--- Sakai: --&gt;
+&lt;p&gt;&lt;img src=&#34;cv-then-now.gif&#34; alt=&#34;Computer Vision then and now.&#34;&gt;&lt;/p&gt;
+&lt;!--- &gt; Announcements. --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;How might Google or TinEye reverse image search operate?
+How can a computer program process the pixel values of images and video frames and classify the depicted scene,
+or leverage the captured faces to perform person identification?
+What about manipulated images with tools such as Photoshop?
+Are there methods to help to debunk these manipulations?
+These are some of the questions we will be addressing in this course,
+focusing on state-of-the-art Computer Vision (CV) solutions to reduce the semantic gap
+between the pixel values and the desired outcome of complex tasks such as content-based image retrieval,
+content classification and recognition, biometric identification, and media forensics,
+always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&#34;&gt;greater good&lt;/a&gt; in mind.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Requirements to attend this course are basic programming skills (especially Python) and statistics and probability.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Leader&lt;/th&gt;
+&lt;th&gt;Assignment&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;08/29&lt;/td&gt;
+&lt;td&gt;Introduction to CV&lt;/td&gt;
+&lt;td&gt;Instructor&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09/05&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Labor Day&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;td&gt;A01, due on 09/13&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09/12&lt;/td&gt;
+&lt;td&gt;Letter Soup: AI, ML, NN, and DL&lt;/td&gt;
+&lt;td&gt;Instructor&lt;/td&gt;
+&lt;td&gt;A02, due on 09/20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09/19&lt;/td&gt;
+&lt;td&gt;Local and Global Descriptors&lt;/td&gt;
+&lt;td&gt;Instructor&lt;/td&gt;
+&lt;td&gt;A03, due on 09/27&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09/26&lt;/td&gt;
+&lt;td&gt;CBIR and Indexing&lt;/td&gt;
+&lt;td&gt;TBD &lt;em&gt;(students)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;A04, due on 10/04&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/03&lt;/td&gt;
+&lt;td&gt;Image Classification&lt;/td&gt;
+&lt;td&gt;TBD &lt;em&gt;(students)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;A05, due on 10/18&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/10&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Fall Break&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/17&lt;/td&gt;
+&lt;td&gt;Object Detection&lt;/td&gt;
+&lt;td&gt;TBD &lt;em&gt;(students)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;A06, due on 10/25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/24&lt;/td&gt;
+&lt;td&gt;Image Segmentation&lt;/td&gt;
+&lt;td&gt;TBD &lt;em&gt;(students)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;A07, due on 11/01&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/31&lt;/td&gt;
+&lt;td&gt;Face Detection&lt;/td&gt;
+&lt;td&gt;TBD &lt;em&gt;(students)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;A08, due on 11/08&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11/07&lt;/td&gt;
+&lt;td&gt;Face Verification&lt;/td&gt;
+&lt;td&gt;TBD &lt;em&gt;(students)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;A09, due on 11/15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11/14&lt;/td&gt;
+&lt;td&gt;GANs and Generative DL&lt;/td&gt;
+&lt;td&gt;TBD &lt;em&gt;(students)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;A10, due on 11/29&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11/21&lt;/td&gt;
+&lt;td&gt;Deep and Cheap Fakes&lt;/td&gt;
+&lt;td&gt;Instructor&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11/28&lt;/td&gt;
+&lt;td&gt;Sensitive Media Analysis&lt;/td&gt;
+&lt;td&gt;Instructor&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12/05&lt;/td&gt;
+&lt;td&gt;Provenance Analysis&lt;/td&gt;
+&lt;td&gt;TBD &lt;em&gt;(students)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12/12&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Final Exam&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;assignments&#34;&gt;Assignments&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A01: TBD, released no later than 09/05, due on 09/13 at noon.&lt;/li&gt;
+&lt;li&gt;A02: TBD, released no later than 09/12, due on 09/20 at noon.&lt;/li&gt;
+&lt;li&gt;A03: TBD, released no later than 09/19, due on 09/27 at noon.&lt;/li&gt;
+&lt;li&gt;A04: TBD, released no later than 09/26, due on 10/04 at noon.&lt;/li&gt;
+&lt;li&gt;A05: TBD, released no later than 10/03, due on 10/18 at noon.&lt;/li&gt;
+&lt;li&gt;A06: TBD, released no later than 10/17, due on 10/25 at noon.&lt;/li&gt;
+&lt;li&gt;A07: TBD, released no later than 10/24, due on 11/01 at noon.&lt;/li&gt;
+&lt;li&gt;A08: TBD, released no later than 10/31, due on 11/08 at noon.&lt;/li&gt;
+&lt;li&gt;A09: TBD, released no later than 11/07, due on 11/15 at noon.&lt;/li&gt;
+&lt;li&gt;A10: TBD, released no later than 11/14, due on 11/29 at noon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Students will have to do at most eight assignments.
+Each assignment will comprise a particular set of scientific articles.
+Students will have to choose one of the articles for each assignment and provide a summary on the due date.
+There is no limit of pages for the summaries.
+Each summary should contain:&lt;br&gt;
+(1) &lt;strong&gt;What&lt;/strong&gt; is the problem addressed in the article?&lt;br&gt;
+(2) &lt;strong&gt;Why&lt;/strong&gt; is it important to address this problem?&lt;br&gt;
+(3) &lt;strong&gt;How&lt;/strong&gt; do the authors address the problem?&lt;br&gt;
+(4) What are the authors&amp;rsquo; &lt;strong&gt;claims&lt;/strong&gt;?&lt;br&gt;
+(5) What &lt;strong&gt;methodology&lt;/strong&gt; did they adopt (e.g., datasets, problem metrics, experiments) to prove their claims?&lt;br&gt;
+(6) Do you agree with the authors&amp;rsquo; claims?&lt;br&gt;
+(7) For the graduate students, how do you think you may use this work in your research?&lt;br&gt;
+(8) What open questions do you have about the article?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;discussion-leaders&#34;&gt;Discussion Leaders&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CBIR and Indexing, TBD &lt;em&gt;(students)&lt;/em&gt;, on 09/26.&lt;/li&gt;
+&lt;li&gt;Image Classification, TBD &lt;em&gt;(students)&lt;/em&gt;, on 10/03.&lt;/li&gt;
+&lt;li&gt;Object Detection, TBD &lt;em&gt;(students)&lt;/em&gt;, on 10/17.&lt;/li&gt;
+&lt;li&gt;Image Segmentation, TBD &lt;em&gt;(students)&lt;/em&gt;, on 10/24.&lt;/li&gt;
+&lt;li&gt;Face Detection, TBD &lt;em&gt;(students)&lt;/em&gt; on 10/31.&lt;/li&gt;
+&lt;li&gt;Face Verification, TBD &lt;em&gt;(students)&lt;/em&gt; on 11/07.&lt;/li&gt;
+&lt;li&gt;GANs and Generative DL, TBD &lt;em&gt;(students)&lt;/em&gt;, on 11/14.&lt;/li&gt;
+&lt;li&gt;Provenance Analysis, TBD &lt;em&gt;(students)&lt;/em&gt;, on 12/05.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Each student will play the role of &lt;em&gt;discussion leader&lt;/em&gt; twice along the course.
+Students will lead discussion in groups, preferably in pairs of one graduate and one undergraduate student.
+The graduate students are expected to help their undergraduate peers.&lt;/p&gt;
+&lt;p&gt;Discussion leaders will be responsible for organizing a 1.5-hour presentation of the topic of the day,
+resorting to slides, videos, and demonstrations.
+The instructor advises the discussion leaders to share their material with him
+a couple of days before the presentation day.&lt;br&gt;
+Discussion leaders will also receive the summaries of the articles and open questions related to their topics
+from the other students at least 5 days before their presentation.&lt;/p&gt;
+&lt;p&gt;The discussion and assignment topics coincide; as a consequence, discussion leaders are not required to
+provide summaries for the topics they will present.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;final-exam&#34;&gt;Final Exam&lt;/h2&gt;
+&lt;p&gt;Date and Local: 12/12, 4:15 PM, 117 Cuneo Hall&lt;br&gt;
+Format: Oral Quiz&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;grading&#34;&gt;Grading&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;Point Interval&lt;/th&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;Point Interval&lt;/th&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;Point Interval&lt;/th&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;Point Interval&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;[94, 100)&lt;/td&gt;
+&lt;td&gt;B+&lt;/td&gt;
+&lt;td&gt;[88, 89]&lt;/td&gt;
+&lt;td&gt;C+&lt;/td&gt;
+&lt;td&gt;[78, 79]&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;td&gt;[60, 69]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A-&lt;/td&gt;
+&lt;td&gt;[90, 93]&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;td&gt;[84, 87]&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;td&gt;[74, 77]&lt;/td&gt;
+&lt;td&gt;F&lt;/td&gt;
+&lt;td&gt;[0, 59]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;B-&lt;/td&gt;
+&lt;td&gt;[80, 83]&lt;/td&gt;
+&lt;td&gt;C-&lt;/td&gt;
+&lt;td&gt;[70, 73]&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;distribution&#34;&gt;Distribution&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Total&lt;/strong&gt;: 100 points&lt;/li&gt;
+&lt;li&gt;Class Presence and Participation: 6 points (x13)&lt;/li&gt;
+&lt;li&gt;Assignments: 1 point (x8)&lt;/li&gt;
+&lt;li&gt;Discussion Leadership: 3 points (x2)&lt;/li&gt;
+&lt;li&gt;Final Exam: 8 points&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;CV-on-the-news&lt;/em&gt; Post: 1 point (extra)&lt;/li&gt;
+&lt;li&gt;Demonstration on Discussion Day: 5 points (extra)&lt;/li&gt;
+&lt;li&gt;Late Assignments: -1 point per day&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;grading.png&#34; alt=&#34;Grading.&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Each student has two &lt;em&gt;&amp;ldquo;Oopsie&amp;rdquo;&lt;/em&gt; cards (OC), which will allow them to either avoid losing points because of absence
+or extend due dates until 12/11.
+They may use an OC at their discretion for any task, except for their assigned days of discussion leadership
+and final exam.
+Please let the instructor know you want to use your OC.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;card.gif&#34; alt=&#34;Oopsie card.&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
+&lt;p&gt;Links useful to the course will be posted here.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;cv-on-the-news&#34;&gt;CV On the News&lt;/h2&gt;
+&lt;p&gt;News involving CV issues shared and discussed by the students and instructor will be posted here.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;References to scientific articles will be posted here.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;academic-integrity&#34;&gt;Academic Integrity&lt;/h2&gt;
+&lt;p&gt;Students are expected to adhere to the LUC statements on academic integrity available at &lt;a href=&#34;https://bit.ly/3TmiQkQ&#34;&gt;https://bit.ly/3TmiQkQ&lt;/a&gt;.
+These policies fully apply to this course.
+The penalty for task-wise academic misconduct is zero points.
+Multiple events of misconduct will incur in failing the entire course (with an F grade).
+All cases of academic misconduct will be reported to the proper department offices.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
