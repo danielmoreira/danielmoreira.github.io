@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://danielmoreira.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Computer Vision Applications, Fall 2022</title>
       <link>https://danielmoreira.github.io/teaching/cvapp-aut22/</link>
-      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/teaching/cvapp-aut22/</guid>
       <description>
@@ -36,10 +36,10 @@ Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel More
 &lt;p&gt;Lectures: MON, 4:15 to 6:45 PM, 117 Cuneo Hall&lt;br&gt;
 Office Hours: TUE and THR, 5:00 to 7:00 PM, &lt;a href=&#34;https://bit.ly/3Tos8wx&#34;&gt;by appointment&lt;/a&gt;&lt;br&gt;
 Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/4tCa9j&#34;&gt;https://sakai.luc.edu/x/4tCa9j&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;cv-then-now.gif&#34; alt=&#34;Computer Vision then and now.&#34;&gt;&lt;/p&gt;
 &lt;!--- &gt; Announcements. --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;cv-then-now.gif&#34; alt=&#34;Computer Vision then and now.&#34;&gt;&lt;/p&gt;
 &lt;p&gt;How might Google or TinEye reverse image search operate?
 How can a computer program process the pixel values of images and video frames and classify the depicted scene,
 or leverage the captured faces to perform person identification?

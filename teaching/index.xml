@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://danielmoreira.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Computer Vision Applications, Fall 2022</title>
       <link>https://danielmoreira.github.io/teaching/cvapp-aut22/</link>
-      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://danielmoreira.github.io/teaching/cvapp-aut22/</guid>
       <description>
@@ -36,10 +36,10 @@ Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel More
 &lt;p&gt;Lectures: MON, 4:15 to 6:45 PM, 117 Cuneo Hall&lt;br&gt;
 Office Hours: TUE and THR, 5:00 to 7:00 PM, &lt;a href=&#34;https://bit.ly/3Tos8wx&#34;&gt;by appointment&lt;/a&gt;&lt;br&gt;
 Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/4tCa9j&#34;&gt;https://sakai.luc.edu/x/4tCa9j&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;cv-then-now.gif&#34; alt=&#34;Computer Vision then and now.&#34;&gt;&lt;/p&gt;
 &lt;!--- &gt; Announcements. --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;cv-then-now.gif&#34; alt=&#34;Computer Vision then and now.&#34;&gt;&lt;/p&gt;
 &lt;p&gt;How might Google or TinEye reverse image search operate?
 How can a computer program process the pixel values of images and video frames and classify the depicted scene,
 or leverage the captured faces to perform person identification?
@@ -387,6 +387,46 @@ All cases of academic misconduct will be reported to the proper department offic
 &lt;em&gt;Services for Students With Disabilities&lt;/em&gt; (SSWD) office at 773-508-3700 or &lt;a href=&#34;mailto:SSWD@luc.edu&#34;&gt;SSWD@luc.edu&lt;/a&gt; as soon as possible.
 The SSWD office will provide accommodation letters that, once shared with the instructor, will be fully accommodated
 as per the terms of their content with no further questions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning the Shell, Fall 2022</title>
+      <link>https://danielmoreira.github.io/teaching/comptool-aut22/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmoreira.github.io/teaching/comptool-aut22/</guid>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;luc.png&#34; width=&#34;250px&#34; /&gt;
+
+
+&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;p&gt;Course: COMP 141-001 / COMP 400D-001 Intro to Computing Tool&lt;br&gt;
+Level: Undergraduate and Graduate&lt;br&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Lectures: Asynchronous and fully remote on &lt;a href=&#34;https://sakai.luc.edu/x/QxXrXd&#34;&gt;Sakai&lt;/a&gt;&lt;br&gt;
+Office Hours: WED, 5 to 8 PM, and FRI, 4 to 5 PM, &lt;a href=&#34;https://bit.ly/3BDuEID&#34;&gt;by appointment&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;terminal.gif&#34; alt=&#34;Shell terminal.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Despite the current era of rich graphical user interfaces (desktop, web, and mobile), the &amp;ldquo;command line&amp;rdquo; experience
+remains important, especially for software developers and computer-aided scientific researchers.
+Many development scenarios still require command line and fluency in Unix tools, including the modern embedded,
+cloud, cybersecurity, and supercomputing environments. With mobile computing and Internet of Things, Unix (via Linux)
+has risen to the level of a ubiquitous platform, owing to its lightweight and open-source nature.
+While this course does not aim at being a comprehensive programming class, students will master basic programming
+skills using shell scripting. They will also learn about
+problem-solving using Unix commands supported by shell scripts.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Please refer to &lt;a href=&#34;https://sakai.luc.edu/x/QxXrXd&#34;&gt;Sakai&lt;/a&gt; for having access to the materials, assignments, quizzes,
+announcements, grading, and progress of the course. This page is static and will not be updated.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
