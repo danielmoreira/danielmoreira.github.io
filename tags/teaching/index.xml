@@ -60,7 +60,7 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;tr&gt;
 &lt;th&gt;Date&lt;/th&gt;
 &lt;th&gt;Topic&lt;/th&gt;
-&lt;th&gt;Leader&lt;/th&gt;
+&lt;th&gt;Leaders&lt;/th&gt;
 &lt;th&gt;References&lt;/th&gt;
 &lt;th&gt;Assignment&lt;/th&gt;
 &lt;/tr&gt;
@@ -82,10 +82,10 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;09/12&lt;/td&gt;
-&lt;td&gt;Letter Soup: AI, ML, NN, and DL&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/material/lecture_02.pdf&#34;&gt;Letter Soup: AI, ML, NN, DL, etc.&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Instructor&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;#ref123&#34;&gt;[1, 2, 3]&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;A02, due on 09/20&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#a02&#34;&gt;A02&lt;/a&gt;, due on 09/20&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;09/19&lt;/td&gt;
@@ -97,14 +97,14 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;tr&gt;
 &lt;td&gt;09/26&lt;/td&gt;
 &lt;td&gt;CBIR and Indexing&lt;/td&gt;
-&lt;td&gt;TBD &lt;em&gt;(students)&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;Nick and Jesus&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#ref7891011&#34;&gt;[7, 8, 9, 10, 11]&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;A04, due on 10/04&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;10/03&lt;/td&gt;
 &lt;td&gt;Image Classification&lt;/td&gt;
-&lt;td&gt;TBD &lt;em&gt;(students)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Nick and Kenneth&lt;/td&gt;
 &lt;td&gt;TBD&lt;/td&gt;
 &lt;td&gt;A05, due on 10/18&lt;/td&gt;
 &lt;/tr&gt;
@@ -118,35 +118,35 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;tr&gt;
 &lt;td&gt;10/17&lt;/td&gt;
 &lt;td&gt;Object Detection&lt;/td&gt;
-&lt;td&gt;TBD &lt;em&gt;(students)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;John and Kenneth&lt;/td&gt;
 &lt;td&gt;TBD&lt;/td&gt;
 &lt;td&gt;A06, due on 10/25&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;10/24&lt;/td&gt;
 &lt;td&gt;Image Segmentation&lt;/td&gt;
-&lt;td&gt;TBD &lt;em&gt;(students)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Mujtaba and Matt&lt;/td&gt;
 &lt;td&gt;TBD&lt;/td&gt;
 &lt;td&gt;A07, due on 11/01&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;10/31&lt;/td&gt;
 &lt;td&gt;Face Detection&lt;/td&gt;
-&lt;td&gt;TBD &lt;em&gt;(students)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;John and Amol&lt;/td&gt;
 &lt;td&gt;TBD&lt;/td&gt;
 &lt;td&gt;A08, due on 11/08&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11/07&lt;/td&gt;
 &lt;td&gt;Face Verification&lt;/td&gt;
-&lt;td&gt;TBD &lt;em&gt;(students)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Mujtaba and Amol&lt;/td&gt;
 &lt;td&gt;TBD&lt;/td&gt;
 &lt;td&gt;A09, due on 11/15&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11/14&lt;/td&gt;
 &lt;td&gt;GANs and Generative DL&lt;/td&gt;
-&lt;td&gt;TBD &lt;em&gt;(students)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Jakob and Matt&lt;/td&gt;
 &lt;td&gt;TBD&lt;/td&gt;
 &lt;td&gt;A10, due on 11/29&lt;/td&gt;
 &lt;/tr&gt;
@@ -167,7 +167,7 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;tr&gt;
 &lt;td&gt;12/05&lt;/td&gt;
 &lt;td&gt;Provenance Analysis&lt;/td&gt;
-&lt;td&gt;TBD &lt;em&gt;(students)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Jakob and Jesus&lt;/td&gt;
 &lt;td&gt;TBD&lt;/td&gt;
 &lt;td&gt;N.A.&lt;/td&gt;
 &lt;/tr&gt;
@@ -188,10 +188,11 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
+&lt;p&gt;&lt;a name=&#34;a02&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;assignments&#34;&gt;Assignments&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;A01: Image Descriptors &lt;a href=&#34;#ref456&#34;&gt;[4, 5, 6]&lt;/a&gt;, due on 09/15 at noon.&lt;/li&gt;
-&lt;li&gt;A02: TBD, released no later than 09/12, due on 09/20 at noon.&lt;/li&gt;
+&lt;li&gt;A02: Image Retrieval, &lt;a href=&#34;#ref7891011&#34;&gt;[8, 9, 10, 11]&lt;/a&gt;, due on 09/20 at noon.&lt;/li&gt;
 &lt;li&gt;A03: TBD, released no later than 09/19, due on 09/27 at noon.&lt;/li&gt;
 &lt;li&gt;A04: TBD, released no later than 09/26, due on 10/04 at noon.&lt;/li&gt;
 &lt;li&gt;A05: TBD, released no later than 10/03, due on 10/18 at noon.&lt;/li&gt;
@@ -219,14 +220,14 @@ Each summary should contain:&lt;br&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;discussion-leaders&#34;&gt;Discussion Leaders&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;CBIR and Indexing, TBD &lt;em&gt;(students)&lt;/em&gt;, on 09/26.&lt;/li&gt;
-&lt;li&gt;Image Classification, TBD &lt;em&gt;(students)&lt;/em&gt;, on 10/03.&lt;/li&gt;
-&lt;li&gt;Object Detection, TBD &lt;em&gt;(students)&lt;/em&gt;, on 10/17.&lt;/li&gt;
-&lt;li&gt;Image Segmentation, TBD &lt;em&gt;(students)&lt;/em&gt;, on 10/24.&lt;/li&gt;
-&lt;li&gt;Face Detection, TBD &lt;em&gt;(students)&lt;/em&gt; on 10/31.&lt;/li&gt;
-&lt;li&gt;Face Verification, TBD &lt;em&gt;(students)&lt;/em&gt; on 11/07.&lt;/li&gt;
-&lt;li&gt;GANs and Generative DL, TBD &lt;em&gt;(students)&lt;/em&gt;, on 11/14.&lt;/li&gt;
-&lt;li&gt;Provenance Analysis, TBD &lt;em&gt;(students)&lt;/em&gt;, on 12/05.&lt;/li&gt;
+&lt;li&gt;CBIR and Indexing, Nick and Jesus, on 09/26.&lt;/li&gt;
+&lt;li&gt;Image Classification, Nick and Kenneth, on 10/03.&lt;/li&gt;
+&lt;li&gt;Object Detection, John and Kenneth, on 10/17.&lt;/li&gt;
+&lt;li&gt;Image Segmentation, Mujtaba and Matt, on 10/24.&lt;/li&gt;
+&lt;li&gt;Face Detection, John and Amol, on 10/31.&lt;/li&gt;
+&lt;li&gt;Face Verification, Mujtaba and Amol, on 11/07.&lt;/li&gt;
+&lt;li&gt;GANs and Generative DL, Jakob and Matt, on 11/14.&lt;/li&gt;
+&lt;li&gt;Provenance Analysis, Jakob and Jesus, on 12/05.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Each student will play the role of &lt;em&gt;discussion leader&lt;/em&gt; twice along the course.
@@ -325,27 +326,52 @@ Please let the instructor know you want to use your OC.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;LeCun, Y., Bengio, Y., Hinton, G. &lt;em&gt;Deep learning&lt;/em&gt;.
-Nature 521 (1), pp. 436–444, 2015.&lt;/p&gt;
+Nature 521 (1), 2015.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Hearst, M., Dumais, S., Osuna, E., Platt, J., Scholkopf, B. &lt;em&gt;Support vector machines&lt;/em&gt;.
-IEEE Intelligent Systems and their Applications 13 (4), pp. 18-28, 1998.&lt;/p&gt;
+IEEE Intelligent Systems and their Applications 13 (4), 1998.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a name=&#34;ref456&#34;&gt;&lt;/a&gt; Ho, T. &lt;em&gt;The Random Subspace Method for Constructing Decision Forests&lt;/em&gt;.
-IEEE Transactions on Pattern Analysis and Machine Intelligence 20 (8), pp. 832-844, 1998.&lt;/p&gt;
+IEEE Transactions on Pattern Analysis and Machine Intelligence 20 (8), 1998.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Lowe, D. &lt;em&gt;Distinctive Image Features from Scale-Invariant Keypoints&lt;/em&gt;.
-Springer International Journal of Computer Vision 60 (2), pp. 91-110, 2004.&lt;/p&gt;
+Springer International Journal of Computer Vision 60 (2), 2004.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Bay, H., Tuytelaars, T., Van Gool, L. &lt;em&gt;SURF: Speeded Up Robust Features&lt;/em&gt;.
 Springer European Conference on Computer Vision (ECCV), 2006&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Noh, H., Araujo, A., Sim, J., Weyand, T., Han, B. &lt;em&gt;Large-Scale Image Retrieval with Attentive Deep Local Features&lt;/em&gt;.
+&lt;p&gt;&lt;a name=&#34;ref7891011&#34;&gt;&lt;/a&gt; Noh, H., Araujo, A., Sim, J., Weyand, T., Han, B. &lt;em&gt;Large-Scale Image Retrieval with Attentive Deep Local Features&lt;/em&gt;.
 IEEE International Conference on Computer Vision (ICCV), 2016.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jegou, H., Douze, M., Johnson, J. &lt;em&gt;Faiss: A library for efficient similarity search&lt;/em&gt;.
+Available at &lt;a href=&#34;https://bit.ly/3BiGYg9&#34;&gt;https://bit.ly/3BiGYg9&lt;/a&gt;. Meta Platforms, Inc., 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Brogan, J., Bharati, A., Moreira, D., Rocha, A., Bowyer, K., Flynn, P., Scheirer, W.
+&lt;em&gt;Fast Local Spatial Verification for Feature-Agnostic Large-Scale Image Retrieval&lt;/em&gt;.
+IEEE Transactions on Image Processing 30 (1), 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wieschollek, P., Wang, O., Sorkine-Hornung, A., Lensch, H.
+&lt;em&gt;Efficient large-scale approximate nearest neighbor search on the GPU&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kalantidis, Y., Avrithis, Y. &lt;em&gt;Locally Optimized Product Quantization for Approximate Nearest Neighbor Search&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jegou, H., Douze, M., Schmid, C. &lt;em&gt;Product quantization for nearest neighbor search&lt;/em&gt;.
+IEEE Transactions on Pattern Analysis and Machine Intelligence 33 (1), 2010.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;More soon&amp;hellip;&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
