@@ -409,7 +409,8 @@ as per the terms of their content with no further questions.&lt;/p&gt;
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
 &lt;p&gt;Course: COMP 141-001 / COMP 400D-001 Intro to Computing Tool&lt;br&gt;
 Level: Undergraduate and Graduate&lt;br&gt;
-Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;/p&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;br&gt;
+Teaching Assistant: Olga Velichko (&lt;a href=&#34;mailto:ovelichko@luc.edu&#34;&gt;ovelichko@luc.edu&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Lectures: Asynchronous and fully remote on &lt;a href=&#34;https://sakai.luc.edu/x/QxXrXd&#34;&gt;Sakai&lt;/a&gt;&lt;br&gt;
 Office Hours: WED, 5 to 8 PM, and FRI, 4 to 5 PM, &lt;a href=&#34;https://bit.ly/3BDuEID&#34;&gt;by appointment&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -421,12 +422,21 @@ Many development scenarios still require command line and fluency in Unix tools,
 cloud, cybersecurity, and supercomputing environments. With mobile computing and Internet of Things, Unix (via Linux)
 has risen to the level of a ubiquitous platform, owing to its lightweight and open-source nature.
 While this course does not aim at being a comprehensive programming class, students will master basic programming
-skills using shell scripting. They will also learn about
-problem-solving using Unix commands supported by shell scripts.&lt;/p&gt;
+skills using shell scripting.
+They will also learn about problem-solving using Unix commands supported by shell scripts.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Please refer to &lt;a href=&#34;https://sakai.luc.edu/x/QxXrXd&#34;&gt;Sakai&lt;/a&gt; for having access to the materials, assignments, quizzes,
 announcements, grading, and progress of the course. This page is static and will not be updated.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;p&gt;This course is offered in multiple sessions with the following contributing LUC instructors (Fall 2022):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;John O&amp;rsquo;Sullivan&lt;/li&gt;
+&lt;li&gt;Nathan Hishon&lt;/li&gt;
+&lt;li&gt;Allan Miller&lt;/li&gt;
+&lt;li&gt;David Wetzel&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;ul&gt;
