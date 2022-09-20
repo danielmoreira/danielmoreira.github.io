@@ -89,14 +89,14 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;09/19&lt;/td&gt;
-&lt;td&gt;Local and Global Descriptors&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/material/lecture_03.pdf&#34;&gt;Image Description&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Instructor&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;#ref456&#34;&gt;[4, 5, 6]&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;A03, due on 09/27&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#a03&#34;&gt;A03&lt;/a&gt;, due on 09/27&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;09/26&lt;/td&gt;
-&lt;td&gt;CBIR and Indexing&lt;/td&gt;
+&lt;td&gt;Image Retrieval&lt;/td&gt;
 &lt;td&gt;Nick and Jesus&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;#ref7891011&#34;&gt;[7, 8, 9, 10, 11]&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;A04, due on 10/04&lt;/td&gt;
@@ -105,7 +105,7 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;td&gt;10/03&lt;/td&gt;
 &lt;td&gt;Image Classification&lt;/td&gt;
 &lt;td&gt;Nick and Kenneth&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#ref1213141516&#34;&gt;[12, 13, 14, 15, 16]&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;A05, due on 10/18&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -191,9 +191,9 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;p&gt;&lt;a name=&#34;a02&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;assignments&#34;&gt;Assignments&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;A01: Image Descriptors &lt;a href=&#34;#ref456&#34;&gt;[4, 5, 6]&lt;/a&gt;, due on 09/15 at noon.&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a03&#34;&gt;&lt;/a&gt; &lt;del&gt;A01: Image Descriptors &lt;a href=&#34;#ref456&#34;&gt;[4, 5, 6]&lt;/a&gt;, due on 09/15 at noon.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;A02: Image Retrieval, &lt;a href=&#34;#ref7891011&#34;&gt;[8, 9, 10, 11]&lt;/a&gt;, due on 09/20 at noon.&lt;/li&gt;
-&lt;li&gt;A03: TBD, released no later than 09/19, due on 09/27 at noon.&lt;/li&gt;
+&lt;li&gt;A03: Image Classification, &lt;a href=&#34;#ref1213141516&#34;&gt;[12, 13, 14, 15, 16]&lt;/a&gt;, due on 09/27 at noon.&lt;/li&gt;
 &lt;li&gt;A04: TBD, released no later than 09/26, due on 10/04 at noon.&lt;/li&gt;
 &lt;li&gt;A05: TBD, released no later than 10/03, due on 10/18 at noon.&lt;/li&gt;
 &lt;li&gt;A06: TBD, released no later than 10/17, due on 10/25 at noon.&lt;/li&gt;
@@ -220,7 +220,7 @@ Each summary should contain:&lt;br&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;discussion-leaders&#34;&gt;Discussion Leaders&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;CBIR and Indexing, Nick and Jesus, on 09/26.&lt;/li&gt;
+&lt;li&gt;Image Retrieval, Nick and Jesus, on 09/26.&lt;/li&gt;
 &lt;li&gt;Image Classification, Nick and Kenneth, on 10/03.&lt;/li&gt;
 &lt;li&gt;Object Detection, John and Kenneth, on 10/17.&lt;/li&gt;
 &lt;li&gt;Image Segmentation, Mujtaba and Matt, on 10/24.&lt;/li&gt;
@@ -367,8 +367,29 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.&lt;/p&g
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Jegou, H., Douze, M., Schmid, C. &lt;em&gt;Product quantization for nearest neighbor search&lt;/em&gt;.
+&lt;p&gt;&lt;a name=&#34;ref1213141516&#34;&gt;&lt;/a&gt; Jegou, H., Douze, M., Schmid, C. &lt;em&gt;Product quantization for nearest neighbor search&lt;/em&gt;.
 IEEE Transactions on Pattern Analysis and Machine Intelligence 33 (1), 2010.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Howard, A., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., Andreetto, M., Adam, H.
+&lt;em&gt;Mobilenets: Efficient convolutional neural networks for mobile vision applications&lt;/em&gt;.
+ArXiv Preprint, 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Krizhevsky, A., Sutskever, I., Hinton, G. &lt;em&gt;Imagenet classification with deep convolutional neural networks&lt;/em&gt;.
+ACM Communications 60 (6), 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;He, K., Zhang, X., Ren, S., Sun, J. &lt;em&gt;Deep residual learning for image recognition&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., Vanhoucke, V., Rabinovich, A.
+&lt;em&gt;Going deeper with convolutions&lt;/em&gt;. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Simonyan, K., Zisserman, A. &lt;em&gt;Very deep convolutional networks for large-scale image recognition&lt;/em&gt;.
+International Conference on Learning Representations (ICLR), 2015.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;em&gt;More soon&amp;hellip;&lt;/em&gt;&lt;/p&gt;
