@@ -131,7 +131,7 @@
   
   <meta property="article:published_time" content="2022-08-29T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2022-09-19T23:02:59-05:00">
+  <meta property="article:modified_time" content="2022-09-27T18:13:54-05:00">
   
 
   
@@ -519,7 +519,7 @@
 
 
 <meta content="2022-08-29 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2022-09-19 23:02:59 -0500 CDT" itemprop="dateModified">
+<meta content="2022-09-27 18:13:54 -0500 CDT" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -534,7 +534,7 @@
           Last updated on
       
     
-    <time>Sep 19, 2022</time>
+    <time>Sep 27, 2022</time>
   </span>
   
 
@@ -695,16 +695,16 @@ always with the <a href="https://danielmoreira.github.io/post/bettersoc/">greate
 </tr>
 <tr>
 <td>09/26</td>
-<td>Image Retrieval</td>
+<td><a href="/teaching/cvapp-aut22/material/lecture_04.pdf">Image Retrieval</a></td>
 <td>Nick and Jesus</td>
-<td><a href="#ref7891011">[7, 8, 9, 10, 11]</a></td>
-<td>A04, due on 10/04</td>
+<td><a href="#ref78910">[7, 8, 9, 10]</a></td>
+<td><a href="#a04">A04</a>, due on 10/04</td>
 </tr>
 <tr>
 <td>10/03</td>
 <td>Image Classification</td>
 <td>Nick and Kenneth</td>
-<td><a href="#ref1213141516">[12, 13, 14, 15, 16]</a></td>
+<td><a href="#ref1112131415">[11, 12, 13, 14, 15]</a></td>
 <td>A05, due on 10/18</td>
 </tr>
 <tr>
@@ -718,7 +718,7 @@ always with the <a href="https://danielmoreira.github.io/post/bettersoc/">greate
 <td>10/17</td>
 <td>Object Detection</td>
 <td>John and Kenneth</td>
-<td>TBD</td>
+<td><a href="#ref1617181920">[16, 17, 18, 19, 20]</a></td>
 <td>A06, due on 10/25</td>
 </tr>
 <tr>
@@ -791,9 +791,9 @@ always with the <a href="https://danielmoreira.github.io/post/bettersoc/">greate
 <h2 id="assignments">Assignments</h2>
 <ul>
 <li><a name="a03"></a> <del>A01: Image Descriptors <a href="#ref456">[4, 5, 6]</a>, due on 09/15 at noon.</del></li>
-<li>A02: Image Retrieval, <a href="#ref7891011">[8, 9, 10, 11]</a>, due on 09/20 at noon.</li>
-<li>A03: Image Classification, <a href="#ref1213141516">[12, 13, 14, 15, 16]</a>, due on 09/27 at noon.</li>
-<li>A04: TBD, released no later than 09/26, due on 10/04 at noon.</li>
+<li><a name="a04"></a> <del>A02: Image Retrieval, <a href="#ref78910">[8, 9, 10]</a>, due on 09/20 at noon.</del></li>
+<li>A03: Image Classification, <a href="#ref1112131415">[11, 12, 13, 14, 15]</a>, due on 09/27 at noon.</li>
+<li>A04: Object Detection, <a href="#ref1617181920">[16, 17, 18, 19, 20]</a>, due on 10/04 at noon.</li>
 <li>A05: TBD, released no later than 10/03, due on 10/18 at noon.</li>
 <li>A06: TBD, released no later than 10/17, due on 10/25 at noon.</li>
 <li>A07: TBD, released no later than 10/24, due on 11/01 at noon.</li>
@@ -944,7 +944,7 @@ Springer International Journal of Computer Vision 60 (2), 2004.</p>
 Springer European Conference on Computer Vision (ECCV), 2006</p>
 </li>
 <li>
-<p><a name="ref7891011"></a> Noh, H., Araujo, A., Sim, J., Weyand, T., Han, B. <em>Large-Scale Image Retrieval with Attentive Deep Local Features</em>.
+<p><a name="ref78910"></a> Noh, H., Araujo, A., Sim, J., Weyand, T., Han, B. <em>Large-Scale Image Retrieval with Attentive Deep Local Features</em>.
 IEEE International Conference on Computer Vision (ICCV), 2016.</p>
 </li>
 <li>
@@ -957,16 +957,11 @@ Available at <a href="https://bit.ly/3BiGYg9">https://bit.ly/3BiGYg9</a>. Meta P
 IEEE Transactions on Image Processing 30 (1), 2021.</p>
 </li>
 <li>
-<p>Wieschollek, P., Wang, O., Sorkine-Hornung, A., Lensch, H.
-<em>Efficient large-scale approximate nearest neighbor search on the GPU</em>.
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.</p>
-</li>
-<li>
 <p>Kalantidis, Y., Avrithis, Y. <em>Locally Optimized Product Quantization for Approximate Nearest Neighbor Search</em>.
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.</p>
 </li>
 <li>
-<p><a name="ref1213141516"></a> Jegou, H., Douze, M., Schmid, C. <em>Product quantization for nearest neighbor search</em>.
+<p><a name="ref1112131415"></a> Jegou, H., Douze, M., Schmid, C. <em>Product quantization for nearest neighbor search</em>.
 IEEE Transactions on Pattern Analysis and Machine Intelligence 33 (1), 2010.</p>
 </li>
 <li>
@@ -987,8 +982,30 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.</p>
 <em>Going deeper with convolutions</em>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.</p>
 </li>
 <li>
-<p>Simonyan, K., Zisserman, A. <em>Very deep convolutional networks for large-scale image recognition</em>.
+<p><a name="ref1617181920"></a> Simonyan, K., Zisserman, A.
+<em>Very deep convolutional networks for large-scale image recognition</em>.
 International Conference on Learning Representations (ICLR), 2015.</p>
+</li>
+<li>
+<p>Lin, T-Y., Goyal, P., Girshick, R., He, K., Dollar, P. <em>Focal loss for dense object detection</em>.
+IEEE International Conference on Computer Vision (ICCV), 2017.</p>
+</li>
+<li>
+<p>Redmon, J., Divvala, S., Girshick, R., and Farhadi, A. <em>You only look once: Unified, real-time object detection</em>.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.</p>
+</li>
+<li>
+<p>Ren, S., He, K., Girshick, R., Sun, J.
+<em>Faster R-CNN: Towards real-time object detection with region proposal networks</em>
+Advances in Neural Information Processing Systems 28 (1), 2015.</p>
+</li>
+<li>
+<p>Girshick, R. <em>Fast R-CNN</em>. IEEE International Conference on Computer Vision (ICCV), 2015.</p>
+</li>
+<li>
+<p>Girshick, R., Donahue, J., Darrell, T., Malik, J.
+<em>Rich feature hierarchies for accurate object detection and semantic segmentation</em>.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.</p>
 </li>
 <li>
 <p><em>More soon&hellip;</em></p>

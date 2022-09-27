@@ -96,16 +96,16 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;09/26&lt;/td&gt;
-&lt;td&gt;Image Retrieval&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/material/lecture_04.pdf&#34;&gt;Image Retrieval&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Nick and Jesus&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;#ref7891011&#34;&gt;[7, 8, 9, 10, 11]&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;A04, due on 10/04&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#ref78910&#34;&gt;[7, 8, 9, 10]&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#a04&#34;&gt;A04&lt;/a&gt;, due on 10/04&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;10/03&lt;/td&gt;
 &lt;td&gt;Image Classification&lt;/td&gt;
 &lt;td&gt;Nick and Kenneth&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;#ref1213141516&#34;&gt;[12, 13, 14, 15, 16]&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#ref1112131415&#34;&gt;[11, 12, 13, 14, 15]&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;A05, due on 10/18&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -119,7 +119,7 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;td&gt;10/17&lt;/td&gt;
 &lt;td&gt;Object Detection&lt;/td&gt;
 &lt;td&gt;John and Kenneth&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#ref1617181920&#34;&gt;[16, 17, 18, 19, 20]&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;A06, due on 10/25&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -192,9 +192,9 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;h2 id=&#34;assignments&#34;&gt;Assignments&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a name=&#34;a03&#34;&gt;&lt;/a&gt; &lt;del&gt;A01: Image Descriptors &lt;a href=&#34;#ref456&#34;&gt;[4, 5, 6]&lt;/a&gt;, due on 09/15 at noon.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;A02: Image Retrieval, &lt;a href=&#34;#ref7891011&#34;&gt;[8, 9, 10, 11]&lt;/a&gt;, due on 09/20 at noon.&lt;/li&gt;
-&lt;li&gt;A03: Image Classification, &lt;a href=&#34;#ref1213141516&#34;&gt;[12, 13, 14, 15, 16]&lt;/a&gt;, due on 09/27 at noon.&lt;/li&gt;
-&lt;li&gt;A04: TBD, released no later than 09/26, due on 10/04 at noon.&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a04&#34;&gt;&lt;/a&gt; &lt;del&gt;A02: Image Retrieval, &lt;a href=&#34;#ref78910&#34;&gt;[8, 9, 10]&lt;/a&gt;, due on 09/20 at noon.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;A03: Image Classification, &lt;a href=&#34;#ref1112131415&#34;&gt;[11, 12, 13, 14, 15]&lt;/a&gt;, due on 09/27 at noon.&lt;/li&gt;
+&lt;li&gt;A04: Object Detection, &lt;a href=&#34;#ref1617181920&#34;&gt;[16, 17, 18, 19, 20]&lt;/a&gt;, due on 10/04 at noon.&lt;/li&gt;
 &lt;li&gt;A05: TBD, released no later than 10/03, due on 10/18 at noon.&lt;/li&gt;
 &lt;li&gt;A06: TBD, released no later than 10/17, due on 10/25 at noon.&lt;/li&gt;
 &lt;li&gt;A07: TBD, released no later than 10/24, due on 11/01 at noon.&lt;/li&gt;
@@ -345,7 +345,7 @@ Springer International Journal of Computer Vision 60 (2), 2004.&lt;/p&gt;
 Springer European Conference on Computer Vision (ECCV), 2006&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;ref7891011&#34;&gt;&lt;/a&gt; Noh, H., Araujo, A., Sim, J., Weyand, T., Han, B. &lt;em&gt;Large-Scale Image Retrieval with Attentive Deep Local Features&lt;/em&gt;.
+&lt;p&gt;&lt;a name=&#34;ref78910&#34;&gt;&lt;/a&gt; Noh, H., Araujo, A., Sim, J., Weyand, T., Han, B. &lt;em&gt;Large-Scale Image Retrieval with Attentive Deep Local Features&lt;/em&gt;.
 IEEE International Conference on Computer Vision (ICCV), 2016.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -358,16 +358,11 @@ Available at &lt;a href=&#34;https://bit.ly/3BiGYg9&#34;&gt;https://bit.ly/3BiGY
 IEEE Transactions on Image Processing 30 (1), 2021.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Wieschollek, P., Wang, O., Sorkine-Hornung, A., Lensch, H.
-&lt;em&gt;Efficient large-scale approximate nearest neighbor search on the GPU&lt;/em&gt;.
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
 &lt;p&gt;Kalantidis, Y., Avrithis, Y. &lt;em&gt;Locally Optimized Product Quantization for Approximate Nearest Neighbor Search&lt;/em&gt;.
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;ref1213141516&#34;&gt;&lt;/a&gt; Jegou, H., Douze, M., Schmid, C. &lt;em&gt;Product quantization for nearest neighbor search&lt;/em&gt;.
+&lt;p&gt;&lt;a name=&#34;ref1112131415&#34;&gt;&lt;/a&gt; Jegou, H., Douze, M., Schmid, C. &lt;em&gt;Product quantization for nearest neighbor search&lt;/em&gt;.
 IEEE Transactions on Pattern Analysis and Machine Intelligence 33 (1), 2010.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -388,8 +383,30 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.&lt;/p&g
 &lt;em&gt;Going deeper with convolutions&lt;/em&gt;. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Simonyan, K., Zisserman, A. &lt;em&gt;Very deep convolutional networks for large-scale image recognition&lt;/em&gt;.
+&lt;p&gt;&lt;a name=&#34;ref1617181920&#34;&gt;&lt;/a&gt; Simonyan, K., Zisserman, A.
+&lt;em&gt;Very deep convolutional networks for large-scale image recognition&lt;/em&gt;.
 International Conference on Learning Representations (ICLR), 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lin, T-Y., Goyal, P., Girshick, R., He, K., Dollar, P. &lt;em&gt;Focal loss for dense object detection&lt;/em&gt;.
+IEEE International Conference on Computer Vision (ICCV), 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Redmon, J., Divvala, S., Girshick, R., and Farhadi, A. &lt;em&gt;You only look once: Unified, real-time object detection&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ren, S., He, K., Girshick, R., Sun, J.
+&lt;em&gt;Faster R-CNN: Towards real-time object detection with region proposal networks&lt;/em&gt;
+Advances in Neural Information Processing Systems 28 (1), 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Girshick, R. &lt;em&gt;Fast R-CNN&lt;/em&gt;. IEEE International Conference on Computer Vision (ICCV), 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Girshick, R., Donahue, J., Darrell, T., Malik, J.
+&lt;em&gt;Rich feature hierarchies for accurate object detection and semantic segmentation&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;em&gt;More soon&amp;hellip;&lt;/em&gt;&lt;/p&gt;
