@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Siome Goldenstein on Daniel Moreira</title>
+    <title>Siome Goldenstein | Daniel Moreira</title>
     <link>https://danielmoreira.github.io/authors/siome-goldenstein/</link>
-    <description>Recent content in Siome Goldenstein on Daniel Moreira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://danielmoreira.github.io/authors/siome-goldenstein/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://danielmoreira.github.io/authors/siome-goldenstein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Siome Goldenstein</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Siome Goldenstein</title>
+      <link>https://danielmoreira.github.io/authors/siome-goldenstein/</link>
+    </image>
     
     <item>
       <title>Multimodal and real-time method for filtering sensitive media</title>
       <link>https://danielmoreira.github.io/publication/2019_patent/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2019_patent/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Multimodal data fusion for sensitive scene localization</title>
       <link>https://danielmoreira.github.io/publication/2019_if/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2019_if/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>Método multimodal e em tempo real para filtragem de conteúdo sensível</title>
       <link>https://danielmoreira.github.io/publication/2017_patent/</link>
       <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2017_patent/</guid>
       <description></description>
     </item>
@@ -43,7 +40,6 @@
       <title>Temporal Robust Features for Violence Detection</title>
       <link>https://danielmoreira.github.io/publication/2017_wacv/</link>
       <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2017_wacv/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -57,7 +53,6 @@
       <title>Video pornography detection through deep learning techniques and motion information</title>
       <link>https://danielmoreira.github.io/publication/2017_neurocomputing/</link>
       <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2017_neurocomputing/</guid>
       <description></description>
     </item>
@@ -66,7 +61,6 @@
       <title>Pornography classification: The hidden clues in video space–time</title>
       <link>https://danielmoreira.github.io/publication/2016_fsi/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2016_fsi/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -80,7 +74,6 @@
       <title>RECOD at MediaEval 2015: Affective Impact of Movies Task</title>
       <link>https://danielmoreira.github.io/publication/2015_mediaeval/</link>
       <pubDate>Fri, 16 Oct 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2015_mediaeval/</guid>
       <description></description>
     </item>
@@ -89,7 +82,6 @@
       <title>RECOD at MediaEval 2014: Violent Scenes Detection Task</title>
       <link>https://danielmoreira.github.io/publication/2014_mediaeval/</link>
       <pubDate>Thu, 16 Oct 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2014_mediaeval/</guid>
       <description></description>
     </item>

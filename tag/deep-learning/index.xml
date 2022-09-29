@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tag/deep-learning/</link>
+      <atom:link href="https://danielmoreira.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Deep Learning</title>
+      <link>https://danielmoreira.github.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Transformation-Aware Embeddings for Image Provenance</title>
+      <link>https://danielmoreira.github.io/publication/2021_tifs/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2021_tifs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video pornography detection through deep learning techniques and motion information</title>
+      <link>https://danielmoreira.github.io/publication/2017_neurocomputing/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2017_neurocomputing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

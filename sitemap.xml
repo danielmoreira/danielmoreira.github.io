@@ -1,599 +1,247 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://danielmoreira.github.io/tags/computer-vision/</loc>
-    <lastmod>2022-09-27T18:13:54-05:00</lastmod>
-  </url>
   
   <url>
-    <loc>https://danielmoreira.github.io/teaching/cvapp-aut22/</loc>
-    <lastmod>2022-09-27T18:13:54-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/computer-vision/</loc><lastmod>2022-08-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/</loc>
-    <lastmod>2022-09-27T18:13:54-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/teaching/cvapp-aut22/</loc><lastmod>2022-08-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/teaching/</loc>
-    <lastmod>2022-09-27T18:13:54-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/</loc><lastmod>2022-08-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/teaching/</loc>
-    <lastmod>2022-09-27T18:13:54-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tags/</loc><lastmod>2022-08-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/teaching/comptool-aut22/</loc>
-    <lastmod>2022-09-19T23:02:59-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/teaching/</loc><lastmod>2022-08-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/shell/</loc>
-    <lastmod>2022-09-19T23:02:59-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/teaching/</loc><lastmod>2022-08-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/unix/</loc>
-    <lastmod>2022-09-19T23:02:59-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/teaching/comptool-aut22/</loc><lastmod>2022-08-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication_types/2/</loc>
-    <lastmod>2022-06-11T21:17:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/shell/</loc><lastmod>2022-08-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/anderson-rocha/</loc>
-    <lastmod>2022-06-11T21:17:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/unix/</loc><lastmod>2022-08-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/</loc>
-    <lastmod>2022-09-28T15:04:34-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/daniel-moreira/</loc>
-    <lastmod>2022-06-11T21:17:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication-type/2/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/davide-cozzolino/</loc>
-    <lastmod>2022-06-11T21:17:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/anderson-rocha/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/edoardo-cannas/</loc>
-    <lastmod>2022-06-11T21:17:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/daniel-moreira/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/edward-delp/</loc>
-    <lastmod>2022-06-11T21:17:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/davide-cozzolino/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2022_ieeeaccess/</loc>
-    <lastmod>2022-06-11T21:17:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/edoardo-cannas/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/gans/</loc>
-    <lastmod>2022-06-11T21:17:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/edward-delp/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/joao-cardenuto/</loc>
-    <lastmod>2022-06-11T21:17:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2022_ieeeaccess/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/luisa-verdoliva/</loc>
-    <lastmod>2022-06-11T21:17:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/gans/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/media-forensics/</loc>
-    <lastmod>2022-06-11T21:17:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/joao-cardenuto/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/paolo-bestagini/</loc>
-    <lastmod>2022-06-11T21:17:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/luisa-verdoliva/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication_types/</loc>
-    <lastmod>2022-06-11T21:17:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/media-forensics/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/sara-mandelli/</loc>
-    <lastmod>2022-06-11T21:17:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/paolo-bestagini/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/scientific-integrity/</loc>
-    <lastmod>2022-06-11T21:17:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication_types/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/stefano-tubaro/</loc>
-    <lastmod>2022-06-11T21:17:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/walter-scheirer/</loc>
-    <lastmod>2022-06-11T21:17:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/sara-mandelli/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication_types/6/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/scientific-integrity/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/aparna-bharati/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/stefano-tubaro/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/image-clustering/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/walter-scheirer/</loc><lastmod>2022-05-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2022_chapter/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication-type/6/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/joel-brogan/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/aparna-bharati/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/provenance-analysis/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/image-clustering/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/provenance-filtering/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2022_chapter/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/provenance-graph-construction/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/joel-brogan/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/william-theisen/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/provenance-analysis/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/biometrics/</loc>
-    <lastmod>2022-08-27T23:45:54-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/provenance-filtering/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/teaching/biometrics-spr22/</loc>
-    <lastmod>2022-08-27T23:40:04-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/provenance-graph-construction/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/face-recognition/</loc>
-    <lastmod>2022-08-27T23:45:54-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/william-theisen/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/fingerprint-recognition/</loc>
-    <lastmod>2022-08-27T23:45:54-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/biometrics/</loc><lastmod>2022-01-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/iris-recognition/</loc>
-    <lastmod>2022-08-27T23:45:54-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/teaching/biometrics-spr22/</loc><lastmod>2022-01-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/cbir/</loc>
-    <lastmod>2021-08-12T22:17:02-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/face-recognition/</loc><lastmod>2022-01-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2021_tip/</loc>
-    <lastmod>2021-08-12T22:17:02-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/fingerprint-recognition/</loc><lastmod>2022-01-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/kevin-bowyer/</loc>
-    <lastmod>2021-08-12T22:17:02-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/iris-recognition/</loc><lastmod>2022-01-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/patrick-flynn/</loc>
-    <lastmod>2021-08-12T22:17:02-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/cbir/</loc><lastmod>2021-07-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/document-analysis/</loc>
-    <lastmod>2021-08-12T22:17:02-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2021_tip/</loc><lastmod>2021-07-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/project/</loc>
-    <lastmod>2022-08-12T17:39:15-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/kevin-bowyer/</loc><lastmod>2021-07-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/project/semafor/</loc>
-    <lastmod>2021-08-12T22:17:02-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/patrick-flynn/</loc><lastmod>2021-07-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/semantic-forensics/</loc>
-    <lastmod>2021-08-12T22:17:02-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/document-analysis/</loc><lastmod>2021-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/image-manipulation-detection/</loc>
-    <lastmod>2021-08-12T22:17:02-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/project/</loc><lastmod>2021-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/natural-language-processing/</loc>
-    <lastmod>2021-08-12T22:17:02-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/project/semafor/</loc><lastmod>2021-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/project/sciint/</loc>
-    <lastmod>2021-08-12T22:17:02-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/semantic-forensics/</loc><lastmod>2021-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication_types/1/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/image-manipulation-detection/</loc><lastmod>2021-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2021_icwsm/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/natural-language-processing/</loc><lastmod>2021-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/meme-genres/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/project/sciint/</loc><lastmod>2021-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/pamela-bilo-thomas/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication-type/1/</loc><lastmod>2021-05-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/pascal-phoa/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2021_icwsm/</loc><lastmod>2021-05-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/politics/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/meme-genres/</loc><lastmod>2021-05-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/tim-weninger/</loc>
-    <lastmod>2022-04-04T18:03:13-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/pamela-bilo-thomas/</loc><lastmod>2021-05-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/deep-learning/</loc>
-    <lastmod>2021-08-12T22:17:02-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/pascal-phoa/</loc><lastmod>2021-05-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2021_tifs/</loc>
-    <lastmod>2021-08-12T22:17:02-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/politics/</loc><lastmod>2021-05-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/teaching/biometrics-spr20/</loc>
-    <lastmod>2022-08-27T23:45:54-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/tim-weninger/</loc><lastmod>2021-05-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/post/bettersoc/</loc>
-    <lastmod>2022-09-22T12:22:16-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/deep-learning/</loc><lastmod>2021-01-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/post/</loc>
-    <lastmod>2022-09-22T12:22:16-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2021_tifs/</loc><lastmod>2021-01-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/random-thoughts/</loc>
-    <lastmod>2022-09-22T12:22:16-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/teaching/biometrics-spr20/</loc><lastmod>2020-01-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/project/medifor/</loc>
-    <lastmod>2020-08-08T11:53:34-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/post/bettersoc/</loc><lastmod>2019-06-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/face-synthesis/</loc>
-    <lastmod>2020-08-08T11:53:34-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/ai-for-good/</loc><lastmod>2019-06-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/identity-synthesis/</loc>
-    <lastmod>2020-08-08T11:53:34-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/post/</loc><lastmod>2019-06-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/project/srefv/</loc>
-    <lastmod>2020-08-08T11:53:34-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/project/medifor/</loc><lastmod>2019-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/video-synthesis/</loc>
-    <lastmod>2020-08-08T11:53:34-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/face-synthesis/</loc><lastmod>2019-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/post-mortem-iris-recognition/</loc>
-    <lastmod>2020-08-08T11:53:34-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/identity-synthesis/</loc><lastmod>2019-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/project/tshepii/</loc>
-    <lastmod>2020-08-08T11:53:34-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/project/srefv/</loc><lastmod>2019-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/trof/</loc>
-    <lastmod>2022-08-12T17:39:15-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/video-synthesis/</loc><lastmod>2019-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/project/trof/</loc>
-    <lastmod>2022-08-12T17:39:15-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/post-mortem-iris-recognition/</loc><lastmod>2019-05-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/video-description/</loc>
-    <lastmod>2022-08-12T17:39:15-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/project/tshepii/</loc><lastmod>2019-05-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/pornography-detection/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/trof/</loc><lastmod>2019-05-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/sensitive-media-analysis/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/project/trof/</loc><lastmod>2019-05-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/project/sma/</loc>
-    <lastmod>2019-06-14T01:02:41-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/video-description/</loc><lastmod>2019-05-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/violence-detection/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/pornography-detection/</loc><lastmod>2019-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication_types/8/</loc>
-    <lastmod>2019-06-14T01:02:41-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/sensitive-media-analysis/</loc><lastmod>2019-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/daniel-moraes/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/project/sma/</loc><lastmod>2019-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/eduardo-valle/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/violence-detection/</loc><lastmod>2019-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/mauricio-perez/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2019_patent/</loc>
-    <lastmod>2019-06-14T01:02:41-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/multimodal-data-fusion/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication-type/8/</loc><lastmod>2019-01-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/sandra-avila/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/daniel-moraes/</loc><lastmod>2019-01-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/siome-goldenstein/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/eduardo-valle/</loc><lastmod>2019-01-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/vanessa-testoni/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/mauricio-perez/</loc><lastmod>2019-01-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/adam-czajka/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2019_patent/</loc><lastmod>2019-01-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2019_wacv_metada/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/multimodal-data-fusion/</loc><lastmod>2019-01-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/bsif/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/sandra-avila/</loc><lastmod>2019-01-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2019_wacv_bsif/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/siome-goldenstein/</loc><lastmod>2019-01-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/human-performance/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/vanessa-testoni/</loc><lastmod>2019-01-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/mateusz-trokielewicz/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/adam-czajka/</loc><lastmod>2019-01-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/patricia-hale/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2019_wacv_metada/</loc><lastmod>2019-01-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2019_wacv_human/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/bsif/</loc><lastmod>2019-01-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2019_if/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2019_wacv_bsif/</loc><lastmod>2019-01-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/allan-pinto/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/human-performance/</loc><lastmod>2019-01-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2018_tip/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/mateusz-trokielewicz/</loc><lastmod>2019-01-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/michael-parowski/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/patricia-hale/</loc><lastmod>2019-01-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2018_acl/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2019_wacv_human/</loc><lastmod>2019-01-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/nathaniel-blanchard/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2019_if/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/sentiment-classification/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/allan-pinto/</loc><lastmod>2018-08-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2017_patent/</loc>
-    <lastmod>2019-06-14T01:02:41-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2018_tip/</loc><lastmod>2018-08-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/forgery-detection/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/michael-parowski/</loc><lastmod>2018-08-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/forgery-localization/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2018_acl/</loc><lastmod>2018-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2017_icip_filtering/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/authors/nathaniel-blanchard/</loc><lastmod>2018-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2017_icip_spotting/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/sentiment-classification/</loc><lastmod>2018-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2017_icip_uphylogeny/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2017_patent/</loc><lastmod>2017-10-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2017_wacv/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/forgery-detection/</loc><lastmod>2017-09-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2017_neurocomputing/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/forgery-localization/</loc><lastmod>2017-09-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2016_fsi/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2017_icip_filtering/</loc><lastmod>2017-09-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/tags/mediaeval/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2017_icip_spotting/</loc><lastmod>2017-09-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2015_mediaeval/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2017_icip_uphylogeny/</loc><lastmod>2017-09-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/isabela-cota/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2017_wacv/</loc><lastmod>2017-03-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/2014_mediaeval/</loc>
-    <lastmod>2019-07-31T17:41:57-04:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2017_neurocomputing/</loc><lastmod>2017-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/authors/daniel/</loc>
-    <lastmod>2022-09-28T15:04:34-05:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2016_fsi/</loc><lastmod>2016-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/categories/</loc>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/tag/mediaeval/</loc><lastmod>2015-10-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/</loc>
-    <lastmod>2019-03-17T20:39:18+00:00</lastmod>
-  </url>
-  
+    <loc>https://danielmoreira.github.io/publication/2015_mediaeval/</loc><lastmod>2015-10-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://danielmoreira.github.io/publication/</loc>
-    <lastmod>2019-06-14T01:02:41-04:00</lastmod>
-  </url>
-  
-</urlset>
+    <loc>https://danielmoreira.github.io/authors/isabela-cota/</loc><lastmod>2014-10-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://danielmoreira.github.io/publication/2014_mediaeval/</loc><lastmod>2014-10-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://danielmoreira.github.io/categories/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://danielmoreira.github.io/authors/daniel/</loc><changefreq>weekly</changefreq></url></urlset>

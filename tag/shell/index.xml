@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shell | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tag/shell/</link>
+      <atom:link href="https://danielmoreira.github.io/tag/shell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shell</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 28 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Shell</title>
+      <link>https://danielmoreira.github.io/tag/shell/</link>
+    </image>
+    
+    <item>
+      <title>Learning the Shell, Fall 2022</title>
+      <link>https://danielmoreira.github.io/teaching/comptool-aut22/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/teaching/comptool-aut22/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /teaching/comptool-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e839b6c2cdaf3ce0071b2d652a019b75.webp 400w,
+               /teaching/comptool-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e51b41172736727dd7a34ff04a09a9a2.webp 760w,
+               /teaching/comptool-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/comptool-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e839b6c2cdaf3ce0071b2d652a019b75.webp&#34;
+               width=&#34;250px&#34;
+               height=&#34;116&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;p&gt;Course: COMP 141-001 / COMP 400D-001 Intro to Computing Tool&lt;br&gt;
+Level: Undergraduate and Graduate&lt;br&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;br&gt;
+Teaching Assistant: Olga Velichko (&lt;a href=&#34;mailto:ovelichko@luc.edu&#34;&gt;ovelichko@luc.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Lectures: Asynchronous and fully remote on &lt;a href=&#34;https://sakai.luc.edu/x/QxXrXd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt;&lt;br&gt;
+Office Hours: WED, 5 to 8 PM, and FRI, 4 to 5 PM, &lt;a href=&#34;https://bit.ly/3BDuEID&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Shell terminal.&#34;
+           src=&#34;https://danielmoreira.github.io/teaching/comptool-aut22/terminal.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Despite the current era of rich graphical user interfaces (desktop, web, and mobile), the &amp;ldquo;command line&amp;rdquo; experience
+remains important, especially for software developers and computer-aided scientific researchers.
+Many development scenarios still require command line and fluency in Unix tools, including the modern embedded,
+cloud, cybersecurity, and supercomputing environments. With mobile computing and Internet of Things, Unix (via Linux)
+has risen to the level of a ubiquitous platform, owing to its lightweight and open-source nature.
+While this course does not aim at being a comprehensive programming class, students will master basic programming
+skills using shell scripting.
+They will also learn about problem-solving using Unix commands supported by shell scripts.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Please refer to &lt;a href=&#34;https://sakai.luc.edu/x/QxXrXd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt; for having access to the materials, assignments, quizzes,
+announcements, grading, and progress of the course. This page is static and will not be updated.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;p&gt;This course is offered in multiple sessions with the following leading and contributing LUC instructors (Fall 2022):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;John O&amp;rsquo;Sullivan&lt;/li&gt;
+&lt;li&gt;Nathan Hishon&lt;/li&gt;
+&lt;li&gt;Allan Miller&lt;/li&gt;
+&lt;li&gt;David Wetzel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Shots, W. &lt;em&gt;The Linux Command Line, 2nd Edition&lt;/em&gt;. No Starch Press Book, 2019. Available at &lt;a href=&#34;https://linuxcommand.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://linuxcommand.org/&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

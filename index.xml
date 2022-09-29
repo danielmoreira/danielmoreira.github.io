@@ -3,47 +3,2010 @@
   <channel>
     <title>Daniel Moreira</title>
     <link>https://danielmoreira.github.io/</link>
-    <description>Recent content on Daniel Moreira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    
-	    <atom:link href="https://danielmoreira.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://danielmoreira.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Moreira</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Daniel Moreira</title>
+      <link>https://danielmoreira.github.io/</link>
+    </image>
     
     <item>
-      <title>Teachings</title>
-      <link>https://danielmoreira.github.io/teaching/</link>
+      <title>Computer Vision Applications, Fall 2022</title>
+      <link>https://danielmoreira.github.io/teaching/cvapp-aut22/</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/teaching/</guid>
+      <guid>https://danielmoreira.github.io/teaching/cvapp-aut22/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /teaching/cvapp-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e839b6c2cdaf3ce0071b2d652a019b75.webp 400w,
+               /teaching/cvapp-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e51b41172736727dd7a34ff04a09a9a2.webp 760w,
+               /teaching/cvapp-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e839b6c2cdaf3ce0071b2d652a019b75.webp&#34;
+               width=&#34;250px&#34;
+               height=&#34;116&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;p&gt;Course: COMP 388-002 / COMP 488-002 Computer Science Topics&lt;br&gt;
+Format: Seminar&lt;br&gt;
+Level: Undergraduate and Graduate&lt;br&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Lectures: MON, 4:15 to 6:45 PM, 117 Cuneo Hall&lt;br&gt;
+Office Hours: TUE and THR, 5:00 to 7:00 PM, &lt;a href=&#34;https://bit.ly/3Tos8wx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;&lt;br&gt;
+Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/4tCa9j&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sakai.luc.edu/x/4tCa9j&lt;/a&gt;&lt;/p&gt;
+&lt;!--- &gt; Announcements. --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Computer Vision then and now.&#34;
+           src=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/cv-then-now.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;How might Google or TinEye reverse image search operate?
+How can a computer program process the pixel values of images and video frames and classify the depicted scene,
+or leverage the captured faces to perform person identification?
+What about manipulated images with tools such as Photoshop?
+Are there methods to help to debunk these manipulations?
+These are some of the questions we will be addressing in this course,
+focusing on state-of-the-art Computer Vision (CV) solutions to reduce the semantic gap
+between the pixel values and the desired outcome of complex tasks such as content-based image retrieval,
+content classification and recognition, biometric identification, and media forensics,
+always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;greater good&lt;/a&gt; in mind.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Requirements to attend this course are basic programming skills (especially Python) and statistics and probability.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Leaders&lt;/th&gt;
+&lt;th&gt;References&lt;/th&gt;
+&lt;th&gt;Assignment&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;08/29&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/material/lecture_01.pdf&#34;&gt;Introduction to CV&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Instructor&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09/05&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Labor Day&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#a01&#34;&gt;A01&lt;/a&gt;, due on 09/15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09/12&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/material/lecture_02.pdf&#34;&gt;Letter Soup: AI, ML, NN, DL, etc.&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Instructor&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#ref123&#34;&gt;[1, 2, 3]&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#a02&#34;&gt;A02&lt;/a&gt;, due on 09/20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09/19&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/material/lecture_03.pdf&#34;&gt;Image Description&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Instructor&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#ref456&#34;&gt;[4, 5, 6]&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#a03&#34;&gt;A03&lt;/a&gt;, due on 09/27&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09/26&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/material/lecture_04.pdf&#34;&gt;Image Retrieval&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Nick and Jesus&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#ref78910&#34;&gt;[7, 8, 9, 10]&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#a04&#34;&gt;A04&lt;/a&gt;, due on 10/04&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/03&lt;/td&gt;
+&lt;td&gt;Image Classification&lt;/td&gt;
+&lt;td&gt;Nick and Kenneth&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#ref1112131415&#34;&gt;[11, 12, 13, 14, 15]&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;A05, due on 10/18&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/10&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Fall Break&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/17&lt;/td&gt;
+&lt;td&gt;Object Detection&lt;/td&gt;
+&lt;td&gt;John and Kenneth&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#ref1617181920&#34;&gt;[16, 17, 18, 19, 20]&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;A06, due on 10/25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/24&lt;/td&gt;
+&lt;td&gt;Image Segmentation&lt;/td&gt;
+&lt;td&gt;Mujtaba and Matt&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;A07, due on 11/01&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10/31&lt;/td&gt;
+&lt;td&gt;Face Detection&lt;/td&gt;
+&lt;td&gt;John and Amol&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;A08, due on 11/08&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11/07&lt;/td&gt;
+&lt;td&gt;Face Verification&lt;/td&gt;
+&lt;td&gt;Mujtaba and Amol&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;A09, due on 11/15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11/14&lt;/td&gt;
+&lt;td&gt;GANs and Generative DL&lt;/td&gt;
+&lt;td&gt;Jakob and Matt&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;A10, due on 11/29&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11/21&lt;/td&gt;
+&lt;td&gt;Deep and Cheap Fakes&lt;/td&gt;
+&lt;td&gt;Instructor&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11/28&lt;/td&gt;
+&lt;td&gt;Sensitive Media Analysis&lt;/td&gt;
+&lt;td&gt;Instructor&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12/05&lt;/td&gt;
+&lt;td&gt;Provenance Analysis&lt;/td&gt;
+&lt;td&gt;Jakob and Jesus&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12/12&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Final Exam&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;a01&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a name=&#34;a02&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;assignments&#34;&gt;Assignments&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a name=&#34;a03&#34;&gt;&lt;/a&gt; &lt;del&gt;A01: Image Descriptors &lt;a href=&#34;#ref456&#34;&gt;[4, 5, 6]&lt;/a&gt;, due on 09/15 at noon.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a04&#34;&gt;&lt;/a&gt; &lt;del&gt;A02: Image Retrieval, &lt;a href=&#34;#ref78910&#34;&gt;[8, 9, 10]&lt;/a&gt;, due on 09/20 at noon.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;A03: Image Classification, &lt;a href=&#34;#ref1112131415&#34;&gt;[11, 12, 13, 14, 15]&lt;/a&gt;, due on 09/27 at noon.&lt;/li&gt;
+&lt;li&gt;A04: Object Detection, &lt;a href=&#34;#ref1617181920&#34;&gt;[16, 17, 18, 19, 20]&lt;/a&gt;, due on 10/04 at noon.&lt;/li&gt;
+&lt;li&gt;A05: TBD, released no later than 10/03, due on 10/18 at noon.&lt;/li&gt;
+&lt;li&gt;A06: TBD, released no later than 10/17, due on 10/25 at noon.&lt;/li&gt;
+&lt;li&gt;A07: TBD, released no later than 10/24, due on 11/01 at noon.&lt;/li&gt;
+&lt;li&gt;A08: TBD, released no later than 10/31, due on 11/08 at noon.&lt;/li&gt;
+&lt;li&gt;A09: TBD, released no later than 11/07, due on 11/15 at noon.&lt;/li&gt;
+&lt;li&gt;A10: TBD, released no later than 11/14, due on 11/29 at noon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Students will have to do at most eight assignments.
+Each assignment will comprise a particular set of scientific articles.
+Students will have to choose one of the articles for each assignment and provide a summary on the due date.
+There is no limit of pages for the summaries.
+Each summary should contain:&lt;br&gt;
+(1) &lt;strong&gt;What&lt;/strong&gt; is the problem addressed in the article?&lt;br&gt;
+(2) &lt;strong&gt;Why&lt;/strong&gt; is it important to address this problem?&lt;br&gt;
+(3) &lt;strong&gt;How&lt;/strong&gt; do the authors address the problem?&lt;br&gt;
+(4) What are the authors&amp;rsquo; &lt;strong&gt;claims&lt;/strong&gt;?&lt;br&gt;
+(5) What &lt;strong&gt;methodology&lt;/strong&gt; did they adopt (e.g., datasets, problem metrics, experiments) to prove their claims?&lt;br&gt;
+(6) Do you agree with the authors&amp;rsquo; claims?&lt;br&gt;
+(7) For the graduate students, how do you think you may use this work in your research?&lt;br&gt;
+(8) What open questions do you have about the article?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;discussion-leaders&#34;&gt;Discussion Leaders&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Image Retrieval, Nick and Jesus, on 09/26.&lt;/li&gt;
+&lt;li&gt;Image Classification, Nick and Kenneth, on 10/03.&lt;/li&gt;
+&lt;li&gt;Object Detection, John and Kenneth, on 10/17.&lt;/li&gt;
+&lt;li&gt;Image Segmentation, Mujtaba and Matt, on 10/24.&lt;/li&gt;
+&lt;li&gt;Face Detection, John and Amol, on 10/31.&lt;/li&gt;
+&lt;li&gt;Face Verification, Mujtaba and Amol, on 11/07.&lt;/li&gt;
+&lt;li&gt;GANs and Generative DL, Jakob and Matt, on 11/14.&lt;/li&gt;
+&lt;li&gt;Provenance Analysis, Jakob and Jesus, on 12/05.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Each student will play the role of &lt;em&gt;discussion leader&lt;/em&gt; twice along the course.
+Students will lead discussion in groups, preferably in pairs of one graduate and one undergraduate student.
+The graduate students are expected to help their undergraduate peers.&lt;/p&gt;
+&lt;p&gt;Discussion leaders will be responsible for organizing a 1.5-hour presentation of the topic of the day,
+resorting to slides, videos, and demonstrations.
+The instructor advises the discussion leaders to share their material with him
+a couple of days before the presentation day.&lt;br&gt;
+Discussion leaders will also receive the summaries of the articles and open questions related to their topics
+from the other students at least 5 days before their presentation.&lt;/p&gt;
+&lt;p&gt;The discussion and assignment topics coincide; as a consequence, discussion leaders are not required to
+provide summaries for the topics they will present.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;final-exam&#34;&gt;Final Exam&lt;/h2&gt;
+&lt;p&gt;Date and Local: 12/12, 4:15 PM, 117 Cuneo Hall&lt;br&gt;
+Format: Oral Quiz&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;grading&#34;&gt;Grading&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;Point Interval&lt;/th&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;Point Interval&lt;/th&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;Point Interval&lt;/th&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;Point Interval&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;[94, 100)&lt;/td&gt;
+&lt;td&gt;B+&lt;/td&gt;
+&lt;td&gt;[88, 89]&lt;/td&gt;
+&lt;td&gt;C+&lt;/td&gt;
+&lt;td&gt;[78, 79]&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;td&gt;[60, 69]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A-&lt;/td&gt;
+&lt;td&gt;[90, 93]&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;td&gt;[84, 87]&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;td&gt;[74, 77]&lt;/td&gt;
+&lt;td&gt;F&lt;/td&gt;
+&lt;td&gt;[0, 59]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;B-&lt;/td&gt;
+&lt;td&gt;[80, 83]&lt;/td&gt;
+&lt;td&gt;C-&lt;/td&gt;
+&lt;td&gt;[70, 73]&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;distribution&#34;&gt;Distribution&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Total&lt;/strong&gt;: 100 points&lt;/li&gt;
+&lt;li&gt;Class Presence and Participation: 6 points (x13)&lt;/li&gt;
+&lt;li&gt;Assignments: 1 point (x8)&lt;/li&gt;
+&lt;li&gt;Discussion Leadership: 3 points (x2)&lt;/li&gt;
+&lt;li&gt;Final Exam: 8 points&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;CV-on-the-news&lt;/em&gt; Post: 1 point (extra)&lt;/li&gt;
+&lt;li&gt;Demonstration on Discussion Day: 5 points (extra)&lt;/li&gt;
+&lt;li&gt;Late Assignments: -1 point per day&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Grading.&#34; srcset=&#34;
+               /teaching/cvapp-aut22/grading_hu3a9cdd06fb4f6267548ce78325163976_526278_ee381d104a46608a81ab365bf6d9953a.webp 400w,
+               /teaching/cvapp-aut22/grading_hu3a9cdd06fb4f6267548ce78325163976_526278_b3811655f7faf03136557ce3593313b3.webp 760w,
+               /teaching/cvapp-aut22/grading_hu3a9cdd06fb4f6267548ce78325163976_526278_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/grading_hu3a9cdd06fb4f6267548ce78325163976_526278_ee381d104a46608a81ab365bf6d9953a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;236&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Each student has two &lt;em&gt;&amp;ldquo;Oopsie&amp;rdquo;&lt;/em&gt; cards (OC), which will allow them to either avoid losing points because of absence
+or extend due dates until 12/11.
+They may use an OC at their discretion for any task, except for their assigned days of discussion leadership
+and final exam.
+Please let the instructor know you want to use your OC.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Oopsie card.&#34;
+           src=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/card.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
+&lt;p&gt;Links useful to the course will be posted here.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;cv-on-the-news&#34;&gt;CV On the News&lt;/h2&gt;
+&lt;p&gt;News involving CV issues shared and discussed by the students and instructor will be posted here.
+&lt;a name=&#34;ref123&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;LeCun, Y., Bengio, Y., Hinton, G. &lt;em&gt;Deep learning&lt;/em&gt;.
+Nature 521 (1), 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hearst, M., Dumais, S., Osuna, E., Platt, J., Scholkopf, B. &lt;em&gt;Support vector machines&lt;/em&gt;.
+IEEE Intelligent Systems and their Applications 13 (4), 1998.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a name=&#34;ref456&#34;&gt;&lt;/a&gt; Ho, T. &lt;em&gt;The Random Subspace Method for Constructing Decision Forests&lt;/em&gt;.
+IEEE Transactions on Pattern Analysis and Machine Intelligence 20 (8), 1998.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lowe, D. &lt;em&gt;Distinctive Image Features from Scale-Invariant Keypoints&lt;/em&gt;.
+Springer International Journal of Computer Vision 60 (2), 2004.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bay, H., Tuytelaars, T., Van Gool, L. &lt;em&gt;SURF: Speeded Up Robust Features&lt;/em&gt;.
+Springer European Conference on Computer Vision (ECCV), 2006&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a name=&#34;ref78910&#34;&gt;&lt;/a&gt; Noh, H., Araujo, A., Sim, J., Weyand, T., Han, B. &lt;em&gt;Large-Scale Image Retrieval with Attentive Deep Local Features&lt;/em&gt;.
+IEEE International Conference on Computer Vision (ICCV), 2016.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jegou, H., Douze, M., Johnson, J. &lt;em&gt;Faiss: A library for efficient similarity search&lt;/em&gt;.
+Available at &lt;a href=&#34;https://bit.ly/3BiGYg9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/3BiGYg9&lt;/a&gt;. Meta Platforms, Inc., 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Brogan, J., Bharati, A., Moreira, D., Rocha, A., Bowyer, K., Flynn, P., Scheirer, W.
+&lt;em&gt;Fast Local Spatial Verification for Feature-Agnostic Large-Scale Image Retrieval&lt;/em&gt;.
+IEEE Transactions on Image Processing 30 (1), 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kalantidis, Y., Avrithis, Y. &lt;em&gt;Locally Optimized Product Quantization for Approximate Nearest Neighbor Search&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a name=&#34;ref1112131415&#34;&gt;&lt;/a&gt; Jegou, H., Douze, M., Schmid, C. &lt;em&gt;Product quantization for nearest neighbor search&lt;/em&gt;.
+IEEE Transactions on Pattern Analysis and Machine Intelligence 33 (1), 2010.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Howard, A., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., Andreetto, M., Adam, H.
+&lt;em&gt;Mobilenets: Efficient convolutional neural networks for mobile vision applications&lt;/em&gt;.
+ArXiv Preprint, 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Krizhevsky, A., Sutskever, I., Hinton, G. &lt;em&gt;Imagenet classification with deep convolutional neural networks&lt;/em&gt;.
+ACM Communications 60 (6), 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;He, K., Zhang, X., Ren, S., Sun, J. &lt;em&gt;Deep residual learning for image recognition&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., Vanhoucke, V., Rabinovich, A.
+&lt;em&gt;Going deeper with convolutions&lt;/em&gt;. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a name=&#34;ref1617181920&#34;&gt;&lt;/a&gt; Simonyan, K., Zisserman, A.
+&lt;em&gt;Very deep convolutional networks for large-scale image recognition&lt;/em&gt;.
+International Conference on Learning Representations (ICLR), 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lin, T-Y., Goyal, P., Girshick, R., He, K., Dollar, P. &lt;em&gt;Focal loss for dense object detection&lt;/em&gt;.
+IEEE International Conference on Computer Vision (ICCV), 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Redmon, J., Divvala, S., Girshick, R., and Farhadi, A. &lt;em&gt;You only look once: Unified, real-time object detection&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ren, S., He, K., Girshick, R., Sun, J.
+&lt;em&gt;Faster R-CNN: Towards real-time object detection with region proposal networks&lt;/em&gt;
+Advances in Neural Information Processing Systems 28 (1), 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Girshick, R. &lt;em&gt;Fast R-CNN&lt;/em&gt;. IEEE International Conference on Computer Vision (ICCV), 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Girshick, R., Donahue, J., Darrell, T., Malik, J.
+&lt;em&gt;Rich feature hierarchies for accurate object detection and semantic segmentation&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;More soon&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;academic-integrity&#34;&gt;Academic Integrity&lt;/h2&gt;
+&lt;p&gt;Students are expected to adhere to the LUC statements on academic integrity available at &lt;a href=&#34;https://bit.ly/3TmiQkQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/3TmiQkQ&lt;/a&gt;.
+These policies fully apply to this course.
+The penalty for task-wise academic misconduct is zero points.
+Multiple events of misconduct will incur in failing the entire course (with an F grade).
+All cases of academic misconduct will be reported to the proper department offices.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;accommodations&#34;&gt;Accommodations&lt;/h2&gt;
+&lt;p&gt;Students who have disabilities and wish to request academic accommodations are advised to contact the
+&lt;em&gt;Services for Students With Disabilities&lt;/em&gt; (SSWD) office at 773-508-3700 or &lt;a href=&#34;mailto:SSWD@luc.edu&#34;&gt;SSWD@luc.edu&lt;/a&gt; as soon as possible.
+The SSWD office will provide accommodation letters that, once shared with the instructor, will be fully accommodated
+as per the terms of their content with no further questions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning the Shell, Fall 2022</title>
+      <link>https://danielmoreira.github.io/teaching/comptool-aut22/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/teaching/comptool-aut22/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /teaching/comptool-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e839b6c2cdaf3ce0071b2d652a019b75.webp 400w,
+               /teaching/comptool-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e51b41172736727dd7a34ff04a09a9a2.webp 760w,
+               /teaching/comptool-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/comptool-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e839b6c2cdaf3ce0071b2d652a019b75.webp&#34;
+               width=&#34;250px&#34;
+               height=&#34;116&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;p&gt;Course: COMP 141-001 / COMP 400D-001 Intro to Computing Tool&lt;br&gt;
+Level: Undergraduate and Graduate&lt;br&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;br&gt;
+Teaching Assistant: Olga Velichko (&lt;a href=&#34;mailto:ovelichko@luc.edu&#34;&gt;ovelichko@luc.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Lectures: Asynchronous and fully remote on &lt;a href=&#34;https://sakai.luc.edu/x/QxXrXd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt;&lt;br&gt;
+Office Hours: WED, 5 to 8 PM, and FRI, 4 to 5 PM, &lt;a href=&#34;https://bit.ly/3BDuEID&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Shell terminal.&#34;
+           src=&#34;https://danielmoreira.github.io/teaching/comptool-aut22/terminal.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Despite the current era of rich graphical user interfaces (desktop, web, and mobile), the &amp;ldquo;command line&amp;rdquo; experience
+remains important, especially for software developers and computer-aided scientific researchers.
+Many development scenarios still require command line and fluency in Unix tools, including the modern embedded,
+cloud, cybersecurity, and supercomputing environments. With mobile computing and Internet of Things, Unix (via Linux)
+has risen to the level of a ubiquitous platform, owing to its lightweight and open-source nature.
+While this course does not aim at being a comprehensive programming class, students will master basic programming
+skills using shell scripting.
+They will also learn about problem-solving using Unix commands supported by shell scripts.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Please refer to &lt;a href=&#34;https://sakai.luc.edu/x/QxXrXd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt; for having access to the materials, assignments, quizzes,
+announcements, grading, and progress of the course. This page is static and will not be updated.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;p&gt;This course is offered in multiple sessions with the following leading and contributing LUC instructors (Fall 2022):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;John O&amp;rsquo;Sullivan&lt;/li&gt;
+&lt;li&gt;Nathan Hishon&lt;/li&gt;
+&lt;li&gt;Allan Miller&lt;/li&gt;
+&lt;li&gt;David Wetzel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Shots, W. &lt;em&gt;The Linux Command Line, 2nd Edition&lt;/em&gt;. No Starch Press Book, 2019. Available at &lt;a href=&#34;https://linuxcommand.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://linuxcommand.org/&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forensic Analysis of Synthetically Generated Western Blot Images</title>
+      <link>https://danielmoreira.github.io/publication/2022_ieeeaccess/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2022_ieeeaccess/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://danielmoreira.github.io/project/</link>
+      <title>Image Provenance Analysis</title>
+      <link>https://danielmoreira.github.io/publication/2022_chapter/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2022_chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biometrics, Spring 2022</title>
+      <link>https://danielmoreira.github.io/teaching/biometrics-spr22/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/teaching/biometrics-spr22/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /teaching/biometrics-spr22/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_4a14e3ad48aa854e7fab4000b9b1c6e7.webp 400w,
+               /teaching/biometrics-spr22/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_c7771669807438d62685d1c21c995ac4.webp 760w,
+               /teaching/biometrics-spr22/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_4a14e3ad48aa854e7fab4000b9b1c6e7.webp&#34;
+               width=&#34;250px&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;p&gt;Course: CSE 40537 / 60537 Biometrics&lt;br&gt;
+Level: Undergraduate and Graduate&lt;br&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dhenriq1@nd.edu&#34;&gt;dhenriq1@nd.edu&lt;/a&gt;)&lt;br&gt;
+Teaching Assistant: Jason You (&lt;a href=&#34;mailto:syou@nd.edu&#34;&gt;syou@nd.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Lectures: TUE and THR, 3:30 to 4:45 PM, 356A Fitzpatrick Hall&lt;br&gt;
+Office Hours: Daniel - MON to FRI, 5:00 to 6:00 PM, 182 Fitzpatrick Hall, Jason - WED, 1:00 to 2:00 PM, 150M Fitzpatrick Hall&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;Slack: &lt;a href=&#34;https://nd-biometrics-spr22.slack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nd-biometrics-spr22.slack.com&lt;/a&gt;&lt;/del&gt; &lt;em&gt;(now deactivated)&lt;/em&gt;&lt;br&gt;
+Panopto: &lt;a href=&#34;https://bit.ly/3A4QEKc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/3A4QEKc&lt;/a&gt;&lt;/p&gt;
+&lt;!--- Zoom: https://bit.ly/3JS9zMA/ --&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Different attacks made by students.&#34; srcset=&#34;
+               /teaching/biometrics-spr22/fake_hu832e1f5d9d218979753d086994377cb1_4211911_de810acd765980f08f9b38d9421a0093.webp 400w,
+               /teaching/biometrics-spr22/fake_hu832e1f5d9d218979753d086994377cb1_4211911_e869c853dca9cbd8838e7c769b6b97b2.webp 760w,
+               /teaching/biometrics-spr22/fake_hu832e1f5d9d218979753d086994377cb1_4211911_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/fake_hu832e1f5d9d218979753d086994377cb1_4211911_de810acd765980f08f9b38d9421a0093.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;367&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Course grades are now &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/total_grades.pdf&#34;&gt;available&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;progress&#34;&gt;Progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;01/11/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_00.pdf&#34;&gt;Syllabus&lt;/a&gt;, Course details.&lt;/li&gt;
+&lt;li&gt;01/13/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_01.pdf&#34;&gt;Basics I&lt;/a&gt;, Biometrics, traits, and systems.&lt;/li&gt;
+&lt;li&gt;01/18/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_02.pdf&#34;&gt;Basics II&lt;/a&gt;, Errors, metrics, and attacks.&lt;/li&gt;
+&lt;li&gt;01/20/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_03.pdf&#34;&gt;Basics II (cont.)&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_03.zip&#34;&gt;1st Coding Class&lt;/a&gt;, Metrics.&lt;/li&gt;
+&lt;li&gt;01/25/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_04.pdf&#34;&gt;Fingerprint Recog. I&lt;/a&gt;, History and features.&lt;/li&gt;
+&lt;li&gt;01/27/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_05.pdf&#34;&gt;Fingerprint Recog. II&lt;/a&gt;, Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;02/01/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_06.pdf&#34;&gt;Fingerprint Recog. III&lt;/a&gt;, Minutiae detection.&lt;/li&gt;
+&lt;li&gt;02/03/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_07.zip&#34;&gt;Fingerprint Data Collection&lt;/a&gt;, password with instructor.&lt;/li&gt;
+&lt;li&gt;02/08/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_08.pdf&#34;&gt;Iris Recog. I&lt;/a&gt;, Why irises and irises vs. other traits.&lt;/li&gt;
+&lt;li&gt;02/10/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_09.pdf&#34;&gt;Iris Recog. II&lt;/a&gt;, Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;02/15/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_10.pdf&#34;&gt;Iris Recog. III&lt;/a&gt;, Description and matching.&lt;/li&gt;
+&lt;li&gt;02/17/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_11.zip&#34;&gt;2nd Coding Class&lt;/a&gt;, Fingerprint recognition.&lt;/li&gt;
+&lt;li&gt;02/22/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_12.zip&#34;&gt;Iris Data Collection&lt;/a&gt;, password with instructor.&lt;/li&gt;
+&lt;li&gt;02/24/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_13.zip&#34;&gt;3rd Coding Class&lt;/a&gt;, Iris recognition.&lt;/li&gt;
+&lt;li&gt;03/01/2022 - &lt;a href=&#34;#kuehlkamp&#34;&gt;1st Invited Talk,&lt;/a&gt; Dr. Andrey Kuehlkamp.&lt;/li&gt;
+&lt;li&gt;03/03/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/midterm.pdf&#34;&gt;Midterm exam&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/midterm_grades.pdf&#34;&gt;grades&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;03/08/2022 - Spring Break.&lt;/li&gt;
+&lt;li&gt;03/10/2022 - Spring Break.&lt;/li&gt;
+&lt;li&gt;03/15/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_14.pdf&#34;&gt;Face Recog. I&lt;/a&gt;, Why faces and faces vs. other traits.&lt;/li&gt;
+&lt;li&gt;03/17/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_15.pdf&#34;&gt;Face Recog. II&lt;/a&gt;, Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;03/22/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_16.pdf&#34;&gt;Face Recog. III&lt;/a&gt;, Description and matching.&lt;/li&gt;
+&lt;li&gt;03/24/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_17.pdf&#34;&gt;Face Recog. IV&lt;/a&gt;, Deep learning face recognition.&lt;/li&gt;
+&lt;li&gt;03/29/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_18.zip&#34;&gt;4th Coding Class&lt;/a&gt;, Face recognition.&lt;/li&gt;
+&lt;li&gt;03/31/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_19.pdf&#34;&gt;Feature Indexing&lt;/a&gt;, Index building and feature querying.&lt;/li&gt;
+&lt;li&gt;04/05/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_20.pdf&#34;&gt;Other Traits&lt;/a&gt;, Alternative traits and Soft Biometrics.&lt;/li&gt;
+&lt;li&gt;04/07/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_21.pdf&#34;&gt;Multibiometrics&lt;/a&gt;, Data fusion.&lt;/li&gt;
+&lt;li&gt;04/12/2022 - &lt;a href=&#34;#boyd&#34;&gt;2nd Invited Talk,&lt;/a&gt; Mr. Aidan Boyd.&lt;/li&gt;
+&lt;li&gt;04/14/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/slides_fingerprint.pdf&#34;&gt;Fingerprint&lt;/a&gt; presentation attack day.&lt;/li&gt;
+&lt;li&gt;04/19/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/slides_iris.pdf&#34;&gt;Iris&lt;/a&gt; and &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/slides_face.pdf&#34;&gt;face&lt;/a&gt; presentation attack day.&lt;/li&gt;
+&lt;li&gt;04/21/2022 - Grad students&amp;rsquo; &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/slides_signature.pdf&#34;&gt;signature recog.&lt;/a&gt; and &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/slides_gfi.pdf&#34;&gt;gender from iris&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;05/05/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/final.pdf&#34;&gt;Final exam&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/final_grades.pdf&#34;&gt;grades&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--- bdgX4&amp;A?q];8?Up7 --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;assignments&#34;&gt;Assignments&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;01/20/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_1.pdf&#34;&gt;1st assignment&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_1_answers.pdf&#34;&gt;good answers&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_1_grades.pdf&#34;&gt;grades&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;02/22/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_2.pdf&#34;&gt;2nd assignment&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_2_answers.pdf&#34;&gt;good answers&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_2_grades.pdf&#34;&gt;grades&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;03/15/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_3.pdf&#34;&gt;3rd assignment&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_3_answers.pdf&#34;&gt;good answers&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_3_grades.pdf&#34;&gt;grades&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;04/04/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_4.pdf&#34;&gt;4th assignment&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_4_answers.pdf&#34;&gt;good answers&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_4_grades.pdf&#34;&gt;grades&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;del&gt;01/28/2022 - 1st assignment due date.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;02/03/2022 - Fingerprint data collection.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;02/22/2022 - Iris data collection.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;03/01/2022 - Dr. Andrey Kuehlkamp’s talk.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;03/03/2022 - Midterm exam.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;03/04/2022 - 2nd assignment due date.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;03/25/2022 - 3rd assignment due date.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/12/2022 - Mr. Aidan Boyd&amp;rsquo;s talk.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/14/2022 - Fingerprint presentation attack day.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/18/2022 - 4th assignment due date.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/19/2022 - Iris and face presentation attack day.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/21/2022 - Grad students&amp;rsquo; final report presentation.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;05/05/2022 - Final exam, 10:30 to 12:30 PM, 356A Fitzpatrick Hall.&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a name=&#34;kuehlkamp&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Dr. Andrey Kuehlkamp&#34; srcset=&#34;
+               /teaching/biometrics-spr22/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_ad1b4efbd7d46e2998d4e35a6e5aaf94.webp 400w,
+               /teaching/biometrics-spr22/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_e1180eff5c20c3de1d54f643fc937f98.webp 760w,
+               /teaching/biometrics-spr22/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_ad1b4efbd7d46e2998d4e35a6e5aaf94.webp&#34;
+               width=&#34;100&#34;
+               height=&#34;125&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://crc.nd.edu/about/people/andrey-kuehlkamp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Andrey Kuehlkamp&lt;/a&gt;&lt;/br&gt; Postdoctoral Research Associate at the Center for Research Computing, University of Notre Dame&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;b&gt;Diverse Aspects in Advancing Iris Recognition Systems&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; Are we ready for widespread, mass-scale adoption of iris recognition systems? Following the miniaturization of fingerprint scanners, these have dominated recognition systems and have even become almost commonplace for unlocking cell phones, but what if in the not-so-far-off future they were replaced with iris scanners, would you be comfortable with it? Since its initial introduction in 1993, automated iris recognition has dramatically grown in popularity and soon could become the dominant method for automated recognition. Take for example the largest recognition system in the world &amp;mdash; India’s Aadhaar program &amp;mdash; which has collected more than 1.1 billion irises from their citizens to be used as the primary identification for banking, pensions, and welfare programs. Even more recently &amp;mdash; in 2017 &amp;mdash; Somaliland became the first country in the world to use iris recognition as the means for identification in a public election, which had more than 800,000 registered voters. Although a mature technology in many regards, the drastic increase in iris recognition adoption has revealed many opportunities for improvement. In this talk I present an overview of my research, which focuses on improving iris recognition in three ways: speed, accuracy, and robustness. &lt;a name=&#34;boyd&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Mr. Aidan Boyd&#34; srcset=&#34;
+               /teaching/biometrics-spr22/boyd_hu9c71555c2dab4f53bfd88f71a1ded5aa_5709_d53bd3b72947184ba3bf571c5c5620e1.webp 400w,
+               /teaching/biometrics-spr22/boyd_hu9c71555c2dab4f53bfd88f71a1ded5aa_5709_4d28190796a719a302d50d07df8aa3bf.webp 760w,
+               /teaching/biometrics-spr22/boyd_hu9c71555c2dab4f53bfd88f71a1ded5aa_5709_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/boyd_hu9c71555c2dab4f53bfd88f71a1ded5aa_5709_d53bd3b72947184ba3bf571c5c5620e1.webp&#34;
+               width=&#34;100&#34;
+               height=&#34;125&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/BoydAidan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mr. Aidan Boyd&lt;/a&gt;&lt;/br&gt; Ph.D. Candidate at the Department of Computer Science and Engineering, University of Notre Dame&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;b&gt;Using human perception to train better CNNs&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; Traditional deep learning is a data-driven process. Images are shown to a CNN and it is expected to learn rules that enable it to perform a task efficiently on new unseen images after training. The problem with this approach is that the model can only learn from the supplied training data. Potentially, this training data is not representative of the entire domain. Although the model classifies training images near perfectly, this learned rule may actually just be coincidental to this data, rather than applying to all images in that task. Additionally, the decision making of these models can be ambiguous and not explainable, meaning it can be difficult to trust the classifications. Humans, however, possess great ability to generalize what they have seen in the past and apply it to the current task. Humans don’t focus on incidental features in data, instead we tend to look at more obvious occurrences that can be easily explained.&lt;/br&gt; &lt;/br&gt; This talk will cover two of my recent works where we investigated whether the incorporation of human perception into the training of deep learning models results in better performance on unseen data. Each of these works approach this in different ways, both showing promising results. In the second work, we also investigate whether the models we have trained in this way are more “human-like” in their decision making. These approaches are applied to the domains of iris presentation attack detection and synthetically generated face detection (see &lt;a href=&#34;https://www.thispersondoesnotexist.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.thispersondoesnotexist.com&lt;/a&gt; for examples of synthetically generated faces).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;grading&#34;&gt;Grading&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;Point interval&lt;/th&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;Point interval&lt;/th&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;Point interval&lt;/th&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;Point interval&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;[94, 100)&lt;/td&gt;
+&lt;td&gt;B+&lt;/td&gt;
+&lt;td&gt;[88, 89]&lt;/td&gt;
+&lt;td&gt;C+&lt;/td&gt;
+&lt;td&gt;[78, 79]&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;td&gt;[60, 69]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A-&lt;/td&gt;
+&lt;td&gt;[90, 93]&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;td&gt;[84, 87]&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;td&gt;[74, 77]&lt;/td&gt;
+&lt;td&gt;F&lt;/td&gt;
+&lt;td&gt;[0, 59]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;B-&lt;/td&gt;
+&lt;td&gt;[80, 83]&lt;/td&gt;
+&lt;td&gt;C-&lt;/td&gt;
+&lt;td&gt;[70, 73]&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;distribution&#34;&gt;Distribution&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Total&lt;/strong&gt;: 100 points&lt;/li&gt;
+&lt;li&gt;Assignments: 10 points (x4)&lt;/li&gt;
+&lt;li&gt;Presentation attack detection report: 20 points&lt;/li&gt;
+&lt;li&gt;Midterm exam: 20 points&lt;/li&gt;
+&lt;li&gt;Final exam: 20 points&lt;/li&gt;
+&lt;li&gt;Late assignments: -1 point per day&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Final project &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/project_grades.pdf&#34;&gt;grades&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/panopto.pdf&#34;&gt;Classroom recording notification.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vision.ucsd.edu/content/yale-face-database&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yale face dataset&lt;/a&gt;, used in the 4th assignment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;biometrics-on-the-news&#34;&gt;Biometrics on the News&lt;/h2&gt;
+&lt;p&gt;Posted by the students and instructor on Slack:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://fortune.com/2021/10/22/crypto-worldcoin-cryptocurrency-eye-scan-biometrics-orb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://fortune.com/2021/10/22/crypto-worldcoin-cryptocurrency-eye-scan-biometrics-orb/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202201/attacks-countermeasures-and-pulses-of-blood-in-remote-identity-proofing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biometricupdate.com/202201/attacks-countermeasures-and-pulses-of-blood-in-remote-identity-proofing&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.yahoo.com/news/irs-wants-scan-face-171738919.html?.tsrc=fp_deeplink&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.yahoo.com/news/irs-wants-scan-face-171738919.html?.tsrc=fp_deeplink&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.irs.gov/newsroom/irs-announces-transition-away-from-use-of-third-party-verification-involving-facial-recognition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.irs.gov/newsroom/irs-announces-transition-away-from-use-of-third-party-verification-involving-facial-recognition&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2022/02/14/technology/texas-facebook-facial-recognition-lawsuit.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nytimes.com/2022/02/14/technology/texas-facebook-facial-recognition-lawsuit.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://abcnews.go.com/GMA/Living/video/hyper-realistic-face-masks-optical-illusions-needed-71835222&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://abcnews.go.com/GMA/Living/video/hyper-realistic-face-masks-optical-illusions-needed-71835222&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.newscientist.com/article/2114900-concerns-as-face-recognition-tech-used-to-identify-criminals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.newscientist.com/article/2114900-concerns-as-face-recognition-tech-used-to-identify-criminals/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.yahoo.com/news/ukraine-using-facial-recognition-tech-153640828.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.yahoo.com/news/ukraine-using-facial-recognition-tech-153640828.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/technology/2022/04/15/ukraine-facial-recognition-warfare/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.washingtonpost.com/technology/2022/04/15/ukraine-facial-recognition-warfare/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202204/biometrics-secure-unhcr-direct-cash-payments-to-ukrainian-refugees&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biometricupdate.com/202204/biometrics-secure-unhcr-direct-cash-payments-to-ukrainian-refugees&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theverge.com/22672123/ai-voice-clone-synthesis-deepfake-applications-vergecast&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theverge.com/22672123/ai-voice-clone-synthesis-deepfake-applications-vergecast&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202204/ny-state-audit-finds-bidding-for-school-facial-recognition-system-was-improper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biometricupdate.com/202204/ny-state-audit-finds-bidding-for-school-facial-recognition-system-was-improper&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202204/suprema-face-biometrics-enable-uk-school-to-cut-back-plastic-waste-from-access-cards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biometricupdate.com/202204/suprema-face-biometrics-enable-uk-school-to-cut-back-plastic-waste-from-access-cards&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://techcrunch.com/2022/04/18/web-scraping-legal-court/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://techcrunch.com/2022/04/18/web-scraping-legal-court/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast Local Spatial Verification for Feature-Agnostic Large-Scale Image Retrieval</title>
+      <link>https://danielmoreira.github.io/publication/2021_tip/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2021_tip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemaFor</title>
+      <link>https://danielmoreira.github.io/project/semafor/</link>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/project/</guid>
+      <guid>https://danielmoreira.github.io/project/semafor/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Ongoing, &lt;strong&gt;Funded by:&lt;/strong&gt; DARPA&lt;/p&gt;
+&lt;p&gt;The Semantic Forensics research project (&lt;a href=&#34;https://www.darpa.mil/program/semantic-forensics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SemaFor&lt;/a&gt;) is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA), whose goal is to leverage forensic tools to perform the &lt;strong&gt;detection&lt;/strong&gt; of the existence, &lt;strong&gt;atribution&lt;/strong&gt; of the authorship, and &lt;strong&gt;characterization&lt;/strong&gt; of the intention of manipulated digital media.&lt;/p&gt;
+&lt;p&gt;Working together with the Universities of Purdue, Siena, Campinas (Unicamp), Naples Federico II, and the Politécnico di Milano, our team leads the development of solutions to the problem of digital document analysis (such as scientific papers, news articles, patents, grants, etc.).
+By combining ideas from the topics of image retrieval, digital image forensics, natural language processing, and deep learning, we aim at proposing multimodal methods to spot semantic inconsistencies within the content of documents.&lt;/p&gt;
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Walter Scheirer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Anderson Rocha (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Tim Weninger (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Daniel Moreira (PI)&lt;/li&gt;
+&lt;li&gt;William Theisen (PhD Student)&lt;/li&gt;
+&lt;li&gt;Trenton Ford (PhD Student)&lt;/li&gt;
+&lt;li&gt;Rosaura VidalMata (PhD Student)&lt;/li&gt;
+&lt;li&gt;Priscila Saboia Moreira (PhD Student)&lt;/li&gt;
+&lt;li&gt;João P. Cardenuto (PhD Student)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sci-Int</title>
+      <link>https://danielmoreira.github.io/project/sciint/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/project/sciint/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Ongoing, &lt;strong&gt;Funded by:&lt;/strong&gt; DARPA&lt;/p&gt;
+&lt;p&gt;The Scientific Integrity (Sci-Int) project is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA), whose goal is to develop solutions to identify misconduct in scientific research through the detection of image tampering in scientific papers.&lt;/p&gt;
+&lt;p&gt;Working together with the Universities of Purdue, South California (USC), Campinas (Unicamp), Naples Federico II, and the Politécnico di Milano, our team leads the development of techniques to (1) rule out false positive cases of misidentified misconduct, and to (2) better report and document misconduct practices in retraction notices.&lt;/p&gt;
+&lt;p&gt;To accomplish item (1), we plan to perform semantic analyses of the suspect paper cases, in order to identify situations in which duplications or manipulations of content were made with fair scientific purpose (e.g., to visually highlight or to better explain previous results). To do that, we plan to use natural language processing to perform basic automated paper text and image caption interpretation.&lt;/p&gt;
+&lt;p&gt;To accomplish item (2), we plan to rely on techniques of Provenance Graph Construction to present better explanations of how problematic images relate to each other, and how they share content across different papers.&lt;/p&gt;
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Walter Scheirer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Anderson Rocha (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Daniel Moreira (PI)&lt;/li&gt;
+&lt;li&gt;João P. Cardenuto (PhD Student)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic Discovery of Political Meme Genres with Diverse Appearances</title>
+      <link>https://danielmoreira.github.io/publication/2021_icwsm/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2021_icwsm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://danielmoreira.github.io/post/</link>
+      <title>Transformation-Aware Embeddings for Image Provenance</title>
+      <link>https://danielmoreira.github.io/publication/2021_tifs/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2021_tifs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biometrics, Spring 2020</title>
+      <link>https://danielmoreira.github.io/teaching/biometrics-spr20/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/teaching/biometrics-spr20/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /teaching/biometrics-spr20/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_4a14e3ad48aa854e7fab4000b9b1c6e7.webp 400w,
+               /teaching/biometrics-spr20/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_c7771669807438d62685d1c21c995ac4.webp 760w,
+               /teaching/biometrics-spr20/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_4a14e3ad48aa854e7fab4000b9b1c6e7.webp&#34;
+               width=&#34;250px&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;p&gt;Course: CSE 40537 / 60537 Biometrics&lt;br&gt;
+Level: Undergraduate and Graduate&lt;br&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dhenriq1@nd.edu&#34;&gt;dhenriq1@nd.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;Lectures: TUE and THR, 5:05 to 6:20 PM, 125 DeBartolo Hall&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
+&lt;del&gt;Office Hours: MON and WED, 2:00 to 4:00 PM, 150N Fitzpatrick Hall&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
+Lectures: TUE and THR, 2:00 to 3:15 PM, at Zoom&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
+Office Hours: TUE and THR, 5:05 to 6:20 PM, at Zoom&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
+&lt;em&gt;Students are not obligated to attend classes at 2:00 pm, but are certainly welcome. All classes are being recorded with Panopto.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Slack: &lt;del&gt;&lt;a href=&#34;https://cse-biometrics-spr20.slack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cse-biometrics-spr20.slack.com&lt;/a&gt;&lt;/del&gt; &lt;em&gt;(now deactivated)&lt;/em&gt;&lt;br&gt;
+Panopto: &lt;a href=&#34;https://bit.ly/33ZkU97&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/33ZkU97&lt;/a&gt;&lt;br&gt;
+Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://notredame.zoom.us/my/dmoreira&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course grades are now &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/grades.pdf&#34;&gt;available.&lt;/a&gt;&lt;/strong&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fake fingers made by students.&#34; srcset=&#34;
+               /teaching/biometrics-spr20/fake-fingers_hu3624c59c52b8002a8b05756867852acc_28227_af33aaedd321ecfceac2818aefda2697.webp 400w,
+               /teaching/biometrics-spr20/fake-fingers_hu3624c59c52b8002a8b05756867852acc_28227_4fc760eb2705bed990f3196fb7ee1a47.webp 760w,
+               /teaching/biometrics-spr20/fake-fingers_hu3624c59c52b8002a8b05756867852acc_28227_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/fake-fingers_hu3624c59c52b8002a8b05756867852acc_28227_af33aaedd321ecfceac2818aefda2697.webp&#34;
+               width=&#34;400&#34;
+               height=&#34;400&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;progress&#34;&gt;Progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;01/14/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_00.pdf&#34;&gt;Syllabus,&lt;/a&gt; Course details.&lt;/li&gt;
+&lt;li&gt;01/16/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_01.pdf&#34;&gt;Basics I,&lt;/a&gt; Biometrics, traits, and systems.&lt;/li&gt;
+&lt;li&gt;01/21/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_02.pdf&#34;&gt;Basics II,&lt;/a&gt; Errors, metrics, and attacks.&lt;/li&gt;
+&lt;li&gt;01/23/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_03.zip&#34;&gt;1st Coding Class,&lt;/a&gt; Implementation of metrics.&lt;/li&gt;
+&lt;li&gt;01/28/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_04.pdf&#34;&gt;Fingerprint Recog. I,&lt;/a&gt; History and features.&lt;/li&gt;
+&lt;li&gt;01/30/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_05.pdf&#34;&gt;Fingerprint Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;02/04/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_06.pdf&#34;&gt;Fingerprint Recog. III,&lt;/a&gt; Minutiae detection.&lt;/li&gt;
+&lt;li&gt;02/06/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_07.zip&#34;&gt;Fingerprint Data Collection,&lt;/a&gt; password with instructor.&lt;/li&gt;
+&lt;li&gt;02/11/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_08_09.zip&#34;&gt;2nd Coding Class,&lt;/a&gt; Minutiae-based recognition.&lt;/li&gt;
+&lt;li&gt;02/13/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_08_09.zip&#34;&gt;2nd Coding Class,&lt;/a&gt; continuation.&lt;/li&gt;
+&lt;li&gt;02/18/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_10.pdf&#34;&gt;Face Recog. I,&lt;/a&gt; Why faces and faces vs. fingerprints.&lt;/li&gt;
+&lt;li&gt;02/20/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_11.pdf&#34;&gt;Face Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;02/25/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_12.pdf&#34;&gt;Face Recog. III,&lt;/a&gt; Description and matching.&lt;/li&gt;
+&lt;li&gt;02/27/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_13.zip&#34;&gt;3rd Coding Class,&lt;/a&gt; Face recognition.&lt;/li&gt;
+&lt;li&gt;03/03/2020 - Fingerprints assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;03/05/2020 - Fingerprints assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;03/10/2020 - Spring Break.&lt;/li&gt;
+&lt;li&gt;03/12/2020 - Spring Break.&lt;/li&gt;
+&lt;li&gt;03/17/2020 - Extended Spring Break&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;03/18/2020 - Extended Spring Break&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;03/24/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_16.pdf&#34;&gt;New Course Directions&lt;sup&gt;1&lt;/sup&gt;.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;03/26/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_17.pdf&#34;&gt;Iris Recog. I,&lt;/a&gt; Why irises and irises vs. other traits.&lt;/li&gt;
+&lt;li&gt;03/31/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_18.pdf&#34;&gt;Iris Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;04/02/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_19.pdf&#34;&gt;Iris Recog. III,&lt;/a&gt; Description and matching.&lt;/li&gt;
+&lt;li&gt;04/07/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_20.zip&#34;&gt;4th Coding Class,&lt;/a&gt; Iris recognition.&lt;/li&gt;
+&lt;li&gt;04/09/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_21.pdf&#34;&gt;Multibiometrics,&lt;/a&gt; Other traits, data fusion.&lt;/li&gt;
+&lt;li&gt;04/14/2020 - &lt;a href=&#34;#kuehlkamp&#34;&gt;1st Invited Talk,&lt;/a&gt; Dr. Andrey Kuehlkamp.&lt;/li&gt;
+&lt;li&gt;04/16/2020 - &lt;a href=&#34;#czajka&#34;&gt;2nd Invited Talk,&lt;/a&gt; Dr. Adam Czajka.&lt;/li&gt;
+&lt;li&gt;04/21/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;04/23/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;04/28/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/assignment-grades.pdf&#34;&gt;Assignment Report&lt;/a&gt; due date.&lt;/li&gt;
+&lt;li&gt;05/04/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/exam.pdf&#34;&gt;Final exam,&lt;/a&gt; see &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/exam-grades.pdf&#34;&gt;grades.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;del&gt;03/03/2020 - Fingerprints assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;03/05/2020 - Fingerprints assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;03/31/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/02/2020 - Faces assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/14/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/16/2020 - Irises assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/28/2020 - Last assignment, &lt;em&gt;Collaboration day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/14/2020 (5:05 PM at Zoom) - Dr. Andrey Kuehlkamp&amp;rsquo;s talk.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/16/2020 (5:05 PM at Zoom) - Dr. Adam Czajka&amp;rsquo;s talk.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/21/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/23/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/28/2020 - Final Report due date&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;05/04/2020 - Final exam.&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a name=&#34;kuehlkamp&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Dr. Andrey Kuehlkamp&#34; srcset=&#34;
+               /teaching/biometrics-spr20/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_ad1b4efbd7d46e2998d4e35a6e5aaf94.webp 400w,
+               /teaching/biometrics-spr20/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_e1180eff5c20c3de1d54f643fc937f98.webp 760w,
+               /teaching/biometrics-spr20/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_ad1b4efbd7d46e2998d4e35a6e5aaf94.webp&#34;
+               width=&#34;100&#34;
+               height=&#34;125&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://crc.nd.edu/about/people/andrey-kuehlkamp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Andrey Kuehlkamp&lt;/a&gt;&lt;/br&gt; Postdoctoral Research Associate at the Center for Research Computing, University of Notre Dame&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;b&gt;Diverse Aspects in Advancing Iris Recognition Systems&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; Are we ready for widespread, mass-scale adoption of iris recognition systems? Following the miniaturization of fingerprint scanners, these have dominated recognition systems and have even become almost commonplace for unlocking cell phones, but what if in the not-so-far-off future they were replaced with iris scanners, would you be comfortable with it? Since its initial introduction in 1993, automated iris recognition has dramatically grown in popularity and soon could become the dominant method for automated recognition. Take for example the largest recognition system in the world &amp;mdash; India’s Aadhaar program &amp;mdash; which has collected more than 1.1 billion irises from their citizens to be used as the primary identification for banking, pensions, and welfare programs. Even more recently &amp;mdash; November 2017 &amp;mdash; Somaliland became the first country in the world to use iris recognition as the means for identification in a public election, which had more than 800,000 registered voters. Although a mature technology in many regards, the drastic increase in iris recognition adoption has revealed many opportunities for improvement. In this talk I present an overview of my research, which focuses on improving iris recognition in three ways: speed, accuracy, and robustness. &lt;a name=&#34;czajka&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Dr. Adam Czajka&#34; srcset=&#34;
+               /teaching/biometrics-spr20/czajka_hub437e1922ab0268a7a76fb3927aa70c1_3815_0aa673587213764644f0cc104f162180.webp 400w,
+               /teaching/biometrics-spr20/czajka_hub437e1922ab0268a7a76fb3927aa70c1_3815_8416ae5272b4c7de4f053a93f5cffbbc.webp 760w,
+               /teaching/biometrics-spr20/czajka_hub437e1922ab0268a7a76fb3927aa70c1_3815_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/czajka_hub437e1922ab0268a7a76fb3927aa70c1_3815_0aa673587213764644f0cc104f162180.webp&#34;
+               width=&#34;100&#34;
+               height=&#34;125&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Adam Czajka&lt;/a&gt;&lt;/br&gt; Assistant Professor at the Department of Computer Science and Engineering, University of Notre Dame&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;b&gt;Is this eye alive or artificial?&lt;/b&gt;&lt;/br&gt; &lt;i&gt;Oh wait, maybe it’s dead? Detection of unknown presentation attacks in biometrics.&lt;/i&gt;&lt;/br&gt;&lt;/br&gt; Presentation attacks are those physical presentations to a biometric system that aim at driving it into an incorrect decision. Rediscovered recently in general computer vision community (and raising a significant interest; look &amp;mdash; for instance &amp;mdash; for famous stop sign attacks on deep learning-based object detection models), these attacks are known in biometrics for several decades. In this talk, I will use iris recognition as an example and will present the huge creativity of attackers in using various artifacts (printouts, patterned contact lenses, plastic eyes, GAN-generated fakes and&amp;hellip; dead eyes) to spoof a system. Although training a model to recognize each of these presentation attack instruments is relatively easy and works well, a big challenge now is how to build models that generalize onto unknown attack types, going beyond our understanding of attackers’ creativity when training our models. I will present a few methods we are exploring in our research to provide presentation attack detection methods that perform promisingly in open-set classification scenario.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/panopto.pdf&#34;&gt;Classroom recording notification.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vision.ucsd.edu/content/yale-face-database&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yale face dataset, &lt;/a&gt; used to replace face acquisition&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://biometrics.idealtest.org/dbDetailForUser.do?id=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CASIA-IrisV1, &lt;/a&gt; used to replace iris acquisition&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;biometrics-on-the-news&#34;&gt;Biometrics on the News&lt;/h2&gt;
+&lt;p&gt;Posted by the students the instructor on Slack:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://vancouversun.com/news/local-news/biometric-opioid-vending-machine-unveiled-in-vancouver&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vancouversun.com/news/local-news/biometric-opioid-vending-machine-unveiled-in-vancouver&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.landmobile.co.uk/news/metropolitan-police-service-nec-live-facial-recognition/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.landmobile.co.uk/news/metropolitan-police-service-nec-live-facial-recognition/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202001/securiport-partners-with-university-of-notre-dame-in-biometrics-and-data-analytics-research-for-border-security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biometricupdate.com/202001/securiport-partners-with-university-of-notre-dame-in-biometrics-and-data-analytics-research-for-border-security&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/02/06/business/facial-recognition-schools.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nytimes.com/2020/02/06/business/facial-recognition-schools.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.abacusnews.com/tech/why-your-palm-could-be-safer-fingerprints-or-facial-recognition/article/3046162&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.abacusnews.com/tech/why-your-palm-could-be-safer-fingerprints-or-facial-recognition/article/3046162&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnn.com/2020/02/26/tech/clearview-ai-hack/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cnn.com/2020/02/26/tech/clearview-ai-hack/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://nakedsecurity.sophos.com/2020/04/08/as-if-the-world-couldnt-get-any-weirder-this-ai-toilet-scans-your-anus-to-identify-you/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nakedsecurity.sophos.com/2020/04/08/as-if-the-world-couldnt-get-any-weirder-this-ai-toilet-scans-your-anus-to-identify-you/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arstechnica.com/information-technology/2020/04/attackers-can-bypass-fingerprint-authentication-with-an-80-success-rate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arstechnica.com/information-technology/2020/04/attackers-can-bypass-fingerprint-authentication-with-an-80-success-rate/&lt;/a&gt;
+&lt;a name=&#34;covid19&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;covid-19&#34;&gt;COVID-19&lt;/h2&gt;
+&lt;p&gt;1: Modified/canceled due to &lt;a href=&#34;https://coronavirus.nd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COVID-19.&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
+&lt;p&gt;This course is heavily based on &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Adam Czajka&amp;rsquo;s&lt;/a&gt; and &lt;a href=&#34;https://www.wjscheirer.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Walter Scheirer&amp;rsquo;s&lt;/a&gt; previous Biometrics courses. I sincerely thank them for kindly allowing me to rely upon their materials.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Better Society</title>
+      <link>https://danielmoreira.github.io/post/bettersoc/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/post/bettersoc/</guid>
+      <description>&lt;p&gt;One of the things I worry about while doing my research is how to drive it towards building a better society.
+Although the concept of a &lt;em&gt;better society&lt;/em&gt; may differ from one culture to the other, I believe any society gets better whenever &lt;strong&gt;all&lt;/strong&gt; of its members experience more &lt;strong&gt;freedom&lt;/strong&gt; to enjoy their &lt;strong&gt;rights&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Among the untold manners technology can be used to breach people&amp;rsquo;s rights, five flaws in the way we are doing informatics get my attention.
+Devices and programs usually suffer from (1) lack of &lt;strong&gt;safety&lt;/strong&gt;, (2) lack of &lt;strong&gt;trustworthiness&lt;/strong&gt;, (3) lack of &lt;strong&gt;privacy&lt;/strong&gt;, (4) ignorance of &lt;strong&gt;diversity&lt;/strong&gt;, and (5) lack of &lt;strong&gt;accountability&lt;/strong&gt;.
+Not unintentionally, the &lt;a href=&#34;https://danielmoreira.github.io/#projects&#34;&gt;projects&lt;/a&gt; I&amp;rsquo;ve been contributing to in the past few years tackle one or more of these issues.&lt;/p&gt;
+&lt;h2 id=&#34;safety&#34;&gt;Safety&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Interest.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/bettersoc/safety_hu5c2b1449ce7cfaa94c29be8156bee6a5_11232_d625a05a2695d29e1724cf47fa50bef4.webp 400w,
+               /post/bettersoc/safety_hu5c2b1449ce7cfaa94c29be8156bee6a5_11232_308a5d4494688f90a42c65dd4a5a983e.webp 760w,
+               /post/bettersoc/safety_hu5c2b1449ce7cfaa94c29be8156bee6a5_11232_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/post/bettersoc/safety_hu5c2b1449ce7cfaa94c29be8156bee6a5_11232_d625a05a2695d29e1724cf47fa50bef4.webp&#34;
+               width=&#34;300px&#34;
+               height=&#34;224&#34;
+               loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;From the many ways safety can be harmed by technology, the improper dissemination of sensitive content (such as pornography or violence), to inadequate audiences (such as kids or unwary spectators), gained my attention while I was developing my PhD, under the supervision of prof. &lt;a href=&#34;https://www.ic.unicamp.br/~rocha/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anderson Rocha&lt;/a&gt; (who generously proposed the topic).&lt;/p&gt;
+&lt;p&gt;With the popularity and pervasiveness of online video streams, sensitive scenes depicting &lt;a href=&#34;https://www.washingtonpost.com/news/the-intersect/wp/2017/01/15/a-12-year-old-girl-live-streamed-her-suicide-it-took-two-weeks-for-facebook-to-take-the-video-down/?utm_term=.ea8124e4a0e9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;suicide&lt;/a&gt;, &lt;a href=&#34;https://www.cnn.com/videos/us/2016/06/17/man-shot-killed-while-live-streaming-orig-vstan-dlewis.cnn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;murder&lt;/a&gt;, and even &lt;a href=&#34;https://www.nytimes.com/2016/04/19/us/periscope-rape-case-columbus-ohio-video-livestreaming.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rape&lt;/a&gt; have been broadcasted on the Internet, raising questions about the safety of these services.
+Aware of this situation, &lt;a href=&#34;https://www.samsung.com/br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Samsung&lt;/a&gt; has funded us to focus on the development of solutions to detect sensitive video.
+Rather than aiming at denouncing or morally condemning the lawful consumers of certain types of sensitive content, our intent has always been to support the implementation of filtering and warning features that would make player systems safer (especially in the case of child spectators).&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve had the chance to tackle the lack of safety in video streaming systems through the &lt;a href=&#34;https://danielmoreira.github.io/project/sma/&#34;&gt;SMA&lt;/a&gt; project.&lt;/p&gt;
+&lt;h2 id=&#34;trustworthiness&#34;&gt;Trustworthiness&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/bettersoc/trust_huc712311a1d7a57cd829d8a884be503f8_25148_c0cd0c5b26d72d107e80572322730384.webp 400w,
+               /post/bettersoc/trust_huc712311a1d7a57cd829d8a884be503f8_25148_1a73b19b20e8e30e57956efe92ee6044.webp 760w,
+               /post/bettersoc/trust_huc712311a1d7a57cd829d8a884be503f8_25148_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/post/bettersoc/trust_huc712311a1d7a57cd829d8a884be503f8_25148_c0cd0c5b26d72d107e80572322730384.webp&#34;
+               width=&#34;300px&#34;
+               height=&#34;333&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;In the era of misinformation and &lt;em&gt;fake news&lt;/em&gt;, there is a symptomatic undermining of trust not only in textual but also in visual information.
+People are conscious of the existence of image editing software (e.g., &lt;em&gt;Photoshop&lt;/em&gt;), with which even unskilled users can easily fabricate and manipulate pictures.
+Although many of these manipulations have benign purposes (no, there is nothing wrong with &lt;em&gt;your memes&lt;/em&gt;), some contents are generated with malicious intents, such as general public deception and propaganda.&lt;/p&gt;
+&lt;p&gt;The lack of available solutions to assess the integrity of images and videos allows adversarial manipulated data to have a negative impact on the way people relate to each other on the Internet.
+They don&amp;rsquo;t know what to believe or whom to trust anymore.
+In addition, fraudulent images represent a challenge even for the &lt;a href=&#34;https://www.nature.com/articles/s41419-018-0430-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scientific community&lt;/a&gt;.
+Aware of this scenario, &lt;a href=&#34;https://www.darpa.mil/program/media-forensics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DARPA&lt;/a&gt; has been funding us, at &lt;a href=&#34;https://cvrl.nd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVRL&lt;/a&gt;, to conduct research on the development of tools to verify the integrity of digital images.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m having the chance to tackle the lack of trustworthiness in visual media systems through the &lt;a href=&#34;https://danielmoreira.github.io/project/medifor/&#34;&gt;MediFor&lt;/a&gt; and &lt;a href=&#34;https://danielmoreira.github.io/project/sciint/&#34;&gt;Sci-Int&lt;/a&gt; projects.&lt;/p&gt;
+&lt;h2 id=&#34;privacy-and-diversity&#34;&gt;Privacy and Diversity&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
+           src=&#34;https://danielmoreira.github.io/post/bettersoc/privacy.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;300px&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;With the advent of deep learning and the necessity for large datasets, &lt;em&gt;visual data collection&lt;/em&gt; has become an important step of Computer Vision and Machine Learning research.
+Due to the popularity of image and video capture devices (such as digital cameras, smartphones, dash cams, etc.), large datasets can now be quickly generated.
+Nevertheless, a major question that stands out in such a process is how to protect the privacy of people who are eventually being recorded.
+Imagine, for example, a dash cam that is collecting road data for a self-driving car project.
+In a major city, plenty of people will certainly be captured in the footages, and it is very unlikely that one will be able to obtain image rights for each individual.&lt;/p&gt;
+&lt;p&gt;Interested in such issue, we, at &lt;a href=&#34;https://cvrl.nd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVRL&lt;/a&gt;, investigate the generation of realistic synthetic faces, whose identities do not belong to a real existing person, hence avoiding privacy breaches.
+The idea is to de-identify the recorded individuals, by replacing their faces with synthetic assets.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;https://www.youtube.com/watch?v=t4DT3tQqgRM&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img alt=&#34;&#34;
+           src=&#34;https://danielmoreira.github.io/post/bettersoc/diversity.gif&#34;
+           loading=&#34;lazy&#34; width=&#34;300px&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;In addition, collected data may be biased, due to a lack of diversity in the captured individuals.
+Consider, for instance, training video footages collected in China.
+It is very &lt;a href=&#34;https://www.nationalgeographic.com/travel/destinations/asia/china/black-tourist-china/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;unlikely&lt;/a&gt; that black people will be represented in such a dataset.&lt;/p&gt;
+&lt;p&gt;Limitations of this nature comprise what I call &lt;em&gt;ignorance of diversity&lt;/em&gt; and are the potential cause of many &lt;a href=&#34;http://www.cnn.com/2009/TECH/12/22/hp.webcams/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;technological failures&lt;/a&gt; in the presence of underrepresented groups.
+Unfortunately, glitches like these may go &lt;a href=&#34;https://www.forbes.com/sites/mzhang/2015/07/01/google-photos-tags-two-african-americans-as-gorillas-through-facial-recognition-software/#41ebc8e8713d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;beyond the technological aspects&lt;/a&gt; and prejudice the rights of equality in face of diversity.
+To cope with this problem, similar to the privacy protection strategy, synthetic identities can be used to diversify the recorded individuals by performing face replacement, providing controlled variation of not only ethnicity but also of age and of gender.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m having the chance to tackle the lack of privacy and ignorance of diversity in image and video datasets through the &lt;a href=&#34;https://danielmoreira.github.io/project/srefv/&#34;&gt;SREFV&lt;/a&gt; project.&lt;/p&gt;
+&lt;h2 id=&#34;accountability&#34;&gt;Accountability&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
+           src=&#34;https://danielmoreira.github.io/post/bettersoc/acc.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;300px&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;People have the right to understand in details the decisions made about them by algorithms belonging to either government or industry.
+This is fundamental to give them the possibility of questioning determinations and defending against resolutions that might be the outcome of incorrect, rigged, or even &lt;a href=&#34;https://www.youtube.com/watch?v=rga2-d1oi30&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bogus&lt;/a&gt; computations.
+In this context, &lt;em&gt;accountability&lt;/em&gt; becomes a relevant concept, since it comprises the property of an automated decision system to be fair, transparent, and explainable to human beings.
+As a consequence, the more accountable a system is, the more audit power it gives to people.&lt;/p&gt;
+&lt;p&gt;Within the field of Biometrics, traditional iris recognition solutions are well known for constituting very reliable methods of identity verification.
+Nevertheless, since they are not human-friendly enough to convince people who do not possess image processing expertise, their usage before a jury in courts of law is usually avoided.
+Aware of this limitation, Prof. &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adam Czajka&lt;/a&gt; has started at &lt;a href=&#34;https://cvrl.nd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVRL&lt;/a&gt; the investigation of human-intelligible iris matching strategies.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m having the chance to tackle the lack of accountability in iris recognition algorithms through the &lt;a href=&#34;https://danielmoreira.github.io/project/tshepii/&#34;&gt;TSHEPII&lt;/a&gt; project.&lt;/p&gt;
+&lt;h2 id=&#34;keep-pushing&#34;&gt;Keep pushing&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;http://matt.might.net/articles/phd-school-in-pictures/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/bettersoc/conclusion_hu616153b9ba853b08cfcb0b17a764e62a_15659_206da4dbe43830702d0fb749426f5a40.webp 400w,
+               /post/bettersoc/conclusion_hu616153b9ba853b08cfcb0b17a764e62a_15659_854e5ff6e773e415988e6dcb79881f6d.webp 760w,
+               /post/bettersoc/conclusion_hu616153b9ba853b08cfcb0b17a764e62a_15659_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/post/bettersoc/conclusion_hu616153b9ba853b08cfcb0b17a764e62a_15659_206da4dbe43830702d0fb749426f5a40.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;251&#34;
+               loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;Although the aforementioned efforts may seem minuscule in face of the size of the challenge of building a better society, I try to calm myself down by making a parallel to the &lt;a href=&#34;http://matt.might.net/articles/phd-school-in-pictures/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;explanation&lt;/a&gt; of Prof. Matt Might on how the human knowledge increases with the progress of scientific research.
+As he advises, &lt;em&gt;I keep pushing&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MediFor</title>
+      <link>https://danielmoreira.github.io/project/medifor/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/project/medifor/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded, &lt;strong&gt;Funded by:&lt;/strong&gt; DARPA&lt;br&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://www.wjscheirer.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Walter Scheirer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Media Forensics research project (&lt;a href=&#34;https://www.darpa.mil/program/media-forensics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MediFor&lt;/a&gt;) is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA) and the Air Force Research Laboratory (AFRL), whose goal is to develop solutions for the automated assessment of the integrity of digital images.&lt;/p&gt;
+&lt;p&gt;Working together with the Universities of Purdue, South California (USC), New York (NYU), Siena, Campinas (Unicamp), and the Politécnico di Milano, our team leads the development of solutions to the problem of Provenance Analysis. Given a questioned image, namely a probe, and a large corpus of images (such as the Internet), Provenance Analysis aims at two major tasks:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Finding the images that directly and transitively share content with the probe (a task we call Provenance Filtering).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Building the directed acyclic graph whose nodes individually represent the probe and related images, and whose edges express the edition and content-donation history (e.g., cropping, blurring, removal, splicing, etc.) between pairs of images, linking seminal to generated elements (a task we call Provenance Graph Construction).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Na43QFKW9PE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;/p&gt;
+&lt;p&gt;By combining ideas from the areas of image retrieval, digital image forensics, and graph theory, Provenance Analysis constitutes an interesting interdisciplinary topic that spans the fields of image processing and computer vision.&lt;/p&gt;
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Walter Scheirer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Anderson Rocha (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Patrick Flynn (PI)&lt;/li&gt;
+&lt;li&gt;Daniel Moreira (Postdoc)&lt;/li&gt;
+&lt;li&gt;Aparna Bharati (PhD Student)&lt;/li&gt;
+&lt;li&gt;Joel Brogan (PhD Student)&lt;/li&gt;
+&lt;li&gt;Allan Pinto (PhD Student)&lt;/li&gt;
+&lt;li&gt;Michael Parowski (Undergrad Student)&lt;/li&gt;
+&lt;li&gt;Patricia Hale (Undergrad Student)&lt;/li&gt;
+&lt;li&gt;William Badart (Undergrad Student)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SREFV</title>
+      <link>https://danielmoreira.github.io/project/srefv/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/project/srefv/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded&lt;br&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;http://sites.nd.edu/patrick-flynn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Patrick Flynn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The SREFV project aims at extending &lt;a href=&#34;https://cvrl.nd.edu/projects/?project_name=Synthesis%20of%20Realistic%20Example%20Face%20Images%20%28SREFI%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;prior research&lt;/a&gt; on synthesis of realistic faces, to support the generation of videos containing animated faces with synthetic identities, depicted either frontally or in varying poses.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SREFV preliminary results.&#34;
+           src=&#34;https://danielmoreira.github.io/project/srefv/sample.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Besides the obvious artistic and entertainment purposes, the outcome of this project will constitute an interesting tool to de-identify and diversify the faces depicted in video training datasets, helping to protect the identity of volunteers, and to mitigate eventual age, gender, and ethnic dataset collection biases.&lt;/p&gt;
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Patrick Flynn (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Adam Czajka (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Walter Scheirer (PI)&lt;/li&gt;
+&lt;li&gt;Daniel Moreira (Postdoc)&lt;/li&gt;
+&lt;li&gt;Sandipan Banerjee (PhD Student)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TSHEPII</title>
+      <link>https://danielmoreira.github.io/project/tshepii/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/project/tshepii/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded&lt;br&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adam Czajka&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The TSHEPII project aims at developing a software tool to support the human examination of post-mortem iris images.
+The tool puts together diverse computer vision techniques to automatically process, extract, annotate, and match iris regions from two different eye captures.
+The idea is to give to the user enough iris texture matching and non-matching information, so they can decided if the two given images depict the same eye or not.&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/FLlXDv8EdeU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;/p&gt;
+&lt;p&gt;The video above depicts a demo of the TSHEPII tool, with all the computer vision techniques added to the software.
+As the project name suggests (Tool Supporting the Human Examination of &lt;strong&gt;Post-Mortem&lt;/strong&gt; Iris Images), the tool is particularly tuned to the case of comparing post-mortem irises, which, contrary to the common sense, might still be useful for performing iris recognition.&lt;/p&gt;
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Adam Czajka (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Patrick Flynn (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
+&lt;li&gt;Daniel Moreira (Postdoc)&lt;/li&gt;
+&lt;li&gt;Mateusz Trokielewicz (PhD Student)&lt;/li&gt;
+&lt;li&gt;M.D. Piotr Maciejewicz (Collaborator)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TRoF</title>
+      <link>https://danielmoreira.github.io/project/trof/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/project/trof/</guid>
+      <description>&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/oIeYz6Kj9Q4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;/p&gt;
+&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;Temporal Robust Features (TRoF) comprise a spatiotemporal video content detector and a descriptor developed to present low-memory footprint and small runtime.
+It was shown to be effective for the tasks of &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0379073816304169&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pornography&lt;/a&gt; and &lt;a href=&#34;https://ieeexplore.ieee.org/document/7926633&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;violence&lt;/a&gt; detection.
+Please refer to both articles for further technical details.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
+&lt;p&gt;TRoF executable is available through a &lt;a href=&#34;https://www.docker.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;docker&lt;/a&gt; image, available &lt;a href=&#34;https://hub.docker.com/r/dmoreira/trof/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.
+Prior to running it, you have to &lt;a href=&#34;https://docs.docker.com/install/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install docker&lt;/a&gt; (available for various OS platforms).
+Once docker is running, you have to execute the following scripts, in command line:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;your-computer$ docker run -ti dmoreira/trof bash
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt;&lt;span class=&#34;go&#34;&gt;docker-instance# cd TRoF
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;docker-instance# ./fast_trof_descriptor
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Follow the printed usage instructions for running TRoF.
+The software reads a video input file and outputs float feature vectors, one per line, in the following format:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;x y t v1 v2 v3 ... vn
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Pleaser refer to either &lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/cp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; or &lt;a href=&#34;https://docs.docker.com/storage/volumes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, if you want to add videos to a running TRoF docker instance.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;p&gt;If you are using TRoF, please cite:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;@article{moreira2016fsi,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;  title = {Pornography classification: the hidden clues in video space-time},
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;  author={Daniel Moreira and Sandra Avila and Mauricio Perez and Daniel Moraes and
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;     Vanessa Testoni and Eduardo Valle and Siome Goldenstein and Anderson Rocha},
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;  journal = {Elsevier Forensic Science International},
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;  year    = {2016},
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;  volume  = {268},
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;  number  = {1},
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;  pages   = {46--61}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;
+&lt;p&gt;This software is provided by the authors as is, with no warranties and no support, &lt;strong&gt;for academic purposes only&lt;/strong&gt;.
+The authors assume no responsibility or liability for the use of the software.
+They do not convey any license or title under any patent or copyright, and they reserve the right to make changes in the software without notification.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
+&lt;p&gt;This software was developed through the project &amp;ldquo;Sensitive Media Analysis&amp;rdquo;, sponsored by Samsung Eletronica da Amazonia Ltda., in the framework of Brazilian law N. 815 8,248/91.
+We thank the financial support of the Brazilian Council for Scientific and Technological Development - CNPq (Grants #477662/2013-7, #304472/2015-8), the Sao Paulo Research Foundation - Fapesp (DejaVu Grant #2015/19222-9), and the Coordination for the Improvement of Higher Level Education Personnel - CAPES (DeepEyes project).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SMA</title>
+      <link>https://danielmoreira.github.io/project/sma/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/project/sma/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded, &lt;strong&gt;Funded by:&lt;/strong&gt; Samsung Eletrônica da Amazônia Ltda.&lt;br&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://www.ic.unicamp.br/~rocha/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anderson Rocha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Sensitive Media Analysis (SMA) project aims at researching solutions to combine different and complementary data representations and pattern classifiers for detecting sensitive content in digital images and videos.&lt;/p&gt;
+&lt;p&gt;Sensitive media can be defined as the digital content whose depiction to particular audiences (e.g., children or unwary spectators), at particular places (e.g., at work, at school, in the church) may inflict harm (e.g., trauma, shock, or fear) due to its inappropriateness.
+Typical representatives include – but are not limited to – scenes depicting pornography and violence, animal cruelty and child abuse, hate speech, etc.&lt;/p&gt;
+&lt;p&gt;The innovation aspects of the project reside on the development of solutions that are amenable to deployment on mobile devices (e.g., smartphones and tablets), observing their constraints of memory footprint, processing power, and runtime responsiveness.&lt;/p&gt;
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Anderson Rocha (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Siome Goldenstein (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Eduardo Valle (PI)&lt;/li&gt;
+&lt;li&gt;Dr. Vanessa Testoni (Samsung Collaborator)&lt;/li&gt;
+&lt;li&gt;Dr. Sandra Avila (Postdoc)&lt;/li&gt;
+&lt;li&gt;Daniel Moreira (PhD Student)&lt;/li&gt;
+&lt;li&gt;Mauricio Perez (MSc Student)&lt;/li&gt;
+&lt;li&gt;Daniel Moraes (Programmer)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://danielmoreira.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
       
-      <guid>https://danielmoreira.github.io/post/</guid>
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multimodal and real-time method for filtering sensitive media</title>
+      <link>https://danielmoreira.github.io/publication/2019_patent/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2019_patent/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://danielmoreira.github.io/publication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielmoreira.github.io/publication/</guid>
+      <title>Beyond Pixels: Image Provenance Analysis Leveraging Metadata</title>
+      <link>https://danielmoreira.github.io/publication/2019_wacv_metada/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2019_wacv_metada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain-Specific Human-Inspired Binarized Statistical Image Features for Iris Recognition</title>
+      <link>https://danielmoreira.github.io/publication/2019_wacv_bsif/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2019_wacv_bsif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of Humans in Iris Recognition: The Impact of Iris Condition and Annotation-Driven Verification</title>
+      <link>https://danielmoreira.github.io/publication/2019_wacv_human/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2019_wacv_human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal data fusion for sensitive scene localization</title>
+      <link>https://danielmoreira.github.io/publication/2019_if/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2019_if/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Provenance Analysis at Scale</title>
+      <link>https://danielmoreira.github.io/publication/2018_tip/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2018_tip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting the subtext without the text: Scalable multimodal sentiment classification from visual and acoustic modalities</title>
+      <link>https://danielmoreira.github.io/publication/2018_acl/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2018_acl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Método multimodal e em tempo real para filtragem de conteúdo sensível</title>
+      <link>https://danielmoreira.github.io/publication/2017_patent/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2017_patent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provenance filtering for multimedia phylogeny</title>
+      <link>https://danielmoreira.github.io/publication/2017_icip_filtering/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2017_icip_filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotting the difference: Context retrieval and analysis for improved forgery detection and localization</title>
+      <link>https://danielmoreira.github.io/publication/2017_icip_spotting/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2017_icip_spotting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U-Phylogeny: Undirected provenance graph construction in the wild</title>
+      <link>https://danielmoreira.github.io/publication/2017_icip_uphylogeny/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2017_icip_uphylogeny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Robust Features for Violence Detection</title>
+      <link>https://danielmoreira.github.io/publication/2017_wacv/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2017_wacv/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/yoV4b1CQ1aY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Video pornography detection through deep learning techniques and motion information</title>
+      <link>https://danielmoreira.github.io/publication/2017_neurocomputing/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2017_neurocomputing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pornography classification: The hidden clues in video space–time</title>
+      <link>https://danielmoreira.github.io/publication/2016_fsi/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2016_fsi/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ZfaW5kvXjMo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>RECOD at MediaEval 2015: Affective Impact of Movies Task</title>
+      <link>https://danielmoreira.github.io/publication/2015_mediaeval/</link>
+      <pubDate>Fri, 16 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2015_mediaeval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RECOD at MediaEval 2014: Violent Scenes Detection Task</title>
+      <link>https://danielmoreira.github.io/publication/2014_mediaeval/</link>
+      <pubDate>Thu, 16 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2014_mediaeval/</guid>
       <description></description>
     </item>
     

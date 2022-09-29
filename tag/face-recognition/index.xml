@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Face Recognition | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tag/face-recognition/</link>
+      <atom:link href="https://danielmoreira.github.io/tag/face-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Face Recognition</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Face Recognition</title>
+      <link>https://danielmoreira.github.io/tag/face-recognition/</link>
+    </image>
+    
+    <item>
+      <title>Biometrics, Spring 2022</title>
+      <link>https://danielmoreira.github.io/teaching/biometrics-spr22/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/teaching/biometrics-spr22/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /teaching/biometrics-spr22/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_4a14e3ad48aa854e7fab4000b9b1c6e7.webp 400w,
+               /teaching/biometrics-spr22/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_c7771669807438d62685d1c21c995ac4.webp 760w,
+               /teaching/biometrics-spr22/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_4a14e3ad48aa854e7fab4000b9b1c6e7.webp&#34;
+               width=&#34;250px&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;p&gt;Course: CSE 40537 / 60537 Biometrics&lt;br&gt;
+Level: Undergraduate and Graduate&lt;br&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dhenriq1@nd.edu&#34;&gt;dhenriq1@nd.edu&lt;/a&gt;)&lt;br&gt;
+Teaching Assistant: Jason You (&lt;a href=&#34;mailto:syou@nd.edu&#34;&gt;syou@nd.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Lectures: TUE and THR, 3:30 to 4:45 PM, 356A Fitzpatrick Hall&lt;br&gt;
+Office Hours: Daniel - MON to FRI, 5:00 to 6:00 PM, 182 Fitzpatrick Hall, Jason - WED, 1:00 to 2:00 PM, 150M Fitzpatrick Hall&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;Slack: &lt;a href=&#34;https://nd-biometrics-spr22.slack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nd-biometrics-spr22.slack.com&lt;/a&gt;&lt;/del&gt; &lt;em&gt;(now deactivated)&lt;/em&gt;&lt;br&gt;
+Panopto: &lt;a href=&#34;https://bit.ly/3A4QEKc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/3A4QEKc&lt;/a&gt;&lt;/p&gt;
+&lt;!--- Zoom: https://bit.ly/3JS9zMA/ --&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Different attacks made by students.&#34; srcset=&#34;
+               /teaching/biometrics-spr22/fake_hu832e1f5d9d218979753d086994377cb1_4211911_de810acd765980f08f9b38d9421a0093.webp 400w,
+               /teaching/biometrics-spr22/fake_hu832e1f5d9d218979753d086994377cb1_4211911_e869c853dca9cbd8838e7c769b6b97b2.webp 760w,
+               /teaching/biometrics-spr22/fake_hu832e1f5d9d218979753d086994377cb1_4211911_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/fake_hu832e1f5d9d218979753d086994377cb1_4211911_de810acd765980f08f9b38d9421a0093.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;367&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Course grades are now &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/total_grades.pdf&#34;&gt;available&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;progress&#34;&gt;Progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;01/11/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_00.pdf&#34;&gt;Syllabus&lt;/a&gt;, Course details.&lt;/li&gt;
+&lt;li&gt;01/13/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_01.pdf&#34;&gt;Basics I&lt;/a&gt;, Biometrics, traits, and systems.&lt;/li&gt;
+&lt;li&gt;01/18/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_02.pdf&#34;&gt;Basics II&lt;/a&gt;, Errors, metrics, and attacks.&lt;/li&gt;
+&lt;li&gt;01/20/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_03.pdf&#34;&gt;Basics II (cont.)&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_03.zip&#34;&gt;1st Coding Class&lt;/a&gt;, Metrics.&lt;/li&gt;
+&lt;li&gt;01/25/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_04.pdf&#34;&gt;Fingerprint Recog. I&lt;/a&gt;, History and features.&lt;/li&gt;
+&lt;li&gt;01/27/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_05.pdf&#34;&gt;Fingerprint Recog. II&lt;/a&gt;, Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;02/01/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_06.pdf&#34;&gt;Fingerprint Recog. III&lt;/a&gt;, Minutiae detection.&lt;/li&gt;
+&lt;li&gt;02/03/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_07.zip&#34;&gt;Fingerprint Data Collection&lt;/a&gt;, password with instructor.&lt;/li&gt;
+&lt;li&gt;02/08/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_08.pdf&#34;&gt;Iris Recog. I&lt;/a&gt;, Why irises and irises vs. other traits.&lt;/li&gt;
+&lt;li&gt;02/10/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_09.pdf&#34;&gt;Iris Recog. II&lt;/a&gt;, Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;02/15/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_10.pdf&#34;&gt;Iris Recog. III&lt;/a&gt;, Description and matching.&lt;/li&gt;
+&lt;li&gt;02/17/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_11.zip&#34;&gt;2nd Coding Class&lt;/a&gt;, Fingerprint recognition.&lt;/li&gt;
+&lt;li&gt;02/22/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_12.zip&#34;&gt;Iris Data Collection&lt;/a&gt;, password with instructor.&lt;/li&gt;
+&lt;li&gt;02/24/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_13.zip&#34;&gt;3rd Coding Class&lt;/a&gt;, Iris recognition.&lt;/li&gt;
+&lt;li&gt;03/01/2022 - &lt;a href=&#34;#kuehlkamp&#34;&gt;1st Invited Talk,&lt;/a&gt; Dr. Andrey Kuehlkamp.&lt;/li&gt;
+&lt;li&gt;03/03/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/midterm.pdf&#34;&gt;Midterm exam&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/midterm_grades.pdf&#34;&gt;grades&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;03/08/2022 - Spring Break.&lt;/li&gt;
+&lt;li&gt;03/10/2022 - Spring Break.&lt;/li&gt;
+&lt;li&gt;03/15/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_14.pdf&#34;&gt;Face Recog. I&lt;/a&gt;, Why faces and faces vs. other traits.&lt;/li&gt;
+&lt;li&gt;03/17/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_15.pdf&#34;&gt;Face Recog. II&lt;/a&gt;, Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;03/22/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_16.pdf&#34;&gt;Face Recog. III&lt;/a&gt;, Description and matching.&lt;/li&gt;
+&lt;li&gt;03/24/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_17.pdf&#34;&gt;Face Recog. IV&lt;/a&gt;, Deep learning face recognition.&lt;/li&gt;
+&lt;li&gt;03/29/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_18.zip&#34;&gt;4th Coding Class&lt;/a&gt;, Face recognition.&lt;/li&gt;
+&lt;li&gt;03/31/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_19.pdf&#34;&gt;Feature Indexing&lt;/a&gt;, Index building and feature querying.&lt;/li&gt;
+&lt;li&gt;04/05/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_20.pdf&#34;&gt;Other Traits&lt;/a&gt;, Alternative traits and Soft Biometrics.&lt;/li&gt;
+&lt;li&gt;04/07/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/lecture_21.pdf&#34;&gt;Multibiometrics&lt;/a&gt;, Data fusion.&lt;/li&gt;
+&lt;li&gt;04/12/2022 - &lt;a href=&#34;#boyd&#34;&gt;2nd Invited Talk,&lt;/a&gt; Mr. Aidan Boyd.&lt;/li&gt;
+&lt;li&gt;04/14/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/slides_fingerprint.pdf&#34;&gt;Fingerprint&lt;/a&gt; presentation attack day.&lt;/li&gt;
+&lt;li&gt;04/19/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/slides_iris.pdf&#34;&gt;Iris&lt;/a&gt; and &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/slides_face.pdf&#34;&gt;face&lt;/a&gt; presentation attack day.&lt;/li&gt;
+&lt;li&gt;04/21/2022 - Grad students&amp;rsquo; &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/slides_signature.pdf&#34;&gt;signature recog.&lt;/a&gt; and &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/slides_gfi.pdf&#34;&gt;gender from iris&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;05/05/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/final.pdf&#34;&gt;Final exam&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/final_grades.pdf&#34;&gt;grades&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--- bdgX4&amp;A?q];8?Up7 --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;assignments&#34;&gt;Assignments&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;01/20/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_1.pdf&#34;&gt;1st assignment&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_1_answers.pdf&#34;&gt;good answers&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_1_grades.pdf&#34;&gt;grades&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;02/22/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_2.pdf&#34;&gt;2nd assignment&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_2_answers.pdf&#34;&gt;good answers&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_2_grades.pdf&#34;&gt;grades&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;03/15/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_3.pdf&#34;&gt;3rd assignment&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_3_answers.pdf&#34;&gt;good answers&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_3_grades.pdf&#34;&gt;grades&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;04/04/2022 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_4.pdf&#34;&gt;4th assignment&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_4_answers.pdf&#34;&gt;good answers&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/assig_4_grades.pdf&#34;&gt;grades&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;del&gt;01/28/2022 - 1st assignment due date.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;02/03/2022 - Fingerprint data collection.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;02/22/2022 - Iris data collection.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;03/01/2022 - Dr. Andrey Kuehlkamp’s talk.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;03/03/2022 - Midterm exam.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;03/04/2022 - 2nd assignment due date.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;03/25/2022 - 3rd assignment due date.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/12/2022 - Mr. Aidan Boyd&amp;rsquo;s talk.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/14/2022 - Fingerprint presentation attack day.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/18/2022 - 4th assignment due date.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/19/2022 - Iris and face presentation attack day.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/21/2022 - Grad students&amp;rsquo; final report presentation.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;05/05/2022 - Final exam, 10:30 to 12:30 PM, 356A Fitzpatrick Hall.&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a name=&#34;kuehlkamp&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Dr. Andrey Kuehlkamp&#34; srcset=&#34;
+               /teaching/biometrics-spr22/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_ad1b4efbd7d46e2998d4e35a6e5aaf94.webp 400w,
+               /teaching/biometrics-spr22/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_e1180eff5c20c3de1d54f643fc937f98.webp 760w,
+               /teaching/biometrics-spr22/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_ad1b4efbd7d46e2998d4e35a6e5aaf94.webp&#34;
+               width=&#34;100&#34;
+               height=&#34;125&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://crc.nd.edu/about/people/andrey-kuehlkamp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Andrey Kuehlkamp&lt;/a&gt;&lt;/br&gt; Postdoctoral Research Associate at the Center for Research Computing, University of Notre Dame&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;b&gt;Diverse Aspects in Advancing Iris Recognition Systems&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; Are we ready for widespread, mass-scale adoption of iris recognition systems? Following the miniaturization of fingerprint scanners, these have dominated recognition systems and have even become almost commonplace for unlocking cell phones, but what if in the not-so-far-off future they were replaced with iris scanners, would you be comfortable with it? Since its initial introduction in 1993, automated iris recognition has dramatically grown in popularity and soon could become the dominant method for automated recognition. Take for example the largest recognition system in the world &amp;mdash; India’s Aadhaar program &amp;mdash; which has collected more than 1.1 billion irises from their citizens to be used as the primary identification for banking, pensions, and welfare programs. Even more recently &amp;mdash; in 2017 &amp;mdash; Somaliland became the first country in the world to use iris recognition as the means for identification in a public election, which had more than 800,000 registered voters. Although a mature technology in many regards, the drastic increase in iris recognition adoption has revealed many opportunities for improvement. In this talk I present an overview of my research, which focuses on improving iris recognition in three ways: speed, accuracy, and robustness. &lt;a name=&#34;boyd&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Mr. Aidan Boyd&#34; srcset=&#34;
+               /teaching/biometrics-spr22/boyd_hu9c71555c2dab4f53bfd88f71a1ded5aa_5709_d53bd3b72947184ba3bf571c5c5620e1.webp 400w,
+               /teaching/biometrics-spr22/boyd_hu9c71555c2dab4f53bfd88f71a1ded5aa_5709_4d28190796a719a302d50d07df8aa3bf.webp 760w,
+               /teaching/biometrics-spr22/boyd_hu9c71555c2dab4f53bfd88f71a1ded5aa_5709_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/boyd_hu9c71555c2dab4f53bfd88f71a1ded5aa_5709_d53bd3b72947184ba3bf571c5c5620e1.webp&#34;
+               width=&#34;100&#34;
+               height=&#34;125&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/BoydAidan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mr. Aidan Boyd&lt;/a&gt;&lt;/br&gt; Ph.D. Candidate at the Department of Computer Science and Engineering, University of Notre Dame&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;b&gt;Using human perception to train better CNNs&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; Traditional deep learning is a data-driven process. Images are shown to a CNN and it is expected to learn rules that enable it to perform a task efficiently on new unseen images after training. The problem with this approach is that the model can only learn from the supplied training data. Potentially, this training data is not representative of the entire domain. Although the model classifies training images near perfectly, this learned rule may actually just be coincidental to this data, rather than applying to all images in that task. Additionally, the decision making of these models can be ambiguous and not explainable, meaning it can be difficult to trust the classifications. Humans, however, possess great ability to generalize what they have seen in the past and apply it to the current task. Humans don’t focus on incidental features in data, instead we tend to look at more obvious occurrences that can be easily explained.&lt;/br&gt; &lt;/br&gt; This talk will cover two of my recent works where we investigated whether the incorporation of human perception into the training of deep learning models results in better performance on unseen data. Each of these works approach this in different ways, both showing promising results. In the second work, we also investigate whether the models we have trained in this way are more “human-like” in their decision making. These approaches are applied to the domains of iris presentation attack detection and synthetically generated face detection (see &lt;a href=&#34;https://www.thispersondoesnotexist.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.thispersondoesnotexist.com&lt;/a&gt; for examples of synthetically generated faces).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;grading&#34;&gt;Grading&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;Point interval&lt;/th&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;Point interval&lt;/th&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;Point interval&lt;/th&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;Point interval&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;[94, 100)&lt;/td&gt;
+&lt;td&gt;B+&lt;/td&gt;
+&lt;td&gt;[88, 89]&lt;/td&gt;
+&lt;td&gt;C+&lt;/td&gt;
+&lt;td&gt;[78, 79]&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;td&gt;[60, 69]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A-&lt;/td&gt;
+&lt;td&gt;[90, 93]&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;td&gt;[84, 87]&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;td&gt;[74, 77]&lt;/td&gt;
+&lt;td&gt;F&lt;/td&gt;
+&lt;td&gt;[0, 59]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;B-&lt;/td&gt;
+&lt;td&gt;[80, 83]&lt;/td&gt;
+&lt;td&gt;C-&lt;/td&gt;
+&lt;td&gt;[70, 73]&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;distribution&#34;&gt;Distribution&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Total&lt;/strong&gt;: 100 points&lt;/li&gt;
+&lt;li&gt;Assignments: 10 points (x4)&lt;/li&gt;
+&lt;li&gt;Presentation attack detection report: 20 points&lt;/li&gt;
+&lt;li&gt;Midterm exam: 20 points&lt;/li&gt;
+&lt;li&gt;Final exam: 20 points&lt;/li&gt;
+&lt;li&gt;Late assignments: -1 point per day&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Final project &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/project_grades.pdf&#34;&gt;grades&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/panopto.pdf&#34;&gt;Classroom recording notification.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vision.ucsd.edu/content/yale-face-database&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yale face dataset&lt;/a&gt;, used in the 4th assignment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;biometrics-on-the-news&#34;&gt;Biometrics on the News&lt;/h2&gt;
+&lt;p&gt;Posted by the students and instructor on Slack:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://fortune.com/2021/10/22/crypto-worldcoin-cryptocurrency-eye-scan-biometrics-orb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://fortune.com/2021/10/22/crypto-worldcoin-cryptocurrency-eye-scan-biometrics-orb/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202201/attacks-countermeasures-and-pulses-of-blood-in-remote-identity-proofing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biometricupdate.com/202201/attacks-countermeasures-and-pulses-of-blood-in-remote-identity-proofing&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.yahoo.com/news/irs-wants-scan-face-171738919.html?.tsrc=fp_deeplink&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.yahoo.com/news/irs-wants-scan-face-171738919.html?.tsrc=fp_deeplink&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.irs.gov/newsroom/irs-announces-transition-away-from-use-of-third-party-verification-involving-facial-recognition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.irs.gov/newsroom/irs-announces-transition-away-from-use-of-third-party-verification-involving-facial-recognition&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2022/02/14/technology/texas-facebook-facial-recognition-lawsuit.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nytimes.com/2022/02/14/technology/texas-facebook-facial-recognition-lawsuit.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://abcnews.go.com/GMA/Living/video/hyper-realistic-face-masks-optical-illusions-needed-71835222&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://abcnews.go.com/GMA/Living/video/hyper-realistic-face-masks-optical-illusions-needed-71835222&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.newscientist.com/article/2114900-concerns-as-face-recognition-tech-used-to-identify-criminals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.newscientist.com/article/2114900-concerns-as-face-recognition-tech-used-to-identify-criminals/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.yahoo.com/news/ukraine-using-facial-recognition-tech-153640828.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.yahoo.com/news/ukraine-using-facial-recognition-tech-153640828.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/technology/2022/04/15/ukraine-facial-recognition-warfare/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.washingtonpost.com/technology/2022/04/15/ukraine-facial-recognition-warfare/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202204/biometrics-secure-unhcr-direct-cash-payments-to-ukrainian-refugees&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biometricupdate.com/202204/biometrics-secure-unhcr-direct-cash-payments-to-ukrainian-refugees&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theverge.com/22672123/ai-voice-clone-synthesis-deepfake-applications-vergecast&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theverge.com/22672123/ai-voice-clone-synthesis-deepfake-applications-vergecast&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202204/ny-state-audit-finds-bidding-for-school-facial-recognition-system-was-improper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biometricupdate.com/202204/ny-state-audit-finds-bidding-for-school-facial-recognition-system-was-improper&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202204/suprema-face-biometrics-enable-uk-school-to-cut-back-plastic-waste-from-access-cards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biometricupdate.com/202204/suprema-face-biometrics-enable-uk-school-to-cut-back-plastic-waste-from-access-cards&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://techcrunch.com/2022/04/18/web-scraping-legal-court/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://techcrunch.com/2022/04/18/web-scraping-legal-court/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biometrics, Spring 2020</title>
+      <link>https://danielmoreira.github.io/teaching/biometrics-spr20/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/teaching/biometrics-spr20/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /teaching/biometrics-spr20/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_4a14e3ad48aa854e7fab4000b9b1c6e7.webp 400w,
+               /teaching/biometrics-spr20/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_c7771669807438d62685d1c21c995ac4.webp 760w,
+               /teaching/biometrics-spr20/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_4a14e3ad48aa854e7fab4000b9b1c6e7.webp&#34;
+               width=&#34;250px&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;p&gt;Course: CSE 40537 / 60537 Biometrics&lt;br&gt;
+Level: Undergraduate and Graduate&lt;br&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dhenriq1@nd.edu&#34;&gt;dhenriq1@nd.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;Lectures: TUE and THR, 5:05 to 6:20 PM, 125 DeBartolo Hall&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
+&lt;del&gt;Office Hours: MON and WED, 2:00 to 4:00 PM, 150N Fitzpatrick Hall&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
+Lectures: TUE and THR, 2:00 to 3:15 PM, at Zoom&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
+Office Hours: TUE and THR, 5:05 to 6:20 PM, at Zoom&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
+&lt;em&gt;Students are not obligated to attend classes at 2:00 pm, but are certainly welcome. All classes are being recorded with Panopto.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Slack: &lt;del&gt;&lt;a href=&#34;https://cse-biometrics-spr20.slack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cse-biometrics-spr20.slack.com&lt;/a&gt;&lt;/del&gt; &lt;em&gt;(now deactivated)&lt;/em&gt;&lt;br&gt;
+Panopto: &lt;a href=&#34;https://bit.ly/33ZkU97&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/33ZkU97&lt;/a&gt;&lt;br&gt;
+Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://notredame.zoom.us/my/dmoreira&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course grades are now &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/grades.pdf&#34;&gt;available.&lt;/a&gt;&lt;/strong&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fake fingers made by students.&#34; srcset=&#34;
+               /teaching/biometrics-spr20/fake-fingers_hu3624c59c52b8002a8b05756867852acc_28227_af33aaedd321ecfceac2818aefda2697.webp 400w,
+               /teaching/biometrics-spr20/fake-fingers_hu3624c59c52b8002a8b05756867852acc_28227_4fc760eb2705bed990f3196fb7ee1a47.webp 760w,
+               /teaching/biometrics-spr20/fake-fingers_hu3624c59c52b8002a8b05756867852acc_28227_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/fake-fingers_hu3624c59c52b8002a8b05756867852acc_28227_af33aaedd321ecfceac2818aefda2697.webp&#34;
+               width=&#34;400&#34;
+               height=&#34;400&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;progress&#34;&gt;Progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;01/14/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_00.pdf&#34;&gt;Syllabus,&lt;/a&gt; Course details.&lt;/li&gt;
+&lt;li&gt;01/16/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_01.pdf&#34;&gt;Basics I,&lt;/a&gt; Biometrics, traits, and systems.&lt;/li&gt;
+&lt;li&gt;01/21/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_02.pdf&#34;&gt;Basics II,&lt;/a&gt; Errors, metrics, and attacks.&lt;/li&gt;
+&lt;li&gt;01/23/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_03.zip&#34;&gt;1st Coding Class,&lt;/a&gt; Implementation of metrics.&lt;/li&gt;
+&lt;li&gt;01/28/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_04.pdf&#34;&gt;Fingerprint Recog. I,&lt;/a&gt; History and features.&lt;/li&gt;
+&lt;li&gt;01/30/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_05.pdf&#34;&gt;Fingerprint Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;02/04/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_06.pdf&#34;&gt;Fingerprint Recog. III,&lt;/a&gt; Minutiae detection.&lt;/li&gt;
+&lt;li&gt;02/06/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_07.zip&#34;&gt;Fingerprint Data Collection,&lt;/a&gt; password with instructor.&lt;/li&gt;
+&lt;li&gt;02/11/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_08_09.zip&#34;&gt;2nd Coding Class,&lt;/a&gt; Minutiae-based recognition.&lt;/li&gt;
+&lt;li&gt;02/13/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_08_09.zip&#34;&gt;2nd Coding Class,&lt;/a&gt; continuation.&lt;/li&gt;
+&lt;li&gt;02/18/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_10.pdf&#34;&gt;Face Recog. I,&lt;/a&gt; Why faces and faces vs. fingerprints.&lt;/li&gt;
+&lt;li&gt;02/20/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_11.pdf&#34;&gt;Face Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;02/25/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_12.pdf&#34;&gt;Face Recog. III,&lt;/a&gt; Description and matching.&lt;/li&gt;
+&lt;li&gt;02/27/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_13.zip&#34;&gt;3rd Coding Class,&lt;/a&gt; Face recognition.&lt;/li&gt;
+&lt;li&gt;03/03/2020 - Fingerprints assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;03/05/2020 - Fingerprints assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;03/10/2020 - Spring Break.&lt;/li&gt;
+&lt;li&gt;03/12/2020 - Spring Break.&lt;/li&gt;
+&lt;li&gt;03/17/2020 - Extended Spring Break&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;03/18/2020 - Extended Spring Break&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;03/24/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_16.pdf&#34;&gt;New Course Directions&lt;sup&gt;1&lt;/sup&gt;.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;03/26/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_17.pdf&#34;&gt;Iris Recog. I,&lt;/a&gt; Why irises and irises vs. other traits.&lt;/li&gt;
+&lt;li&gt;03/31/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_18.pdf&#34;&gt;Iris Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;04/02/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_19.pdf&#34;&gt;Iris Recog. III,&lt;/a&gt; Description and matching.&lt;/li&gt;
+&lt;li&gt;04/07/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_20.zip&#34;&gt;4th Coding Class,&lt;/a&gt; Iris recognition.&lt;/li&gt;
+&lt;li&gt;04/09/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/lecture_21.pdf&#34;&gt;Multibiometrics,&lt;/a&gt; Other traits, data fusion.&lt;/li&gt;
+&lt;li&gt;04/14/2020 - &lt;a href=&#34;#kuehlkamp&#34;&gt;1st Invited Talk,&lt;/a&gt; Dr. Andrey Kuehlkamp.&lt;/li&gt;
+&lt;li&gt;04/16/2020 - &lt;a href=&#34;#czajka&#34;&gt;2nd Invited Talk,&lt;/a&gt; Dr. Adam Czajka.&lt;/li&gt;
+&lt;li&gt;04/21/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;04/23/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;04/28/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/assignment-grades.pdf&#34;&gt;Assignment Report&lt;/a&gt; due date.&lt;/li&gt;
+&lt;li&gt;05/04/2020 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/exam.pdf&#34;&gt;Final exam,&lt;/a&gt; see &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/exam-grades.pdf&#34;&gt;grades.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;del&gt;03/03/2020 - Fingerprints assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;03/05/2020 - Fingerprints assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;03/31/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/02/2020 - Faces assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/14/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/16/2020 - Irises assignment, &lt;em&gt;Attackers&amp;rsquo; day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;04/28/2020 - Last assignment, &lt;em&gt;Collaboration day&lt;/em&gt;.&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/14/2020 (5:05 PM at Zoom) - Dr. Andrey Kuehlkamp&amp;rsquo;s talk.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/16/2020 (5:05 PM at Zoom) - Dr. Adam Czajka&amp;rsquo;s talk.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/21/2020 - Faces assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/23/2020 - Irises assignment, &lt;em&gt;Developers&amp;rsquo; day&lt;/em&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/28/2020 - Final Report due date&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;05/04/2020 - Final exam.&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a name=&#34;kuehlkamp&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Dr. Andrey Kuehlkamp&#34; srcset=&#34;
+               /teaching/biometrics-spr20/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_ad1b4efbd7d46e2998d4e35a6e5aaf94.webp 400w,
+               /teaching/biometrics-spr20/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_e1180eff5c20c3de1d54f643fc937f98.webp 760w,
+               /teaching/biometrics-spr20/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_ad1b4efbd7d46e2998d4e35a6e5aaf94.webp&#34;
+               width=&#34;100&#34;
+               height=&#34;125&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://crc.nd.edu/about/people/andrey-kuehlkamp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Andrey Kuehlkamp&lt;/a&gt;&lt;/br&gt; Postdoctoral Research Associate at the Center for Research Computing, University of Notre Dame&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;b&gt;Diverse Aspects in Advancing Iris Recognition Systems&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; Are we ready for widespread, mass-scale adoption of iris recognition systems? Following the miniaturization of fingerprint scanners, these have dominated recognition systems and have even become almost commonplace for unlocking cell phones, but what if in the not-so-far-off future they were replaced with iris scanners, would you be comfortable with it? Since its initial introduction in 1993, automated iris recognition has dramatically grown in popularity and soon could become the dominant method for automated recognition. Take for example the largest recognition system in the world &amp;mdash; India’s Aadhaar program &amp;mdash; which has collected more than 1.1 billion irises from their citizens to be used as the primary identification for banking, pensions, and welfare programs. Even more recently &amp;mdash; November 2017 &amp;mdash; Somaliland became the first country in the world to use iris recognition as the means for identification in a public election, which had more than 800,000 registered voters. Although a mature technology in many regards, the drastic increase in iris recognition adoption has revealed many opportunities for improvement. In this talk I present an overview of my research, which focuses on improving iris recognition in three ways: speed, accuracy, and robustness. &lt;a name=&#34;czajka&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Dr. Adam Czajka&#34; srcset=&#34;
+               /teaching/biometrics-spr20/czajka_hub437e1922ab0268a7a76fb3927aa70c1_3815_0aa673587213764644f0cc104f162180.webp 400w,
+               /teaching/biometrics-spr20/czajka_hub437e1922ab0268a7a76fb3927aa70c1_3815_8416ae5272b4c7de4f053a93f5cffbbc.webp 760w,
+               /teaching/biometrics-spr20/czajka_hub437e1922ab0268a7a76fb3927aa70c1_3815_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/czajka_hub437e1922ab0268a7a76fb3927aa70c1_3815_0aa673587213764644f0cc104f162180.webp&#34;
+               width=&#34;100&#34;
+               height=&#34;125&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Adam Czajka&lt;/a&gt;&lt;/br&gt; Assistant Professor at the Department of Computer Science and Engineering, University of Notre Dame&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;b&gt;Is this eye alive or artificial?&lt;/b&gt;&lt;/br&gt; &lt;i&gt;Oh wait, maybe it’s dead? Detection of unknown presentation attacks in biometrics.&lt;/i&gt;&lt;/br&gt;&lt;/br&gt; Presentation attacks are those physical presentations to a biometric system that aim at driving it into an incorrect decision. Rediscovered recently in general computer vision community (and raising a significant interest; look &amp;mdash; for instance &amp;mdash; for famous stop sign attacks on deep learning-based object detection models), these attacks are known in biometrics for several decades. In this talk, I will use iris recognition as an example and will present the huge creativity of attackers in using various artifacts (printouts, patterned contact lenses, plastic eyes, GAN-generated fakes and&amp;hellip; dead eyes) to spoof a system. Although training a model to recognize each of these presentation attack instruments is relatively easy and works well, a big challenge now is how to build models that generalize onto unknown attack types, going beyond our understanding of attackers’ creativity when training our models. I will present a few methods we are exploring in our research to provide presentation attack detection methods that perform promisingly in open-set classification scenario.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/panopto.pdf&#34;&gt;Classroom recording notification.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vision.ucsd.edu/content/yale-face-database&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yale face dataset, &lt;/a&gt; used to replace face acquisition&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://biometrics.idealtest.org/dbDetailForUser.do?id=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CASIA-IrisV1, &lt;/a&gt; used to replace iris acquisition&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;biometrics-on-the-news&#34;&gt;Biometrics on the News&lt;/h2&gt;
+&lt;p&gt;Posted by the students the instructor on Slack:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://vancouversun.com/news/local-news/biometric-opioid-vending-machine-unveiled-in-vancouver&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vancouversun.com/news/local-news/biometric-opioid-vending-machine-unveiled-in-vancouver&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.landmobile.co.uk/news/metropolitan-police-service-nec-live-facial-recognition/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.landmobile.co.uk/news/metropolitan-police-service-nec-live-facial-recognition/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202001/securiport-partners-with-university-of-notre-dame-in-biometrics-and-data-analytics-research-for-border-security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biometricupdate.com/202001/securiport-partners-with-university-of-notre-dame-in-biometrics-and-data-analytics-research-for-border-security&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/02/06/business/facial-recognition-schools.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nytimes.com/2020/02/06/business/facial-recognition-schools.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.abacusnews.com/tech/why-your-palm-could-be-safer-fingerprints-or-facial-recognition/article/3046162&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.abacusnews.com/tech/why-your-palm-could-be-safer-fingerprints-or-facial-recognition/article/3046162&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnn.com/2020/02/26/tech/clearview-ai-hack/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cnn.com/2020/02/26/tech/clearview-ai-hack/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://nakedsecurity.sophos.com/2020/04/08/as-if-the-world-couldnt-get-any-weirder-this-ai-toilet-scans-your-anus-to-identify-you/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nakedsecurity.sophos.com/2020/04/08/as-if-the-world-couldnt-get-any-weirder-this-ai-toilet-scans-your-anus-to-identify-you/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arstechnica.com/information-technology/2020/04/attackers-can-bypass-fingerprint-authentication-with-an-80-success-rate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arstechnica.com/information-technology/2020/04/attackers-can-bypass-fingerprint-authentication-with-an-80-success-rate/&lt;/a&gt;
+&lt;a name=&#34;covid19&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;covid-19&#34;&gt;COVID-19&lt;/h2&gt;
+&lt;p&gt;1: Modified/canceled due to &lt;a href=&#34;https://coronavirus.nd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COVID-19.&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
+&lt;p&gt;This course is heavily based on &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Adam Czajka&amp;rsquo;s&lt;/a&gt; and &lt;a href=&#34;https://www.wjscheirer.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Walter Scheirer&amp;rsquo;s&lt;/a&gt; previous Biometrics courses. I sincerely thank them for kindly allowing me to rely upon their materials.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

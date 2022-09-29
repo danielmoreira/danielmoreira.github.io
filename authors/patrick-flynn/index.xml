@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Patrick Flynn on Daniel Moreira</title>
+    <title>Patrick Flynn | Daniel Moreira</title>
     <link>https://danielmoreira.github.io/authors/patrick-flynn/</link>
-    <description>Recent content in Patrick Flynn on Daniel Moreira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://danielmoreira.github.io/authors/patrick-flynn/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://danielmoreira.github.io/authors/patrick-flynn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patrick Flynn</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Patrick Flynn</title>
+      <link>https://danielmoreira.github.io/authors/patrick-flynn/</link>
+    </image>
     
     <item>
       <title>Fast Local Spatial Verification for Feature-Agnostic Large-Scale Image Retrieval</title>
       <link>https://danielmoreira.github.io/publication/2021_tip/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2021_tip/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Transformation-Aware Embeddings for Image Provenance</title>
       <link>https://danielmoreira.github.io/publication/2021_tifs/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2021_tifs/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>Beyond Pixels: Image Provenance Analysis Leveraging Metadata</title>
       <link>https://danielmoreira.github.io/publication/2019_wacv_metada/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2019_wacv_metada/</guid>
       <description></description>
     </item>
@@ -43,7 +40,6 @@
       <title>Domain-Specific Human-Inspired Binarized Statistical Image Features for Iris Recognition</title>
       <link>https://danielmoreira.github.io/publication/2019_wacv_bsif/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2019_wacv_bsif/</guid>
       <description></description>
     </item>
@@ -52,7 +48,6 @@
       <title>Performance of Humans in Iris Recognition: The Impact of Iris Condition and Annotation-Driven Verification</title>
       <link>https://danielmoreira.github.io/publication/2019_wacv_human/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2019_wacv_human/</guid>
       <description></description>
     </item>
@@ -61,7 +56,6 @@
       <title>Image Provenance Analysis at Scale</title>
       <link>https://danielmoreira.github.io/publication/2018_tip/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2018_tip/</guid>
       <description></description>
     </item>
@@ -70,7 +64,6 @@
       <title>Provenance filtering for multimedia phylogeny</title>
       <link>https://danielmoreira.github.io/publication/2017_icip_filtering/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2017_icip_filtering/</guid>
       <description></description>
     </item>
@@ -79,7 +72,6 @@
       <title>Spotting the difference: Context retrieval and analysis for improved forgery detection and localization</title>
       <link>https://danielmoreira.github.io/publication/2017_icip_spotting/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2017_icip_spotting/</guid>
       <description></description>
     </item>
@@ -88,7 +80,6 @@
       <title>U-Phylogeny: Undirected provenance graph construction in the wild</title>
       <link>https://danielmoreira.github.io/publication/2017_icip_uphylogeny/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2017_icip_uphylogeny/</guid>
       <description></description>
     </item>

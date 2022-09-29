@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Identity Synthesis | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tag/identity-synthesis/</link>
+      <atom:link href="https://danielmoreira.github.io/tag/identity-synthesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Identity Synthesis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Identity Synthesis</title>
+      <link>https://danielmoreira.github.io/tag/identity-synthesis/</link>
+    </image>
+    
+    <item>
+      <title>SREFV</title>
+      <link>https://danielmoreira.github.io/project/srefv/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/project/srefv/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded&lt;br&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;http://sites.nd.edu/patrick-flynn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Patrick Flynn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The SREFV project aims at extending &lt;a href=&#34;https://cvrl.nd.edu/projects/?project_name=Synthesis%20of%20Realistic%20Example%20Face%20Images%20%28SREFI%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;prior research&lt;/a&gt; on synthesis of realistic faces, to support the generation of videos containing animated faces with synthetic identities, depicted either frontally or in varying poses.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SREFV preliminary results.&#34;
+           src=&#34;https://danielmoreira.github.io/project/srefv/sample.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Besides the obvious artistic and entertainment purposes, the outcome of this project will constitute an interesting tool to de-identify and diversify the faces depicted in video training datasets, helping to protect the identity of volunteers, and to mitigate eventual age, gender, and ethnic dataset collection biases.&lt;/p&gt;
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Patrick Flynn (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Adam Czajka (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Walter Scheirer (PI)&lt;/li&gt;
+&lt;li&gt;Daniel Moreira (Postdoc)&lt;/li&gt;
+&lt;li&gt;Sandipan Banerjee (PhD Student)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

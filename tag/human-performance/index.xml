@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Human Performance | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tag/human-performance/</link>
+      <atom:link href="https://danielmoreira.github.io/tag/human-performance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Human Performance</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Human Performance</title>
+      <link>https://danielmoreira.github.io/tag/human-performance/</link>
+    </image>
+    
+    <item>
+      <title>Performance of Humans in Iris Recognition: The Impact of Iris Condition and Annotation-Driven Verification</title>
+      <link>https://danielmoreira.github.io/publication/2019_wacv_human/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2019_wacv_human/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MediaEval | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tag/mediaeval/</link>
+      <atom:link href="https://danielmoreira.github.io/tag/mediaeval/index.xml" rel="self" type="application/rss+xml" />
+    <description>MediaEval</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>MediaEval</title>
+      <link>https://danielmoreira.github.io/tag/mediaeval/</link>
+    </image>
+    
+    <item>
+      <title>RECOD at MediaEval 2015: Affective Impact of Movies Task</title>
+      <link>https://danielmoreira.github.io/publication/2015_mediaeval/</link>
+      <pubDate>Fri, 16 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2015_mediaeval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RECOD at MediaEval 2014: Violent Scenes Detection Task</title>
+      <link>https://danielmoreira.github.io/publication/2014_mediaeval/</link>
+      <pubDate>Thu, 16 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2014_mediaeval/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

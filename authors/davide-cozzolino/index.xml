@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Davide Cozzolino on Daniel Moreira</title>
+    <title>Davide Cozzolino | Daniel Moreira</title>
     <link>https://danielmoreira.github.io/authors/davide-cozzolino/</link>
-    <description>Recent content in Davide Cozzolino on Daniel Moreira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://danielmoreira.github.io/authors/davide-cozzolino/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://danielmoreira.github.io/authors/davide-cozzolino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Davide Cozzolino</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Davide Cozzolino</title>
+      <link>https://danielmoreira.github.io/authors/davide-cozzolino/</link>
+    </image>
     
     <item>
       <title>Forensic Analysis of Synthetically Generated Western Blot Images</title>
       <link>https://danielmoreira.github.io/publication/2022_ieeeaccess/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2022_ieeeaccess/</guid>
       <description></description>
     </item>

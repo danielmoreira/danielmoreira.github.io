@@ -1,32 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teachings on Daniel Moreira</title>
+    <title>Teaching | Daniel Moreira</title>
     <link>https://danielmoreira.github.io/teaching/</link>
-    <description>Recent content in Teachings on Daniel Moreira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://danielmoreira.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://danielmoreira.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Teaching</title>
+      <link>https://danielmoreira.github.io/teaching/</link>
+    </image>
     
     <item>
       <title>Computer Vision Applications, Fall 2022</title>
       <link>https://danielmoreira.github.io/teaching/cvapp-aut22/</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/teaching/cvapp-aut22/</guid>
       <description>
 
 
-&lt;figure&gt;
-
-&lt;img src=&#34;luc.png&#34; width=&#34;250px&#34; /&gt;
 
 
-&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /teaching/cvapp-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e839b6c2cdaf3ce0071b2d652a019b75.webp 400w,
+               /teaching/cvapp-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e51b41172736727dd7a34ff04a09a9a2.webp 760w,
+               /teaching/cvapp-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e839b6c2cdaf3ce0071b2d652a019b75.webp&#34;
+               width=&#34;250px&#34;
+               height=&#34;116&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
 &lt;p&gt;Course: COMP 388-002 / COMP 488-002 Computer Science Topics&lt;br&gt;
@@ -34,12 +51,34 @@ Format: Seminar&lt;br&gt;
 Level: Undergraduate and Graduate&lt;br&gt;
 Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Lectures: MON, 4:15 to 6:45 PM, 117 Cuneo Hall&lt;br&gt;
-Office Hours: TUE and THR, 5:00 to 7:00 PM, &lt;a href=&#34;https://bit.ly/3Tos8wx&#34;&gt;by appointment&lt;/a&gt;&lt;br&gt;
-Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/4tCa9j&#34;&gt;https://sakai.luc.edu/x/4tCa9j&lt;/a&gt;&lt;/p&gt;
+Office Hours: TUE and THR, 5:00 to 7:00 PM, &lt;a href=&#34;https://bit.ly/3Tos8wx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;&lt;br&gt;
+Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/4tCa9j&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sakai.luc.edu/x/4tCa9j&lt;/a&gt;&lt;/p&gt;
 &lt;!--- &gt; Announcements. --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;cv-then-now.gif&#34; alt=&#34;Computer Vision then and now.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Computer Vision then and now.&#34;
+           src=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/cv-then-now.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;How might Google or TinEye reverse image search operate?
 How can a computer program process the pixel values of images and video frames and classify the depicted scene,
 or leverage the captured faces to perform person identification?
@@ -49,12 +88,12 @@ These are some of the questions we will be addressing in this course,
 focusing on state-of-the-art Computer Vision (CV) solutions to reduce the semantic gap
 between the pixel values and the desired outcome of complex tasks such as content-based image retrieval,
 content classification and recognition, biometric identification, and media forensics,
-always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&#34;&gt;greater good&lt;/a&gt; in mind.&lt;/p&gt;
+always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;greater good&lt;/a&gt; in mind.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Requirements to attend this course are basic programming skills (especially Python) and statistics and probability.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;schedule-tentative&#34;&gt;Schedule &lt;em&gt;(tentative)&lt;/em&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -305,7 +344,34 @@ Format: Oral Quiz&lt;/p&gt;
 &lt;li&gt;Demonstration on Discussion Day: 5 points (extra)&lt;/li&gt;
 &lt;li&gt;Late Assignments: -1 point per day&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;grading.png&#34; alt=&#34;Grading.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Grading.&#34; srcset=&#34;
+               /teaching/cvapp-aut22/grading_hu3a9cdd06fb4f6267548ce78325163976_526278_ee381d104a46608a81ab365bf6d9953a.webp 400w,
+               /teaching/cvapp-aut22/grading_hu3a9cdd06fb4f6267548ce78325163976_526278_b3811655f7faf03136557ce3593313b3.webp 760w,
+               /teaching/cvapp-aut22/grading_hu3a9cdd06fb4f6267548ce78325163976_526278_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/grading_hu3a9cdd06fb4f6267548ce78325163976_526278_ee381d104a46608a81ab365bf6d9953a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;236&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Each student has two &lt;em&gt;&amp;ldquo;Oopsie&amp;rdquo;&lt;/em&gt; cards (OC), which will allow them to either avoid losing points because of absence
 or extend due dates until 12/11.
@@ -313,7 +379,29 @@ They may use an OC at their discretion for any task, except for their assigned d
 and final exam.
 Please let the instructor know you want to use your OC.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;card.gif&#34; alt=&#34;Oopsie card.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Oopsie card.&#34;
+           src=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/card.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
 &lt;p&gt;Links useful to the course will be posted here.&lt;/p&gt;
@@ -350,7 +438,7 @@ IEEE International Conference on Computer Vision (ICCV), 2016.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Jegou, H., Douze, M., Johnson, J. &lt;em&gt;Faiss: A library for efficient similarity search&lt;/em&gt;.
-Available at &lt;a href=&#34;https://bit.ly/3BiGYg9&#34;&gt;https://bit.ly/3BiGYg9&lt;/a&gt;. Meta Platforms, Inc., 2017.&lt;/p&gt;
+Available at &lt;a href=&#34;https://bit.ly/3BiGYg9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/3BiGYg9&lt;/a&gt;. Meta Platforms, Inc., 2017.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Brogan, J., Bharati, A., Moreira, D., Rocha, A., Bowyer, K., Flynn, P., Scheirer, W.
@@ -414,7 +502,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.&lt;/p&g
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;academic-integrity&#34;&gt;Academic Integrity&lt;/h2&gt;
-&lt;p&gt;Students are expected to adhere to the LUC statements on academic integrity available at &lt;a href=&#34;https://bit.ly/3TmiQkQ&#34;&gt;https://bit.ly/3TmiQkQ&lt;/a&gt;.
+&lt;p&gt;Students are expected to adhere to the LUC statements on academic integrity available at &lt;a href=&#34;https://bit.ly/3TmiQkQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/3TmiQkQ&lt;/a&gt;.
 These policies fully apply to this course.
 The penalty for task-wise academic misconduct is zero points.
 Multiple events of misconduct will incur in failing the entire course (with an F grade).
@@ -432,28 +520,67 @@ as per the terms of their content with no further questions.&lt;/p&gt;
       <title>Learning the Shell, Fall 2022</title>
       <link>https://danielmoreira.github.io/teaching/comptool-aut22/</link>
       <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/teaching/comptool-aut22/</guid>
       <description>
 
 
-&lt;figure&gt;
-
-&lt;img src=&#34;luc.png&#34; width=&#34;250px&#34; /&gt;
 
 
-&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /teaching/comptool-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e839b6c2cdaf3ce0071b2d652a019b75.webp 400w,
+               /teaching/comptool-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e51b41172736727dd7a34ff04a09a9a2.webp 760w,
+               /teaching/comptool-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/comptool-aut22/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e839b6c2cdaf3ce0071b2d652a019b75.webp&#34;
+               width=&#34;250px&#34;
+               height=&#34;116&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
 &lt;p&gt;Course: COMP 141-001 / COMP 400D-001 Intro to Computing Tool&lt;br&gt;
 Level: Undergraduate and Graduate&lt;br&gt;
 Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;br&gt;
 Teaching Assistant: Olga Velichko (&lt;a href=&#34;mailto:ovelichko@luc.edu&#34;&gt;ovelichko@luc.edu&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Lectures: Asynchronous and fully remote on &lt;a href=&#34;https://sakai.luc.edu/x/QxXrXd&#34;&gt;Sakai&lt;/a&gt;&lt;br&gt;
-Office Hours: WED, 5 to 8 PM, and FRI, 4 to 5 PM, &lt;a href=&#34;https://bit.ly/3BDuEID&#34;&gt;by appointment&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lectures: Asynchronous and fully remote on &lt;a href=&#34;https://sakai.luc.edu/x/QxXrXd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt;&lt;br&gt;
+Office Hours: WED, 5 to 8 PM, and FRI, 4 to 5 PM, &lt;a href=&#34;https://bit.ly/3BDuEID&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;terminal.gif&#34; alt=&#34;Shell terminal.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Shell terminal.&#34;
+           src=&#34;https://danielmoreira.github.io/teaching/comptool-aut22/terminal.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Despite the current era of rich graphical user interfaces (desktop, web, and mobile), the &amp;ldquo;command line&amp;rdquo; experience
 remains important, especially for software developers and computer-aided scientific researchers.
 Many development scenarios still require command line and fluency in Unix tools, including the modern embedded,
@@ -463,7 +590,7 @@ While this course does not aim at being a comprehensive programming class, stude
 skills using shell scripting.
 They will also learn about problem-solving using Unix commands supported by shell scripts.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Please refer to &lt;a href=&#34;https://sakai.luc.edu/x/QxXrXd&#34;&gt;Sakai&lt;/a&gt; for having access to the materials, assignments, quizzes,
+&lt;p&gt;Please refer to &lt;a href=&#34;https://sakai.luc.edu/x/QxXrXd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt; for having access to the materials, assignments, quizzes,
 announcements, grading, and progress of the course. This page is static and will not be updated.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
@@ -478,7 +605,7 @@ announcements, grading, and progress of the course. This page is static and will
 &lt;hr&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Shots, W. &lt;em&gt;The Linux Command Line, 2nd Edition&lt;/em&gt;. No Starch Press Book, 2019. Available at &lt;a href=&#34;https://linuxcommand.org/&#34;&gt;https://linuxcommand.org/&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Shots, W. &lt;em&gt;The Linux Command Line, 2nd Edition&lt;/em&gt;. No Starch Press Book, 2019. Available at &lt;a href=&#34;https://linuxcommand.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://linuxcommand.org/&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -487,17 +614,34 @@ announcements, grading, and progress of the course. This page is static and will
       <title>Biometrics, Spring 2022</title>
       <link>https://danielmoreira.github.io/teaching/biometrics-spr22/</link>
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/teaching/biometrics-spr22/</guid>
       <description>
 
 
-&lt;figure&gt;
-
-&lt;img src=&#34;nd.jpg&#34; width=&#34;250px&#34; /&gt;
 
 
-&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /teaching/biometrics-spr22/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_4a14e3ad48aa854e7fab4000b9b1c6e7.webp 400w,
+               /teaching/biometrics-spr22/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_c7771669807438d62685d1c21c995ac4.webp 760w,
+               /teaching/biometrics-spr22/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_4a14e3ad48aa854e7fab4000b9b1c6e7.webp&#34;
+               width=&#34;250px&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
 &lt;p&gt;Course: CSE 40537 / 60537 Biometrics&lt;br&gt;
@@ -506,10 +650,37 @@ Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel More
 Teaching Assistant: Jason You (&lt;a href=&#34;mailto:syou@nd.edu&#34;&gt;syou@nd.edu&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Lectures: TUE and THR, 3:30 to 4:45 PM, 356A Fitzpatrick Hall&lt;br&gt;
 Office Hours: Daniel - MON to FRI, 5:00 to 6:00 PM, 182 Fitzpatrick Hall, Jason - WED, 1:00 to 2:00 PM, 150M Fitzpatrick Hall&lt;/p&gt;
-&lt;p&gt;&lt;del&gt;Slack: &lt;a href=&#34;https://nd-biometrics-spr22.slack.com&#34;&gt;https://nd-biometrics-spr22.slack.com&lt;/a&gt;&lt;/del&gt; &lt;em&gt;(now deactivated)&lt;/em&gt;&lt;br&gt;
-Panopto: &lt;a href=&#34;https://bit.ly/3A4QEKc&#34;&gt;https://bit.ly/3A4QEKc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;Slack: &lt;a href=&#34;https://nd-biometrics-spr22.slack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nd-biometrics-spr22.slack.com&lt;/a&gt;&lt;/del&gt; &lt;em&gt;(now deactivated)&lt;/em&gt;&lt;br&gt;
+Panopto: &lt;a href=&#34;https://bit.ly/3A4QEKc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/3A4QEKc&lt;/a&gt;&lt;/p&gt;
 &lt;!--- Zoom: https://bit.ly/3JS9zMA/ --&gt;
-&lt;p&gt;&lt;img src=&#34;fake.png&#34; alt=&#34;Different attacks made by students.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Different attacks made by students.&#34; srcset=&#34;
+               /teaching/biometrics-spr22/fake_hu832e1f5d9d218979753d086994377cb1_4211911_de810acd765980f08f9b38d9421a0093.webp 400w,
+               /teaching/biometrics-spr22/fake_hu832e1f5d9d218979753d086994377cb1_4211911_e869c853dca9cbd8838e7c769b6b97b2.webp 760w,
+               /teaching/biometrics-spr22/fake_hu832e1f5d9d218979753d086994377cb1_4211911_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/fake_hu832e1f5d9d218979753d086994377cb1_4211911_de810acd765980f08f9b38d9421a0093.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;367&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Course grades are now &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/total_grades.pdf&#34;&gt;available&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -586,8 +757,35 @@ Panopto: &lt;a href=&#34;https://bit.ly/3A4QEKc&#34;&gt;https://bit.ly/3A4QEKc&l
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;kuehlkamp.jpg&#34; alt=&#34;Dr. Andrey Kuehlkamp&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://crc.nd.edu/about/people/andrey-kuehlkamp&#34;&gt;Dr. Andrey Kuehlkamp&lt;/a&gt;&lt;/br&gt; Postdoctoral Research Associate at the Center for Research Computing, University of Notre Dame&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Dr. Andrey Kuehlkamp&#34; srcset=&#34;
+               /teaching/biometrics-spr22/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_ad1b4efbd7d46e2998d4e35a6e5aaf94.webp 400w,
+               /teaching/biometrics-spr22/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_e1180eff5c20c3de1d54f643fc937f98.webp 760w,
+               /teaching/biometrics-spr22/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_ad1b4efbd7d46e2998d4e35a6e5aaf94.webp&#34;
+               width=&#34;100&#34;
+               height=&#34;125&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://crc.nd.edu/about/people/andrey-kuehlkamp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Andrey Kuehlkamp&lt;/a&gt;&lt;/br&gt; Postdoctoral Research Associate at the Center for Research Computing, University of Notre Dame&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -612,8 +810,35 @@ Panopto: &lt;a href=&#34;https://bit.ly/3A4QEKc&#34;&gt;https://bit.ly/3A4QEKc&l
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;boyd.jpg&#34; alt=&#34;Mr. Aidan Boyd&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/BoydAidan&#34;&gt;Mr. Aidan Boyd&lt;/a&gt;&lt;/br&gt; Ph.D. Candidate at the Department of Computer Science and Engineering, University of Notre Dame&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Mr. Aidan Boyd&#34; srcset=&#34;
+               /teaching/biometrics-spr22/boyd_hu9c71555c2dab4f53bfd88f71a1ded5aa_5709_d53bd3b72947184ba3bf571c5c5620e1.webp 400w,
+               /teaching/biometrics-spr22/boyd_hu9c71555c2dab4f53bfd88f71a1ded5aa_5709_4d28190796a719a302d50d07df8aa3bf.webp 760w,
+               /teaching/biometrics-spr22/boyd_hu9c71555c2dab4f53bfd88f71a1ded5aa_5709_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/boyd_hu9c71555c2dab4f53bfd88f71a1ded5aa_5709_d53bd3b72947184ba3bf571c5c5620e1.webp&#34;
+               width=&#34;100&#34;
+               height=&#34;125&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/BoydAidan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mr. Aidan Boyd&lt;/a&gt;&lt;/br&gt; Ph.D. Candidate at the Department of Computer Science and Engineering, University of Notre Dame&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -625,7 +850,7 @@ Panopto: &lt;a href=&#34;https://bit.ly/3A4QEKc&#34;&gt;https://bit.ly/3A4QEKc&l
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;b&gt;Using human perception to train better CNNs&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; Traditional deep learning is a data-driven process. Images are shown to a CNN and it is expected to learn rules that enable it to perform a task efficiently on new unseen images after training. The problem with this approach is that the model can only learn from the supplied training data. Potentially, this training data is not representative of the entire domain. Although the model classifies training images near perfectly, this learned rule may actually just be coincidental to this data, rather than applying to all images in that task. Additionally, the decision making of these models can be ambiguous and not explainable, meaning it can be difficult to trust the classifications. Humans, however, possess great ability to generalize what they have seen in the past and apply it to the current task. Humans don’t focus on incidental features in data, instead we tend to look at more obvious occurrences that can be easily explained.&lt;/br&gt; &lt;/br&gt; This talk will cover two of my recent works where we investigated whether the incorporation of human perception into the training of deep learning models results in better performance on unseen data. Each of these works approach this in different ways, both showing promising results. In the second work, we also investigate whether the models we have trained in this way are more “human-like” in their decision making. These approaches are applied to the domains of iris presentation attack detection and synthetically generated face detection (see &lt;a href=&#34;http://www.thispersondoesnotexist.com&#34;&gt;www.thispersondoesnotexist.com&lt;/a&gt; for examples of synthetically generated faces).&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;Using human perception to train better CNNs&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; Traditional deep learning is a data-driven process. Images are shown to a CNN and it is expected to learn rules that enable it to perform a task efficiently on new unseen images after training. The problem with this approach is that the model can only learn from the supplied training data. Potentially, this training data is not representative of the entire domain. Although the model classifies training images near perfectly, this learned rule may actually just be coincidental to this data, rather than applying to all images in that task. Additionally, the decision making of these models can be ambiguous and not explainable, meaning it can be difficult to trust the classifications. Humans, however, possess great ability to generalize what they have seen in the past and apply it to the current task. Humans don’t focus on incidental features in data, instead we tend to look at more obvious occurrences that can be easily explained.&lt;/br&gt; &lt;/br&gt; This talk will cover two of my recent works where we investigated whether the incorporation of human perception into the training of deep learning models results in better performance on unseen data. Each of these works approach this in different ways, both showing promising results. In the second work, we also investigate whether the models we have trained in this way are more “human-like” in their decision making. These approaches are applied to the domains of iris presentation attack detection and synthetically generated face detection (see &lt;a href=&#34;https://www.thispersondoesnotexist.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.thispersondoesnotexist.com&lt;/a&gt; for examples of synthetically generated faces).&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -693,56 +918,56 @@ Panopto: &lt;a href=&#34;https://bit.ly/3A4QEKc&#34;&gt;https://bit.ly/3A4QEKc&l
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr22/panopto.pdf&#34;&gt;Classroom recording notification.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://vision.ucsd.edu/content/yale-face-database&#34;&gt;Yale face dataset&lt;/a&gt;, used in the 4th assignment.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vision.ucsd.edu/content/yale-face-database&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yale face dataset&lt;/a&gt;, used in the 4th assignment.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;biometrics-on-the-news&#34;&gt;Biometrics on the News&lt;/h2&gt;
 &lt;p&gt;Posted by the students and instructor on Slack:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://fortune.com/2021/10/22/crypto-worldcoin-cryptocurrency-eye-scan-biometrics-orb/&#34;&gt;https://fortune.com/2021/10/22/crypto-worldcoin-cryptocurrency-eye-scan-biometrics-orb/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://fortune.com/2021/10/22/crypto-worldcoin-cryptocurrency-eye-scan-biometrics-orb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://fortune.com/2021/10/22/crypto-worldcoin-cryptocurrency-eye-scan-biometrics-orb/&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202201/attacks-countermeasures-and-pulses-of-blood-in-remote-identity-proofing&#34;&gt;https://www.biometricupdate.com/202201/attacks-countermeasures-and-pulses-of-blood-in-remote-identity-proofing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202201/attacks-countermeasures-and-pulses-of-blood-in-remote-identity-proofing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biometricupdate.com/202201/attacks-countermeasures-and-pulses-of-blood-in-remote-identity-proofing&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.yahoo.com/news/irs-wants-scan-face-171738919.html?.tsrc=fp_deeplink&#34;&gt;https://www.yahoo.com/news/irs-wants-scan-face-171738919.html?.tsrc=fp_deeplink&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.yahoo.com/news/irs-wants-scan-face-171738919.html?.tsrc=fp_deeplink&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.yahoo.com/news/irs-wants-scan-face-171738919.html?.tsrc=fp_deeplink&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.irs.gov/newsroom/irs-announces-transition-away-from-use-of-third-party-verification-involving-facial-recognition&#34;&gt;https://www.irs.gov/newsroom/irs-announces-transition-away-from-use-of-third-party-verification-involving-facial-recognition&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.irs.gov/newsroom/irs-announces-transition-away-from-use-of-third-party-verification-involving-facial-recognition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.irs.gov/newsroom/irs-announces-transition-away-from-use-of-third-party-verification-involving-facial-recognition&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2022/02/14/technology/texas-facebook-facial-recognition-lawsuit.html&#34;&gt;https://www.nytimes.com/2022/02/14/technology/texas-facebook-facial-recognition-lawsuit.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2022/02/14/technology/texas-facebook-facial-recognition-lawsuit.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nytimes.com/2022/02/14/technology/texas-facebook-facial-recognition-lawsuit.html&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://abcnews.go.com/GMA/Living/video/hyper-realistic-face-masks-optical-illusions-needed-71835222&#34;&gt;https://abcnews.go.com/GMA/Living/video/hyper-realistic-face-masks-optical-illusions-needed-71835222&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://abcnews.go.com/GMA/Living/video/hyper-realistic-face-masks-optical-illusions-needed-71835222&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://abcnews.go.com/GMA/Living/video/hyper-realistic-face-masks-optical-illusions-needed-71835222&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.newscientist.com/article/2114900-concerns-as-face-recognition-tech-used-to-identify-criminals/&#34;&gt;https://www.newscientist.com/article/2114900-concerns-as-face-recognition-tech-used-to-identify-criminals/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.newscientist.com/article/2114900-concerns-as-face-recognition-tech-used-to-identify-criminals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.newscientist.com/article/2114900-concerns-as-face-recognition-tech-used-to-identify-criminals/&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.yahoo.com/news/ukraine-using-facial-recognition-tech-153640828.html&#34;&gt;https://www.yahoo.com/news/ukraine-using-facial-recognition-tech-153640828.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.yahoo.com/news/ukraine-using-facial-recognition-tech-153640828.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.yahoo.com/news/ukraine-using-facial-recognition-tech-153640828.html&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html&#34;&gt;https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/technology/2022/04/15/ukraine-facial-recognition-warfare/&#34;&gt;https://www.washingtonpost.com/technology/2022/04/15/ukraine-facial-recognition-warfare/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/technology/2022/04/15/ukraine-facial-recognition-warfare/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.washingtonpost.com/technology/2022/04/15/ukraine-facial-recognition-warfare/&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202204/biometrics-secure-unhcr-direct-cash-payments-to-ukrainian-refugees&#34;&gt;https://www.biometricupdate.com/202204/biometrics-secure-unhcr-direct-cash-payments-to-ukrainian-refugees&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202204/biometrics-secure-unhcr-direct-cash-payments-to-ukrainian-refugees&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biometricupdate.com/202204/biometrics-secure-unhcr-direct-cash-payments-to-ukrainian-refugees&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.theverge.com/22672123/ai-voice-clone-synthesis-deepfake-applications-vergecast&#34;&gt;https://www.theverge.com/22672123/ai-voice-clone-synthesis-deepfake-applications-vergecast&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theverge.com/22672123/ai-voice-clone-synthesis-deepfake-applications-vergecast&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theverge.com/22672123/ai-voice-clone-synthesis-deepfake-applications-vergecast&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202204/ny-state-audit-finds-bidding-for-school-facial-recognition-system-was-improper&#34;&gt;https://www.biometricupdate.com/202204/ny-state-audit-finds-bidding-for-school-facial-recognition-system-was-improper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202204/ny-state-audit-finds-bidding-for-school-facial-recognition-system-was-improper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biometricupdate.com/202204/ny-state-audit-finds-bidding-for-school-facial-recognition-system-was-improper&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202204/suprema-face-biometrics-enable-uk-school-to-cut-back-plastic-waste-from-access-cards&#34;&gt;https://www.biometricupdate.com/202204/suprema-face-biometrics-enable-uk-school-to-cut-back-plastic-waste-from-access-cards&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202204/suprema-face-biometrics-enable-uk-school-to-cut-back-plastic-waste-from-access-cards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biometricupdate.com/202204/suprema-face-biometrics-enable-uk-school-to-cut-back-plastic-waste-from-access-cards&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://techcrunch.com/2022/04/18/web-scraping-legal-court/&#34;&gt;https://techcrunch.com/2022/04/18/web-scraping-legal-court/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://techcrunch.com/2022/04/18/web-scraping-legal-court/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://techcrunch.com/2022/04/18/web-scraping-legal-court/&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -753,32 +978,76 @@ Panopto: &lt;a href=&#34;https://bit.ly/3A4QEKc&#34;&gt;https://bit.ly/3A4QEKc&l
       <title>Biometrics, Spring 2020</title>
       <link>https://danielmoreira.github.io/teaching/biometrics-spr20/</link>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/teaching/biometrics-spr20/</guid>
       <description>
 
 
-&lt;figure&gt;
-
-&lt;img src=&#34;nd.jpg&#34; width=&#34;250px&#34; /&gt;
 
 
-&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /teaching/biometrics-spr20/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_4a14e3ad48aa854e7fab4000b9b1c6e7.webp 400w,
+               /teaching/biometrics-spr20/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_c7771669807438d62685d1c21c995ac4.webp 760w,
+               /teaching/biometrics-spr20/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/nd_hud2e645e058d5066bddd46eafc5baca2c_58116_4a14e3ad48aa854e7fab4000b9b1c6e7.webp&#34;
+               width=&#34;250px&#34;
+               height=&#34;197&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
 &lt;p&gt;Course: CSE 40537 / 60537 Biometrics&lt;br&gt;
 Level: Undergraduate and Graduate&lt;br&gt;
 Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dhenriq1@nd.edu&#34;&gt;dhenriq1@nd.edu&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;&lt;del&gt;Lectures: TUE and THR, 5:05 to 6:20 PM, 125 DeBartolo Hall&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
-&lt;del&gt;Office Hours: MON and WED, 2:00 to 4:00 PM, 150N Fitzpatrick Hall&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
+&lt;del&gt;Office Hours: MON and WED, 2:00 to 4:00 PM, 150N Fitzpatrick Hall&lt;/del&gt;&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
 Lectures: TUE and THR, 2:00 to 3:15 PM, at Zoom&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
 Office Hours: TUE and THR, 5:05 to 6:20 PM, at Zoom&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
 &lt;em&gt;Students are not obligated to attend classes at 2:00 pm, but are certainly welcome. All classes are being recorded with Panopto.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Slack: &lt;del&gt;&lt;a href=&#34;https://cse-biometrics-spr20.slack.com&#34;&gt;https://cse-biometrics-spr20.slack.com&lt;/a&gt;&lt;/del&gt; &lt;em&gt;(now deactivated)&lt;/em&gt;
-Panopto: &lt;a href=&#34;https://bit.ly/33ZkU97&#34;&gt;https://bit.ly/33ZkU97&lt;/a&gt;&lt;br&gt;
-Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34;&gt;https://notredame.zoom.us/my/dmoreira&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Slack: &lt;del&gt;&lt;a href=&#34;https://cse-biometrics-spr20.slack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cse-biometrics-spr20.slack.com&lt;/a&gt;&lt;/del&gt; &lt;em&gt;(now deactivated)&lt;/em&gt;&lt;br&gt;
+Panopto: &lt;a href=&#34;https://bit.ly/33ZkU97&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/33ZkU97&lt;/a&gt;&lt;br&gt;
+Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://notredame.zoom.us/my/dmoreira&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Course grades are now &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/grades.pdf&#34;&gt;available.&lt;/a&gt;&lt;/strong&gt;
-&lt;img src=&#34;fake-fingers.jpg&#34; alt=&#34;Fake fingers made by students.&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fake fingers made by students.&#34; srcset=&#34;
+               /teaching/biometrics-spr20/fake-fingers_hu3624c59c52b8002a8b05756867852acc_28227_af33aaedd321ecfceac2818aefda2697.webp 400w,
+               /teaching/biometrics-spr20/fake-fingers_hu3624c59c52b8002a8b05756867852acc_28227_4fc760eb2705bed990f3196fb7ee1a47.webp 760w,
+               /teaching/biometrics-spr20/fake-fingers_hu3624c59c52b8002a8b05756867852acc_28227_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/fake-fingers_hu3624c59c52b8002a8b05756867852acc_28227_af33aaedd321ecfceac2818aefda2697.webp&#34;
+               width=&#34;400&#34;
+               height=&#34;400&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;progress&#34;&gt;Progress&lt;/h2&gt;
 &lt;ul&gt;
@@ -844,8 +1113,35 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34;&gt;https://notr
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;kuehlkamp.jpg&#34; alt=&#34;Dr. Andrey Kuehlkamp&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://crc.nd.edu/about/people/andrey-kuehlkamp&#34;&gt;Dr. Andrey Kuehlkamp&lt;/a&gt;&lt;/br&gt; Postdoctoral Research Associate at the Center for Research Computing, University of Notre Dame&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Dr. Andrey Kuehlkamp&#34; srcset=&#34;
+               /teaching/biometrics-spr20/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_ad1b4efbd7d46e2998d4e35a6e5aaf94.webp 400w,
+               /teaching/biometrics-spr20/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_e1180eff5c20c3de1d54f643fc937f98.webp 760w,
+               /teaching/biometrics-spr20/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/kuehlkamp_hu0bcbd370411708a3ffbc5bfa3e480ebe_5020_ad1b4efbd7d46e2998d4e35a6e5aaf94.webp&#34;
+               width=&#34;100&#34;
+               height=&#34;125&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://crc.nd.edu/about/people/andrey-kuehlkamp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Andrey Kuehlkamp&lt;/a&gt;&lt;/br&gt; Postdoctoral Research Associate at the Center for Research Computing, University of Notre Dame&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -870,8 +1166,35 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34;&gt;https://notr
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;czajka.jpg&#34; alt=&#34;Dr. Adam Czajka&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34;&gt;Dr. Adam Czajka&lt;/a&gt;&lt;/br&gt; Assistant Professor at the Department of Computer Science and Engineering, University of Notre Dame&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Dr. Adam Czajka&#34; srcset=&#34;
+               /teaching/biometrics-spr20/czajka_hub437e1922ab0268a7a76fb3927aa70c1_3815_0aa673587213764644f0cc104f162180.webp 400w,
+               /teaching/biometrics-spr20/czajka_hub437e1922ab0268a7a76fb3927aa70c1_3815_8416ae5272b4c7de4f053a93f5cffbbc.webp 760w,
+               /teaching/biometrics-spr20/czajka_hub437e1922ab0268a7a76fb3927aa70c1_3815_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/czajka_hub437e1922ab0268a7a76fb3927aa70c1_3815_0aa673587213764644f0cc104f162180.webp&#34;
+               width=&#34;100&#34;
+               height=&#34;125&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Adam Czajka&lt;/a&gt;&lt;/br&gt; Assistant Professor at the Department of Computer Science and Engineering, University of Notre Dame&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -891,51 +1214,51 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34;&gt;https://notr
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-spr20/panopto.pdf&#34;&gt;Classroom recording notification.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://vision.ucsd.edu/content/yale-face-database&#34;&gt;Yale face dataset, &lt;/a&gt; used to replace face acquisition&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://biometrics.idealtest.org/dbDetailForUser.do?id=1&#34;&gt;CASIA-IrisV1, &lt;/a&gt; used to replace iris acquisition&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vision.ucsd.edu/content/yale-face-database&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yale face dataset, &lt;/a&gt; used to replace face acquisition&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://biometrics.idealtest.org/dbDetailForUser.do?id=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CASIA-IrisV1, &lt;/a&gt; used to replace iris acquisition&lt;sup&gt;&lt;a href=&#34;#covid19&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;biometrics-on-the-news&#34;&gt;Biometrics on the News&lt;/h2&gt;
 &lt;p&gt;Posted by the students the instructor on Slack:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://vancouversun.com/news/local-news/biometric-opioid-vending-machine-unveiled-in-vancouver&#34;&gt;https://vancouversun.com/news/local-news/biometric-opioid-vending-machine-unveiled-in-vancouver&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vancouversun.com/news/local-news/biometric-opioid-vending-machine-unveiled-in-vancouver&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vancouversun.com/news/local-news/biometric-opioid-vending-machine-unveiled-in-vancouver&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html&#34;&gt;https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.landmobile.co.uk/news/metropolitan-police-service-nec-live-facial-recognition/&#34;&gt;https://www.landmobile.co.uk/news/metropolitan-police-service-nec-live-facial-recognition/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.landmobile.co.uk/news/metropolitan-police-service-nec-live-facial-recognition/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.landmobile.co.uk/news/metropolitan-police-service-nec-live-facial-recognition/&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html&#34;&gt;https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202001/securiport-partners-with-university-of-notre-dame-in-biometrics-and-data-analytics-research-for-border-security&#34;&gt;https://www.biometricupdate.com/202001/securiport-partners-with-university-of-notre-dame-in-biometrics-and-data-analytics-research-for-border-security&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biometricupdate.com/202001/securiport-partners-with-university-of-notre-dame-in-biometrics-and-data-analytics-research-for-border-security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biometricupdate.com/202001/securiport-partners-with-university-of-notre-dame-in-biometrics-and-data-analytics-research-for-border-security&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/02/06/business/facial-recognition-schools.html&#34;&gt;https://www.nytimes.com/2020/02/06/business/facial-recognition-schools.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/02/06/business/facial-recognition-schools.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nytimes.com/2020/02/06/business/facial-recognition-schools.html&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.abacusnews.com/tech/why-your-palm-could-be-safer-fingerprints-or-facial-recognition/article/3046162&#34;&gt;https://www.abacusnews.com/tech/why-your-palm-could-be-safer-fingerprints-or-facial-recognition/article/3046162&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.abacusnews.com/tech/why-your-palm-could-be-safer-fingerprints-or-facial-recognition/article/3046162&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.abacusnews.com/tech/why-your-palm-could-be-safer-fingerprints-or-facial-recognition/article/3046162&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cnn.com/2020/02/26/tech/clearview-ai-hack/index.html&#34;&gt;https://www.cnn.com/2020/02/26/tech/clearview-ai-hack/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnn.com/2020/02/26/tech/clearview-ai-hack/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cnn.com/2020/02/26/tech/clearview-ai-hack/index.html&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://nakedsecurity.sophos.com/2020/04/08/as-if-the-world-couldnt-get-any-weirder-this-ai-toilet-scans-your-anus-to-identify-you/&#34;&gt;https://nakedsecurity.sophos.com/2020/04/08/as-if-the-world-couldnt-get-any-weirder-this-ai-toilet-scans-your-anus-to-identify-you/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nakedsecurity.sophos.com/2020/04/08/as-if-the-world-couldnt-get-any-weirder-this-ai-toilet-scans-your-anus-to-identify-you/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nakedsecurity.sophos.com/2020/04/08/as-if-the-world-couldnt-get-any-weirder-this-ai-toilet-scans-your-anus-to-identify-you/&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://arstechnica.com/information-technology/2020/04/attackers-can-bypass-fingerprint-authentication-with-an-80-success-rate/&#34;&gt;https://arstechnica.com/information-technology/2020/04/attackers-can-bypass-fingerprint-authentication-with-an-80-success-rate/&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://arstechnica.com/information-technology/2020/04/attackers-can-bypass-fingerprint-authentication-with-an-80-success-rate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arstechnica.com/information-technology/2020/04/attackers-can-bypass-fingerprint-authentication-with-an-80-success-rate/&lt;/a&gt;
 &lt;a name=&#34;covid19&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;covid-19&#34;&gt;COVID-19&lt;/h2&gt;
-&lt;p&gt;1: Modified/canceled due to &lt;a href=&#34;https://coronavirus.nd.edu/&#34;&gt;COVID-19.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;1: Modified/canceled due to &lt;a href=&#34;https://coronavirus.nd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COVID-19.&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
-&lt;p&gt;This course is heavily based on &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34;&gt;Dr. Adam Czajka&amp;rsquo;s&lt;/a&gt; and &lt;a href=&#34;https://www.wjscheirer.com/&#34;&gt;Dr. Walter Scheirer&amp;rsquo;s&lt;/a&gt; previous Biometrics courses. I sincerely thank them for kindly allowing me to rely upon their materials.&lt;/p&gt;
+&lt;p&gt;This course is heavily based on &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Adam Czajka&amp;rsquo;s&lt;/a&gt; and &lt;a href=&#34;https://www.wjscheirer.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Walter Scheirer&amp;rsquo;s&lt;/a&gt; previous Biometrics courses. I sincerely thank them for kindly allowing me to rely upon their materials.&lt;/p&gt;
 &lt;hr&gt;
 </description>
     </item>

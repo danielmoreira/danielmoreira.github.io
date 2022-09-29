@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Daniel Moreira</title>
+    <title>Publications | Daniel Moreira</title>
     <link>https://danielmoreira.github.io/publication/</link>
-    <description>Recent content in Publications on Daniel Moreira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    
-	    <atom:link href="https://danielmoreira.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://danielmoreira.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Publications</title>
+      <link>https://danielmoreira.github.io/publication/</link>
+    </image>
     
     <item>
       <title>Forensic Analysis of Synthetically Generated Western Blot Images</title>
       <link>https://danielmoreira.github.io/publication/2022_ieeeaccess/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2022_ieeeaccess/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Image Provenance Analysis</title>
       <link>https://danielmoreira.github.io/publication/2022_chapter/</link>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2022_chapter/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Fast Local Spatial Verification for Feature-Agnostic Large-Scale Image Retrieval</title>
       <link>https://danielmoreira.github.io/publication/2021_tip/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2021_tip/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>Automatic Discovery of Political Meme Genres with Diverse Appearances</title>
       <link>https://danielmoreira.github.io/publication/2021_icwsm/</link>
       <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2021_icwsm/</guid>
       <description></description>
     </item>
@@ -51,7 +48,6 @@
       <title>Transformation-Aware Embeddings for Image Provenance</title>
       <link>https://danielmoreira.github.io/publication/2021_tifs/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2021_tifs/</guid>
       <description></description>
     </item>
@@ -60,7 +56,6 @@
       <title>Multimodal and real-time method for filtering sensitive media</title>
       <link>https://danielmoreira.github.io/publication/2019_patent/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2019_patent/</guid>
       <description></description>
     </item>
@@ -69,7 +64,6 @@
       <title>Beyond Pixels: Image Provenance Analysis Leveraging Metadata</title>
       <link>https://danielmoreira.github.io/publication/2019_wacv_metada/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2019_wacv_metada/</guid>
       <description></description>
     </item>
@@ -78,7 +72,6 @@
       <title>Domain-Specific Human-Inspired Binarized Statistical Image Features for Iris Recognition</title>
       <link>https://danielmoreira.github.io/publication/2019_wacv_bsif/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2019_wacv_bsif/</guid>
       <description></description>
     </item>
@@ -87,7 +80,6 @@
       <title>Performance of Humans in Iris Recognition: The Impact of Iris Condition and Annotation-Driven Verification</title>
       <link>https://danielmoreira.github.io/publication/2019_wacv_human/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2019_wacv_human/</guid>
       <description></description>
     </item>
@@ -96,7 +88,6 @@
       <title>Multimodal data fusion for sensitive scene localization</title>
       <link>https://danielmoreira.github.io/publication/2019_if/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2019_if/</guid>
       <description></description>
     </item>
@@ -105,7 +96,6 @@
       <title>Image Provenance Analysis at Scale</title>
       <link>https://danielmoreira.github.io/publication/2018_tip/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2018_tip/</guid>
       <description></description>
     </item>
@@ -114,7 +104,6 @@
       <title>Getting the subtext without the text: Scalable multimodal sentiment classification from visual and acoustic modalities</title>
       <link>https://danielmoreira.github.io/publication/2018_acl/</link>
       <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2018_acl/</guid>
       <description></description>
     </item>
@@ -123,7 +112,6 @@
       <title>Método multimodal e em tempo real para filtragem de conteúdo sensível</title>
       <link>https://danielmoreira.github.io/publication/2017_patent/</link>
       <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2017_patent/</guid>
       <description></description>
     </item>
@@ -132,7 +120,6 @@
       <title>Provenance filtering for multimedia phylogeny</title>
       <link>https://danielmoreira.github.io/publication/2017_icip_filtering/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2017_icip_filtering/</guid>
       <description></description>
     </item>
@@ -141,7 +128,6 @@
       <title>Spotting the difference: Context retrieval and analysis for improved forgery detection and localization</title>
       <link>https://danielmoreira.github.io/publication/2017_icip_spotting/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2017_icip_spotting/</guid>
       <description></description>
     </item>
@@ -150,7 +136,6 @@
       <title>U-Phylogeny: Undirected provenance graph construction in the wild</title>
       <link>https://danielmoreira.github.io/publication/2017_icip_uphylogeny/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2017_icip_uphylogeny/</guid>
       <description></description>
     </item>
@@ -159,7 +144,6 @@
       <title>Temporal Robust Features for Violence Detection</title>
       <link>https://danielmoreira.github.io/publication/2017_wacv/</link>
       <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2017_wacv/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -173,7 +157,6 @@
       <title>Video pornography detection through deep learning techniques and motion information</title>
       <link>https://danielmoreira.github.io/publication/2017_neurocomputing/</link>
       <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2017_neurocomputing/</guid>
       <description></description>
     </item>
@@ -182,7 +165,6 @@
       <title>Pornography classification: The hidden clues in video space–time</title>
       <link>https://danielmoreira.github.io/publication/2016_fsi/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2016_fsi/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -196,7 +178,6 @@
       <title>RECOD at MediaEval 2015: Affective Impact of Movies Task</title>
       <link>https://danielmoreira.github.io/publication/2015_mediaeval/</link>
       <pubDate>Fri, 16 Oct 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2015_mediaeval/</guid>
       <description></description>
     </item>
@@ -205,7 +186,6 @@
       <title>RECOD at MediaEval 2014: Violent Scenes Detection Task</title>
       <link>https://danielmoreira.github.io/publication/2014_mediaeval/</link>
       <pubDate>Thu, 16 Oct 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2014_mediaeval/</guid>
       <description></description>
     </item>

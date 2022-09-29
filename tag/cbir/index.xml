@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CBIR | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tag/cbir/</link>
+      <atom:link href="https://danielmoreira.github.io/tag/cbir/index.xml" rel="self" type="application/rss+xml" />
+    <description>CBIR</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>CBIR</title>
+      <link>https://danielmoreira.github.io/tag/cbir/</link>
+    </image>
+    
+    <item>
+      <title>Fast Local Spatial Verification for Feature-Agnostic Large-Scale Image Retrieval</title>
+      <link>https://danielmoreira.github.io/publication/2021_tip/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2021_tip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Provenance Analysis at Scale</title>
+      <link>https://danielmoreira.github.io/publication/2018_tip/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2018_tip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

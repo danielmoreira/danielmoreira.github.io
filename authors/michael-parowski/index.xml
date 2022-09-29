@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michael Parowski on Daniel Moreira</title>
+    <title>Michael Parowski | Daniel Moreira</title>
     <link>https://danielmoreira.github.io/authors/michael-parowski/</link>
-    <description>Recent content in Michael Parowski on Daniel Moreira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Thu, 16 Aug 2018 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://danielmoreira.github.io/authors/michael-parowski/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://danielmoreira.github.io/authors/michael-parowski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Parowski</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Michael Parowski</title>
+      <link>https://danielmoreira.github.io/authors/michael-parowski/</link>
+    </image>
     
     <item>
       <title>Image Provenance Analysis at Scale</title>
       <link>https://danielmoreira.github.io/publication/2018_tip/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2018_tip/</guid>
       <description></description>
     </item>

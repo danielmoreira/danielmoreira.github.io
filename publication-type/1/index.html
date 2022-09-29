@@ -1,0 +1,2389 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.6.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather&family=Roboto+Mono&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather&family=Roboto+Mono&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Daniel H. Moreira" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Assistant Professor of Computer Science" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://danielmoreira.github.io/publication-type/1/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#922247" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.74ff43d867dbb2535e3a213e39498083.css" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=GT-TXXKC9D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'GT-TXXKC9D', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','G-N44XTV94DF');
+</script>
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+    <link rel="alternate" href="/publication-type/1/index.xml" type="application/rss+xml" title="Daniel Moreira" />
+  
+
+  
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_hu841424792684eefa604903eccd1ecb0c_59936_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu841424792684eefa604903eccd1ecb0c_59936_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://danielmoreira.github.io/publication-type/1/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@dmoreira_cs" />
+    <meta property="twitter:creator" content="@dmoreira_cs" />
+  
+  <meta property="og:site_name" content="Daniel Moreira" />
+  <meta property="og:url" content="https://danielmoreira.github.io/publication-type/1/" />
+  <meta property="og:title" content="1 | Daniel Moreira" />
+  <meta property="og:description" content="Assistant Professor of Computer Science" /><meta property="og:image" content="https://danielmoreira.github.io/media/sharing.jpg" />
+    <meta property="twitter:image" content="https://danielmoreira.github.io/media/sharing.jpg" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta property="og:updated_time" content="2021-05-22T00:00:00&#43;00:00" />
+    
+  
+
+  
+
+
+
+  
+
+
+  <title>1 | Daniel Moreira</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.edcf9542bc63018f22383168efaef744.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Daniel Moreira</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Daniel Moreira</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#experience"><span>Career</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#accomplishments"><span>Awards</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#services"><span>Services</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+<div class="universal-wrapper pt-3">
+  <h1>1</h1>
+
+  
+
+  
+</div>
+
+
+
+<div class="universal-wrapper">
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/2021_icwsm/" >Automatic Discovery of Political Meme Genres with Diverse Appearances</a>
+    </div>
+
+    
+    <a href="/publication/2021_icwsm/"  class="summary-link">
+      <div class="article-style">
+        2021 AAAI International Conference on Web and Social Media
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/william-theisen/">William Theisen</a></span>, <span >
+      <a href="/authors/joel-brogan/">Joel Brogan</a></span>, <span >
+      <a href="/authors/pamela-bilo-thomas/">Pamela Bilo Thomas</a></span>, <span >
+      <a href="/authors/daniel-moreira/">Daniel Moreira</a></span>, <span >
+      <a href="/authors/pascal-phoa/">Pascal Phoa</a></span>, <span >
+      <a href="/authors/tim-weninger/">Tim Weninger</a></span>, <span >
+      <a href="/authors/walter-scheirer/">Walter Scheirer</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2001.06122.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/2021_icwsm/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/medifor/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2021_icwsm/" >
+      <img src="/publication/2021_icwsm/featured_hu9725f3b898446291ab61b442374ac928_2593026_150x0_resize_q90_h2_lanczos.webp" height="112" width="150"
+           alt="Automatic Discovery of Political Meme Genres with Diverse Appearances" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/2019_wacv_metada/" >Beyond Pixels: Image Provenance Analysis Leveraging Metadata</a>
+    </div>
+
+    
+    <a href="/publication/2019_wacv_metada/"  class="summary-link">
+      <div class="article-style">
+        2019 IEEE Winter Conference on Applications of Computer Vision
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/aparna-bharati/">Aparna Bharati</a></span>, <span >
+      <a href="/authors/daniel-moreira/">Daniel Moreira</a></span>, <span >
+      <a href="/authors/joel-brogan/">Joel Brogan</a></span>, <span >
+      <a href="/authors/patricia-hale/">Patricia Hale</a></span>, <span >
+      <a href="/authors/kevin-bowyer/">Kevin Bowyer</a></span>, <span >
+      <a href="/authors/patrick-flynn/">Patrick Flynn</a></span>, <span >
+      <a href="/authors/anderson-rocha/">Anderson Rocha</a></span>, <span >
+      <a href="/authors/walter-scheirer/">Walter Scheirer</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/1807.03376.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/2019_wacv_metada/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/medifor/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/WACV.2019.00185" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2019_wacv_metada/" >
+      <img src="/publication/2019_wacv_metada/featured_hudd4a76fdd1418ef19e5c7e82173a6378_145262_150x0_resize_q90_h2_lanczos.webp" height="121" width="150"
+           alt="Beyond Pixels: Image Provenance Analysis Leveraging Metadata" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/2019_wacv_bsif/" >Domain-Specific Human-Inspired Binarized Statistical Image Features for Iris Recognition</a>
+    </div>
+
+    
+    <a href="/publication/2019_wacv_bsif/"  class="summary-link">
+      <div class="article-style">
+        2019 IEEE Winter Conference on Applications of Computer Vision
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/adam-czajka/">Adam Czajka</a></span>, <span >
+      <a href="/authors/daniel-moreira/">Daniel Moreira</a></span>, <span >
+      <a href="/authors/kevin-bowyer/">Kevin Bowyer</a></span>, <span >
+      <a href="/authors/patrick-flynn/">Patrick Flynn</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/1807.05248.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/2019_wacv_bsif/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/tshepii/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/WACV.2019.00107" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2019_wacv_bsif/" >
+      <img src="/publication/2019_wacv_bsif/featured_hu6b948514c32cb49d15aa959b41242edb_334793_150x0_resize_q90_h2_lanczos.webp" height="70" width="150"
+           alt="Domain-Specific Human-Inspired Binarized Statistical Image Features for Iris Recognition" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/2019_wacv_human/" >Performance of Humans in Iris Recognition: The Impact of Iris Condition and Annotation-Driven Verification</a>
+    </div>
+
+    
+    <a href="/publication/2019_wacv_human/"  class="summary-link">
+      <div class="article-style">
+        2019 IEEE Winter Conference on Applications of Computer Vision
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/daniel-moreira/">Daniel Moreira</a></span>, <span >
+      <a href="/authors/mateusz-trokielewicz/">Mateusz Trokielewicz</a></span>, <span >
+      <a href="/authors/adam-czajka/">Adam Czajka</a></span>, <span >
+      <a href="/authors/kevin-bowyer/">Kevin Bowyer</a></span>, <span >
+      <a href="/authors/patrick-flynn/">Patrick Flynn</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/1807.05245.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/2019_wacv_human/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/danielmoreira/iris-examination" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/tshepii/">
+    Project
+  </a>
+  
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/2019_wacv_human/poster.pdf" target="_blank" rel="noopener">
+  Poster
+</a>
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=mb4uxajrrWE" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/WACV.2019.00105" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2019_wacv_human/" >
+      <img src="/publication/2019_wacv_human/featured_huf1b4c09426728259192ba928ea6a59c7_116037_150x0_resize_q90_h2_lanczos.webp" height="95" width="150"
+           alt="Performance of Humans in Iris Recognition: The Impact of Iris Condition and Annotation-Driven Verification" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/2018_acl/" >Getting the subtext without the text: Scalable multimodal sentiment classification from visual and acoustic modalities</a>
+    </div>
+
+    
+    <a href="/publication/2018_acl/"  class="summary-link">
+      <div class="article-style">
+        2018 ACL Grand Challenge and Workshop on Human Multimodal Language
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/nathaniel-blanchard/">Nathaniel Blanchard</a></span>, <span >
+      <a href="/authors/daniel-moreira/">Daniel Moreira</a></span>, <span >
+      <a href="/authors/aparna-bharati/">Aparna Bharati</a></span>, <span >
+      <a href="/authors/walter-scheirer/">Walter Scheirer</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/1807.01122.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/2018_acl/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.aclweb.org/anthology/W18-3301" target="_blank" rel="noopener">
+    Web</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2018_acl/" >
+      <img src="/publication/2018_acl/featured_hua9a479ffea16319cc5109fb783804d8a_41854_150x0_resize_q90_h2_lanczos.webp" height="137" width="150"
+           alt="Getting the subtext without the text: Scalable multimodal sentiment classification from visual and acoustic modalities" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/2017_icip_filtering/" >Provenance filtering for multimedia phylogeny</a>
+    </div>
+
+    
+    <a href="/publication/2017_icip_filtering/"  class="summary-link">
+      <div class="article-style">
+        2017 IEEE International Conference on Image Processing
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/allan-pinto/">Allan Pinto</a></span>, <span >
+      <a href="/authors/daniel-moreira/">Daniel Moreira</a></span>, <span >
+      <a href="/authors/aparna-bharati/">Aparna Bharati</a></span>, <span >
+      <a href="/authors/joel-brogan/">Joel Brogan</a></span>, <span >
+      <a href="/authors/kevin-bowyer/">Kevin Bowyer</a></span>, <span >
+      <a href="/authors/patrick-flynn/">Patrick Flynn</a></span>, <span >
+      <a href="/authors/walter-scheirer/">Walter Scheirer</a></span>, <span >
+      <a href="/authors/anderson-rocha/">Anderson Rocha</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/1706.00447.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/2017_icip_filtering/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://gitlab.com/notredame-provenance/filtering" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/medifor/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/ICIP.2017.8296532" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2017_icip_filtering/" >
+      <img src="/publication/2017_icip_filtering/featured_hu49c03114a9ce8ad2bc0bd62c0ddb3f2a_210423_150x0_resize_q90_h2_lanczos.webp" height="91" width="150"
+           alt="Provenance filtering for multimedia phylogeny" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/2017_icip_spotting/" >Spotting the difference: Context retrieval and analysis for improved forgery detection and localization</a>
+    </div>
+
+    
+    <a href="/publication/2017_icip_spotting/"  class="summary-link">
+      <div class="article-style">
+        2017 IEEE International Conference on Image Processing
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/joel-brogan/">Joel Brogan</a></span>, <span >
+      <a href="/authors/paolo-bestagini/">Paolo Bestagini</a></span>, <span >
+      <a href="/authors/aparna-bharati/">Aparna Bharati</a></span>, <span >
+      <a href="/authors/allan-pinto/">Allan Pinto</a></span>, <span >
+      <a href="/authors/daniel-moreira/">Daniel Moreira</a></span>, <span >
+      <a href="/authors/kevin-bowyer/">Kevin Bowyer</a></span>, <span >
+      <a href="/authors/patrick-flynn/">Patrick Flynn</a></span>, <span >
+      <a href="/authors/anderson-rocha/">Anderson Rocha</a></span>, <span >
+      <a href="/authors/walter-scheirer/">Walter Scheirer</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/1705.00604.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/2017_icip_spotting/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/medifor/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/ICIP.2017.8297049" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2017_icip_spotting/" >
+      <img src="/publication/2017_icip_spotting/featured_hu39e0550dbc9eb931334d104f49f832c8_87346_150x0_resize_q90_h2_lanczos.webp" height="204" width="150"
+           alt="Spotting the difference: Context retrieval and analysis for improved forgery detection and localization" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/2017_icip_uphylogeny/" >U-Phylogeny: Undirected provenance graph construction in the wild</a>
+    </div>
+
+    
+    <a href="/publication/2017_icip_uphylogeny/"  class="summary-link">
+      <div class="article-style">
+        2017 IEEE International Conference on Image Processing
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/aparna-bharati/">Aparna Bharati</a></span>, <span >
+      <a href="/authors/daniel-moreira/">Daniel Moreira</a></span>, <span >
+      <a href="/authors/allan-pinto/">Allan Pinto</a></span>, <span >
+      <a href="/authors/joel-brogan/">Joel Brogan</a></span>, <span >
+      <a href="/authors/kevin-bowyer/">Kevin Bowyer</a></span>, <span >
+      <a href="/authors/patrick-flynn/">Patrick Flynn</a></span>, <span >
+      <a href="/authors/walter-scheirer/">Walter Scheirer</a></span>, <span >
+      <a href="/authors/anderson-rocha/">Anderson Rocha</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/1705.11187.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/2017_icip_uphylogeny/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://gitlab.com/notredame-provenance/u-phylogeny" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/medifor/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/ICIP.2017.8296535" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2017_icip_uphylogeny/" >
+      <img src="/publication/2017_icip_uphylogeny/featured_hu14e285c1062b76a88802e8c109c044de_70935_150x0_resize_q90_h2_lanczos.webp" height="75" width="150"
+           alt="U-Phylogeny: Undirected provenance graph construction in the wild" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/2017_wacv/" >Temporal Robust Features for Violence Detection</a>
+    </div>
+
+    
+    <a href="/publication/2017_wacv/"  class="summary-link">
+      <div class="article-style">
+        2017 IEEE Winter Conference on Applications of Computer Vision
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/daniel-moreira/">Daniel Moreira</a></span>, <span >
+      <a href="/authors/sandra-avila/">Sandra Avila</a></span>, <span >
+      <a href="/authors/mauricio-perez/">Mauricio Perez</a></span>, <span >
+      <a href="/authors/daniel-moraes/">Daniel Moraes</a></span>, <span >
+      <a href="/authors/vanessa-testoni/">Vanessa Testoni</a></span>, <span >
+      <a href="/authors/eduardo-valle/">Eduardo Valle</a></span>, <span >
+      <a href="/authors/siome-goldenstein/">Siome Goldenstein</a></span>, <span >
+      <a href="/authors/anderson-rocha/">Anderson Rocha</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/2017_wacv/paper.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/2017_wacv/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/sma/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/trof/">
+    Project
+  </a>
+  
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/2017_wacv/poster.pdf" target="_blank" rel="noopener">
+  Poster
+</a>
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=yoV4b1CQ1aY&amp;t=13s" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/WACV.2017.50" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2017_wacv/" >
+      <img src="/publication/2017_wacv/featured_hu52479fb8c62db1b6d5dc46d29bd66f23_27316_150x0_resize_q90_h2_lanczos.webp" height="58" width="150"
+           alt="Temporal Robust Features for Violence Detection" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/2015_mediaeval/" >RECOD at MediaEval 2015: Affective Impact of Movies Task</a>
+    </div>
+
+    
+    <a href="/publication/2015_mediaeval/"  class="summary-link">
+      <div class="article-style">
+        2015 Mediaeval Workshop
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/daniel-moreira/">Daniel Moreira</a></span>, <span >
+      <a href="/authors/sandra-avila/">Sandra Avila</a></span>, <span >
+      <a href="/authors/mauricio-perez/">Mauricio Perez</a></span>, <span >
+      <a href="/authors/daniel-moraes/">Daniel Moraes</a></span>, <span >
+      <a href="/authors/vanessa-testoni/">Vanessa Testoni</a></span>, <span >
+      <a href="/authors/eduardo-valle/">Eduardo Valle</a></span>, <span >
+      <a href="/authors/siome-goldenstein/">Siome Goldenstein</a></span>, <span >
+      <a href="/authors/anderson-rocha/">Anderson Rocha</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://pdfs.semanticscholar.org/b92b/c3c62b2acb317259a0475c4afb78ad8c036f.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/2015_mediaeval/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/sma/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.semanticscholar.org/paper/RECOD-at-MediaEval-2015%3A-Affective-Impact-of-Movies-Moreira-Avila/b92bc3c62b2acb317259a0475c4afb78ad8c036f" target="_blank" rel="noopener">
+    Web</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2015_mediaeval/" >
+      <img src="/publication/2015_mediaeval/featured_hu5279c38b3c16da9bd0eaa192420f5043_25134_150x0_resize_q90_h2_lanczos.webp" height="90" width="150"
+           alt="RECOD at MediaEval 2015: Affective Impact of Movies Task" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+  
+
+  
+<nav class="mt-1">
+  <ul class="pagination justify-content-center">
+    
+    
+    <li class="page-item"><a class="page-link" href="/publication-type/1/page/2/">&raquo;</a></li>
+    
+  </ul>
+</nav>
+
+
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2022 Daniel Moreira
+  </p>
+  
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.d26509351aa0ff874abbee824e982e9b.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.54dd6e4d8f2e4b1d098381b57f18dd83.js"></script>
+
+
+
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

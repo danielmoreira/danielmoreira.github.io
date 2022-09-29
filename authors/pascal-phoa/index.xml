@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pascal Phoa on Daniel Moreira</title>
+    <title>Pascal Phoa | Daniel Moreira</title>
     <link>https://danielmoreira.github.io/authors/pascal-phoa/</link>
-    <description>Recent content in Pascal Phoa on Daniel Moreira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Sat, 22 May 2021 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://danielmoreira.github.io/authors/pascal-phoa/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://danielmoreira.github.io/authors/pascal-phoa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pascal Phoa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Pascal Phoa</title>
+      <link>https://danielmoreira.github.io/authors/pascal-phoa/</link>
+    </image>
     
     <item>
       <title>Automatic Discovery of Political Meme Genres with Diverse Appearances</title>
       <link>https://danielmoreira.github.io/publication/2021_icwsm/</link>
       <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/publication/2021_icwsm/</guid>
       <description></description>
     </item>

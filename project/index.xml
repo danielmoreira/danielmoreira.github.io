@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Daniel Moreira</title>
+    <title>Projects | Daniel Moreira</title>
     <link>https://danielmoreira.github.io/project/</link>
-    <description>Recent content in Projects on Daniel Moreira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Daniel Moreira, {year}</copyright>
-    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://danielmoreira.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://danielmoreira.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Projects</title>
+      <link>https://danielmoreira.github.io/project/</link>
+    </image>
     
     <item>
       <title>SemaFor</title>
       <link>https://danielmoreira.github.io/project/semafor/</link>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/project/semafor/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Ongoing, &lt;strong&gt;Funded by:&lt;/strong&gt; DARPA&lt;/p&gt;
-&lt;p&gt;The Semantic Forensics research project (&lt;a href=&#34;https://www.darpa.mil/program/semantic-forensics&#34;&gt;SemaFor&lt;/a&gt;) is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA), whose goal is to leverage forensic tools to perform the &lt;strong&gt;detection&lt;/strong&gt; of the existence, &lt;strong&gt;atribution&lt;/strong&gt; of the authorship, and &lt;strong&gt;characterization&lt;/strong&gt; of the intention of manipulated digital media.&lt;/p&gt;
+&lt;p&gt;The Semantic Forensics research project (&lt;a href=&#34;https://www.darpa.mil/program/semantic-forensics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SemaFor&lt;/a&gt;) is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA), whose goal is to leverage forensic tools to perform the &lt;strong&gt;detection&lt;/strong&gt; of the existence, &lt;strong&gt;atribution&lt;/strong&gt; of the authorship, and &lt;strong&gt;characterization&lt;/strong&gt; of the intention of manipulated digital media.&lt;/p&gt;
 &lt;p&gt;Working together with the Universities of Purdue, Siena, Campinas (Unicamp), Naples Federico II, and the Politécnico di Milano, our team leads the development of solutions to the problem of digital document analysis (such as scientific papers, news articles, patents, grants, etc.).
 By combining ideas from the topics of image retrieval, digital image forensics, natural language processing, and deep learning, we aim at proposing multimodal methods to spot semantic inconsistencies within the content of documents.&lt;/p&gt;
 &lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
@@ -42,7 +41,6 @@ By combining ideas from the topics of image retrieval, digital image forensics, 
       <title>Sci-Int</title>
       <link>https://danielmoreira.github.io/project/sciint/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/project/sciint/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Ongoing, &lt;strong&gt;Funded by:&lt;/strong&gt; DARPA&lt;/p&gt;
 &lt;p&gt;The Scientific Integrity (Sci-Int) project is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA), whose goal is to develop solutions to identify misconduct in scientific research through the detection of image tampering in scientific papers.&lt;/p&gt;
@@ -64,11 +62,10 @@ By combining ideas from the topics of image retrieval, digital image forensics, 
       <title>MediFor</title>
       <link>https://danielmoreira.github.io/project/medifor/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/project/medifor/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded, &lt;strong&gt;Funded by:&lt;/strong&gt; DARPA&lt;br&gt;
-&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://www.wjscheirer.com/&#34;&gt;Walter Scheirer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The Media Forensics research project (&lt;a href=&#34;https://www.darpa.mil/program/media-forensics&#34;&gt;MediFor&lt;/a&gt;) is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA) and the Air Force Research Laboratory (AFRL), whose goal is to develop solutions for the automated assessment of the integrity of digital images.&lt;/p&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://www.wjscheirer.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Walter Scheirer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Media Forensics research project (&lt;a href=&#34;https://www.darpa.mil/program/media-forensics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MediFor&lt;/a&gt;) is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA) and the Air Force Research Laboratory (AFRL), whose goal is to develop solutions for the automated assessment of the integrity of digital images.&lt;/p&gt;
 &lt;p&gt;Working together with the Universities of Purdue, South California (USC), New York (NYU), Siena, Campinas (Unicamp), and the Politécnico di Milano, our team leads the development of solutions to the problem of Provenance Analysis. Given a questioned image, namely a probe, and a large corpus of images (such as the Internet), Provenance Analysis aims at two major tasks:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -107,12 +104,33 @@ By combining ideas from the topics of image retrieval, digital image forensics, 
       <title>SREFV</title>
       <link>https://danielmoreira.github.io/project/srefv/</link>
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/project/srefv/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded&lt;br&gt;
-&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;http://sites.nd.edu/patrick-flynn/&#34;&gt;Patrick Flynn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The SREFV project aims at extending &lt;a href=&#34;https://cvrl.nd.edu/projects/?project_name=Synthesis%20of%20Realistic%20Example%20Face%20Images%20(SREFI)&#34;&gt;prior research&lt;/a&gt; on synthesis of realistic faces, to support the generation of videos containing animated faces with synthetic identities, depicted either frontally or in varying poses.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;sample.gif&#34; alt=&#34;SREFV preliminary results.&#34;&gt;&lt;/p&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;http://sites.nd.edu/patrick-flynn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Patrick Flynn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The SREFV project aims at extending &lt;a href=&#34;https://cvrl.nd.edu/projects/?project_name=Synthesis%20of%20Realistic%20Example%20Face%20Images%20%28SREFI%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;prior research&lt;/a&gt; on synthesis of realistic faces, to support the generation of videos containing animated faces with synthetic identities, depicted either frontally or in varying poses.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SREFV preliminary results.&#34;
+           src=&#34;https://danielmoreira.github.io/project/srefv/sample.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Besides the obvious artistic and entertainment purposes, the outcome of this project will constitute an interesting tool to de-identify and diversify the faces depicted in video training datasets, helping to protect the identity of volunteers, and to mitigate eventual age, gender, and ethnic dataset collection biases.&lt;/p&gt;
 &lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
 &lt;ul&gt;
@@ -130,10 +148,9 @@ By combining ideas from the topics of image retrieval, digital image forensics, 
       <title>TSHEPII</title>
       <link>https://danielmoreira.github.io/project/tshepii/</link>
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/project/tshepii/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded&lt;br&gt;
-&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34;&gt;Adam Czajka&lt;/a&gt;&lt;/p&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adam Czajka&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The TSHEPII project aims at developing a software tool to support the human examination of post-mortem iris images.
 The tool puts together diverse computer vision techniques to automatically process, extract, annotate, and match iris regions from two different eye captures.
 The idea is to give to the user enough iris texture matching and non-matching information, so they can decided if the two given images depict the same eye or not.&lt;/p&gt;
@@ -162,7 +179,6 @@ As the project name suggests (Tool Supporting the Human Examination of &lt;stron
       <title>TRoF</title>
       <link>https://danielmoreira.github.io/project/trof/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/project/trof/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -173,35 +189,35 @@ As the project name suggests (Tool Supporting the Human Examination of &lt;stron
 &lt;/p&gt;
 &lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Temporal Robust Features (TRoF) comprise a spatiotemporal video content detector and a descriptor developed to present low-memory footprint and small runtime.
-It was shown to be effective for the tasks of &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0379073816304169&#34;&gt;pornography&lt;/a&gt; and &lt;a href=&#34;https://ieeexplore.ieee.org/document/7926633&#34;&gt;violence&lt;/a&gt; detection.
+It was shown to be effective for the tasks of &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0379073816304169&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pornography&lt;/a&gt; and &lt;a href=&#34;https://ieeexplore.ieee.org/document/7926633&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;violence&lt;/a&gt; detection.
 Please refer to both articles for further technical details.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
-&lt;p&gt;TRoF executable is available through a &lt;a href=&#34;https://www.docker.com/&#34;&gt;docker&lt;/a&gt; image, available &lt;a href=&#34;https://hub.docker.com/r/dmoreira/trof/&#34;&gt;here&lt;/a&gt;.
-Prior to running it, you have to &lt;a href=&#34;https://docs.docker.com/install/&#34;&gt;install docker&lt;/a&gt; (available for various OS platforms).
+&lt;p&gt;TRoF executable is available through a &lt;a href=&#34;https://www.docker.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;docker&lt;/a&gt; image, available &lt;a href=&#34;https://hub.docker.com/r/dmoreira/trof/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.
+Prior to running it, you have to &lt;a href=&#34;https://docs.docker.com/install/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install docker&lt;/a&gt; (available for various OS platforms).
 Once docker is running, you have to execute the following scripts, in command line:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;your-computer$ docker run -ti dmoreira/trof bash
-
-docker-instance# cd TRoF
-docker-instance# ./fast_trof_descriptor
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Follow the printed usage instructions for running TRoF.
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;your-computer$ docker run -ti dmoreira/trof bash
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt;&lt;span class=&#34;go&#34;&gt;docker-instance# cd TRoF
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;docker-instance# ./fast_trof_descriptor
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Follow the printed usage instructions for running TRoF.
 The software reads a video input file and outputs float feature vectors, one per line, in the following format:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;x y t v1 v2 v3 ... vn
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Pleaser refer to either &lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/cp/&#34;&gt;here&lt;/a&gt; or &lt;a href=&#34;https://docs.docker.com/storage/volumes/&#34;&gt;here&lt;/a&gt;, if you want to add videos to a running TRoF docker instance.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;x y t v1 v2 v3 ... vn
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Pleaser refer to either &lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/cp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; or &lt;a href=&#34;https://docs.docker.com/storage/volumes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, if you want to add videos to a running TRoF docker instance.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
 &lt;p&gt;If you are using TRoF, please cite:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;@article{moreira2016fsi,
-  title = {Pornography classification: the hidden clues in video space-time},
-  author={Daniel Moreira and Sandra Avila and Mauricio Perez and Daniel Moraes and
-     Vanessa Testoni and Eduardo Valle and Siome Goldenstein and Anderson Rocha},
-  journal = {Elsevier Forensic Science International},
-  year    = {2016},
-  volume  = {268},
-  number  = {1},
-  pages   = {46--61}
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;@article{moreira2016fsi,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;  title = {Pornography classification: the hidden clues in video space-time},
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;  author={Daniel Moreira and Sandra Avila and Mauricio Perez and Daniel Moraes and
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;     Vanessa Testoni and Eduardo Valle and Siome Goldenstein and Anderson Rocha},
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;  journal = {Elsevier Forensic Science International},
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;  year    = {2016},
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;  volume  = {268},
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;  number  = {1},
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;  pages   = {46--61}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;
 &lt;p&gt;This software is provided by the authors as is, with no warranties and no support, &lt;strong&gt;for academic purposes only&lt;/strong&gt;.
 The authors assume no responsibility or liability for the use of the software.
@@ -217,10 +233,9 @@ We thank the financial support of the Brazilian Council for Scientific and Techn
       <title>SMA</title>
       <link>https://danielmoreira.github.io/project/sma/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://danielmoreira.github.io/project/sma/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded, &lt;strong&gt;Funded by:&lt;/strong&gt; Samsung Eletrônica da Amazônia Ltda.&lt;br&gt;
-&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://www.ic.unicamp.br/~rocha/index.html&#34;&gt;Anderson Rocha&lt;/a&gt;&lt;/p&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://www.ic.unicamp.br/~rocha/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anderson Rocha&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The Sensitive Media Analysis (SMA) project aims at researching solutions to combine different and complementary data representations and pattern classifiers for detecting sensitive content in digital images and videos.&lt;/p&gt;
 &lt;p&gt;Sensitive media can be defined as the digital content whose depiction to particular audiences (e.g., children or unwary spectators), at particular places (e.g., at work, at school, in the church) may inflict harm (e.g., trauma, shock, or fear) due to its inappropriateness.
 Typical representatives include – but are not limited to – scenes depicting pornography and violence, animal cruelty and child abuse, hate speech, etc.&lt;/p&gt;

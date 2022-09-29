@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-Mortem Iris Recognition | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tag/post-mortem-iris-recognition/</link>
+      <atom:link href="https://danielmoreira.github.io/tag/post-mortem-iris-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Post-Mortem Iris Recognition</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Post-Mortem Iris Recognition</title>
+      <link>https://danielmoreira.github.io/tag/post-mortem-iris-recognition/</link>
+    </image>
+    
+    <item>
+      <title>TSHEPII</title>
+      <link>https://danielmoreira.github.io/project/tshepii/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/project/tshepii/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded&lt;br&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adam Czajka&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The TSHEPII project aims at developing a software tool to support the human examination of post-mortem iris images.
+The tool puts together diverse computer vision techniques to automatically process, extract, annotate, and match iris regions from two different eye captures.
+The idea is to give to the user enough iris texture matching and non-matching information, so they can decided if the two given images depict the same eye or not.&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/FLlXDv8EdeU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;/p&gt;
+&lt;p&gt;The video above depicts a demo of the TSHEPII tool, with all the computer vision techniques added to the software.
+As the project name suggests (Tool Supporting the Human Examination of &lt;strong&gt;Post-Mortem&lt;/strong&gt; Iris Images), the tool is particularly tuned to the case of comparing post-mortem irises, which, contrary to the common sense, might still be useful for performing iris recognition.&lt;/p&gt;
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Adam Czajka (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Patrick Flynn (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
+&lt;li&gt;Daniel Moreira (Postdoc)&lt;/li&gt;
+&lt;li&gt;Mateusz Trokielewicz (PhD Student)&lt;/li&gt;
+&lt;li&gt;M.D. Piotr Maciejewicz (Collaborator)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
