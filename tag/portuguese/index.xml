@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portuguese | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tag/portuguese/</link>
+      <atom:link href="https://danielmoreira.github.io/tag/portuguese/index.xml" rel="self" type="application/rss+xml" />
+    <description>Portuguese</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Sep 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Portuguese</title>
+      <link>https://danielmoreira.github.io/tag/portuguese/</link>
+    </image>
+    
+    <item>
+      <title>SimPatrol: um simulador de sistemas multiagentes para o patrulhamento</title>
+      <link>https://danielmoreira.github.io/publication/2008_thesis/</link>
+      <pubDate>Thu, 04 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2008_thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
