@@ -142,10 +142,10 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;10/03&lt;/td&gt;
-&lt;td&gt;Image Classification&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/material/lecture_05.pdf&#34;&gt;Image Classification&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Nick and Kenneth&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;#ref1112131415&#34;&gt;[11, 12, 13, 14, 15]&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;A05, due on 10/18&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#a05&#34;&gt;A05&lt;/a&gt;, due on 10/18&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;10/10&lt;/td&gt;
@@ -165,7 +165,7 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;td&gt;10/24&lt;/td&gt;
 &lt;td&gt;Image Segmentation&lt;/td&gt;
 &lt;td&gt;Mujtaba and Matt&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#ref2122232425&#34;&gt;[21, 22, 23, 24, 25]&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;A07, due on 11/01&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -232,9 +232,9 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;ul&gt;
 &lt;li&gt;&lt;a name=&#34;a03&#34;&gt;&lt;/a&gt; &lt;del&gt;A01: Image Descriptors &lt;a href=&#34;#ref456&#34;&gt;[4, 5, 6]&lt;/a&gt;, due on 09/15 at noon.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a name=&#34;a04&#34;&gt;&lt;/a&gt; &lt;del&gt;A02: Image Retrieval, &lt;a href=&#34;#ref78910&#34;&gt;[8, 9, 10]&lt;/a&gt;, due on 09/20 at noon.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;A03: Image Classification, &lt;a href=&#34;#ref1112131415&#34;&gt;[11, 12, 13, 14, 15]&lt;/a&gt;, due on 09/27 at noon.&lt;/li&gt;
-&lt;li&gt;A04: Object Detection, &lt;a href=&#34;#ref1617181920&#34;&gt;[16, 17, 18, 19, 20]&lt;/a&gt;, due on 10/04 at noon.&lt;/li&gt;
-&lt;li&gt;A05: TBD, released no later than 10/03, due on 10/18 at noon.&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a05&#34;&gt;&lt;/a&gt; &lt;del&gt;A03: Image Classification, &lt;a href=&#34;#ref1112131415&#34;&gt;[11, 12, 13, 14, 15]&lt;/a&gt;, due on 09/27 at noon.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;A04: Object Detection, &lt;a href=&#34;#ref1617181920&#34;&gt;[16, 17, 18, 19, 20]&lt;/a&gt;, due on 10/04 at noon.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;A05: Image Segmentation, &lt;a href=&#34;#ref2122232425&#34;&gt;[21, 22, 23, 24, 25]&lt;/a&gt;, due on 10/18 at noon.&lt;/li&gt;
 &lt;li&gt;A06: TBD, released no later than 10/17, due on 10/25 at noon.&lt;/li&gt;
 &lt;li&gt;A07: TBD, released no later than 10/24, due on 11/01 at noon.&lt;/li&gt;
 &lt;li&gt;A08: TBD, released no later than 10/31, due on 11/08 at noon.&lt;/li&gt;
@@ -492,9 +492,33 @@ Advances in Neural Information Processing Systems 28 (1), 2015.&lt;/p&gt;
 &lt;p&gt;Girshick, R. &lt;em&gt;Fast R-CNN&lt;/em&gt;. IEEE International Conference on Computer Vision (ICCV), 2015.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Girshick, R., Donahue, J., Darrell, T., Malik, J.
+&lt;p&gt;&lt;a name=&#34;ref2122232425&#34;&gt;&lt;/a&gt; Girshick, R., Donahue, J., Darrell, T., Malik, J.
 &lt;em&gt;Rich feature hierarchies for accurate object detection and semantic segmentation&lt;/em&gt;.
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Zheng, S., Lu, J., Zhao, H., Zhu, X., Luo, Z., Wang, Y., Fu, Y., Feng, J., Xiang, T., Torr, P., Zhang, L.
+&lt;em&gt;Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;He, K., Gkioxari, G., Dollar, P., Girshick, R. &lt;em&gt;Mask R-CNN&lt;/em&gt;.
+IEEE International Conference on Computer Vision (ICCV), 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Badrinarayanan, V., Kendall, A., Cipolla, R.
+&lt;em&gt;SegNet: A deep convolutional encoder-decoder architecture for image segmentation&lt;/em&gt;.
+IEEE Transactions on Pattern Analysis and Machine Intelligence 39 (12), 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Long, J., Shelhamer, E., Darrell, T.
+&lt;em&gt;Fully convolutional networks for semantic segmentation&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ronneberger, O., Fischer, P., Brox, T.
+&lt;em&gt;U-net: Convolutional networks for biomedical image segmentation&lt;/em&gt;.
+Springer International Conference on Medical Image Computing and Computer-assisted Intervention (MICCAI), 2015.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;em&gt;More soon&amp;hellip;&lt;/em&gt;&lt;/p&gt;
