@@ -156,30 +156,30 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;10/17&lt;/td&gt;
-&lt;td&gt;Object Detection&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/material/lecture_06.pdf&#34;&gt;Object Detection&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;John and Kenneth&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;#ref1617181920&#34;&gt;[16, 17, 18, 19, 20]&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;A06, due on 10/25&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#a06&#34;&gt;A06&lt;/a&gt;, due on 10/25&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;10/24&lt;/td&gt;
 &lt;td&gt;Image Segmentation&lt;/td&gt;
 &lt;td&gt;Mujtaba and Matt&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;#ref2122232425&#34;&gt;[21, 22, 23, 24, 25]&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;A07, due on 11/01&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#a07&#34;&gt;A07&lt;/a&gt;, due on 11/01&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;10/31&lt;/td&gt;
 &lt;td&gt;Face Detection&lt;/td&gt;
 &lt;td&gt;John and Amol&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#ref26272829&#34;&gt;[26, 27, 28, 29]&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;A08, due on 11/08&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11/07&lt;/td&gt;
 &lt;td&gt;Face Verification&lt;/td&gt;
 &lt;td&gt;Mujtaba and Amol&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#ref3031323334&#34;&gt;[30, 31, 32, 33, 34]&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;A09, due on 11/15&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -217,26 +217,18 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;td&gt;N.A.&lt;/td&gt;
 &lt;td&gt;N.A.&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a name=&#34;a01&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;a name=&#34;a02&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;assignments&#34;&gt;Assignments&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a name=&#34;a03&#34;&gt;&lt;/a&gt; &lt;del&gt;A01: Image Descriptors &lt;a href=&#34;#ref456&#34;&gt;[4, 5, 6]&lt;/a&gt;, due on 09/15 at noon.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a name=&#34;a04&#34;&gt;&lt;/a&gt; &lt;del&gt;A02: Image Retrieval, &lt;a href=&#34;#ref78910&#34;&gt;[8, 9, 10]&lt;/a&gt;, due on 09/20 at noon.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a name=&#34;a05&#34;&gt;&lt;/a&gt; &lt;del&gt;A03: Image Classification, &lt;a href=&#34;#ref1112131415&#34;&gt;[11, 12, 13, 14, 15]&lt;/a&gt;, due on 09/27 at noon.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;A04: Object Detection, &lt;a href=&#34;#ref1617181920&#34;&gt;[16, 17, 18, 19, 20]&lt;/a&gt;, due on 10/04 at noon.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;A05: Image Segmentation, &lt;a href=&#34;#ref2122232425&#34;&gt;[21, 22, 23, 24, 25]&lt;/a&gt;, due on 10/18 at noon.&lt;/li&gt;
-&lt;li&gt;A06: TBD, released no later than 10/17, due on 10/25 at noon.&lt;/li&gt;
-&lt;li&gt;A07: TBD, released no later than 10/24, due on 11/01 at noon.&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a01&#34;&gt;&lt;/a&gt; &lt;del&gt;A01: Image Descriptors &lt;a href=&#34;#ref456&#34;&gt;[4, 5, 6]&lt;/a&gt;, due on 09/15 at noon.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a02&#34;&gt;&lt;/a&gt; &lt;del&gt;A02: Image Retrieval, &lt;a href=&#34;#ref78910&#34;&gt;[8, 9, 10]&lt;/a&gt;, due on 09/20 at noon.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a03&#34;&gt;&lt;/a&gt; &lt;del&gt;A03: Image Classification, &lt;a href=&#34;#ref1112131415&#34;&gt;[11, 12, 13, 14, 15]&lt;/a&gt;, due on 09/27 at noon.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a04&#34;&gt;&lt;/a&gt; &lt;del&gt;A04: Object Detection, &lt;a href=&#34;#ref1617181920&#34;&gt;[16, 17, 18, 19, 20]&lt;/a&gt;, due on 10/04 at noon.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a05&#34;&gt;&lt;/a&gt; &lt;del&gt;A05: Image Segmentation, &lt;a href=&#34;#ref2122232425&#34;&gt;[21, 22, 23, 24, 25]&lt;/a&gt;, due on 10/18 at noon.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a06&#34;&gt;&lt;/a&gt; A06: Face Detection, &lt;a href=&#34;#ref26272829&#34;&gt;[26, 27, 28, 29]&lt;/a&gt;, due on 10/25 at noon.&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a07&#34;&gt;&lt;/a&gt; A07: Face Verification, &lt;a href=&#34;#ref3031323334&#34;&gt;[30, 31, 32, 33, 34]&lt;/a&gt;, due on 11/01 at noon.&lt;/li&gt;
 &lt;li&gt;A08: TBD, released no later than 10/31, due on 11/08 at noon.&lt;/li&gt;
 &lt;li&gt;A09: TBD, released no later than 11/07, due on 11/15 at noon.&lt;/li&gt;
 &lt;li&gt;A10: TBD, released no later than 11/14, due on 11/29 at noon.&lt;/li&gt;
@@ -407,13 +399,12 @@ Please let the instructor know you want to use your OC.&lt;/p&gt;
 &lt;p&gt;Links useful to the course will be posted here.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;cv-on-the-news&#34;&gt;CV On the News&lt;/h2&gt;
-&lt;p&gt;News involving CV issues shared and discussed by the students and instructor will be posted here.
-&lt;a name=&#34;ref123&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;News involving CV issues shared and discussed by the students and instructor will be posted here.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;LeCun, Y., Bengio, Y., Hinton, G. &lt;em&gt;Deep learning&lt;/em&gt;.
+&lt;p&gt;&lt;a name=&#34;ref123&#34;&gt;&lt;/a&gt; LeCun, Y., Bengio, Y., Hinton, G. &lt;em&gt;Deep learning&lt;/em&gt;.
 Nature 521 (1), 2015.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -421,11 +412,11 @@ Nature 521 (1), 2015.&lt;/p&gt;
 IEEE Intelligent Systems and their Applications 13 (4), 1998.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;ref456&#34;&gt;&lt;/a&gt; Ho, T. &lt;em&gt;The Random Subspace Method for Constructing Decision Forests&lt;/em&gt;.
+&lt;p&gt;Ho, T. &lt;em&gt;The Random Subspace Method for Constructing Decision Forests&lt;/em&gt;.
 IEEE Transactions on Pattern Analysis and Machine Intelligence 20 (8), 1998.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Lowe, D. &lt;em&gt;Distinctive Image Features from Scale-Invariant Keypoints&lt;/em&gt;.
+&lt;p&gt;&lt;a name=&#34;ref456&#34;&gt;&lt;/a&gt; Lowe, D. &lt;em&gt;Distinctive Image Features from Scale-Invariant Keypoints&lt;/em&gt;.
 Springer International Journal of Computer Vision 60 (2), 2004.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -433,11 +424,11 @@ Springer International Journal of Computer Vision 60 (2), 2004.&lt;/p&gt;
 Springer European Conference on Computer Vision (ECCV), 2006&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;ref78910&#34;&gt;&lt;/a&gt; Noh, H., Araujo, A., Sim, J., Weyand, T., Han, B. &lt;em&gt;Large-Scale Image Retrieval with Attentive Deep Local Features&lt;/em&gt;.
+&lt;p&gt;Noh, H., Araujo, A., Sim, J., Weyand, T., Han, B. &lt;em&gt;Large-Scale Image Retrieval with Attentive Deep Local Features&lt;/em&gt;.
 IEEE International Conference on Computer Vision (ICCV), 2016.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Jegou, H., Douze, M., Johnson, J. &lt;em&gt;Faiss: A library for efficient similarity search&lt;/em&gt;.
+&lt;p&gt;&lt;a name=&#34;ref78910&#34;&gt;&lt;/a&gt; Jegou, H., Douze, M., Johnson, J. &lt;em&gt;Faiss: A library for efficient similarity search&lt;/em&gt;.
 Available at &lt;a href=&#34;https://bit.ly/3BiGYg9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/3BiGYg9&lt;/a&gt;. Meta Platforms, Inc., 2017.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -450,11 +441,11 @@ IEEE Transactions on Image Processing 30 (1), 2021.&lt;/p&gt;
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;ref1112131415&#34;&gt;&lt;/a&gt; Jegou, H., Douze, M., Schmid, C. &lt;em&gt;Product quantization for nearest neighbor search&lt;/em&gt;.
+&lt;p&gt;Jegou, H., Douze, M., Schmid, C. &lt;em&gt;Product quantization for nearest neighbor search&lt;/em&gt;.
 IEEE Transactions on Pattern Analysis and Machine Intelligence 33 (1), 2010.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Howard, A., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., Andreetto, M., Adam, H.
+&lt;p&gt;&lt;a name=&#34;ref1112131415&#34;&gt;&lt;/a&gt; Howard, A., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., Andreetto, M., Adam, H.
 &lt;em&gt;Mobilenets: Efficient convolutional neural networks for mobile vision applications&lt;/em&gt;.
 ArXiv Preprint, 2017.&lt;/p&gt;
 &lt;/li&gt;
@@ -471,12 +462,12 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.&lt;/p&g
 &lt;em&gt;Going deeper with convolutions&lt;/em&gt;. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;ref1617181920&#34;&gt;&lt;/a&gt; Simonyan, K., Zisserman, A.
+&lt;p&gt;Simonyan, K., Zisserman, A.
 &lt;em&gt;Very deep convolutional networks for large-scale image recognition&lt;/em&gt;.
 International Conference on Learning Representations (ICLR), 2015.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Lin, T-Y., Goyal, P., Girshick, R., He, K., Dollar, P. &lt;em&gt;Focal loss for dense object detection&lt;/em&gt;.
+&lt;p&gt;&lt;a name=&#34;ref1617181920&#34;&gt;&lt;/a&gt; Lin, T-Y., Goyal, P., Girshick, R., He, K., Dollar, P. &lt;em&gt;Focal loss for dense object detection&lt;/em&gt;.
 IEEE International Conference on Computer Vision (ICCV), 2017.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -492,12 +483,12 @@ Advances in Neural Information Processing Systems 28 (1), 2015.&lt;/p&gt;
 &lt;p&gt;Girshick, R. &lt;em&gt;Fast R-CNN&lt;/em&gt;. IEEE International Conference on Computer Vision (ICCV), 2015.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;ref2122232425&#34;&gt;&lt;/a&gt; Girshick, R., Donahue, J., Darrell, T., Malik, J.
+&lt;p&gt;Girshick, R., Donahue, J., Darrell, T., Malik, J.
 &lt;em&gt;Rich feature hierarchies for accurate object detection and semantic segmentation&lt;/em&gt;.
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Zheng, S., Lu, J., Zhao, H., Zhu, X., Luo, Z., Wang, Y., Fu, Y., Feng, J., Xiang, T., Torr, P., Zhang, L.
+&lt;p&gt;&lt;a name=&#34;ref2122232425&#34;&gt;&lt;/a&gt; Zheng, S., Lu, J., Zhao, H., Zhu, X., Luo, Z., Wang, Y., Fu, Y., Feng, J., Xiang, T., Torr, P., Zhang, L.
 &lt;em&gt;Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers&lt;/em&gt;.
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.&lt;/p&gt;
 &lt;/li&gt;
@@ -519,6 +510,49 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.&lt;/p&g
 &lt;p&gt;Ronneberger, O., Fischer, P., Brox, T.
 &lt;em&gt;U-net: Convolutional networks for biomedical image segmentation&lt;/em&gt;.
 Springer International Conference on Medical Image Computing and Computer-assisted Intervention (MICCAI), 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a name=&#34;ref26272829&#34;&gt;&lt;/a&gt; Viola, P., Jones, M. &lt;em&gt;Robust real-time face detection&lt;/em&gt;.
+Springer International Journal of Computer Vision 57 (2), 2004.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Li, H., Lin, Z., Shen, X., Brandt, J., Hua, G. &lt;em&gt;A convolutional neural network cascade for face detection&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Xu, X., Kakadiaris, I.
+&lt;em&gt;Joint head pose estimation and face alignment framework using global and local CNN features&lt;/em&gt;.
+IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Albiero, V., Chen, X., Yin, X., Pang, G., Hassner, T.
+&lt;em&gt;img2pose: Face alignment and detection via 6dof, face pose estimation&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a name=&#34;ref3031323334&#34;&gt;&lt;/a&gt; Cao, Q., Shen, L., Xie, W., Parkhi, O., Zisserman, A.
+&lt;em&gt;VGGFace2: A dataset for recognising faces across pose and age&lt;/em&gt;.
+IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2018.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wen, Y., Zhang, K., Li, Z., Qiao, Y.
+&lt;em&gt;A discriminative feature learning approach for deep face recognition&lt;/em&gt;.
+Springer European Conference on Computer Vision (ECCV), 2016.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Schroff, F., Kalenichenko, D., Philbin, J.
+&lt;em&gt;Facenet: A unified embedding for face recognition and clustering&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Liu, W., Wen, Y., Yu, Z., Li, M., Raj, B., Song, L.
+&lt;em&gt;Sphereface: Deep hypersphere embedding for face recognition&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deng, J., Guo, J., Xue, N., Zafeiriou, S.
+&lt;em&gt;Arcface: Additive angular margin loss for deep face recognition&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;em&gt;More soon&amp;hellip;&lt;/em&gt;&lt;/p&gt;
