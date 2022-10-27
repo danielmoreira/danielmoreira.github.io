@@ -163,7 +163,7 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;10/24&lt;/td&gt;
-&lt;td&gt;Image Segmentation&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/material/lecture_07.pdf&#34;&gt;Image Segmentation&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Mujtaba and Matt&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;#ref2122232425&#34;&gt;[21, 22, 23, 24, 25]&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;#a07&#34;&gt;A07&lt;/a&gt;, due on 11/01&lt;/td&gt;
@@ -173,7 +173,7 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;td&gt;Face Detection&lt;/td&gt;
 &lt;td&gt;John and Amol&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;#ref26272829&#34;&gt;[26, 27, 28, 29]&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;A08, due on 11/08&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#a08&#34;&gt;A08&lt;/a&gt;, due on 11/08&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11/07&lt;/td&gt;
@@ -184,9 +184,9 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11/14&lt;/td&gt;
-&lt;td&gt;GANs and Generative DL&lt;/td&gt;
+&lt;td&gt;Generative Adversarial Nets&lt;/td&gt;
 &lt;td&gt;Jakob and Matt&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#ref3536373839&#34;&gt;[35, 36, 37, 38, 39]&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;A10, due on 11/29&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -227,9 +227,9 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;li&gt;&lt;a name=&#34;a03&#34;&gt;&lt;/a&gt; &lt;del&gt;A03: Image Classification, &lt;a href=&#34;#ref1112131415&#34;&gt;[11, 12, 13, 14, 15]&lt;/a&gt;, due on 09/27 at noon.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a name=&#34;a04&#34;&gt;&lt;/a&gt; &lt;del&gt;A04: Object Detection, &lt;a href=&#34;#ref1617181920&#34;&gt;[16, 17, 18, 19, 20]&lt;/a&gt;, due on 10/04 at noon.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a name=&#34;a05&#34;&gt;&lt;/a&gt; &lt;del&gt;A05: Image Segmentation, &lt;a href=&#34;#ref2122232425&#34;&gt;[21, 22, 23, 24, 25]&lt;/a&gt;, due on 10/18 at noon.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a name=&#34;a06&#34;&gt;&lt;/a&gt; A06: Face Detection, &lt;a href=&#34;#ref26272829&#34;&gt;[26, 27, 28, 29]&lt;/a&gt;, due on 10/25 at noon.&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a06&#34;&gt;&lt;/a&gt; &lt;del&gt;A06: Face Detection, &lt;a href=&#34;#ref26272829&#34;&gt;[26, 27, 28, 29]&lt;/a&gt;, due on 10/25 at noon.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a name=&#34;a07&#34;&gt;&lt;/a&gt; A07: Face Verification, &lt;a href=&#34;#ref3031323334&#34;&gt;[30, 31, 32, 33, 34]&lt;/a&gt;, due on 11/01 at noon.&lt;/li&gt;
-&lt;li&gt;A08: TBD, released no later than 10/31, due on 11/08 at noon.&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a08&#34;&gt;&lt;/a&gt; A08: Generative Adversarial Nets, &lt;a href=&#34;#ref3536373839&#34;&gt;[35, 36, 37, 38, 39]&lt;/a&gt;, due on 11/08 at noon.&lt;/li&gt;
 &lt;li&gt;A09: TBD, released no later than 11/07, due on 11/15 at noon.&lt;/li&gt;
 &lt;li&gt;A10: TBD, released no later than 11/14, due on 11/29 at noon.&lt;/li&gt;
 &lt;/ul&gt;
@@ -257,7 +257,7 @@ Each summary should contain:&lt;br&gt;
 &lt;li&gt;Image Segmentation, Mujtaba and Matt, on 10/24.&lt;/li&gt;
 &lt;li&gt;Face Detection, John and Amol, on 10/31.&lt;/li&gt;
 &lt;li&gt;Face Verification, Mujtaba and Amol, on 11/07.&lt;/li&gt;
-&lt;li&gt;GANs and Generative DL, Jakob and Matt, on 11/14.&lt;/li&gt;
+&lt;li&gt;Generative Adversarial Networks, Jakob and Matt, on 11/14.&lt;/li&gt;
 &lt;li&gt;Provenance Analysis, Jakob and Jesus, on 12/05.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
@@ -394,9 +394,6 @@ Please let the instructor know you want to use your OC.&lt;/p&gt;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
-&lt;p&gt;Links useful to the course will be posted here.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;cv-on-the-news&#34;&gt;CV On the News&lt;/h2&gt;
 &lt;p&gt;News involving CV issues shared and discussed by the students and instructor will be posted here.&lt;/p&gt;
@@ -552,6 +549,27 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.&lt;/p&g
 &lt;li&gt;
 &lt;p&gt;Deng, J., Guo, J., Xue, N., Zafeiriou, S.
 &lt;em&gt;Arcface: Additive angular margin loss for deep face recognition&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a name=&#34;ref3536373839&#34;&gt;&lt;/a&gt; Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., Bengio, Y.
+&lt;em&gt;Generative adversarial nets&lt;/em&gt;. ArXiv preprint (&lt;a href=&#34;https://arxiv.org/abs/1406.2661%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/1406.2661)&lt;/a&gt;, 2014.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mirza, M., Osindero, S. &lt;em&gt;Conditional generative adversarial nets&lt;/em&gt;.
+ArXiv preprint (&lt;a href=&#34;https://arxiv.org/abs/1411.1784%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/1411.1784)&lt;/a&gt;, 2014.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Isola, P., Zhu, J., Zhou, T., Efros, A. &lt;em&gt;Image-to-image translation with conditional adversarial networks&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Zhu, J., Park, T., Isola, P., Efros, A.
+&lt;em&gt;Unpaired image-to-image translation using cycle-consistent adversarial networks&lt;/em&gt;.
+IEEE International Conference on Computer Vision (ICCV), 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Karras, T., Laine, S., Aila, T. &lt;em&gt;A style-based generator architecture for generative adversarial networks&lt;/em&gt;.
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
