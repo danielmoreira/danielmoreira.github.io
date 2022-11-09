@@ -5,7 +5,7 @@
     <link>https://danielmoreira.github.io/tag/image-manipulation-detection/</link>
       <atom:link href="https://danielmoreira.github.io/tag/image-manipulation-detection/index.xml" rel="self" type="application/rss+xml" />
     <description>Image Manipulation Detection</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
       <title>Image Manipulation Detection</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Sci-Int</title>
       <link>https://danielmoreira.github.io/project/sciint/</link>
-      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://danielmoreira.github.io/project/sciint/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Ongoing, &lt;strong&gt;Funded by:&lt;/strong&gt; DARPA&lt;/p&gt;
 &lt;p&gt;The Scientific Integrity (Sci-Int) project is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA), whose goal is to develop solutions to identify misconduct in scientific research through the detection of image tampering in scientific papers.&lt;/p&gt;
@@ -24,6 +24,7 @@
 &lt;p&gt;To accomplish item (2), we plan to rely on techniques of Provenance Graph Construction to present better explanations of how problematic images relate to each other, and how they share content across different papers.&lt;/p&gt;
 &lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;Prof. Edward Delp (Lead PI)&lt;/li&gt;
 &lt;li&gt;Prof. Walter Scheirer (PI)&lt;/li&gt;
 &lt;li&gt;Prof. Anderson Rocha (PI)&lt;/li&gt;
 &lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;

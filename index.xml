@@ -5,12 +5,20 @@
     <link>https://danielmoreira.github.io/</link>
       <atom:link href="https://danielmoreira.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Moreira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
       <title>Daniel Moreira</title>
       <link>https://danielmoreira.github.io/</link>
     </image>
+    
+    <item>
+      <title>SILA: a system for scientific image analysis</title>
+      <link>https://danielmoreira.github.io/publication/2022_scirep/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2022_scirep/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Computer Vision Applications, Fall 2022</title>
@@ -170,17 +178,17 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;10/31&lt;/td&gt;
-&lt;td&gt;Face Detection&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/material/lecture_08.pdf&#34;&gt;Face Detection&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;John and Amol&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;#ref26272829&#34;&gt;[26, 27, 28, 29]&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;#a08&#34;&gt;A08&lt;/a&gt;, due on 11/08&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11/07&lt;/td&gt;
-&lt;td&gt;Face Verification&lt;/td&gt;
+&lt;td&gt;Face Recognition&lt;/td&gt;
 &lt;td&gt;Mujtaba and Amol&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;#ref3031323334&#34;&gt;[30, 31, 32, 33, 34]&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;A09, due on 11/15&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#a09&#34;&gt;A09&lt;/a&gt;, due on 11/15&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11/14&lt;/td&gt;
@@ -228,9 +236,9 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;li&gt;&lt;a name=&#34;a04&#34;&gt;&lt;/a&gt; &lt;del&gt;A04: Object Detection, &lt;a href=&#34;#ref1617181920&#34;&gt;[16, 17, 18, 19, 20]&lt;/a&gt;, due on 10/04 at noon.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a name=&#34;a05&#34;&gt;&lt;/a&gt; &lt;del&gt;A05: Image Segmentation, &lt;a href=&#34;#ref2122232425&#34;&gt;[21, 22, 23, 24, 25]&lt;/a&gt;, due on 10/18 at noon.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a name=&#34;a06&#34;&gt;&lt;/a&gt; &lt;del&gt;A06: Face Detection, &lt;a href=&#34;#ref26272829&#34;&gt;[26, 27, 28, 29]&lt;/a&gt;, due on 10/25 at noon.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a name=&#34;a07&#34;&gt;&lt;/a&gt; A07: Face Verification, &lt;a href=&#34;#ref3031323334&#34;&gt;[30, 31, 32, 33, 34]&lt;/a&gt;, due on 11/01 at noon.&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a07&#34;&gt;&lt;/a&gt; &lt;del&gt;A07: Face Recognition, &lt;a href=&#34;#ref3031323334&#34;&gt;[30, 31, 32, 33, 34]&lt;/a&gt;, due on 11/01 at noon.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a name=&#34;a08&#34;&gt;&lt;/a&gt; A08: Generative Adversarial Nets, &lt;a href=&#34;#ref3536373839&#34;&gt;[35, 36, 37, 38, 39]&lt;/a&gt;, due on 11/08 at noon.&lt;/li&gt;
-&lt;li&gt;A09: TBD, released no later than 11/07, due on 11/15 at noon.&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a09&#34;&gt;&lt;/a&gt; A09: TBD, due on 11/16 at noon.&lt;/li&gt;
 &lt;li&gt;A10: TBD, released no later than 11/14, due on 11/29 at noon.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
@@ -256,7 +264,7 @@ Each summary should contain:&lt;br&gt;
 &lt;li&gt;Object Detection, John and Kenneth, on 10/17.&lt;/li&gt;
 &lt;li&gt;Image Segmentation, Mujtaba and Matt, on 10/24.&lt;/li&gt;
 &lt;li&gt;Face Detection, John and Amol, on 10/31.&lt;/li&gt;
-&lt;li&gt;Face Verification, Mujtaba and Amol, on 11/07.&lt;/li&gt;
+&lt;li&gt;Face Recognition, Mujtaba and Amol, on 11/07.&lt;/li&gt;
 &lt;li&gt;Generative Adversarial Networks, Jakob and Matt, on 11/14.&lt;/li&gt;
 &lt;li&gt;Provenance Analysis, Jakob and Jesus, on 12/05.&lt;/li&gt;
 &lt;/ul&gt;
@@ -334,7 +342,7 @@ Format: Oral Quiz&lt;/p&gt;
 &lt;li&gt;Final Exam: 8 points&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;CV-on-the-news&lt;/em&gt; Post: 1 point (extra)&lt;/li&gt;
 &lt;li&gt;Demonstration on Discussion Day: 5 points (extra)&lt;/li&gt;
-&lt;li&gt;Late Assignments: -1 point per day&lt;/li&gt;
+&lt;li&gt;Late Assignments: -0.1 point per day&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
 
@@ -527,19 +535,18 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG), 20
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;ref3031323334&#34;&gt;&lt;/a&gt; Cao, Q., Shen, L., Xie, W., Parkhi, O., Zisserman, A.
-&lt;em&gt;VGGFace2: A dataset for recognising faces across pose and age&lt;/em&gt;.
-IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2018.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Wen, Y., Zhang, K., Li, Z., Qiao, Y.
-&lt;em&gt;A discriminative feature learning approach for deep face recognition&lt;/em&gt;.
-Springer European Conference on Computer Vision (ECCV), 2016.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#34;ref3031323334&#34;&gt;&lt;/a&gt; Parkhi, O., Vedaldi, A., Zisserman, A. &lt;em&gt;Deep face recognition&lt;/em&gt;.
+British Machine Vision Conference (BMVC), 2015.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Schroff, F., Kalenichenko, D., Philbin, J.
 &lt;em&gt;Facenet: A unified embedding for face recognition and clustering&lt;/em&gt;.
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wen, Y., Zhang, K., Li, Z., Qiao, Y.
+&lt;em&gt;A discriminative feature learning approach for deep face recognition&lt;/em&gt;.
+Springer European Conference on Computer Vision (ECCV), 2016.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Liu, W., Wen, Y., Yu, Z., Li, M., Raj, B., Song, L.
@@ -1075,6 +1082,28 @@ Panopto: &lt;a href=&#34;https://bit.ly/3A4QEKc&#34; target=&#34;_blank&#34; rel
     </item>
     
     <item>
+      <title>Sci-Int</title>
+      <link>https://danielmoreira.github.io/project/sciint/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/project/sciint/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Ongoing, &lt;strong&gt;Funded by:&lt;/strong&gt; DARPA&lt;/p&gt;
+&lt;p&gt;The Scientific Integrity (Sci-Int) project is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA), whose goal is to develop solutions to identify misconduct in scientific research through the detection of image tampering in scientific papers.&lt;/p&gt;
+&lt;p&gt;Working together with the Universities of Purdue, South California (USC), Campinas (Unicamp), Naples Federico II, and the Politécnico di Milano, our team leads the development of techniques to (1) rule out false positive cases of misidentified misconduct, and to (2) better report and document misconduct practices in retraction notices.&lt;/p&gt;
+&lt;p&gt;To accomplish item (1), we plan to perform semantic analyses of the suspect paper cases, in order to identify situations in which duplications or manipulations of content were made with fair scientific purpose (e.g., to visually highlight or to better explain previous results). To do that, we plan to use natural language processing to perform basic automated paper text and image caption interpretation.&lt;/p&gt;
+&lt;p&gt;To accomplish item (2), we plan to rely on techniques of Provenance Graph Construction to present better explanations of how problematic images relate to each other, and how they share content across different papers.&lt;/p&gt;
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Edward Delp (Lead PI)&lt;/li&gt;
+&lt;li&gt;Prof. Walter Scheirer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Anderson Rocha (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
+&lt;li&gt;Prof. Daniel Moreira (PI)&lt;/li&gt;
+&lt;li&gt;João P. Cardenuto (PhD Student)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>SemaFor</title>
       <link>https://danielmoreira.github.io/project/semafor/</link>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
@@ -1094,27 +1123,6 @@ By combining ideas from the topics of image retrieval, digital image forensics, 
 &lt;li&gt;Trenton Ford (PhD Student)&lt;/li&gt;
 &lt;li&gt;Rosaura VidalMata (PhD Student)&lt;/li&gt;
 &lt;li&gt;Priscila Saboia Moreira (PhD Student)&lt;/li&gt;
-&lt;li&gt;João P. Cardenuto (PhD Student)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sci-Int</title>
-      <link>https://danielmoreira.github.io/project/sciint/</link>
-      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://danielmoreira.github.io/project/sciint/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Ongoing, &lt;strong&gt;Funded by:&lt;/strong&gt; DARPA&lt;/p&gt;
-&lt;p&gt;The Scientific Integrity (Sci-Int) project is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA), whose goal is to develop solutions to identify misconduct in scientific research through the detection of image tampering in scientific papers.&lt;/p&gt;
-&lt;p&gt;Working together with the Universities of Purdue, South California (USC), Campinas (Unicamp), Naples Federico II, and the Politécnico di Milano, our team leads the development of techniques to (1) rule out false positive cases of misidentified misconduct, and to (2) better report and document misconduct practices in retraction notices.&lt;/p&gt;
-&lt;p&gt;To accomplish item (1), we plan to perform semantic analyses of the suspect paper cases, in order to identify situations in which duplications or manipulations of content were made with fair scientific purpose (e.g., to visually highlight or to better explain previous results). To do that, we plan to use natural language processing to perform basic automated paper text and image caption interpretation.&lt;/p&gt;
-&lt;p&gt;To accomplish item (2), we plan to rely on techniques of Provenance Graph Construction to present better explanations of how problematic images relate to each other, and how they share content across different papers.&lt;/p&gt;
-&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Prof. Walter Scheirer (PI)&lt;/li&gt;
-&lt;li&gt;Prof. Anderson Rocha (PI)&lt;/li&gt;
-&lt;li&gt;Prof. Kevin Bowyer (PI)&lt;/li&gt;
-&lt;li&gt;Prof. Daniel Moreira (PI)&lt;/li&gt;
 &lt;li&gt;João P. Cardenuto (PhD Student)&lt;/li&gt;
 &lt;/ul&gt;
 </description>

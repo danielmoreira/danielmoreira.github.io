@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wael Abd-Almageed | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/authors/wael-abd-almageed/</link>
+      <atom:link href="https://danielmoreira.github.io/authors/wael-abd-almageed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wael Abd-Almageed</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Wael Abd-Almageed</title>
+      <link>https://danielmoreira.github.io/authors/wael-abd-almageed/</link>
+    </image>
+    
+    <item>
+      <title>SILA: a system for scientific image analysis</title>
+      <link>https://danielmoreira.github.io/publication/2022_scirep/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2022_scirep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

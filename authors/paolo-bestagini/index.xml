@@ -5,12 +5,20 @@
     <link>https://danielmoreira.github.io/authors/paolo-bestagini/</link>
       <atom:link href="https://danielmoreira.github.io/authors/paolo-bestagini/index.xml" rel="self" type="application/rss+xml" />
     <description>Paolo Bestagini</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
       <title>Paolo Bestagini</title>
       <link>https://danielmoreira.github.io/authors/paolo-bestagini/</link>
     </image>
+    
+    <item>
+      <title>SILA: a system for scientific image analysis</title>
+      <link>https://danielmoreira.github.io/publication/2022_scirep/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2022_scirep/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Forensic Analysis of Synthetically Generated Western Blot Images</title>
