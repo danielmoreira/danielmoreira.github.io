@@ -177,37 +177,37 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11/07&lt;/td&gt;
-&lt;td&gt;Face Recognition&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/material/lecture_09.pdf&#34;&gt;Face Recognition&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Mujtaba and Amol&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;#ref3031323334&#34;&gt;[30, 31, 32, 33, 34]&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;#a09&#34;&gt;A09&lt;/a&gt;, due on 11/15&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11/14&lt;/td&gt;
-&lt;td&gt;Generative Adversarial Nets&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/material/lecture_10.pdf&#34;&gt;Generative Adversarial Nets&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Jakob and Matt&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;#ref3536373839&#34;&gt;[35, 36, 37, 38, 39]&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;A10, due on 11/29&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#a10&#34;&gt;A10&lt;/a&gt;, due on 11/29&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11/21&lt;/td&gt;
-&lt;td&gt;Deep and Cheap Fakes&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/cvapp-aut22/material/lecture_11.pdf&#34;&gt;Attacks &amp;amp; Deep Fake Detection&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Instructor&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#ref404142&#34;&gt;[40, 41, 42]&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;N.A.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11/28&lt;/td&gt;
 &lt;td&gt;Sensitive Media Analysis&lt;/td&gt;
 &lt;td&gt;Instructor&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#ref4344&#34;&gt;[43, 44]&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;N.A.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;12/05&lt;/td&gt;
 &lt;td&gt;Provenance Analysis&lt;/td&gt;
 &lt;td&gt;Jakob and Jesus&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#ref4546474849&#34;&gt;[45, 46, 47, 48, 49]&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;N.A.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -229,9 +229,9 @@ always with the &lt;a href=&#34;https://danielmoreira.github.io/post/bettersoc/&
 &lt;li&gt;&lt;a name=&#34;a05&#34;&gt;&lt;/a&gt; &lt;del&gt;A05: Image Segmentation, &lt;a href=&#34;#ref2122232425&#34;&gt;[21, 22, 23, 24, 25]&lt;/a&gt;, due on 10/18 at noon.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a name=&#34;a06&#34;&gt;&lt;/a&gt; &lt;del&gt;A06: Face Detection, &lt;a href=&#34;#ref26272829&#34;&gt;[26, 27, 28, 29]&lt;/a&gt;, due on 10/25 at noon.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a name=&#34;a07&#34;&gt;&lt;/a&gt; &lt;del&gt;A07: Face Recognition, &lt;a href=&#34;#ref3031323334&#34;&gt;[30, 31, 32, 33, 34]&lt;/a&gt;, due on 11/01 at noon.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a name=&#34;a08&#34;&gt;&lt;/a&gt; A08: Generative Adversarial Nets, &lt;a href=&#34;#ref3536373839&#34;&gt;[35, 36, 37, 38, 39]&lt;/a&gt;, due on 11/08 at noon.&lt;/li&gt;
-&lt;li&gt;&lt;a name=&#34;a09&#34;&gt;&lt;/a&gt; A09: TBD, due on 11/16 at noon.&lt;/li&gt;
-&lt;li&gt;A10: TBD, released no later than 11/14, due on 11/29 at noon.&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a08&#34;&gt;&lt;/a&gt; &lt;del&gt;A08: Generative Adversarial Nets, &lt;a href=&#34;#ref3536373839&#34;&gt;[35, 36, 37, 38, 39]&lt;/a&gt;, due on 11/08 at noon.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a09&#34;&gt;&lt;/a&gt; &lt;del&gt;A09: Attacks and Sensitive Media Analysis, &lt;a href=&#34;#ref404142&#34;&gt;[40, 41, 42, 43, 44]&lt;/a&gt;, due on 11/16 at noon.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a name=&#34;a10&#34;&gt;&lt;/a&gt; A10: Provenance Analysis, &lt;a href=&#34;#ref4546474849&#34;&gt;[46, 47, 48, 49]&lt;/a&gt;, due on 11/29 at noon.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Students will have to do at most eight assignments.
@@ -251,13 +251,13 @@ Each summary should contain:&lt;br&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;discussion-leaders&#34;&gt;Discussion Leaders&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Image Retrieval, Nick and Jesus, on 09/26.&lt;/li&gt;
-&lt;li&gt;Image Classification, Nick and Kenneth, on 10/03.&lt;/li&gt;
-&lt;li&gt;Object Detection, John and Kenneth, on 10/17.&lt;/li&gt;
-&lt;li&gt;Image Segmentation, Mujtaba and Matt, on 10/24.&lt;/li&gt;
-&lt;li&gt;Face Detection, John and Amol, on 10/31.&lt;/li&gt;
-&lt;li&gt;Face Recognition, Mujtaba and Amol, on 11/07.&lt;/li&gt;
-&lt;li&gt;Generative Adversarial Networks, Jakob and Matt, on 11/14.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Image Retrieval, Nick and Jesus, on 09/26.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Image Classification, Nick and Kenneth, on 10/03.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Object Detection, John and Kenneth, on 10/17.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Image Segmentation, Mujtaba and Matt, on 10/24.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Face Detection, John and Amol, on 10/31.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Face Recognition, Mujtaba and Amol, on 11/07.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Generative Adversarial Networks, Jakob and Matt, on 11/14.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;Provenance Analysis, Jakob and Jesus, on 12/05.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
@@ -572,7 +572,51 @@ IEEE International Conference on Computer Vision (ICCV), 2017.&lt;/p&gt;
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;em&gt;More soon&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#34;ref404142&#34;&gt;&lt;/a&gt; Goodfellow, I., Shlens, J., Szegedy, C. &lt;em&gt;Explaining and harnessing adversarial examples&lt;/em&gt;.
+International Conference on Learning Representations (ICLR), 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bai, T., Zhao, J., Zhu, J., Han, S., Chen, J., Li, B., Kot, A.
+&lt;em&gt;AI-gan: Attack-inspired generation of adversarial examples&lt;/em&gt;.
+IEEE International Conference on Image Processing (ICIP), 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wang, S., Wang, O., Zhang, R., Owens, A., Efros, A.
+&lt;em&gt;CNN-generated images are surprisingly easy to spot&amp;hellip; for now&lt;/em&gt;.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a name=&#34;ref4344&#34;&gt;&lt;/a&gt; Perez, M., Avila, S., Moreira, D., Moraes, D., Testoni, V., Valle, E., Goldenstein, S., Rocha, A.
+&lt;em&gt;Video pornography detection through deep learning techniques and motion information&lt;/em&gt;.
+Elsevier Neurocomputing 230 (1), 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Moreira, D., Avila, S., Perez, M., Moraes, D., Testoni, V., Valle, E., Goldenstein, S., Rocha, A.
+&lt;em&gt;Temporal robust features for violence detection&lt;/em&gt;.
+IEEE Winter Conference on Applications of Computer Vision (WACV), 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a name=&#34;ref4546474849&#34;&gt;&lt;/a&gt; Moreira, D., Theisen, W., Scheirer, W., Bharati, A., Brogan, J., Rocha, A. &lt;em&gt;Image Provenance Analysis&lt;/em&gt;.
+Springer Multimedia Forensics (Book), 2022.
+Available at &lt;a href=&#34;https://bit.ly/3ESzK5q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/3ESzK5q&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pinto, A., Moreira, D., Bharati, A., Brogan, J., Bowyer, K., Flynn, P., Scheirer, W., Rocha, A.
+&lt;em&gt;Provenance filtering for multimedia phylogeny&lt;/em&gt;. IEEE International Conference on Image Processing (ICIP), 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Moreira, D., Bharati, A., Brogan, J., Pinto, A., Parowski, M., Bowyer, K., Flynn, P., Rocha, A., Scheirer, W.
+&lt;em&gt;Image provenance analysis at scale&lt;/em&gt;. IEEE Transactions on Image Processing 27 (12), 2018.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bharati, A., Moreira, D., Brogan, J., Hale, P., Bowyer, K., Flynn, P., Rocha, A., Scheirer, W.
+&lt;em&gt;Beyond pixels: Image provenance analysis leveraging metadata&lt;/em&gt;.
+IEEE Winter Conference on Applications of Computer Vision (WACV), 2019.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bharati, A., Moreira, D., Flynn, P., Rocha, A., Bowyer, K., Scheirer, W.
+&lt;em&gt;Transformation-aware embeddings for image provenance&lt;/em&gt;.
+IEEE Transactions on Information Forensics and Security 16 (1), 2021.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
