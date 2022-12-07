@@ -973,7 +973,7 @@
 <p>Please find below some tips to answer Homework 7.
 I acknowledge this is a more challenging assignment,
 in particular given the course&rsquo;s asynchronous and fully remote nature.
-Because of that, I&rsquo;d like to give you some hints that might be useful to answer it.</p>
+Because of this, I&rsquo;d like to give you some hints that might be useful to answer it.</p>
 <p>May you have any questions, please let me know.<br>
 &ndash; Daniel (<a href="mailto:dmoreira1@luc.edu">dmoreira1@luc.edu</a>)</p>
 </blockquote>
@@ -1258,7 +1258,7 @@ and alphabetically sorted (sort):</p>
 For Linux users (your COMP 141 Virtual Machine is Linux):</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host: sudo apt install jq
 </span></span></code></pre></div><p>For macOS users:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% brew install
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% brew install jq
 </span></span></code></pre></div><blockquote>
 <p>JQ (JSON Query) is a library of shellscript commands that makes it easy to extract information
 from files in JSON format.</p>
@@ -1304,6 +1304,8 @@ You can use grep or other commands written to a shellscript (&quot;.sh&quot; fil
 </span></span><span class="line"><span class="cl">  &#34;last&#34;: &#34;Doe&#34;,
 </span></span><span class="line"><span class="cl">  &#34;age&#34;: 24
 </span></span><span class="line"><span class="cl">}
+</span></span></code></pre></div><p>And here is an example of how you can extract the age of the second person (the one at position &ldquo;.[1]&rdquo;):</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% jq &#39;.[1].age&#39; folks.json
 </span></span></code></pre></div><h2 id="4-get-folks-with-age-equal-to-25">4. Get folks with age equal to 25?</h2>
 <p>Here is the JQ command for that</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% jq &#39;.[] | select(.age == 25)&#39; folks.json
@@ -1344,7 +1346,7 @@ You can use grep or other commands written to a shellscript (&quot;.sh&quot; fil
 <p>The next two questions are very similar, so I&rsquo;m providing only the JQ command.</p>
 </blockquote>
 <h2 id="5-remove-keyvalue-pair">5. Remove key/value pair?</h2>
-<p>The command below removes the first name from the <strong>first</strong> person (position &ldquo;.[0].&rdquo;):</p>
+<p>The command below removes the first name from the <strong>first</strong> person (position &ldquo;.[0]&rdquo;):</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% jq &#39;del(.[0].first)&#39; folks.json
 </span></span></code></pre></div><blockquote>
 <p>You can do the same thing for the last person, using &ldquo;.[2].first&rdquo;.</p>
@@ -1353,7 +1355,7 @@ You can use grep or other commands written to a shellscript (&quot;.sh&quot; fil
 <p>The command below sums up all the ages in the JSON file:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% jq &#39;.[0].age+.[1].age+.[2].age&#39; folks.json
 </span></span></code></pre></div><blockquote>
-<p>Observe that &ldquo;.[0].&rdquo; refers to the 1st person, while &ldquo;.[1].&rdquo; refers to the 2nd, and &ldquo;.[3].&rdquo;
+<p>Observe that &ldquo;.[0]&rdquo; refers to the 1st person, while &ldquo;.[1]&rdquo; refers to the 2nd, and &ldquo;.[2]&rdquo;
 refers to the 3rd and last.</p>
 </blockquote>
 <h2 id="following-questions">Following Questions</h2>

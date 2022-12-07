@@ -22,7 +22,7 @@
 &lt;p&gt;Please find below some tips to answer Homework 7.
 I acknowledge this is a more challenging assignment,
 in particular given the course&amp;rsquo;s asynchronous and fully remote nature.
-Because of that, I&amp;rsquo;d like to give you some hints that might be useful to answer it.&lt;/p&gt;
+Because of this, I&amp;rsquo;d like to give you some hints that might be useful to answer it.&lt;/p&gt;
 &lt;p&gt;May you have any questions, please let me know.&lt;br&gt;
 &amp;ndash; Daniel (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -307,7 +307,7 @@ and alphabetically sorted (sort):&lt;/p&gt;
 For Linux users (your COMP 141 Virtual Machine is Linux):&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host: sudo apt install jq
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;For macOS users:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host% brew install
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host% brew install jq
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;blockquote&gt;
 &lt;p&gt;JQ (JSON Query) is a library of shellscript commands that makes it easy to extract information
 from files in JSON format.&lt;/p&gt;
@@ -353,6 +353,8 @@ You can use grep or other commands written to a shellscript (&amp;quot;.sh&amp;q
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &amp;#34;last&amp;#34;: &amp;#34;Doe&amp;#34;,
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &amp;#34;age&amp;#34;: 24
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And here is an example of how you can extract the age of the second person (the one at position &amp;ldquo;.[1]&amp;rdquo;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host% jq &amp;#39;.[1].age&amp;#39; folks.json
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;4-get-folks-with-age-equal-to-25&#34;&gt;4. Get folks with age equal to 25?&lt;/h2&gt;
 &lt;p&gt;Here is the JQ command for that&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host% jq &amp;#39;.[] | select(.age == 25)&amp;#39; folks.json
@@ -393,7 +395,7 @@ You can use grep or other commands written to a shellscript (&amp;quot;.sh&amp;q
 &lt;p&gt;The next two questions are very similar, so I&amp;rsquo;m providing only the JQ command.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;5-remove-keyvalue-pair&#34;&gt;5. Remove key/value pair?&lt;/h2&gt;
-&lt;p&gt;The command below removes the first name from the &lt;strong&gt;first&lt;/strong&gt; person (position &amp;ldquo;.[0].&amp;rdquo;):&lt;/p&gt;
+&lt;p&gt;The command below removes the first name from the &lt;strong&gt;first&lt;/strong&gt; person (position &amp;ldquo;.[0]&amp;rdquo;):&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host% jq &amp;#39;del(.[0].first)&amp;#39; folks.json
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;blockquote&gt;
 &lt;p&gt;You can do the same thing for the last person, using &amp;ldquo;.[2].first&amp;rdquo;.&lt;/p&gt;
@@ -402,7 +404,7 @@ You can use grep or other commands written to a shellscript (&amp;quot;.sh&amp;q
 &lt;p&gt;The command below sums up all the ages in the JSON file:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host% jq &amp;#39;.[0].age+.[1].age+.[2].age&amp;#39; folks.json
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;blockquote&gt;
-&lt;p&gt;Observe that &amp;ldquo;.[0].&amp;rdquo; refers to the 1st person, while &amp;ldquo;.[1].&amp;rdquo; refers to the 2nd, and &amp;ldquo;.[3].&amp;rdquo;
+&lt;p&gt;Observe that &amp;ldquo;.[0]&amp;rdquo; refers to the 1st person, while &amp;ldquo;.[1]&amp;rdquo; refers to the 2nd, and &amp;ldquo;.[2]&amp;rdquo;
 refers to the 3rd and last.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;following-questions&#34;&gt;Following Questions&lt;/h2&gt;
