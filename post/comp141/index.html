@@ -1,0 +1,1827 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.6.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather&family=Roboto+Mono&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather&family=Roboto+Mono&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Daniel Moreira" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Tips to answer Homework 7" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://danielmoreira.github.io/post/comp141/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#922247" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.74ff43d867dbb2535e3a213e39498083.css" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N44XTV94DF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-N44XTV94DF', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_hu841424792684eefa604903eccd1ecb0c_59936_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu841424792684eefa604903eccd1ecb0c_59936_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://danielmoreira.github.io/post/comp141/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@dmoreira_cs" />
+    <meta property="twitter:creator" content="@dmoreira_cs" />
+  
+  <meta property="og:site_name" content="Daniel Moreira" />
+  <meta property="og:url" content="https://danielmoreira.github.io/post/comp141/" />
+  <meta property="og:title" content="COMP 141, Homework 7 Hints | Daniel Moreira" />
+  <meta property="og:description" content="Tips to answer Homework 7" /><meta property="og:image" content="https://danielmoreira.github.io/post/comp141/featured.png" />
+    <meta property="twitter:image" content="https://danielmoreira.github.io/post/comp141/featured.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2022-12-07T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2022-12-07T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://danielmoreira.github.io/post/comp141/"
+  },
+  "headline": "COMP 141, Homework 7 Hints",
+  
+  "image": [
+    "https://danielmoreira.github.io/post/comp141/featured.png"
+  ],
+  
+  "datePublished": "2022-12-07T00:00:00Z",
+  "dateModified": "2022-12-07T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Daniel Moreira"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Daniel Moreira",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://danielmoreira.github.io/media/icon_hu841424792684eefa604903eccd1ecb0c_59936_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Tips to answer Homework 7"
+}
+</script>
+
+  
+
+  
+
+  
+
+
+  <title>COMP 141, Homework 7 Hints | Daniel Moreira</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="73ca45285d5e02224506f05a265e1175" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.edcf9542bc63018f22383168efaef744.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Daniel Moreira</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Daniel Moreira</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#experience"><span>Career</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#services"><span>Services</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#accomplishments"><span>Awards</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>COMP 141, Homework 7 Hints</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Dec 7, 2022
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    10 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 435px; max-height: 116px;">
+  <div style="position: relative">
+    <img src="/post/comp141/featured_hu9eb1c109e0914ceadff222ece6a1d872_7759_720x2500_fit_q90_h2_lanczos_3.webp" width="435" height="116" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <blockquote>
+<p>Dear COMP 141 Students,</p>
+<p>Please find below some tips to answer Homework 7.
+I acknowledge this is a more challenging assignment,
+in particular given the course&rsquo;s asynchronous and fully remote nature.
+Because of that, I&rsquo;d like to give you some hints that might be useful to answer it.</p>
+<p>May you have any questions, please let me know.<br>
+&ndash; Daniel (<a href="mailto:dmoreira1@luc.edu">dmoreira1@luc.edu</a>)</p>
+</blockquote>
+<h2 id="question-1">Question 1</h2>
+<p>The steps below will give you better structure to answer this question.</p>
+<h3 id="11-create-a-username-on-github">1.1. Create a username on GitHub.</h3>
+<p>You can do this at <a href="https://github.com" target="_blank" rel="noopener">https://github.com</a>, using the &ldquo;Sign Up&rdquo; button in the top right corner
+of the page.
+Follow the steps and provide a screenshot with your new GitHub profile.
+This will be your screenshot number one.</p>
+<p>Mine is below, for your reference.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /post/comp141/f1_hu35fb43e64cbb18d57e943d37f0b21ab4_251672_135826c5eb7f71df4779ea2d1305420d.webp 400w,
+               /post/comp141/f1_hu35fb43e64cbb18d57e943d37f0b21ab4_251672_3f2d22d8ec9b48f5ddc1d02a64061f22.webp 760w,
+               /post/comp141/f1_hu35fb43e64cbb18d57e943d37f0b21ab4_251672_1200x1200_fit_q90_h2_lanczos_3.webp 1200w"
+               src="/post/comp141/f1_hu35fb43e64cbb18d57e943d37f0b21ab4_251672_135826c5eb7f71df4779ea2d1305420d.webp"
+               width="600px"
+               height="403"
+               loading="lazy" data-zoomable /></div>
+  </div></figure></p>
+<h3 id="12-create-a-project-on-github">1.2. Create a project on GitHub.</h3>
+<p>This can be done through the GitHub web interface, from your GitHub profile page
+that you&rsquo;ve just used to generate a screenshot.
+In the top right corner of your profile page, there is button with a plus sign.
+Click there and select the &ldquo;New repository&rdquo; option.</p>
+<p>In the following page, provide a &ldquo;Repository name&rdquo;, and mark it as &ldquo;Public&rdquo; (so that everybody,)
+including the TA and me, can access it).
+Don&rsquo;t forget to select the &ldquo;Add a README file&rdquo; option, so your project is not empty.
+You may also provide a project &ldquo;Description&rdquo;, if you want.
+This will be useful once you get to the point where you have lots of projects.
+A possible descriptions is &ldquo;My first GitHub project for Comp 141.&rdquo;.</p>
+<p>After doing this, go to the bottom of the page, and click on the &ldquo;Create repository&rdquo; button.
+Voilà, you now have your new project on GitHub, on the web.
+Provide a screenshot of the current project page; this will be you screenshot number two.</p>
+<h3 id="13-clone-the-project-from-github-on-the-web-to-your-local-computer">1.3. Clone the project from GitHub (on the web) to your local computer.</h3>
+<p>On your computer, open the terminal screen.
+Make sure you have git installed:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host: git --version
+</span></span></code></pre></div><p>If you don&rsquo;t, install it with either apt-get or brew, depending on your OS.
+For Linux users (your COMP 141 Virtual Machine is Linux):</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host: sudo apt install git
+</span></span></code></pre></div><p>For macOS users:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% brew install git
+</span></span></code></pre></div><p>Clone the project from GitHub to your local machine.
+Go to your project GitHub page (the one you&rsquo;ve just used to generate the last screenshot),
+and click on the &ldquo;&lt;&gt; Code&rdquo; button on the top mid-right portion of the screen.
+Select the &ldquo;HTTPS&rdquo; option on the &ldquo;Clone&rdquo; function and copy the
+&ldquo;<a href="https://gtihub.com/" target="_blank" rel="noopener">https://gtihub.com/</a>&lt;your_name&gt;/&lt;your_project&gt;&rdquo; link.</p>
+<p>Go back to the terminal and type:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host: git clone https://gtihub.com/&lt;your_name&gt;/&lt;your_project&gt;
+</span></span></code></pre></div><p>Don&rsquo;t forget to paste and replace &ldquo;<a href="https://gtihub.com/" target="_blank" rel="noopener">https://gtihub.com/</a>&lt;your_name&gt;/&lt;your_project&gt;&rdquo;
+with the content you&rsquo;ve just copied from the GitHub project page.</p>
+<p>Voilà, your project was copied to your local computer.
+Execute the &ldquo;ls&rdquo; command on your terminal and localize your project folder;
+the folder&rsquo;s name will be the same as your project&rsquo;s.
+Generate a screenshot of your terminal with this content and add to your answers;
+this will be your screenshot number three.</p>
+<h3 id="14-setup-an-authentication-token-so-you-can-upload-things-to-your-github-project">1.4. Setup an authentication token, so you can upload things to your GitHub project.</h3>
+<p>This is a step with security purposes, to avoid people inadvertently messing up with your project.
+Go to your GitHub profile page (the one you&rsquo;ve used to generate the first screenshot).
+Click on your profile picture in the top right corner of the page.
+Select the &ldquo;Settings&rdquo; option on the drop-down menu.</p>
+<p>On the following page, on the left-side menu, select the &ldquo;Developer settings&rdquo; option
+(yes, you&rsquo;ll be a developer).
+On the following one, select the &ldquo;Personal access tokens&rdquo; drop-down option.
+We want the &ldquo;Tokens (classic)&rdquo; feature.
+Click on it and proceed to the next page.</p>
+<p>On the next page, select the top right corner &ldquo;Generate new token&rdquo; button.
+Again, select the &ldquo;Generate new token (classic)&rdquo; option.
+Provide your GitHub password, to proceed to the next step.</p>
+<p>Fill-in the blanks of the form within the next page.
+For instance, in the &ldquo;Note&rdquo; field, add something like &ldquo;My first token for test purposes.&rdquo;
+For the &ldquo;Expiration&rdquo; field, select &ldquo;No expiration&rdquo; and ignore, for now, the warning message.
+(we can talk about it in more detail through e-mail, if you want to).
+In the available &ldquo;scopes&rdquo;, select the &ldquo;repo&rdquo; one.
+Go to the bottom of the page and click on the &ldquo;Generate token&rdquo; button.</p>
+<p>Voilà, your created a GitHub security token.
+Take a screenshot of the next page and add to your answers; this will be your screenshot number four.</p>
+<p>Don&rsquo;t forget to copy the long string that is provided in this page.
+This will be your password to upload local modifications to your GitHub project.
+We&rsquo;ll need it in the next step.</p>
+<h3 id="15-add-a-new-file-to-your-project">1.5. Add a new file to your project.</h3>
+<p>Back to your local machine, using your terminal, create a new file on your project&rsquo;s folder.
+Make sure (with &ldquo;pwd&rdquo;, &ldquo;cd&rdquo;, and &ldquo;ls&rdquo;) that you&rsquo;re inside the correct folder.
+You may use any file editor of your preference.
+In the example below, I&rsquo;m using &ldquo;vim&rdquo; to edit files.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host: cd &lt;your_project&gt;
+</span></span><span class="line"><span class="cl">user@host: vi my_file.txt
+</span></span></code></pre></div><p>Don&rsquo;t forget to replace &ldquo;&lt;your_project&gt;&rdquo; with your project&rsquo;s folder.</p>
+<p>Type some content to &ldquo;my_file.txt&rdquo; and save it.
+In the real world, you&rsquo;ll be doing this with a program source code, adding lines of
+commands and program configurations.
+Save the file and quit the file editor.</p>
+<p>Now it&rsquo;s time to &ldquo;upload&rdquo; the local file to your project on Git.
+In your local terminal, inside the folder of your project, execute the following command:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host: git add my_file.txt
+</span></span></code></pre></div><p>This command is telling the GitHub application that you want to include the file
+you&rsquo;ve just created to your project.
+After doing this, &ldquo;commit&rdquo; the added file to a new version of your project:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host: git commit my_file.txt -m &#34;Adding my_file.txt to the project.&#34;
+</span></span></code></pre></div><p>Observe that the message given to &ldquo;-m&rdquo; can be any string and should be descriptive of
+what you&rsquo;re doing with your project.</p>
+<p>Now comes the time to upload the new project version (with the local modifications).
+You can do it by using the &ldquo;git push&rdquo; command:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host: git push origin main
+</span></span></code></pre></div><p>This command will request your GitHub username (the same from used in your profile), and a password.
+Provide the long string generated in the previous step as the password.
+If successful, this command will upload &ldquo;my_file.txt&rdquo; to the GitHub project web page, in the &ldquo;main&rdquo;
+branch of your project.</p>
+<blockquote>
+<p>Other branches are possible (for different versions of the program being developed), but this is
+something you&rsquo;ll learn in your future as a developer.</p>
+</blockquote>
+<p>Go to your GitHub project page (the one that you&rsquo;ve used to generate the second screenshot)
+and verify that &ldquo;my_file.txt&rdquo; is available there, together with the &ldquo;README.md&rdquo; file.
+Take a screenshot of this status and add to your answers; this will be your screenshot number five.</p>
+<h3 id="16-watch-the-content-of-httpswwwyoutubecomwatchv0fkg7e37bqe">1.6. Watch the content of <a href="https://www.youtube.com/watch?v=0fKg7e37bQE" target="_blank" rel="noopener">https://www.youtube.com/watch?v=0fKg7e37bQE</a></h3>
+<p>Watch the content of the GitHub tutorial and try to make a parallel with the steps above.
+May you have any questions about the video and the steps, please let me know.</p>
+<blockquote>
+<p>GitHub is an amazing tool that you must use in your coding career.</p>
+</blockquote>
+<h2 id="question-2">Question 2</h2>
+<p>The steps below will give you better structure to answer this question.</p>
+<h3 id="21-create-a-json-file-using-your-local-terminal">2.1. Create a JSON file using your local terminal.</h3>
+<p>JSON files are text files in &ldquo;JavaScript Object Notation&rdquo; (<a href="https://www.json.org/json-en.html" target="_blank" rel="noopener">JSON</a>)
+whose content is structured in a more human-readable format.
+JSON files aim at storing data about the elements of a problem domain, whose reading is easy to people.
+In the example below, downloaded from this <a href="https://drive.google.com/file/d/1TVf-Von3auR2B3WPy585SoCb8WEM4auU/view" target="_blank" rel="noopener">link</a>,
+we have data about cats that might be useful for a veterinary app.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">[
+</span></span><span class="line"><span class="cl">  {
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;Abyssinian&#34;,
+</span></span><span class="line"><span class="cl">    &#34;country&#34;: &#34;Ethiopia&#34;,
+</span></span><span class="line"><span class="cl">    &#34;origin&#34;: &#34;Natural\/Standard&#34;,
+</span></span><span class="line"><span class="cl">    &#34;coat&#34;: &#34;Short&#34;,
+</span></span><span class="line"><span class="cl">    &#34;pattern&#34;: &#34;Ticked&#34;
+</span></span><span class="line"><span class="cl">  },
+</span></span><span class="line"><span class="cl">  {
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;Aegean&#34;,
+</span></span><span class="line"><span class="cl">    &#34;country&#34;: &#34;Greece&#34;,
+</span></span><span class="line"><span class="cl">    &#34;origin&#34;: &#34;Natural\/Standard&#34;,
+</span></span><span class="line"><span class="cl">    &#34;coat&#34;: &#34;Semi-long&#34;,
+</span></span><span class="line"><span class="cl">    &#34;pattern&#34;: &#34;Bi- or tri-colored&#34;
+</span></span><span class="line"><span class="cl">  },
+</span></span><span class="line"><span class="cl">  {
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;American Curl&#34;,
+</span></span><span class="line"><span class="cl">    &#34;country&#34;: &#34;United States&#34;,
+</span></span><span class="line"><span class="cl">    &#34;origin&#34;: &#34;Mutation&#34;,
+</span></span><span class="line"><span class="cl">    &#34;coat&#34;: &#34;Short\/Long&#34;,
+</span></span><span class="line"><span class="cl">    &#34;pattern&#34;: &#34;All&#34;
+</span></span><span class="line"><span class="cl">  },
+</span></span><span class="line"><span class="cl">  {
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;American Bobtail&#34;,
+</span></span><span class="line"><span class="cl">    &#34;country&#34;: &#34;United States&#34;,
+</span></span><span class="line"><span class="cl">    &#34;origin&#34;: &#34;Mutation&#34;,
+</span></span><span class="line"><span class="cl">    &#34;coat&#34;: &#34;Short\/Long&#34;,
+</span></span><span class="line"><span class="cl">    &#34;pattern&#34;: &#34;All&#34;
+</span></span><span class="line"><span class="cl">  },
+</span></span><span class="line"><span class="cl">  {
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;American Shorthair&#34;,
+</span></span><span class="line"><span class="cl">    &#34;country&#34;: &#34;United States&#34;,
+</span></span><span class="line"><span class="cl">    &#34;origin&#34;: &#34;Natural&#34;,
+</span></span><span class="line"><span class="cl">    &#34;coat&#34;: &#34;Short&#34;,
+</span></span><span class="line"><span class="cl">    &#34;pattern&#34;: &#34;All but colorpoint&#34;
+</span></span><span class="line"><span class="cl">  },
+</span></span><span class="line"><span class="cl">  {
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;American Wirehair&#34;,
+</span></span><span class="line"><span class="cl">    &#34;country&#34;: &#34;United States&#34;,
+</span></span><span class="line"><span class="cl">    &#34;origin&#34;: &#34;Mutation&#34;,
+</span></span><span class="line"><span class="cl">    &#34;coat&#34;: &#34;Rex&#34;,
+</span></span><span class="line"><span class="cl">    &#34;pattern&#34;: &#34;All but colorpoint&#34;
+</span></span><span class="line"><span class="cl">  },
+</span></span><span class="line"><span class="cl">  {
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;Arabian Mau&#34;,
+</span></span><span class="line"><span class="cl">    &#34;country&#34;: &#34;Arabian Peninsula&#34;,
+</span></span><span class="line"><span class="cl">    &#34;origin&#34;: &#34;Natural&#34;,
+</span></span><span class="line"><span class="cl">    &#34;coat&#34;: &#34;Short&#34;,
+</span></span><span class="line"><span class="cl">    &#34;pattern&#34;: &#34;&#34;
+</span></span><span class="line"><span class="cl">  },
+</span></span><span class="line"><span class="cl">  {
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;Australian Mist&#34;,
+</span></span><span class="line"><span class="cl">    &#34;country&#34;: &#34;Australia&#34;,
+</span></span><span class="line"><span class="cl">    &#34;origin&#34;: &#34;Crossbreed&#34;,
+</span></span><span class="line"><span class="cl">    &#34;coat&#34;: &#34;Short&#34;,
+</span></span><span class="line"><span class="cl">    &#34;pattern&#34;: &#34;Spotted and Classic tabby&#34;
+</span></span><span class="line"><span class="cl">  },
+</span></span><span class="line"><span class="cl">  {
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;Asian&#34;,
+</span></span><span class="line"><span class="cl">    &#34;country&#34;: &#34;developed in the United Kingdom (founding stock from Asia)&#34;,
+</span></span><span class="line"><span class="cl">    &#34;origin&#34;: &#34;&#34;,
+</span></span><span class="line"><span class="cl">    &#34;coat&#34;: &#34;Short&#34;,
+</span></span><span class="line"><span class="cl">    &#34;pattern&#34;: &#34;Evenly solid&#34;
+</span></span><span class="line"><span class="cl">  },
+</span></span><span class="line"><span class="cl">  {
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;Asian Semi-longhair&#34;,
+</span></span><span class="line"><span class="cl">    &#34;country&#34;: &#34;United Kingdom&#34;,
+</span></span><span class="line"><span class="cl">    &#34;origin&#34;: &#34;Crossbreed&#34;,
+</span></span><span class="line"><span class="cl">    &#34;coat&#34;: &#34;Semi-long&#34;,
+</span></span><span class="line"><span class="cl">    &#34;pattern&#34;: &#34;Solid&#34;
+</span></span><span class="line"><span class="cl">  }
+</span></span><span class="line"><span class="cl">]
+</span></span></code></pre></div><p>As you might observe, this file depicts a list with 10 cats.
+Each cat has information about its &ldquo;breed&rdquo;, &ldquo;country&rdquo;, &ldquo;origin&rdquo;, &ldquo;coat&rdquo;, and fur &ldquo;pattern&rdquo;.</p>
+<p>The objective of this and of the following questions is to write shellscripts that read this type of file.
+To answer question 2, start by opening your local terminal and creating a file named &ldquo;catfacts.json&rdquo;:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host: vi catfacts.json
+</span></span></code></pre></div><p>Here is my screen with &ldquo;vim&rdquo; open and the creation of &ldquo;catfacts.json&rdquo;.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /post/comp141/f2_hu1c0b472ad7601c0ecbac2cb20f5ca62f_95942_9e17139c8b96e7d7978cd66ccf3b6ae2.webp 400w,
+               /post/comp141/f2_hu1c0b472ad7601c0ecbac2cb20f5ca62f_95942_64b2cd74041e530aa5beb1f7f06dab90.webp 760w,
+               /post/comp141/f2_hu1c0b472ad7601c0ecbac2cb20f5ca62f_95942_1200x1200_fit_q90_h2_lanczos_3.webp 1200w"
+               src="/post/comp141/f2_hu1c0b472ad7601c0ecbac2cb20f5ca62f_95942_9e17139c8b96e7d7978cd66ccf3b6ae2.webp"
+               width="600px"
+               height="507"
+               loading="lazy" data-zoomable /></div>
+  </div></figure></p>
+<h3 id="22-create-a-shellscript-to-extract-data-from-catfactsjson-in-your-local-terminal">2.2. Create a shellscript to extract data from &ldquo;catfacts.json&rdquo; in your local terminal.</h3>
+<p>In the next step, let&rsquo;s create a shellscript to extract information from &ldquo;catfacts.json&rdquo;.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host: vi catfacts.sh
+</span></span></code></pre></div><p>Let&rsquo;s say we want to extract all the breeds stored in the file (type inside the &ldquo;catfacts.sh&rdquo; file):</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl"># shellscript to gather all the breeds stored inside catfacts.json
+</span></span><span class="line"><span class="cl">grep &#39;&#34;breed&#34;:&#39; catfacts.json | uniq | sort
+</span></span></code></pre></div><p>After saving the shellscript file and quiting the file editor, make it executable with &ldquo;chmod&rdquo;
+(on the terminal):</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host: chmod +x catfacts.sh
+</span></span></code></pre></div><p>Execute the shellscript (on the terminal):</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host: ./catfacts.sh
+</span></span></code></pre></div><p>The expected output is all the breeds stored within &ldquo;catfacts.json&rdquo;, without repetitions (uniq)
+and alphabetically sorted (sort):</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">    &#34;breed&#34;: &#34;Abyssinian&#34;,
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;Aegean&#34;,
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;American Bobtail&#34;,
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;American Curl&#34;,
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;American Shorthair&#34;,
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;American Wirehair&#34;,
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;Arabian Mau&#34;,
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;Asian Semi-longhair&#34;,
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;Asian&#34;,
+</span></span><span class="line"><span class="cl">    &#34;breed&#34;: &#34;Australian Mist&#34;,
+</span></span></code></pre></div><p>Provide a screenshot with the output above on your terminal as your answer to question 2.</p>
+<h2 id="question-3">Question 3</h2>
+<p>The steps below will give you better structure to answer this question.</p>
+<h3 id="31-install-jq-in-your-local-system">3.1. Install JQ in your local system.</h3>
+<p>To answer questions 3-6, install <a href="https://stedolan.github.io/jq/" target="_blank" rel="noopener">JQ</a> in your system.
+For Linux users (your COMP 141 Virtual Machine is Linux):</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host: sudo apt install jq
+</span></span></code></pre></div><p>For macOS users:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% brew install
+</span></span></code></pre></div><blockquote>
+<p>JQ (JSON Query) is a library of shellscript commands that makes it easy to extract information
+from files in JSON format.</p>
+</blockquote>
+<p>Test JQ on your machine:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% jq --version
+</span></span></code></pre></div><h3 id="32-create-a-json-file-with-folks-information">3.2. Create a JSON file with folks&rsquo; information.</h3>
+<p>Create &ldquo;folks.json&rdquo; using your local terminal:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% vi folks.json
+</span></span></code></pre></div><p>Here is the content you must add to &ldquo;folks.json&rdquo; (type inside the file):</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">[
+</span></span><span class="line"><span class="cl">   { &#34;first&#34;: &#34;John&#34;, &#34;last&#34;: &#34;Doe&#34;, &#34;age&#34;: 25 },
+</span></span><span class="line"><span class="cl">   { &#34;first&#34;: &#34;Mary&#34;, &#34;last&#34;: &#34;Doe&#34;, &#34;age&#34;: 24 },
+</span></span><span class="line"><span class="cl">   { &#34;first&#34;: &#34;Jack&#34;, &#34;last&#34;: &#34;Jones&#34;, &#34;age&#34;: 22 }
+</span></span><span class="line"><span class="cl">]   
+</span></span></code></pre></div><blockquote>
+<p>This JSON file stores data about three people, namely John, Mary, and Jack.</p>
+</blockquote>
+<p>Make sure &ldquo;folks.json&rdquo; has the expected content:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% cat folks.json
+</span></span></code></pre></div><h3 id="33-answer-question-3">3.3. Answer question 3.</h3>
+<p>How would you extract a specific element from an array?</p>
+<blockquote>
+<p>We&rsquo;ve done this in question 2.
+You can use grep or other commands written to a shellscript (&quot;.sh&quot; file).</p>
+</blockquote>
+<p>To introduce JQ to you, here is an example of how you can extract the last names from &ldquo;folks.json&rdquo;:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% jq &#39;.[].last&#39; folks.json
+</span></span></code></pre></div><p>Here is the expected output:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">&#34;Doe&#34;
+</span></span><span class="line"><span class="cl">&#34;Doe&#34;
+</span></span><span class="line"><span class="cl">&#34;Jones&#34;
+</span></span></code></pre></div><p>Here is an example of how you can extract everybody whose last name is &ldquo;Doe&rdquo;:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% jq &#39;.[] | select(.last == &#34;Doe&#34;)&#39; folks.json
+</span></span></code></pre></div><p>The expected output is:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">{
+</span></span><span class="line"><span class="cl">  &#34;first&#34;: &#34;John&#34;,
+</span></span><span class="line"><span class="cl">  &#34;last&#34;: &#34;Doe&#34;,
+</span></span><span class="line"><span class="cl">  &#34;age&#34;: 25
+</span></span><span class="line"><span class="cl">}
+</span></span><span class="line"><span class="cl">{
+</span></span><span class="line"><span class="cl">  &#34;first&#34;: &#34;Mary&#34;,
+</span></span><span class="line"><span class="cl">  &#34;last&#34;: &#34;Doe&#34;,
+</span></span><span class="line"><span class="cl">  &#34;age&#34;: 24
+</span></span><span class="line"><span class="cl">}
+</span></span></code></pre></div><h2 id="4-get-folks-with-age-equal-to-25">4. Get folks with age equal to 25?</h2>
+<p>Here is the JQ command for that</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% jq &#39;.[] | select(.age == 25)&#39; folks.json
+</span></span></code></pre></div><p>To make it a script, add the command above to a new file named &ldquo;age25.sh&rdquo;.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% vi age25.sh
+</span></span></code></pre></div><p>Here is my screenshot saving this file with &ldquo;vim&rdquo;:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /post/comp141/f3_hu581ad0ff28c95cfb4569e8cd89fd38f8_21974_fd69a2d46d4672567254c274117f1dc5.webp 400w,
+               /post/comp141/f3_hu581ad0ff28c95cfb4569e8cd89fd38f8_21974_87c7d36f45a63c1d67a299215cc49eaa.webp 760w,
+               /post/comp141/f3_hu581ad0ff28c95cfb4569e8cd89fd38f8_21974_1200x1200_fit_q90_h2_lanczos_3.webp 1200w"
+               src="/post/comp141/f3_hu581ad0ff28c95cfb4569e8cd89fd38f8_21974_fd69a2d46d4672567254c274117f1dc5.webp"
+               width="450px"
+               height="186"
+               loading="lazy" data-zoomable /></div>
+  </div></figure></p>
+<p>Don&rsquo;t forget to make the shellscript file executable before using it:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% chmod +x age25.sh
+</span></span><span class="line"><span class="cl">user@host% ./age25.sh
+</span></span></code></pre></div><blockquote>
+<p>The next two questions are very similar, so I&rsquo;m providing only the JQ command.</p>
+</blockquote>
+<h2 id="5-remove-keyvalue-pair">5. Remove key/value pair?</h2>
+<p>The command below removes the first name from the <strong>first</strong> person (position &ldquo;.[0].&rdquo;):</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% jq &#39;del(.[0].first)&#39; folks.json
+</span></span></code></pre></div><blockquote>
+<p>You can do the same thing for the last person, using &ldquo;.[2].first&rdquo;.</p>
+</blockquote>
+<h2 id="6-get-sum-of-ages">6. Get sum of ages?</h2>
+<p>The command below sums up all the ages in the JSON file:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">user@host% jq &#39;.[0].age+.[1].age+.[2].age&#39; folks.json
+</span></span></code></pre></div><blockquote>
+<p>Observe that &ldquo;.[0].&rdquo; refers to the 1st person, while &ldquo;.[1].&rdquo; refers to the 2nd, and &ldquo;.[3].&rdquo;
+refers to the 3rd and last.</p>
+</blockquote>
+<h2 id="following-questions">Following Questions</h2>
+<p>Questions 7-11 are more straightforward, but may you have any issues, please let me know.</p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/comp-141/">COMP 141</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://danielmoreira.github.io/post/comp141/&amp;text=COMP%20141,%20Homework%207%20Hints" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=COMP%20141,%20Homework%207%20Hints&amp;body=https://danielmoreira.github.io/post/comp141/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://danielmoreira.github.io/post/comp141/&amp;title=COMP%20141,%20Homework%207%20Hints" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=COMP%20141,%20Homework%207%20Hints%20https://danielmoreira.github.io/post/comp141/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://danielmoreira.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/daniel/avatar_hu6c92e2f16d4e055d050c8c60a285690f_848364_270x270_fill_q90_lanczos_center.jpg" alt="Daniel Moreira"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://danielmoreira.github.io/">Daniel Moreira</a></h5>
+      <h6 class="card-subtitle">Assistant Professor of Computer Science</h6>
+      <p class="card-text">Computer scientist with interests in (but not limited to) Computer Vision, Machine Learning, Media Forensics, and Biometrics.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:dmoreira1@luc.edu" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/uploads/cv.pdf" >
+        <i class="fas fa-file-pdf"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=duhWplcAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/dhmoreira/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4734372Z3" target="_blank" rel="noopener">
+        <i class="ai ai-lattes"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/danielmoreira" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://hub.docker.com/u/dmoreira" target="_blank" rel="noopener">
+        <i class="fab fa-docker"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/dmoreira_cs" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2022 Daniel Moreira
+  </p>
+  
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.d26509351aa0ff874abbee824e982e9b.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.54dd6e4d8f2e4b1d098381b57f18dd83.js"></script>
+
+
+
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
