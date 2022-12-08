@@ -27,7 +27,7 @@ Because of this, I&amp;rsquo;d like to give you some hints that might be useful 
 &amp;ndash; Daniel (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;question-1&#34;&gt;Question 1&lt;/h2&gt;
-&lt;p&gt;The steps below will give you better structure to answer this question.&lt;/p&gt;
+&lt;p&gt;The steps below will give you some structure to answer this question.&lt;/p&gt;
 &lt;h3 id=&#34;11-create-a-username-on-github&#34;&gt;1.1. Create a username on GitHub.&lt;/h3&gt;
 &lt;p&gt;You can do this at &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com&lt;/a&gt;, using the &amp;ldquo;Sign Up&amp;rdquo; button in the top right corner
 of the page.
@@ -66,12 +66,12 @@ This will be your screenshot number one.&lt;/p&gt;
 that you&amp;rsquo;ve just used to generate a screenshot.
 In the top right corner of your profile page, there is button with a plus sign.
 Click there and select the &amp;ldquo;New repository&amp;rdquo; option.&lt;/p&gt;
-&lt;p&gt;In the following page, provide a &amp;ldquo;Repository name&amp;rdquo;, and mark it as &amp;ldquo;Public&amp;rdquo; (so that everybody,)
+&lt;p&gt;In the following page, provide a &amp;ldquo;Repository name&amp;rdquo;, and mark it as &amp;ldquo;Public&amp;rdquo; (so that everybody,
 including the TA and me, can access it).
 Don&amp;rsquo;t forget to select the &amp;ldquo;Add a README file&amp;rdquo; option, so your project is not empty.
 You may also provide a project &amp;ldquo;Description&amp;rdquo;, if you want.
 This will be useful once you get to the point where you have lots of projects.
-A possible descriptions is &amp;ldquo;My first GitHub project for Comp 141.&amp;rdquo;.&lt;/p&gt;
+A possible description is &amp;ldquo;My first GitHub project for Comp 141.&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;After doing this, go to the bottom of the page, and click on the &amp;ldquo;Create repository&amp;rdquo; button.
 Voilà, you now have your new project on GitHub, on the web.
 Provide a screenshot of the current project page; this will be you screenshot number two.&lt;/p&gt;
@@ -79,7 +79,7 @@ Provide a screenshot of the current project page; this will be you screenshot nu
 &lt;p&gt;On your computer, open the terminal screen.
 Make sure you have git installed:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host: git --version
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If you don&amp;rsquo;t, install it with either apt-get or brew, depending on your OS.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If you don&amp;rsquo;t, install it with either apt-get or homebrew, depending on your OS.
 For Linux users (your COMP 141 Virtual Machine is Linux):&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host: sudo apt install git
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;For macOS users:&lt;/p&gt;
@@ -88,11 +88,11 @@ For Linux users (your COMP 141 Virtual Machine is Linux):&lt;/p&gt;
 Go to your project GitHub page (the one you&amp;rsquo;ve just used to generate the last screenshot),
 and click on the &amp;ldquo;&amp;lt;&amp;gt; Code&amp;rdquo; button on the top mid-right portion of the screen.
 Select the &amp;ldquo;HTTPS&amp;rdquo; option on the &amp;ldquo;Clone&amp;rdquo; function and copy the
-&amp;ldquo;&lt;a href=&#34;https://gtihub.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gtihub.com/&lt;/a&gt;&amp;lt;your_name&amp;gt;/&amp;lt;your_project&amp;gt;&amp;rdquo; link.&lt;/p&gt;
+&amp;ldquo;&lt;code&gt;https://gtihub.com/&amp;lt;your_name&amp;gt;/&amp;lt;your_project&amp;gt;&lt;/code&gt;&amp;rdquo; link.&lt;/p&gt;
 &lt;p&gt;Go back to the terminal and type:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host: git clone https://gtihub.com/&amp;lt;your_name&amp;gt;/&amp;lt;your_project&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Don&amp;rsquo;t forget to paste and replace &amp;ldquo;&lt;a href=&#34;https://gtihub.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gtihub.com/&lt;/a&gt;&amp;lt;your_name&amp;gt;/&amp;lt;your_project&amp;gt;&amp;rdquo;
-with the content you&amp;rsquo;ve just copied from the GitHub project page.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Don&amp;rsquo;t forget to paste and replace &amp;ldquo;&lt;code&gt;https://gtihub.com/&amp;lt;your_name&amp;gt;/&amp;lt;your_project&amp;gt;&lt;/code&gt;&amp;rdquo;
+with the content you&amp;rsquo;ve just copied from your GitHub project page.&lt;/p&gt;
 &lt;p&gt;Voilà, your project was copied to your local computer.
 Execute the &amp;ldquo;ls&amp;rdquo; command on your terminal and localize your project folder;
 the folder&amp;rsquo;s name will be the same as your project&amp;rsquo;s.
@@ -113,7 +113,7 @@ Again, select the &amp;ldquo;Generate new token (classic)&amp;rdquo; option.
 Provide your GitHub password, to proceed to the next step.&lt;/p&gt;
 &lt;p&gt;Fill-in the blanks of the form within the next page.
 For instance, in the &amp;ldquo;Note&amp;rdquo; field, add something like &amp;ldquo;My first token for test purposes.&amp;rdquo;
-For the &amp;ldquo;Expiration&amp;rdquo; field, select &amp;ldquo;No expiration&amp;rdquo; and ignore, for now, the warning message.
+For the &amp;ldquo;Expiration&amp;rdquo; field, select &amp;ldquo;No expiration&amp;rdquo; and ignore, for now, the warning message
 (we can talk about it in more detail through e-mail, if you want to).
 In the available &amp;ldquo;scopes&amp;rdquo;, select the &amp;ldquo;repo&amp;rdquo; one.
 Go to the bottom of the page and click on the &amp;ldquo;Generate token&amp;rdquo; button.&lt;/p&gt;
@@ -126,12 +126,12 @@ We&amp;rsquo;ll need it in the next step.&lt;/p&gt;
 &lt;p&gt;Back to your local machine, using your terminal, create a new file on your project&amp;rsquo;s folder.
 Make sure (with &amp;ldquo;pwd&amp;rdquo;, &amp;ldquo;cd&amp;rdquo;, and &amp;ldquo;ls&amp;rdquo;) that you&amp;rsquo;re inside the correct folder.
 You may use any file editor of your preference.
-In the example below, I&amp;rsquo;m using &amp;ldquo;vim&amp;rdquo; to edit files.&lt;/p&gt;
+In the example below, I&amp;rsquo;m using &amp;ldquo;vi&amp;rdquo; to edit files.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host: cd &amp;lt;your_project&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host: vi my_file.txt
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Don&amp;rsquo;t forget to replace &amp;ldquo;&amp;lt;your_project&amp;gt;&amp;rdquo; with your project&amp;rsquo;s folder.&lt;/p&gt;
 &lt;p&gt;Type some content to &amp;ldquo;my_file.txt&amp;rdquo; and save it.
-In the real world, you&amp;rsquo;ll be doing this with a program source code, adding lines of
+In the real world, you&amp;rsquo;ll be doing this over a program source code, adding lines of
 commands and program configurations.
 Save the file and quit the file editor.&lt;/p&gt;
 &lt;p&gt;Now it&amp;rsquo;s time to &amp;ldquo;upload&amp;rdquo; the local file to your project on Git.
@@ -146,7 +146,7 @@ what you&amp;rsquo;re doing with your project.&lt;/p&gt;
 &lt;p&gt;Now comes the time to upload the new project version (with the local modifications).
 You can do it by using the &amp;ldquo;git push&amp;rdquo; command:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host: git push origin main
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This command will request your GitHub username (the same from used in your profile), and a password.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This command will request your GitHub username (the same you used in your profile), and a password.
 Provide the long string generated in the previous step as the password.
 If successful, this command will upload &amp;ldquo;my_file.txt&amp;rdquo; to the GitHub project web page, in the &amp;ldquo;main&amp;rdquo;
 branch of your project.&lt;/p&gt;
@@ -164,7 +164,7 @@ May you have any questions about the video and the steps, please let me know.&lt
 &lt;p&gt;GitHub is an amazing tool that you must use in your coding career.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;question-2&#34;&gt;Question 2&lt;/h2&gt;
-&lt;p&gt;The steps below will give you better structure to answer this question.&lt;/p&gt;
+&lt;p&gt;The steps below will give you some structure to answer this question.&lt;/p&gt;
 &lt;h3 id=&#34;21-create-a-json-file-using-your-local-terminal&#34;&gt;2.1. Create a JSON file using your local terminal.&lt;/h3&gt;
 &lt;p&gt;JSON files are text files in &amp;ldquo;JavaScript Object Notation&amp;rdquo; (&lt;a href=&#34;https://www.json.org/json-en.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JSON&lt;/a&gt;)
 whose content is structured in a more human-readable format.
@@ -248,7 +248,7 @@ Each cat has information about its &amp;ldquo;breed&amp;rdquo;, &amp;ldquo;count
 &lt;p&gt;The objective of this and of the following questions is to write shellscripts that read this type of file.
 To answer question 2, start by opening your local terminal and creating a file named &amp;ldquo;catfacts.json&amp;rdquo;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host: vi catfacts.json
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Here is my screen with &amp;ldquo;vim&amp;rdquo; open and the creation of &amp;ldquo;catfacts.json&amp;rdquo;.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Here is my screen with &amp;ldquo;vi&amp;rdquo; open and the creation of &amp;ldquo;catfacts.json&amp;rdquo;.
 
 
 
@@ -301,7 +301,7 @@ and alphabetically sorted (sort):&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;#34;breed&amp;#34;: &amp;#34;Australian Mist&amp;#34;,
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Provide a screenshot with the output above on your terminal as your answer to question 2.&lt;/p&gt;
 &lt;h2 id=&#34;question-3&#34;&gt;Question 3&lt;/h2&gt;
-&lt;p&gt;The steps below will give you better structure to answer this question.&lt;/p&gt;
+&lt;p&gt;The steps below will give you some structure to answer this question.&lt;/p&gt;
 &lt;h3 id=&#34;31-install-jq-in-your-local-system&#34;&gt;3.1. Install JQ in your local system.&lt;/h3&gt;
 &lt;p&gt;To answer questions 3-6, install &lt;a href=&#34;https://stedolan.github.io/jq/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JQ&lt;/a&gt; in your system.
 For Linux users (your COMP 141 Virtual Machine is Linux):&lt;/p&gt;
@@ -356,11 +356,11 @@ You can use grep or other commands written to a shellscript (&amp;quot;.sh&amp;q
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And here is an example of how you can extract the age of the second person (the one at position &amp;ldquo;.[1]&amp;rdquo;):&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host% jq &amp;#39;.[1].age&amp;#39; folks.json
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;4-get-folks-with-age-equal-to-25&#34;&gt;4. Get folks with age equal to 25?&lt;/h2&gt;
-&lt;p&gt;Here is the JQ command for that&lt;/p&gt;
+&lt;p&gt;Here is the JQ command for that:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host% jq &amp;#39;.[] | select(.age == 25)&amp;#39; folks.json
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To make it a script, add the command above to a new file named &amp;ldquo;age25.sh&amp;rdquo;.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host% vi age25.sh
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Here is my screenshot saving this file with &amp;ldquo;vim&amp;rdquo;:
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Here is my screenshot saving this file with &amp;ldquo;vi&amp;rdquo;:
 
 
 
@@ -398,7 +398,7 @@ You can use grep or other commands written to a shellscript (&amp;quot;.sh&amp;q
 &lt;p&gt;The command below removes the first name from the &lt;strong&gt;first&lt;/strong&gt; person (position &amp;ldquo;.[0]&amp;rdquo;):&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user@host% jq &amp;#39;del(.[0].first)&amp;#39; folks.json
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;blockquote&gt;
-&lt;p&gt;You can do the same thing for the last person, using &amp;ldquo;.[2].first&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;You can do the same thing for the last person, using &amp;ldquo;del(.[2].first)&amp;rdquo;.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;6-get-sum-of-ages&#34;&gt;6. Get sum of ages?&lt;/h2&gt;
 &lt;p&gt;The command below sums up all the ages in the JSON file:&lt;/p&gt;
@@ -408,7 +408,7 @@ You can use grep or other commands written to a shellscript (&amp;quot;.sh&amp;q
 refers to the 3rd and last.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;following-questions&#34;&gt;Following Questions&lt;/h2&gt;
-&lt;p&gt;Questions 7-11 are more straightforward, but may you have any issues, please let me know.&lt;/p&gt;
+&lt;p&gt;Questions 7-11 are more straightforward, but may you have any issues, let me know.&lt;/p&gt;
 </description>
     </item>
     
