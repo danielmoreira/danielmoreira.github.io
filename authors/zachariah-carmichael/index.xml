@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zachariah Carmichael | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/authors/zachariah-carmichael/</link>
+      <atom:link href="https://danielmoreira.github.io/authors/zachariah-carmichael/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zachariah Carmichael</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Zachariah Carmichael</title>
+      <link>https://danielmoreira.github.io/authors/zachariah-carmichael/</link>
+    </image>
+    
+    <item>
+      <title>Motif Mining: Finding and Summarizing Remixed Image Content</title>
+      <link>https://danielmoreira.github.io/publication/2023_wacv_motif/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2023_wacv_motif/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
