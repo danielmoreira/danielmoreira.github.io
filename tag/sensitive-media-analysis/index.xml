@@ -18,7 +18,8 @@
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       <guid>https://danielmoreira.github.io/project/sma/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded, &lt;strong&gt;Funded by:&lt;/strong&gt; Samsung Eletrônica da Amazônia Ltda.&lt;br&gt;
-&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://www.ic.unicamp.br/~rocha/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anderson Rocha&lt;/a&gt;&lt;/p&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://www.ic.unicamp.br/~rocha/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anderson Rocha&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href=&#34;https://www.unicamp.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Campinas&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The Sensitive Media Analysis (SMA) project aims at researching solutions to combine different and complementary data representations and pattern classifiers for detecting sensitive content in digital images and videos.&lt;/p&gt;
 &lt;p&gt;Sensitive media can be defined as the digital content whose depiction to particular audiences (e.g., children or unwary spectators), at particular places (e.g., at work, at school, in the church) may inflict harm (e.g., trauma, shock, or fear) due to its inappropriateness.
 Typical representatives include – but are not limited to – scenes depicting pornography and violence, animal cruelty and child abuse, hate speech, etc.&lt;/p&gt;
@@ -32,7 +33,7 @@ Typical representatives include – but are not limited to – scenes depicting 
 &lt;li&gt;Dr. Sandra Avila (Postdoc)&lt;/li&gt;
 &lt;li&gt;Daniel Moreira (PhD Student)&lt;/li&gt;
 &lt;li&gt;Mauricio Perez (MSc Student)&lt;/li&gt;
-&lt;li&gt;Daniel Moraes (Programmer)&lt;/li&gt;
+&lt;li&gt;Daniel Moraes (Developer)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

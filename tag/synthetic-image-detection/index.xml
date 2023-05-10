@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Image Manipulation Detection | Daniel Moreira</title>
-    <link>https://danielmoreira.github.io/tag/image-manipulation-detection/</link>
-      <atom:link href="https://danielmoreira.github.io/tag/image-manipulation-detection/index.xml" rel="self" type="application/rss+xml" />
-    <description>Image Manipulation Detection</description>
+    <title>Synthetic Image Detection | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tag/synthetic-image-detection/</link>
+      <atom:link href="https://danielmoreira.github.io/tag/synthetic-image-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Synthetic Image Detection</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
-      <title>Image Manipulation Detection</title>
-      <link>https://danielmoreira.github.io/tag/image-manipulation-detection/</link>
+      <title>Synthetic Image Detection</title>
+      <link>https://danielmoreira.github.io/tag/synthetic-image-detection/</link>
     </image>
     
     <item>

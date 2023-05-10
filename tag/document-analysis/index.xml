@@ -17,7 +17,8 @@
       <link>https://danielmoreira.github.io/project/semafor/</link>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://danielmoreira.github.io/project/semafor/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Ongoing, &lt;strong&gt;Funded by:&lt;/strong&gt; DARPA&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Ongoing, &lt;strong&gt;Funded by:&lt;/strong&gt; DARPA&lt;br&gt;
+&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href=&#34;https://www.nd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Notre Dame&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The Semantic Forensics research project (&lt;a href=&#34;https://www.darpa.mil/program/semantic-forensics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SemaFor&lt;/a&gt;) is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA), whose goal is to leverage forensic tools to perform the &lt;strong&gt;detection&lt;/strong&gt; of the existence, &lt;strong&gt;atribution&lt;/strong&gt; of the authorship, and &lt;strong&gt;characterization&lt;/strong&gt; of the intention of manipulated digital media.&lt;/p&gt;
 &lt;p&gt;Working together with the Universities of Purdue, Siena, Campinas (Unicamp), Naples Federico II, and the Politécnico di Milano, our team leads the development of solutions to the problem of digital document analysis (such as scientific papers, news articles, patents, grants, etc.).
 By combining ideas from the topics of image retrieval, digital image forensics, natural language processing, and deep learning, we aim at proposing multimodal methods to spot semantic inconsistencies within the content of documents.&lt;/p&gt;
@@ -31,7 +32,7 @@ By combining ideas from the topics of image retrieval, digital image forensics, 
 &lt;li&gt;William Theisen (PhD Student)&lt;/li&gt;
 &lt;li&gt;Trenton Ford (PhD Student)&lt;/li&gt;
 &lt;li&gt;Rosaura VidalMata (PhD Student)&lt;/li&gt;
-&lt;li&gt;Priscila Saboia Moreira (PhD Student)&lt;/li&gt;
+&lt;li&gt;Priscila Saboia (PhD Student)&lt;/li&gt;
 &lt;li&gt;João P. Cardenuto (PhD Student)&lt;/li&gt;
 &lt;/ul&gt;
 </description>

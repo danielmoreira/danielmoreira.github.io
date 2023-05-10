@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TRoF | Daniel Moreira</title>
-    <link>https://danielmoreira.github.io/tag/trof/</link>
-      <atom:link href="https://danielmoreira.github.io/tag/trof/index.xml" rel="self" type="application/rss+xml" />
-    <description>TRoF</description>
+    <title>Video Description and Representation | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tag/video-description-and-representation/</link>
+      <atom:link href="https://danielmoreira.github.io/tag/video-description-and-representation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Video Description and Representation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
-      <title>TRoF</title>
-      <link>https://danielmoreira.github.io/tag/trof/</link>
+      <title>Video Description and Representation</title>
+      <link>https://danielmoreira.github.io/tag/video-description-and-representation/</link>
     </image>
     
     <item>
@@ -67,40 +67,6 @@ They do not convey any license or title under any patent or copyright, and they 
 &lt;p&gt;This software was developed through the project &amp;ldquo;Sensitive Media Analysis&amp;rdquo;, hosted at the University of Campinas, and sponsored by Samsung Eletronica da Amazonia Ltda., in the framework of the Brazilian law N. 815 8,248/91.
 We thank the financial support of the Brazilian Council for Scientific and Technological Development - CNPq (Grants #477662/2013-7, #304472/2015-8), the Sao Paulo Research Foundation - Fapesp (DejaVu Grant #2015/19222-9), and the Coordination for the Improvement of Higher Level Education Personnel - CAPES (DeepEyes project).&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Temporal Robust Features for Violence Detection</title>
-      <link>https://danielmoreira.github.io/publication/2017_wacv/</link>
-      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://danielmoreira.github.io/publication/2017_wacv/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/yoV4b1CQ1aY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Pornography classification: The hidden clues in video space–time</title>
-      <link>https://danielmoreira.github.io/publication/2016_fsi/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://danielmoreira.github.io/publication/2016_fsi/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/ZfaW5kvXjMo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Sensitive-Video Analysis</title>
-      <link>https://danielmoreira.github.io/publication/2016_dissertation/</link>
-      <pubDate>Tue, 19 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://danielmoreira.github.io/publication/2016_dissertation/</guid>
-      <description></description>
     </item>
     
   </channel>

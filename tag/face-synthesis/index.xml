@@ -18,7 +18,8 @@
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       <guid>https://danielmoreira.github.io/project/srefv/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded&lt;br&gt;
-&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;http://sites.nd.edu/patrick-flynn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Patrick Flynn&lt;/a&gt;&lt;/p&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;http://sites.nd.edu/patrick-flynn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Patrick Flynn&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href=&#34;https://www.nd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Notre Dame&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The SREFV project aims at extending &lt;a href=&#34;https://cvrl.nd.edu/projects/?project_name=Synthesis%20of%20Realistic%20Example%20Face%20Images%20%28SREFI%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;prior research&lt;/a&gt; on synthesis of realistic faces, to support the generation of videos containing animated faces with synthetic identities, depicted either frontally or in varying poses.&lt;/p&gt;
 &lt;p&gt;
 

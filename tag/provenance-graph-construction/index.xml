@@ -34,7 +34,8 @@
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://danielmoreira.github.io/project/medifor/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded, &lt;strong&gt;Funded by:&lt;/strong&gt; DARPA&lt;br&gt;
-&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://www.wjscheirer.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Walter Scheirer&lt;/a&gt;&lt;/p&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://www.wjscheirer.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Walter Scheirer&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href=&#34;https://www.nd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Notre Dame&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The Media Forensics research project (&lt;a href=&#34;https://www.darpa.mil/program/media-forensics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MediFor&lt;/a&gt;) is an endeavor funded by the Defense Advanced Research Projects Agency (DARPA) and the Air Force Research Laboratory (AFRL), whose goal is to develop solutions for the automated assessment of the integrity of digital images.&lt;/p&gt;
 &lt;p&gt;Working together with the Universities of Purdue, South California (USC), New York (NYU), Siena, Campinas (Unicamp), and the Politécnico di Milano, our team leads the development of solutions to the problem of Provenance Analysis. Given a questioned image, namely a probe, and a large corpus of images (such as the Internet), Provenance Analysis aims at two major tasks:&lt;/p&gt;
 &lt;ol&gt;

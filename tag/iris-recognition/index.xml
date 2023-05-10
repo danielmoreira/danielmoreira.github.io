@@ -679,7 +679,8 @@ Zoom: &lt;a href=&#34;https://notredame.zoom.us/my/dmoreira&#34; target=&#34;_bl
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
       <guid>https://danielmoreira.github.io/project/tshepii/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Concluded&lt;br&gt;
-&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adam Czajka&lt;/a&gt;&lt;/p&gt;
+&lt;strong&gt;Advisor:&lt;/strong&gt; Prof. &lt;a href=&#34;https://engineering.nd.edu/profiles/aczajka&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adam Czajka&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href=&#34;https://www.nd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Notre Dame&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The TSHEPII project aims at developing a software tool to support the human examination of post-mortem iris images.
 The tool puts together diverse computer vision techniques to automatically process, extract, annotate, and match iris regions from two different eye captures.
 The idea is to give to the user enough iris texture matching and non-matching information, so they can decided if the two given images depict the same eye or not.&lt;/p&gt;
