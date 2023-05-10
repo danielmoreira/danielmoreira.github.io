@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analysis | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tag/data-analysis/</link>
+      <atom:link href="https://danielmoreira.github.io/tag/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Data Analysis</title>
+      <link>https://danielmoreira.github.io/tag/data-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Computing for the Sciences, Spring 2023</title>
+      <link>https://danielmoreira.github.io/teaching/compsci-spr23/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/teaching/compsci-spr23/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /teaching/compsci-spr23/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_441bc80ad1c81e0cdc59f780992eaa3c.webp 400w,
+               /teaching/compsci-spr23/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_7feba80859f150d09ce3a0356959bd2e.webp 760w,
+               /teaching/compsci-spr23/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/compsci-spr23/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_441bc80ad1c81e0cdc59f780992eaa3c.webp&#34;
+               width=&#34;250px&#34;
+               height=&#34;116&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;p&gt;Course: COMP 180-001 Computing and Data Analysis for the Sciences&lt;br&gt;
+Level: Undergraduate&lt;br&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;br&gt;
+Teaching Assistant: Jerome Santos (&lt;a href=&#34;mailto:msantos@luc.edu&#34;&gt;msantos@luc.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Lectures: TUE, 4:15 to 6:45 PM, 103 Cuneo Hall.
+Office Hours: THR, 6:00 to 8:00 PM, and FRI, 10:00 AM to 12:00 PM, &lt;a href=&#34;https://calendly.com/danielmoreira/comp-180-office-hours&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;
+Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/ouBYMu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sakai.luc.edu/x/ouBYMu&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Grades are now &lt;a href=&#34;https://danielmoreira.github.io/teaching/compsci-spr23/grades.pdf&#34;&gt;available&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Food establishments in Chicago.&#34; srcset=&#34;
+               /teaching/compsci-spr23/food_map_hud0aaa8180fa6f7d63b082ff22f25d22b_224304_43a9be8ab675ef1ec86fc0c6a4f0aade.webp 400w,
+               /teaching/compsci-spr23/food_map_hud0aaa8180fa6f7d63b082ff22f25d22b_224304_3ef9a5bc18677de5d792f7b56c25db05.webp 760w,
+               /teaching/compsci-spr23/food_map_hud0aaa8180fa6f7d63b082ff22f25d22b_224304_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/compsci-spr23/food_map_hud0aaa8180fa6f7d63b082ff22f25d22b_224304_43a9be8ab675ef1ec86fc0c6a4f0aade.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;546&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;font size=&#34;1&#34;&gt;Map with inspected Chicago food establishments generated during the course.&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;Regardless of their field, scientists&amp;rsquo; work generates and consumes large troves of research data,
+whose effective, efficient, and reliable storage, management, processing, interpretation, presentation, and sharing
+are mostly possible due to the current computer systems.
+Besides mastering one&amp;rsquo;s own scientific area of research, mastering the usage of the available computing power
+to analyze data has become essential to foster steady and solid scientific progress.
+This course aims at training attendees to use modern computing tools and techniques to perform rapid
+data analysis and rich data presentation, both within collaborative environments and in scientific contexts.
+At the end of the course, students shall be well-versed in writing their own programs and leveraging up-to-date
+scientific libraries to collaboratively analyze their research data and richly present their findings.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Attending students are required to have taken MATH 117 (College Algebra) or have been placed in MATH 118
+(Precalculus) or higher.
+Please refer to &lt;a href=&#34;https://sakai.luc.edu/x/ouBYMu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt; for having access to the materials, assignments, quizzes,
+announcements, grading, and progress of the course. This page is static and will not be updated.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+&lt;p&gt;This course is heavily based on Dr. &lt;a href=&#34;https://abuhamad.cs.luc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mohammed Abuhamad’s&lt;/a&gt; previous course.
+I sincerely thank Mohammed for kindly allowing me to rely upon his materials.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Harrington, A. &lt;em&gt;Hands-on Python Tutorial&lt;/em&gt;. Available at &lt;a href=&#34;https://anh.cs.luc.edu/python/hands-on/3.1/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://anh.cs.luc.edu/python/hands-on/3.1/index.html&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The City of Chicago. &lt;em&gt;Chicago Food Inspections Dataset&lt;/em&gt;. Available at: &lt;a href=&#34;https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
