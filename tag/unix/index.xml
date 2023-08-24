@@ -51,7 +51,8 @@ Level: Undergraduate and Graduate&lt;br&gt;
 Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;/p&gt;
 &lt;!-- Teaching Assistants: Brianna Chou (bchou@luc.edu) and Jerome Santos (msantos@luc.edu) --&gt;
 &lt;p&gt;Lectures: TUE, 4:15 to 5:30 PM, &lt;a href=&#34;https://luc.zoom.us/j/83489970255&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt;&lt;br&gt;
-Office Hours: MON and TUE evenings, 6:00 to 8:00 PM, and WED mornings, 8:00 AM to 12:00 PM, &lt;a href=&#34;https://bit.ly/3KUUaND&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;&lt;br&gt;
+Office Hours: &lt;a href=&#34;https://bit.ly/3KUUaND&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;, MON and TUE evenings, 6:00 to 8:00 PM, and WED mornings,
+8:00 AM to 12:00 PM&lt;br&gt;
 Sakai: &lt;em&gt;soon&lt;/em&gt;&lt;/p&gt;
 &lt;!--- &gt; Announcements. --&gt;
 &lt;hr&gt;
@@ -85,8 +86,7 @@ Many development scenarios still require command line and fluency in Unix tools,
 cloud, cybersecurity, and supercomputing environments. With mobile computing and Internet of Things, Unix (via Linux)
 has risen to the level of a ubiquitous platform, owing to its lightweight and open-source nature.
 While this course does not aim at being a comprehensive programming class, students will master basic programming
-skills using shell scripting.
-They will also learn about problem-solving using Unix commands supported by shell scripts.&lt;/p&gt;
+skills using shell scripting. They will also learn about problem-solving using Unix commands supported by shell scripts.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Please refer to &lt;a href=&#34;*soon*&#34;&gt;Sakai&lt;/a&gt; for having access to the materials, assignments, quizzes,
 announcements, grading, and progress of the course. This page is static and will not be updated.&lt;/p&gt;
