@@ -5,12 +5,271 @@
     <link>https://danielmoreira.github.io/tag/face-recognition/</link>
       <atom:link href="https://danielmoreira.github.io/tag/face-recognition/index.xml" rel="self" type="application/rss+xml" />
     <description>Face Recognition</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
       <title>Face Recognition</title>
       <link>https://danielmoreira.github.io/tag/face-recognition/</link>
     </image>
+    
+    <item>
+      <title>Biometrics, Fall 2023</title>
+      <link>https://danielmoreira.github.io/teaching/biometrics-aut23/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/teaching/biometrics-aut23/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /teaching/biometrics-aut23/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_441bc80ad1c81e0cdc59f780992eaa3c.webp 400w,
+               /teaching/biometrics-aut23/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_7feba80859f150d09ce3a0356959bd2e.webp 760w,
+               /teaching/biometrics-aut23/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_441bc80ad1c81e0cdc59f780992eaa3c.webp&#34;
+               width=&#34;250px&#34;
+               height=&#34;116&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;p&gt;Course: COMP 388-002 / COMP 488-002 Computer Science Topics&lt;br&gt;
+Level: Undergraduate and Graduate&lt;br&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Lectures: MON and WED, 4:15 to 5:30 PM, 218 Cuneo Hall&lt;br&gt;
+Office Hours: MON and TUE evenings, 6:00 to 8:00 PM, and WED mornings, 8:00 AM to 12:00 PM, &lt;a href=&#34;https://bit.ly/3KUUaND&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;&lt;br&gt;
+Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/gUHhNw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sakai.luc.edu/x/gUHhNw&lt;/a&gt;&lt;/p&gt;
+&lt;!--- &gt; Announcements. --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;!--- ![Computer Vision then and now.](cv-then-now.gif) --&gt;
+&lt;p&gt;How do computers match a person&amp;rsquo;s fingerprints?
+Do they still use the same techniques proposed in the XIX century?
+How do computers identify people captured in a video?
+Do they leverage the depicted faces only, or can they use other traits such as gait or voice?
+How about iris recognition as portrayed in the movies?
+Is it really possible?
+What happens in the case of people who look very similar, such as identical twins?
+Which traits are more reliable and robust to impersonation or prone to falsification?
+These are some of the questions we will address in this course, whose main topic is Biometrics.
+In a nutshell, Biometrics is the study of techniques to identify individuals through their physical, chemical, and behavioral traits, such as fingerprints, face, iris, DNA, voice, gait, etc.
+Our focus will be on the technical and ethical aspects of computer-aided Biometrics, discussing the issues of going from simple and benign authentication to the more problematic case of surveillance.
+The course will have an intense hands-on approach, with the collection of samples and implementation of fingerprint, face, and iris recognition.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Requirements to attend this course are basic programming skills (especially Python).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;progress&#34;&gt;Progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Soon&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;08/28 - First class&lt;/li&gt;
+&lt;li&gt;09/04 - Labor day, no classes&lt;/li&gt;
+&lt;li&gt;10/04 - Midterm exam&lt;/li&gt;
+&lt;li&gt;10/09 - Fall Break, no classes&lt;/li&gt;
+&lt;li&gt;11/22 - Thanksgiving, no classes&lt;/li&gt;
+&lt;li&gt;12/06 - Final project presentations&lt;/li&gt;
+&lt;li&gt;12/11-16 - Final exam, more details soon&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;More updates soon&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Soon&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;grading&#34;&gt;Grading&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;% Interval&lt;/th&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;% Interval&lt;/th&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;% Interval&lt;/th&gt;
+&lt;th&gt;Concept&lt;/th&gt;
+&lt;th&gt;% Interval&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;[96, 100)&lt;/td&gt;
+&lt;td&gt;B+&lt;/td&gt;
+&lt;td&gt;[88, 92)&lt;/td&gt;
+&lt;td&gt;C+&lt;/td&gt;
+&lt;td&gt;[76, 80)&lt;/td&gt;
+&lt;td&gt;D+&lt;/td&gt;
+&lt;td&gt;[64, 68)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A-&lt;/td&gt;
+&lt;td&gt;[92, 96)&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;td&gt;[84, 88)&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;td&gt;[72, 76)&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;td&gt;[60, 64)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;B-&lt;/td&gt;
+&lt;td&gt;[80, 84)&lt;/td&gt;
+&lt;td&gt;C-&lt;/td&gt;
+&lt;td&gt;[68, 72)&lt;/td&gt;
+&lt;td&gt;F&lt;/td&gt;
+&lt;td&gt;[0, 60)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;distribution-undergraduate&#34;&gt;Distribution (Undergraduate)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Participation: 10%&lt;/li&gt;
+&lt;li&gt;Assignments (4): 40%&lt;/li&gt;
+&lt;li&gt;Exams (2): 50%&lt;/li&gt;
+&lt;li&gt;Final Project: +10% (extra)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Biometrics-on-the-news&lt;/em&gt; Post: +1% (extra)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;distribution-graduate&#34;&gt;Distribution (Graduate)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Participation: 10%&lt;/li&gt;
+&lt;li&gt;Assignments (4): 25%&lt;/li&gt;
+&lt;li&gt;Exams (2): 40%&lt;/li&gt;
+&lt;li&gt;Final Project: 25%&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Biometrics-on-the-news&lt;/em&gt; Post: +1% (extra)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;participation&#34;&gt;Participation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Class Attendance: every presence counts&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Today-I-missed&lt;/em&gt; Statements: every submission counts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Today I missed&amp;amp;hellip;&#34;
+           src=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/point.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Today-I-missed&lt;/em&gt; Statements&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;After every attended class, each student will have to submit (through Sakai) a short paragraph answering one of the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What was your biggest question after class? &lt;strong&gt;OR&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;What was the most interesting point learned during class?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;Inspired by  &lt;a href=&#34;https://www.ic.unicamp.br/~sandra/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sandra Avila&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Oopsie card.&#34;
+           src=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/card.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Oopsie&lt;/em&gt; Cards&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Each student has three &lt;em&gt;&amp;ldquo;Oopsie&amp;rdquo;&lt;/em&gt; Cards, which will allow them to avoid losing points because of class absence
+and lack of &lt;em&gt;Today-I-missed&lt;/em&gt; Statement submissions.
+They might also use their cards to excuse assignments delivered late.
+The cards are not valid to dismiss or postpone exam and final project dates.
+Students may use their three cards at their own discretion, as long as they clearly communicate the instructor.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Life happens, be wise.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;assignments&#34;&gt;Assignments&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Assignment 1: &lt;em&gt;soon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Assignment 2: &lt;em&gt;soon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Assignment 3: &lt;em&gt;soon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Assignment 4: &lt;em&gt;soon&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;exams&#34;&gt;Exams&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Midterm Exam: &lt;em&gt;soon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Final Exam: &lt;em&gt;soon&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;final-project&#34;&gt;Final Project&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Soon&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;biometrics-on-the-news&#34;&gt;Biometrics On the News&lt;/h2&gt;
+&lt;p&gt;Posted by the students and the instructor on Sakai.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Soon&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Soon&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;academic-integrity&#34;&gt;Academic Integrity&lt;/h2&gt;
+&lt;p&gt;Students are expected to adhere to the LUC statements on academic integrity available at &lt;a href=&#34;https://bit.ly/3TmiQkQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/3TmiQkQ&lt;/a&gt;.
+These policies fully apply to this course.
+The penalty for task-wise academic misconduct is losing all the task&amp;rsquo;s points.
+Multiple events of misconduct will incur in failing the entire course (with an F grade).
+All cases of academic misconduct will be reported to the proper department offices.
+Lastly, students are not allowed to use AI assisted technology (such as &lt;a href=&#34;https://chat.openai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ChatGPT&lt;/a&gt;) along the entirety of the course,
+unless explicitly authorized by the instructor.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;accommodations&#34;&gt;Accommodations&lt;/h2&gt;
+&lt;p&gt;Students who have disabilities and wish to request academic accommodations are advised to contact the
+&lt;em&gt;Services for Students With Disabilities&lt;/em&gt; (SSWD) office at 773-508-3700 or &lt;a href=&#34;mailto:SSWD@luc.edu&#34;&gt;SSWD@luc.edu&lt;/a&gt; as soon as possible.
+The SSWD office will provide accommodation letters that, once shared with the instructor, will be fully accommodated
+as per the terms of their content with no further questions.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Biometrics, Spring 2022</title>
