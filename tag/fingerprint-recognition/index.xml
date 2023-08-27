@@ -50,8 +50,8 @@
 Level: Undergraduate and Graduate&lt;br&gt;
 Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Lectures: MON and WED, 4:15 to 5:30 PM, 218 Cuneo Hall&lt;br&gt;
-Office Hours: &lt;a href=&#34;https://bit.ly/3KUUaND&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;, MON and TUE evenings, 6:00 to 8:00 PM, and WED mornings,
-8:00 AM to 12:00 PM&lt;br&gt;
+Office Hours: MON and TUE evenings, 6 to 8 PM, and WED mornings, 8 AM to noon, 310 Doyle Center or Zoom,
+&lt;a href=&#34;https://bit.ly/3KUUaND&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;&lt;br&gt;
 Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/gUHhNw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sakai.luc.edu/x/gUHhNw&lt;/a&gt;&lt;/p&gt;
 &lt;!--- &gt; Announcements. --&gt;
 &lt;hr&gt;
@@ -79,7 +79,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;hr&gt;
 &lt;h2 id=&#34;progress&#34;&gt;Progress&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Soon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;08/28 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_01.pdf&#34;&gt;Syllabus,&lt;/a&gt; Course details.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
@@ -89,7 +89,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;10/04 - Midterm Exam&lt;/li&gt;
 &lt;li&gt;10/09 - Fall Break, no classes&lt;/li&gt;
 &lt;li&gt;11/22 - Thanksgiving, no classes&lt;/li&gt;
-&lt;li&gt;12/06 - Final Project presentations&lt;/li&gt;
+&lt;li&gt;12/06 - Project presentations&lt;/li&gt;
 &lt;li&gt;12/11-16 - Final Exam, more details soon&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;More updates soon&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -142,31 +142,94 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;td&gt;C-&lt;/td&gt;
 &lt;td&gt;[68, 72)&lt;/td&gt;
 &lt;td&gt;F&lt;/td&gt;
-&lt;td&gt;[0, 60)&lt;/td&gt;
+&lt;td&gt;(0, 60)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h3 id=&#34;distribution-undergraduate&#34;&gt;Distribution (Undergraduate)&lt;/h3&gt;
+&lt;h3 id=&#34;distribution&#34;&gt;Distribution&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Undergraduate  &lt;/th&gt;
+&lt;th&gt;Graduate&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Assignments (4)  &lt;/td&gt;
+&lt;td&gt;40%&lt;/td&gt;
+&lt;td&gt;25%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Exams (2)&lt;/td&gt;
+&lt;td&gt;50%&lt;/td&gt;
+&lt;td&gt;40%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Project&lt;/td&gt;
+&lt;td&gt;+10% (extra)&lt;/td&gt;
+&lt;td&gt;25%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Participation&lt;/td&gt;
+&lt;td&gt;10%&lt;/td&gt;
+&lt;td&gt;10%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;On the News&lt;/td&gt;
+&lt;td&gt;+1% (extra)&lt;/td&gt;
+&lt;td&gt;+1% (extra)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;assignments&#34;&gt;Assignments&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Participation: 10% of grade&lt;/li&gt;
-&lt;li&gt;Assignments (4): 40%&lt;/li&gt;
-&lt;li&gt;Exams (2): 50%&lt;/li&gt;
-&lt;li&gt;Final Project: +10% (extra)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Biometrics-on-the-news&lt;/em&gt; Post: +1% (extra)&lt;/li&gt;
+&lt;li&gt;Assignment 1, Metric Collection, &lt;em&gt;more soon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Assignment 2, Fingerprint Recognition, &lt;em&gt;more soon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Assignment 3, Face Recognition, &lt;em&gt;more soon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Assignment 4, Iris Recognition, &lt;em&gt;more soon&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;distribution-graduate&#34;&gt;Distribution (Graduate)&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Late Policy&lt;/strong&gt;&lt;br&gt;
+Deduction of 10% of the maximum possible grade for each day of delay.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;exams&#34;&gt;Exams&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Participation: 10% of grade&lt;/li&gt;
-&lt;li&gt;Assignments (4): 25%&lt;/li&gt;
-&lt;li&gt;Exams (2): 40%&lt;/li&gt;
-&lt;li&gt;Final Project: 25%&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Biometrics-on-the-news&lt;/em&gt; Post: +1% (extra)&lt;/li&gt;
+&lt;li&gt;Midterm Exam, 10/04, &lt;em&gt;more soon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Final Exam, 12/11-16, &lt;em&gt;more soon&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;project&#34;&gt;Project&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Written report and presentation, work alone or in pairs, &lt;em&gt;more soon&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Possible Topics&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentation attack (performance, detection, and mitigation) of fingerprint recognition.&lt;/li&gt;
+&lt;li&gt;Presentation attack of face recognition.&lt;/li&gt;
+&lt;li&gt;Presentation attack of iris recognition.&lt;/li&gt;
+&lt;li&gt;Implementation of &lt;em&gt;complete&lt;/em&gt; class attendance system.&lt;/li&gt;
+&lt;li&gt;Implementation of recognition of traits other than fingerprints, face, and iris.&lt;/li&gt;
+&lt;li&gt;Presentation and implementation of state-of-the-art scientific publications.&lt;/li&gt;
+&lt;li&gt;Discussion about the ethical aspects of Biometrics and surveillance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a name=&#34;part&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;participation&#34;&gt;Participation&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Class Attendance: every presence counts&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Today-I-missed&lt;/em&gt; Statements: every submission counts&lt;/li&gt;
 &lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Today-I-missed&lt;/em&gt; Statements&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;After every attended class, each student will have to submit (through Sakai) a short paragraph answering one of the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What is your biggest question after class? &lt;strong&gt;OR&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;What was the most interesting point you learned today?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;Inspired by  &lt;a href=&#34;https://www.ic.unicamp.br/~sandra/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sandra Avila&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;
 
 
@@ -191,13 +254,13 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Today-I-missed&lt;/em&gt; Statements&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;After every attended class, each student will have to submit (through Sakai) a short paragraph answering one of the following:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;What was your biggest question after class? &lt;strong&gt;OR&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;What was the most interesting point learned during class?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;em&gt;Inspired by  &lt;a href=&#34;https://www.ic.unicamp.br/~sandra/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sandra Avila&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Oopsie&lt;/em&gt; Cards&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Each student has three &lt;em&gt;&amp;ldquo;Oopsie&amp;rdquo;&lt;/em&gt; Cards, which will allow them to avoid losing points because of class absence
+and lack of &lt;em&gt;Today-I-missed&lt;/em&gt; Statement submissions.
+They might also use their cards to excuse late-delivered assignments.
+The cards are not valid to dismiss or postpone exam and final project dates.
+Students may use their three cards at their own discretion, as long as they clearly communicate the instructor.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Life happens, be wise.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;
 
@@ -222,31 +285,6 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Oopsie&lt;/em&gt; Cards&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Each student has three &lt;em&gt;&amp;ldquo;Oopsie&amp;rdquo;&lt;/em&gt; Cards, which will allow them to avoid losing points because of class absence
-and lack of &lt;em&gt;Today-I-missed&lt;/em&gt; Statement submissions.
-They might also use their cards to excuse assignments delivered late.
-The cards are not valid to dismiss or postpone exam and final project dates.
-Students may use their three cards at their own discretion, as long as they clearly communicate the instructor.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Life happens, be wise.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;assignments&#34;&gt;Assignments&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Assignment 1, Metrics (&lt;em&gt;soon&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Assignment 2, Fingerprint Recognition (&lt;em&gt;soon&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Assignment 3, Face Recognition (&lt;em&gt;soon&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Assignment 4, Iris Recognition (&lt;em&gt;soon&lt;/em&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;exams&#34;&gt;Exams&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Midterm Exam: &lt;em&gt;soon&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Final Exam: &lt;em&gt;soon&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;final-project&#34;&gt;Final Project&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Soon&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;biometrics-on-the-news&#34;&gt;Biometrics on the News&lt;/h2&gt;
 &lt;p&gt;Posted by the students and the instructor on Sakai.&lt;/p&gt;

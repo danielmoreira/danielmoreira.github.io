@@ -48,12 +48,12 @@
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
 &lt;p&gt;Course: COMP 141-001 / COMP 400D-001 Intro to Computing Tool&lt;br&gt;
 Level: Undergraduate and Graduate&lt;br&gt;
-Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;/p&gt;
-&lt;!-- Teaching Assistants: Brianna Chou (bchou@luc.edu) and Jerome Santos (msantos@luc.edu) --&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;br&gt;
+Teaching Assistants: Alvaro Delandaluce (&lt;a href=&#34;mailto:adelandaluce@luc.edu&#34;&gt;adelandaluce@luc.edu&lt;/a&gt;) and Bright Duffour (&lt;a href=&#34;mailto:bduffour@luc.edu&#34;&gt;bduffour@luc.edu&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Lectures: TUE, 4:15 to 5:30 PM, &lt;a href=&#34;https://luc.zoom.us/j/83489970255&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt;&lt;br&gt;
-Office Hours: &lt;a href=&#34;https://bit.ly/3KUUaND&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;, MON and TUE evenings, 6:00 to 8:00 PM, and WED mornings,
-8:00 AM to 12:00 PM&lt;br&gt;
-Sakai: &lt;em&gt;soon&lt;/em&gt;&lt;/p&gt;
+Office Hours: MON and TUE evenings, 6 to 8 PM, and WED mornings, 8 AM to noon, 310 Doyle Center or Zoom,
+&lt;a href=&#34;https://bit.ly/3KUUaND&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt; &lt;br&gt;
+Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/Qzs2kZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sakai.luc.edu/x/Qzs2kZ&lt;/a&gt;&lt;/p&gt;
 &lt;!--- &gt; Announcements. --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -88,14 +88,17 @@ has risen to the level of a ubiquitous platform, owing to its lightweight and op
 While this course does not aim at being a comprehensive programming class, students will master basic programming
 skills using shell scripting. They will also learn about problem-solving using Unix commands supported by shell scripts.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Please refer to &lt;a href=&#34;*soon*&#34;&gt;Sakai&lt;/a&gt; for having access to the materials, assignments, quizzes,
+&lt;p&gt;Please refer to &lt;a href=&#34;https://sakai.luc.edu/x/Qzs2kZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt; for having access to the materials, assignments, quizzes,
 announcements, grading, and progress of the course. This page is static and will not be updated.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
 &lt;p&gt;This course is offered in multiple sessions with the following leading and contributing LUC instructors (Spring 2023):&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Soon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;John O&amp;rsquo;Sullivan&lt;/li&gt;
+&lt;li&gt;Nathan Hishon&lt;/li&gt;
+&lt;li&gt;Leo Irakliotis&lt;/li&gt;
+&lt;li&gt;Konstantin Läufer&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
