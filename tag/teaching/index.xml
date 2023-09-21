@@ -85,6 +85,8 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;09/06 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_03.pdf&#34;&gt;Basics II,&lt;/a&gt; Biometric systems, errors, and metrics.&lt;/li&gt;
 &lt;li&gt;09/11 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_04.pdf&#34;&gt;1st Coding Class,&lt;/a&gt; Metrics&amp;rsquo; implementation.&lt;/li&gt;
 &lt;li&gt;09/13 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_05.pdf&#34;&gt;Fingerprint Recog. I,&lt;/a&gt; History and features.&lt;/li&gt;
+&lt;li&gt;09/13 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_06.pdf&#34;&gt;Fingerprint Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;09/13 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_07.pdf&#34;&gt;Fingerprint Recog. III,&lt;/a&gt; Minutiae detection.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
@@ -92,6 +94,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;&lt;del&gt;08/28 - First Class&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;09/04 - Labor Day, no classes&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;09/11 - 1st Coding Class&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;09/25 - 2nd Coding Class and Fingerprint Collection&lt;/li&gt;
 &lt;li&gt;10/04 - Midterm Exam&lt;/li&gt;
 &lt;li&gt;10/09 - Fall Break, no classes&lt;/li&gt;
 &lt;li&gt;11/22 - Thanksgiving, no classes&lt;/li&gt;
@@ -199,7 +202,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;/table&gt;
 &lt;h3 id=&#34;assignments&#34;&gt;Assignments&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Assignment 1, Metric Collection, &lt;em&gt;more soon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_01.pdf&#34;&gt;Assignment 1&lt;/a&gt;, Metric Collection, supporting &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_01.zip&#34;&gt;data&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Assignment 2, Fingerprint Recognition, &lt;em&gt;more soon&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Assignment 3, Face Recognition, &lt;em&gt;more soon&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Assignment 4, Iris Recognition, &lt;em&gt;more soon&lt;/em&gt;&lt;/li&gt;
@@ -305,12 +308,15 @@ Students may use their three cards at their own discretion, as long as they clea
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.pbs.org/wgbh/nova/article/koala-fingerprints/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koalas have fingerprints almost identical to ours.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.dailymail.co.uk/news/article-12210813/Brazilian-thief-taped-photos-victims-faces-DUMMY-bypass-facial-recognition.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brazilian thief spoofed victims faces.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.talosintelligence.com/fingerprint-research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fingerprint cloning: myth or reality?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.technologyreview.com/2019/08/14/133723/data-leak-exposes-unchangeable-biometric-data-of-over-1-million-people/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data leak of 1M people&amp;rsquo;s biometric data in UK.&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Soon.&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theverge.com/2019/10/23/20929178/samsung-galaxy-s10-note-1o-fingerprint-recognition-issue-patch-ultrasonic-sensor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Samsung phones use ultrasonic fingerprint device.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Touch_ID&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apple uses capacitive fingerprint device (with 500 ppi).&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;academic-integrity&#34;&gt;Academic Integrity&lt;/h2&gt;
 &lt;p&gt;Students are expected to adhere to the LUC statements on academic integrity available at &lt;a href=&#34;https://bit.ly/3TmiQkQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/3TmiQkQ&lt;/a&gt;.
