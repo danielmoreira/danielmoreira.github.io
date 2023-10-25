@@ -90,12 +90,13 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;09/25 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_08.pdf&#34;&gt;Fingerprint Recog. IV,&lt;/a&gt; Data collection.&lt;/li&gt;
 &lt;li&gt;09/27 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_09.pdf&#34;&gt;2nd Coding Class,&lt;/a&gt; Fingerprint recognition.&lt;/li&gt;
 &lt;li&gt;10/02 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_10.pdf&#34;&gt;Midterm Preparation,&lt;/a&gt; Project discussion and recap.&lt;/li&gt;
-&lt;li&gt;10/04 - Midterm Exam, grades soon.&lt;/li&gt;
+&lt;li&gt;10/04 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/midterm_answers.pdf&#34;&gt;Midterm Exam,&lt;/a&gt; Grades on Sakai.&lt;/li&gt;
 &lt;li&gt;10/09 - Fall Break, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;10/11 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_11.pdf&#34;&gt;Face Recog. I,&lt;/a&gt; Why faces and faces vs. other traits.&lt;/li&gt;
 &lt;li&gt;10/16 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_12.pdf&#34;&gt;Face Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
 &lt;li&gt;10/18 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_13.pdf&#34;&gt;Face Recog. III,&lt;/a&gt; Description and matching.&lt;/li&gt;
 &lt;li&gt;10/23 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_14.pdf&#34;&gt;Face Recog. IV,&lt;/a&gt; Deep learning face recognition.&lt;/li&gt;
+&lt;li&gt;10/25 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_15.pdf&#34;&gt;3rd Coding Class,&lt;/a&gt; Face recognition.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
@@ -106,7 +107,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;&lt;del&gt;09/25 - 2nd Coding Class and Fingerprint Collection.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;10/04 - Midterm Exam.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;10/09 - Fall Break, no classes.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;10/25 - 3rd Coding Class.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;10/25 - 3rd Coding Class.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;11/22 - Thanksgiving, no classes.&lt;/li&gt;
 &lt;li&gt;12/06 - Project presentations.&lt;/li&gt;
 &lt;li&gt;12/11-16 - Final Exam, more details soon.&lt;/li&gt;
@@ -117,7 +118,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1Yd-C7m8bhHP7-QcJH70iJyyjgrKOBaNT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 01,&lt;/a&gt; Metrics&amp;rsquo; implementation.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1a6JdRkwRAMtyRif2LTIchtMCgsa7KL9l&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 02,&lt;/a&gt; Fingerprint recognition.&lt;/li&gt;
-&lt;li&gt;Notebook 03, &lt;em&gt;soon&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/18-PZJTQt1v7Pej37uVmZYNTZFdiiM2cG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 03,&lt;/a&gt; Face recognition.&lt;/li&gt;
 &lt;li&gt;Notebook 04, &lt;em&gt;soon&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
