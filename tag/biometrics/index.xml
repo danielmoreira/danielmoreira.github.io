@@ -97,6 +97,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;10/18 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_13.pdf&#34;&gt;Face Recog. III,&lt;/a&gt; Description and matching.&lt;/li&gt;
 &lt;li&gt;10/23 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_14.pdf&#34;&gt;Face Recog. IV,&lt;/a&gt; Deep learning face recognition.&lt;/li&gt;
 &lt;li&gt;10/25 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_15.pdf&#34;&gt;3rd Coding Class,&lt;/a&gt; Face recognition.&lt;/li&gt;
+&lt;li&gt;10/30 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_16.pdf&#34;&gt;Iris Recog. I,&lt;/a&gt; Why irises and irises vs. other traits.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
@@ -105,11 +106,14 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;&lt;del&gt;09/04 - Labor Day, no classes.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;09/11 - 1st Coding Class.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;09/25 - 2nd Coding Class and Fingerprint Collection.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;10/02 - 1st Assignment deadline.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;10/04 - Midterm Exam.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;10/09 - Fall Break, no classes.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;10/16 - 2nd Assignment deadline.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;10/25 - 3rd Coding Class.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;11/13 - 3rd Assignment deadline.&lt;/li&gt;
 &lt;li&gt;11/22 - Thanksgiving, no classes.&lt;/li&gt;
-&lt;li&gt;12/06 - Project presentations.&lt;/li&gt;
+&lt;li&gt;12/04 - Project presentations.&lt;/li&gt;
 &lt;li&gt;12/11-16 - Final Exam, more details soon.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;More updates soon.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -215,7 +219,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_01.pdf&#34;&gt;Assignment 1&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_01.zip&#34;&gt;data&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_01_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_02.pdf&#34;&gt;Assignment 2&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_02.zip&#34;&gt;data&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_02_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Assignment 3, Face Recognition, &lt;em&gt;more soon&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_03.pdf&#34;&gt;Assignment 3&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_03_data.zip&#34;&gt;data&lt;/a&gt;, &lt;em&gt;more soon&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;Assignment 4, Iris Recognition, &lt;em&gt;more soon&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- XyPK04;579?) --&gt;
@@ -332,7 +336,7 @@ Students may use their three cards at their own discretion, as long as they clea
 &lt;hr&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Soon.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vision.ucsd.edu/content/yale-face-database&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yale face dataset&lt;/a&gt;, used in the 3rd assignment.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;academic-integrity&#34;&gt;Academic Integrity&lt;/h2&gt;
