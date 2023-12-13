@@ -53,7 +53,9 @@ Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel More
 Office Hours: MON and TUE evenings, 6 to 8 PM, and WED mornings, 8 AM to noon, 310 Doyle Center or Zoom,
 &lt;a href=&#34;https://bit.ly/3KUUaND&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;&lt;br&gt;
 Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/gUHhNw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sakai.luc.edu/x/gUHhNw&lt;/a&gt;&lt;/p&gt;
-&lt;!--- &gt; Announcements. --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Final grades were released on Sakai. Thank you, everyone!&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;!--- ![Computer Vision then and now.](cv-then-now.gif) --&gt;
@@ -101,6 +103,15 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;11/01 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_17.pdf&#34;&gt;Iris Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
 &lt;li&gt;11/06 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_18.pdf&#34;&gt;Iris Recog. III,&lt;/a&gt; Description and matching.&lt;/li&gt;
 &lt;li&gt;11/08 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_19.pdf&#34;&gt;4th Coding Class,&lt;/a&gt; Iris recognition.&lt;/li&gt;
+&lt;li&gt;11/13 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_20.pdf&#34;&gt;Other Traits&lt;/a&gt;, Alternative traits and Soft Biometrics.&lt;/li&gt;
+&lt;li&gt;11/15 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_21.pdf&#34;&gt;Multibiometrics&lt;/a&gt;, Data fusion.&lt;/li&gt;
+&lt;li&gt;11/20 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/lecture_22.pdf&#34;&gt;Feature Indexing&lt;/a&gt;, Index building and feature querying.&lt;/li&gt;
+&lt;li&gt;11/22 - Thanksgiving, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;11/27 - &lt;a href=&#34;#abharati&#34;&gt;1st Invited Talk,&lt;/a&gt; Dr. Aparna Bharati.&lt;/li&gt;
+&lt;li&gt;11/29 - Office Hours to Conclude Projects, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;12/04 - &lt;a href=&#34;#project&#34;&gt;Project presentations&lt;/a&gt;, 5 groups present.&lt;/li&gt;
+&lt;li&gt;12/06 - &lt;a href=&#34;#aczajka&#34;&gt;2nd Invited Talk,&lt;/a&gt; Dr. Adam Czajka.&lt;/li&gt;
+&lt;li&gt;12/11 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/final_answers.pdf&#34;&gt;Final Exam,&lt;/a&gt; Grades on Sakai.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
@@ -115,13 +126,12 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;&lt;del&gt;10/16 - 2nd Assignment deadline.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;10/25 - 3rd Coding Class.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;11/08 - 4th Coding Class.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;11/13 - 3rd Assignment deadline.&lt;/li&gt;
-&lt;li&gt;11/22 - Thanksgiving, no classes.&lt;/li&gt;
-&lt;li&gt;11/27 - Dr. Aparna Bharati’s talk.&lt;/li&gt;
-&lt;li&gt;12/04 - Project presentations.&lt;/li&gt;
-&lt;li&gt;12/06 - Dr. Adam Czajka’s talk.&lt;/li&gt;
-&lt;li&gt;12/11-16 - Final Exam, more details soon.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;More updates soon.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;11/13 - 3rd Assignment deadline.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;11/22 - Thanksgiving, no classes.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;11/27 - Dr. Aparna Bharati’s talk.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;12/04 - Project presentations.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;12/06 - Dr. Adam Czajka’s talk.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;12/11 - Final Exam.&lt;/del&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;notebooks-for-coding-classes&#34;&gt;Notebooks &lt;em&gt;(for coding classes)&lt;/em&gt;&lt;/h2&gt;
@@ -132,15 +142,61 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1rJ5vjm48eMAg5ZdHApazo3X_IVMvIDKc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 04,&lt;/a&gt; Iris recognition.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;a name=&#34;aczajka&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#34;abharati&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h2&gt;
-&lt;!-- |                                    |                                                                                                                                                          |
-|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Dr. Aparna Bharati](bharati.jpg) | [Dr. Aparna Bharati](https://www.aparnabharati.com/)&lt;/br&gt; Assistant Professor&lt;/br&gt; Department of Computer Science and Engineering&lt;/br&gt; Lehigh University |
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
 
-|                                                              |
-|--------------------------------------------------------------|
-| &lt;b&gt;Info Soon&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; More soon.  &lt;a name=&#34;czajka&#34;&gt;&lt;/a&gt; | --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Dr. Aparna Bharati&#34; srcset=&#34;
+               /teaching/biometrics-aut23/bharati_hu682a673afd755555ad7d1c04f5cdb12d_5630_f76963ea3d8c46fbaee41b7c15acfcc9.webp 400w,
+               /teaching/biometrics-aut23/bharati_hu682a673afd755555ad7d1c04f5cdb12d_5630_05846f0c5b76511d6c366d7174197f6f.webp 760w,
+               /teaching/biometrics-aut23/bharati_hu682a673afd755555ad7d1c04f5cdb12d_5630_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/bharati_hu682a673afd755555ad7d1c04f5cdb12d_5630_f76963ea3d8c46fbaee41b7c15acfcc9.webp&#34;
+               width=&#34;100&#34;
+               height=&#34;120&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.aparnabharati.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Aparna Bharati&lt;/a&gt;&lt;/br&gt; Assistant Professor&lt;/br&gt; Department of Computer Science and Engineering&lt;/br&gt; Lehigh University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;b&gt;Synthetic Data in Face Biometrics&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; How do image manipulations affect face recognition? How can computer-aided solutions detect and profile these manipulations? In this talk, I will present my recent work and the findings obtained while trying to answer these questions. We will discuss solutions to detect retouched faces by a variety of methods, including smartphone apps, as well as evaluate when face retouching is a problem for face recognition and our society. Moreover, we will talk about the recent trend of generating synthetic faces and how one can measure identity leakage from the training set to the generated samples, a major privacy issue that indeed deserves attention. Lastly, I introduce our recent work on SynthProv, which allies provenance analysis to synthetic face detection and identity leakage evaluation. &lt;a name=&#34;czajka&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -283,8 +339,8 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_01.pdf&#34;&gt;Assignment 1&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_01.zip&#34;&gt;data&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_01_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_02.pdf&#34;&gt;Assignment 2&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_02.zip&#34;&gt;data&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_02_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_03.pdf&#34;&gt;Assignment 3&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_03_data.zip&#34;&gt;data&lt;/a&gt;, &lt;em&gt;more soon&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;Assignment 4, Iris Recognition, &lt;em&gt;more soon&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_03.pdf&#34;&gt;Assignment 3&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_03_data.zip&#34;&gt;data&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_03_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_04.pdf&#34;&gt;Assignment 4&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_04_data.zip&#34;&gt;data&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/assign_04_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- XyPK04;579?) --&gt;
 &lt;blockquote&gt;
@@ -294,11 +350,12 @@ Deduction of 10% of the maximum possible grade for each day of delay.&lt;/p&gt;
 &lt;h3 id=&#34;exams&#34;&gt;Exams&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Midterm Exam, 10/04, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/midterm_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Final Exam, 12/11, &lt;em&gt;more soon&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Final Exam, 12/11, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/final_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;a name=&#34;project&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;project&#34;&gt;Project&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Written report and presentation, work alone or in pairs, &lt;em&gt;more soon&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Written report and presentation, work alone or in pairs.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Possible Topics&lt;/strong&gt;&lt;/p&gt;
@@ -312,6 +369,43 @@ Deduction of 10% of the maximum possible grade for each day of delay.&lt;/p&gt;
 &lt;li&gt;Discussion about the ethical aspects of Biometrics and surveillance.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
+&lt;h3 id=&#34;teams-and-chosen-topics&#34;&gt;Teams and Chosen Topics&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Team&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Presentation&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 1&lt;/td&gt;
+&lt;td&gt;The Ethics of Biometrics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/pres1.pdf&#34;&gt;slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 2&lt;/td&gt;
+&lt;td&gt;Fingerprint Spoofing&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/pres2.pdf&#34;&gt;slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 3&lt;/td&gt;
+&lt;td&gt;Iris Spoofing&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/pres3.pdf&#34;&gt;slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 4&lt;/td&gt;
+&lt;td&gt;Iris Obfuscation&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/pres4.pdf&#34;&gt;slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 5&lt;/td&gt;
+&lt;td&gt;Speaker Recognition&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/pres5.pdf&#34;&gt;slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;&lt;a name=&#34;part&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;participation&#34;&gt;Participation&lt;/h3&gt;
 &lt;ul&gt;
@@ -397,6 +491,7 @@ Students may use their three cards at their own discretion, as long as they clea
 &lt;li&gt;&lt;a href=&#34;https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boston Bans Use Of Facial Recognition Technology.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=a4iNg0wWBsQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adversarial Attack on ArcFace.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.reuters.com/technology/scrutiny-iris-scanning-crypto-project-worldcoin-grows-2023-09-01/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scrutiny of Iris-scanning Crypto Project Grows.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/notcapnamerica/status/1725901659270742084&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scammers used AI to replicate son’s voice.&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
