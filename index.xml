@@ -5,12 +5,20 @@
     <link>https://danielmoreira.github.io/</link>
       <atom:link href="https://danielmoreira.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Moreira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
       <title>Daniel Moreira</title>
       <link>https://danielmoreira.github.io/</link>
     </image>
+    
+    <item>
+      <title>The Age of Synthetic Realities: Challenges and Opportunities</title>
+      <link>https://danielmoreira.github.io/publication/2023_apsipa/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2023_apsipa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Biometrics, Fall 2023</title>
@@ -58,7 +66,34 @@ Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/gUHhNw&#34; target=&#34;_blank&#3
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;!--- ![Computer Vision then and now.](cv-then-now.gif) --&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Presentation attacks done by students.&#34; srcset=&#34;
+               /teaching/biometrics-aut23/fake_hu74daeec1aed29769f400179182090b1f_888064_d304008315fb1f609c885d3bc468f443.webp 400w,
+               /teaching/biometrics-aut23/fake_hu74daeec1aed29769f400179182090b1f_888064_af986f3354173976aee232e2c98f4be7.webp 760w,
+               /teaching/biometrics-aut23/fake_hu74daeec1aed29769f400179182090b1f_888064_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/fake_hu74daeec1aed29769f400179182090b1f_888064_d304008315fb1f609c885d3bc468f443.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;381&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;How do computers match a person&amp;rsquo;s fingerprints?
 Do they still use the same techniques proposed in the XIX century?
 How do computers identify people captured in a video?

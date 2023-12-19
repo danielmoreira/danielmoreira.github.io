@@ -5,12 +5,20 @@
     <link>https://danielmoreira.github.io/publication/</link>
       <atom:link href="https://danielmoreira.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
       <title>Publications</title>
       <link>https://danielmoreira.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>The Age of Synthetic Realities: Challenges and Opportunities</title>
+      <link>https://danielmoreira.github.io/publication/2023_apsipa/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2023_apsipa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Motif Mining: Finding and Summarizing Remixed Image Content</title>

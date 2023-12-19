@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rafael Padilha | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/authors/rafael-padilha/</link>
+      <atom:link href="https://danielmoreira.github.io/authors/rafael-padilha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rafael Padilha</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Rafael Padilha</title>
+      <link>https://danielmoreira.github.io/authors/rafael-padilha/</link>
+    </image>
+    
+    <item>
+      <title>The Age of Synthetic Realities: Challenges and Opportunities</title>
+      <link>https://danielmoreira.github.io/publication/2023_apsipa/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2023_apsipa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
