@@ -5,12 +5,470 @@
     <link>https://danielmoreira.github.io/tag/teaching/</link>
       <atom:link href="https://danielmoreira.github.io/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
       <title>Teaching</title>
       <link>https://danielmoreira.github.io/tag/teaching/</link>
     </image>
+    
+    <item>
+      <title>Machine Learning, Spring 2024</title>
+      <link>https://danielmoreira.github.io/teaching/ml-spr24/</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/teaching/ml-spr24/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /teaching/ml-spr24/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_2ae554ab12a8e6233cd3bf1480fc4a45.webp 400w,
+               /teaching/ml-spr24/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e51b41172736727dd7a34ff04a09a9a2.webp 760w,
+               /teaching/ml-spr24/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/ml-spr24/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_2ae554ab12a8e6233cd3bf1480fc4a45.webp&#34;
+               width=&#34;250px&#34;
+               height=&#34;116&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;p&gt;Course: COMP 379-001 / COMP 479-001 Machine Learning&lt;br&gt;
+Level: Undergraduate and Graduate&lt;br&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Lectures: THR, 4:15 to 6:45 PM, 123 Institute of Environmental Sustainability&lt;br&gt;
+Office Hours: FRI, 8 AM to 5 PM, 310 Doyle Center or Zoom,
+&lt;a href=&#34;https://calendly.com/danielmoreira/spring-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;&lt;br&gt;
+Sakai: TODO&lt;/p&gt;
+&lt;!-- &gt; Final grades were released on Sakai. Thank you, everyone! --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;!-- ![Presentation attacks done by students.](fake.png) --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Machine Learning is the field of study that gives computers the ability to learn without being explicitly programmed.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ndash; Arthur Samuel, 1959&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Even though Samuel&amp;rsquo;s definition is now more than six decades old, it still holds true.
+With the recent advances in computer processing power, memory, and storage, machine learning has stressed its
+learn-by-example data-driven aspect, and is available — commonly as a black box — to everyone.&lt;/p&gt;
+&lt;p&gt;Annotated high-quality datasets can be easily harnessed to train a multitude of models to solve very specific problems
+under the different paradigms of supervised, unsupervised, hybrid (e.g., semi-supervised and self-supervised), and
+reinforcement learning. This course will cover these paradigms, trying to establish a balance between theory and
+practice. While students will be exposed to the theories that fight the black-box and irresponsible usage of machine
+learning, hands-on activities leveraging real-world data will prepare them for industrial, academic, and societal
+needs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Let&amp;rsquo;s learn how the machines learn!&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Requirements to attend this course are basic programming skills (especially Python), data structures, math
+fundamentals (such as linear algebra and calculus), and probability and statistics.
+This course and its materials are also available in &lt;a href=&#34;TODO&#34;&gt;Sakai&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;schedule-tentative&#34;&gt;Schedule &lt;em&gt;(Tentative)&lt;/em&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;01/18 - Syllabus and Intro&lt;/li&gt;
+&lt;li&gt;01/25 - Data-driven Aspects&lt;/li&gt;
+&lt;li&gt;02/01 - Supervised Learning I&lt;/li&gt;
+&lt;li&gt;02/08 - Supervised Learning II&lt;/li&gt;
+&lt;li&gt;02/15 - Supervised Learning III&lt;/li&gt;
+&lt;li&gt;02/22 - Supervised Learning IV&lt;/li&gt;
+&lt;li&gt;02/29 - Supervised Learning V&lt;/li&gt;
+&lt;li&gt;03/07 - Spring Break, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;03/14 - Ensemble Learning.&lt;/li&gt;
+&lt;li&gt;03/21 - Unsupervised Learning.&lt;/li&gt;
+&lt;li&gt;03/28 - Easter Break, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;04/04 - Neural Networks I.&lt;/li&gt;
+&lt;li&gt;04/11 - Neural Networks II.&lt;/li&gt;
+&lt;li&gt;04/18 - Hybrid and Reinforcement Learning.&lt;/li&gt;
+&lt;li&gt;04/25 - Project Presentations.&lt;/li&gt;
+&lt;li&gt;05/02 - Final Exam.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;02/15 - Definition of project groups.&lt;/li&gt;
+&lt;li&gt;02/29 - Definition of project topics.&lt;/li&gt;
+&lt;li&gt;03/07 - Spring Break.&lt;/li&gt;
+&lt;li&gt;03/14 - Midterm Exam.&lt;/li&gt;
+&lt;li&gt;03/21 - Definition of project plan.&lt;/li&gt;
+&lt;li&gt;03/28 - Easter Break.&lt;/li&gt;
+&lt;li&gt;04/11 - Report of project status.&lt;/li&gt;
+&lt;li&gt;04/18 - Graduate students&amp;rsquo; lectures.&lt;/li&gt;
+&lt;li&gt;04/25 - Project presentations.&lt;/li&gt;
+&lt;li&gt;05/02 - Final Exam.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- -----------
+## Notebooks *(for coding classes)*
+* [Notebook 01,](https://colab.research.google.com/drive/1Yd-C7m8bhHP7-QcJH70iJyyjgrKOBaNT) Metrics&#39; implementation.
+* [Notebook 02,](https://colab.research.google.com/drive/1a6JdRkwRAMtyRif2LTIchtMCgsa7KL9l) Fingerprint recognition.
+* [Notebook 03,](https://colab.research.google.com/drive/18-PZJTQt1v7Pej37uVmZYNTZFdiiM2cG) Face recognition.
+* [Notebook 04,](https://colab.research.google.com/drive/1rJ5vjm48eMAg5ZdHApazo3X_IVMvIDKc) Iris recognition. --&gt;
+&lt;!-- -----------
+&lt;a name=&#34;abharati&#34;&gt;&lt;/a&gt;
+## Invited Talks
+|                                     |                                                                                                                                                          |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Dr. Aparna Bharati](bharati.jpg)  | [Dr. Aparna Bharati](https://www.aparnabharati.com/)&lt;/br&gt; Assistant Professor&lt;/br&gt; Department of Computer Science and Engineering&lt;/br&gt; Lehigh University |
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| &lt;b&gt;Synthetic Data in Face Biometrics&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; How do image manipulations affect face recognition? How can computer-aided solutions detect and profile these manipulations? In this talk, I will present my recent work and the findings obtained while trying to answer these questions. We will discuss solutions to detect retouched faces by a variety of methods, including smartphone apps, as well as evaluate when face retouching is a problem for face recognition and our society. Moreover, we will talk about the recent trend of generating synthetic faces and how one can measure identity leakage from the training set to the generated samples, a major privacy issue that indeed deserves attention. Lastly, I introduce our recent work on SynthProv, which allies provenance analysis to synthetic face detection and identity leakage evaluation. &lt;a name=&#34;aczajka&#34;&gt;&lt;/a&gt; |
+
+|                                |                                                                                                                                                                               |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Dr. Adam Czajka](czajka.jpg) | [Dr. Adam Czajka](https://engineering.nd.edu/faculty/adam-czajka/)&lt;/br&gt; Associate Professor&lt;/br&gt; Department of Computer Science and Engineering&lt;/br&gt; University of Notre Dame |
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| &lt;b&gt;Do you want a better presentation attack detection algorithm? Tell it where to look!&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; This lecture will discuss the topic of human-machine pairing for building trustworthy and human-interpretable iris recognition and biometric presentation attack detection methods. We will discuss approaches of guiding modern Artificial Intelligence models towards features salient for humans comparing irises (including forensic samples) and detecting spoofing attacks. Such guidance allows the AI methods to generalize to unknown attack types, and to create human-interpretable solutions assisting human examiners. We will discuss also selected approaches for effective use of always-limited human salience information (e.g., utilization of human salience in a teacher-student training paradigm) to scale this methodology to large datasets not accompanied by human annotations.  | --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;grading&#34;&gt;Grading&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Concept &lt;/th&gt;
+&lt;th&gt;Interval (%) &lt;/th&gt;
+&lt;th&gt;Concept &lt;/th&gt;
+&lt;th&gt;Interval (%) &lt;/th&gt;
+&lt;th&gt;Concept &lt;/th&gt;
+&lt;th&gt;Interval (%) &lt;/th&gt;
+&lt;th&gt;Concept &lt;/th&gt;
+&lt;th&gt;Interval (%)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;[96, 100)&lt;/td&gt;
+&lt;td&gt;B+&lt;/td&gt;
+&lt;td&gt;[88, 92)&lt;/td&gt;
+&lt;td&gt;C+&lt;/td&gt;
+&lt;td&gt;[76, 80)&lt;/td&gt;
+&lt;td&gt;D+&lt;/td&gt;
+&lt;td&gt;[64, 68)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A-&lt;/td&gt;
+&lt;td&gt;[92, 96)&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;td&gt;[84, 88)&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;td&gt;[72, 76)&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;td&gt;[60, 64)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;B-&lt;/td&gt;
+&lt;td&gt;[80, 84)&lt;/td&gt;
+&lt;td&gt;C-&lt;/td&gt;
+&lt;td&gt;[68, 72)&lt;/td&gt;
+&lt;td&gt;F&lt;/td&gt;
+&lt;td&gt;(0, 60)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;distribution&#34;&gt;Distribution&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Undergraduate  &lt;/th&gt;
+&lt;th&gt;Graduate&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Assignments (4)  &lt;/td&gt;
+&lt;td&gt;30%&lt;/td&gt;
+&lt;td&gt;25%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Exams (2)&lt;/td&gt;
+&lt;td&gt;30%&lt;/td&gt;
+&lt;td&gt;25%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Project&lt;/td&gt;
+&lt;td&gt;30%&lt;/td&gt;
+&lt;td&gt;25%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Participation&lt;/td&gt;
+&lt;td&gt;10%&lt;/td&gt;
+&lt;td&gt;10%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Topic Lecture&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;td&gt;15%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;On the News&lt;/td&gt;
+&lt;td&gt;+1% (extra)&lt;/td&gt;
+&lt;td&gt;+1% (extra)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;assignments&#34;&gt;Assignments&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Soon.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- * [Assignment 1](/teaching/biometrics-aut23/assign_01.pdf), [data](/teaching/biometrics-aut23/assign_01.zip), [good answers](/teaching/biometrics-aut23/assign_01_answers.pdf).
+* [Assignment 2](/teaching/biometrics-aut23/assign_02.pdf), [data](/teaching/biometrics-aut23/assign_02.zip), [good answers](/teaching/biometrics-aut23/assign_02_answers.pdf).
+* [Assignment 3](/teaching/biometrics-aut23/assign_03.pdf), [data](/teaching/biometrics-aut23/assign_03_data.zip), [good answers](/teaching/biometrics-aut23/assign_03_answers.pdf).
+* [Assignment 4](/teaching/biometrics-aut23/assign_04.pdf), [data](/teaching/biometrics-aut23/assign_04_data.zip), [good answers](/teaching/biometrics-aut23/assign_04_answers.pdf). --&gt;
+&lt;!-- XyPK04;579?) --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Late Policy&lt;/strong&gt;&lt;br&gt;
+Deduction of 10% of the maximum possible grade for each day of delay.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;exams&#34;&gt;Exams&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Midterm Exam, 03/14. &lt;!-- , [good answers](/teaching/biometrics-aut23/midterm_answers.pdf). --&gt;&lt;/li&gt;
+&lt;li&gt;Final Exam, 05/02. &lt;!-- , [good answers](/teaching/biometrics-aut23/final_answers.pdf). --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name=&#34;project&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;project&#34;&gt;Project&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Written report and presentation, work alone or in groups.&lt;/li&gt;
+&lt;li&gt;More &lt;em&gt;soon&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- &gt; **Possible Topics**  
+&gt; * Presentation attack (performance, detection, and mitigation) of fingerprint recognition.
+&gt; * Presentation attack of face recognition.
+&gt; * Presentation attack of iris recognition.
+&gt; * Implementation of *complete* class attendance system.
+&gt; * Implementation of recognition of traits other than fingerprints, face, and iris.
+&gt; * Presentation and implementation of state-of-the-art scientific publications.
+&gt; * Discussion about the ethical aspects of Biometrics and surveillance.
+
+*Chosen Topics*
+| Team          | Topic                            | Presentation                                   |
+|---------------|----------------------------------|------------------------------------------------|
+| Team 1 &amp;emsp; | The Ethics of Biometrics &amp;emsp;  | [slides](/teaching/biometrics-aut23/pres1.pdf) |
+| Team 2        | Fingerprint Spoofing             | [slides](/teaching/biometrics-aut23/pres2.pdf) |
+| Team 3        | Iris Spoofing                    | [slides](/teaching/biometrics-aut23/pres3.pdf) |
+| Team 4        | Iris Obfuscation                 | [slides](/teaching/biometrics-aut23/pres4.pdf) |
+| Team 5        | Speaker Recognition              | [slides](/teaching/biometrics-aut23/pres5.pdf) | --&gt;
+&lt;p&gt;&lt;a name=&#34;part&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;participation&#34;&gt;Participation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Class Attendance: every presence counts.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Today-I-missed&lt;/em&gt; Statements: every submission counts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Today-I-missed&lt;/em&gt; Statements&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;After every attended class, each student will have to submit (through Sakai) a short paragraph answering one of the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What is your biggest question after class? &lt;strong&gt;OR&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;What was the most interesting point you learned today?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;Inspired by  &lt;a href=&#34;https://www.ic.unicamp.br/~sandra/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sandra Avila&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Today I missed&amp;amp;hellip;&#34;
+           src=&#34;https://danielmoreira.github.io/teaching/ml-spr24/point.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Oopsie&lt;/em&gt; Cards&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Each student has two &lt;em&gt;&amp;ldquo;Oopsie&amp;rdquo;&lt;/em&gt; Cards, which will allow them to avoid losing points because of late delivered work.
+The cards are not valid to dismiss or postpone exams, topic lectures (graduate students), or final project dates.
+Students may use their cards at their own discretion, as long as they clearly communicate the instructor.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Life happens, be wise.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Oopsie card.&#34;
+           src=&#34;https://danielmoreira.github.io/teaching/ml-spr24/card.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ml-on-the-news&#34;&gt;ML on the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Soon&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- Posted by the students and the instructor on Sakai.
+1. [Koalas have fingerprints almost identical to ours.](https://www.pbs.org/wgbh/nova/article/koala-fingerprints/)
+2. [Brazilian thief spoofed victims faces.](https://www.dailymail.co.uk/news/article-12210813/Brazilian-thief-taped-photos-victims-faces-DUMMY-bypass-facial-recognition.html)
+3. [Fingerprint cloning: myth or reality?](https://blog.talosintelligence.com/fingerprint-research/)
+4. [Data leak of 1M people&#39;s biometric data in UK.](https://www.technologyreview.com/2019/08/14/133723/data-leak-exposes-unchangeable-biometric-data-of-over-1-million-people/)
+5. [Samsung phones use ultrasonic fingerprint device.](https://www.theverge.com/2019/10/23/20929178/samsung-galaxy-s10-note-1o-fingerprint-recognition-issue-patch-ultrasonic-sensor)
+6. [Apple uses capacitive fingerprint device (with 500 ppi).](https://en.wikipedia.org/wiki/Touch_ID)
+7. [Racial Discrimination in Face Recognition Technology.](https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/)
+8. [What is Facial Recognition Technology?](https://www.ajl.org/facial-recognition-technology)
+9. [Boston Bans Use Of Facial Recognition Technology.](https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban)
+10. [Adversarial Attack on ArcFace.](https://www.youtube.com/watch?v=a4iNg0wWBsQ)
+11. [Scrutiny of Iris-scanning Crypto Project Grows.](https://www.reuters.com/technology/scrutiny-iris-scanning-crypto-project-worldcoin-grows-2023-09-01/)
+12. [Scammers used AI to replicate son’s voice.](https://twitter.com/notcapnamerica/status/1725901659270742084) --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rasbt/python-machine-learning-book&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python Machine Learning&lt;/a&gt; book, code repository.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ageron/handson-ml3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow&lt;/a&gt; book, code repository,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Introduction to Statistical Learning with Applications in Python&lt;/a&gt; book, online version.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;academic-integrity&#34;&gt;Academic Integrity&lt;/h2&gt;
+&lt;p&gt;Students are expected to adhere to the LUC statements on academic integrity available at &lt;a href=&#34;https://bit.ly/3TmiQkQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/3TmiQkQ&lt;/a&gt;.
+These policies fully apply to this course.
+The penalty for task-wise academic misconduct is losing all the task&amp;rsquo;s points.
+Multiple events of misconduct will incur in failing the entire course (with an F grade).
+All cases of academic misconduct will be reported to the proper department offices.
+Lastly, students are not allowed to use AI assisted technology (such as &lt;a href=&#34;https://chat.openai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ChatGPT&lt;/a&gt;) along the
+entirety of the course, unless explicitly authorized by the instructor.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;accommodations&#34;&gt;Accommodations&lt;/h2&gt;
+&lt;p&gt;Students who have disabilities and wish to request academic accommodations are advised to contact the
+&lt;em&gt;Services for Students With Disabilities&lt;/em&gt; (SSWD) office at 773-508-3700 or &lt;a href=&#34;mailto:SSWD@luc.edu&#34;&gt;SSWD@luc.edu&lt;/a&gt; as soon as possible.
+The SSWD office will provide accommodation letters that, once shared with the instructor, will be fully accommodated
+as per the terms of their content with no further questions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning the Shell, Spring 2024</title>
+      <link>https://danielmoreira.github.io/teaching/comptool-spr24/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/teaching/comptool-spr24/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /teaching/comptool-spr24/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_2ae554ab12a8e6233cd3bf1480fc4a45.webp 400w,
+               /teaching/comptool-spr24/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e51b41172736727dd7a34ff04a09a9a2.webp 760w,
+               /teaching/comptool-spr24/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/comptool-spr24/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_2ae554ab12a8e6233cd3bf1480fc4a45.webp&#34;
+               width=&#34;250px&#34;
+               height=&#34;116&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;p&gt;Course: COMP 141-001 / COMP 400D-001 Intro to Computing Tool&lt;br&gt;
+Level: Undergraduate and Graduate&lt;br&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;br&gt;
+Teaching Assistant: Bright Duffour (&lt;a href=&#34;mailto:bduffour@luc.edu&#34;&gt;bduffour@luc.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Lectures: MON, 4:15 to 5:30 PM, &lt;a href=&#34;https://luc.zoom.us/j/86256187649&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt;&lt;br&gt;
+Office Hours: FRI, 8:00 AM to 5:00 PM, 310 Doyle Center or Zoom, &lt;a href=&#34;https://calendly.com/danielmoreira/spring-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;&lt;br&gt;
+Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/xaQGV2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sakai.luc.edu/x/xaQGV2&lt;/a&gt;&lt;/p&gt;
+&lt;!-- &gt; Grades are now [available](/teaching/comptool-aut23/grades.pdf). --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Shell terminal.&#34;
+           src=&#34;https://danielmoreira.github.io/teaching/comptool-spr24/terminal.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Despite the current era of rich graphical user interfaces (desktop, web, and mobile), the &amp;ldquo;command line&amp;rdquo; experience
+remains important, especially for software developers and computer-aided scientific researchers.
+Many development scenarios still require command line and fluency in Unix tools, including the modern embedded,
+cloud, cybersecurity, and supercomputing environments. With mobile computing and Internet of Things, Unix (via Linux)
+has risen to the level of a ubiquitous platform, owing to its lightweight and open-source nature.
+While this course does not aim at being a comprehensive programming class, students will master basic programming
+skills using shell scripting.
+They will also learn about problem-solving using Unix commands supported by shell scripts.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Please refer to &lt;a href=&#34;https://sakai.luc.edu/x/xaQGV2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt; for having access to the materials, assignments, quizzes,
+announcements, grading, and progress of the course. This page is static and will not be updated.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;p&gt;This course is offered in multiple sessions with the following leading and contributing LUC instructors (Spring 2024):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;John O&amp;rsquo;Sullivan&lt;/li&gt;
+&lt;li&gt;Konstantin Läufer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Shots, W. &lt;em&gt;The Linux Command Line, 2nd Edition&lt;/em&gt;. No Starch Press Book, 2019. Available at &lt;a href=&#34;https://linuxcommand.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://linuxcommand.org/&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Biometrics, Fall 2023</title>
