@@ -5,12 +5,20 @@
     <link>https://danielmoreira.github.io/</link>
       <atom:link href="https://danielmoreira.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Moreira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
       <title>Daniel Moreira</title>
       <link>https://danielmoreira.github.io/</link>
     </image>
+    
+    <item>
+      <title>Synthetic Realities and Artificial Intelligence-Generated Contents</title>
+      <link>https://danielmoreira.github.io/publication/2024_sp/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2024_sp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine Learning, Spring 2024</title>
@@ -1103,6 +1111,14 @@ announcements, grading, and progress of the course. This page is static and will
 &lt;li&gt;Shots, W. &lt;em&gt;The Linux Command Line, 2nd Edition&lt;/em&gt;. No Starch Press Book, 2019. Available at &lt;a href=&#34;https://linuxcommand.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://linuxcommand.org/&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>IH&amp;MMSec &#39;23: Proceedings of the 2023 ACM Workshop on Information Hiding and Multimedia Security</title>
+      <link>https://danielmoreira.github.io/publication/2023_ihmmsec/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2023_ihmmsec/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yassine Yousfi | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/authors/yassine-yousfi/</link>
+      <atom:link href="https://danielmoreira.github.io/authors/yassine-yousfi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yassine Yousfi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Yassine Yousfi</title>
+      <link>https://danielmoreira.github.io/authors/yassine-yousfi/</link>
+    </image>
+    
+    <item>
+      <title>IH&amp;MMSec &#39;23: Proceedings of the 2023 ACM Workshop on Information Hiding and Multimedia Security</title>
+      <link>https://danielmoreira.github.io/publication/2023_ihmmsec/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2023_ihmmsec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
