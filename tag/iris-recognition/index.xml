@@ -5,12 +5,397 @@
     <link>https://danielmoreira.github.io/tag/iris-recognition/</link>
       <atom:link href="https://danielmoreira.github.io/tag/iris-recognition/index.xml" rel="self" type="application/rss+xml" />
     <description>Iris Recognition</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
       <title>Iris Recognition</title>
       <link>https://danielmoreira.github.io/tag/iris-recognition/</link>
     </image>
+    
+    <item>
+      <title>Biometrics, Fall 2024</title>
+      <link>https://danielmoreira.github.io/teaching/biometrics-aut24/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/teaching/biometrics-aut24/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /teaching/biometrics-aut24/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_2ae554ab12a8e6233cd3bf1480fc4a45.webp 400w,
+               /teaching/biometrics-aut24/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e51b41172736727dd7a34ff04a09a9a2.webp 760w,
+               /teaching/biometrics-aut24/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_2ae554ab12a8e6233cd3bf1480fc4a45.webp&#34;
+               width=&#34;250px&#34;
+               height=&#34;116&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;p&gt;Course: COMP 388-002 / COMP 488-002 Computer Science Topics&lt;br&gt;
+Level: Undergraduate and Graduate&lt;br&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;br&gt;
+TA: Fiona Nicdao (&lt;a href=&#34;mailto:fnicdao@luc.edu&#34;&gt;fnicdao@luc.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Lectures: MON and WED, 4:15 to 5:30 PM, 408 Mundelein Center&lt;br&gt;
+Office Hours: MON and WED evenings, and FRI afternoons,&lt;br&gt;
+310 Doyle Center or Zoom, &lt;a href=&#34;https://calendly.com/danielmoreira/fall-2024-office-hours&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;&lt;br&gt;
+Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/9WVTcd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sakai.luc.edu/x/9WVTcd&lt;/a&gt;&lt;/p&gt;
+&lt;!-- &gt; Final grades were released on Sakai. Thank you, everyone! --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;!-- ![Presentation attacks done by students.](fake.png) --&gt;
+&lt;p&gt;How do computers match a person&amp;rsquo;s fingerprints?
+Do they still use the same techniques proposed in the XIX century?
+How do computers identify people captured in a video?
+Do they leverage the depicted faces only, or can they use other traits such as gait or voice?
+How about iris recognition as portrayed in the movies?
+Is it really possible?
+What happens in the case of people who look very similar, such as identical twins?
+Which traits are more reliable and robust to impersonation or prone to falsification?
+These are some of the questions we will address in this course, whose main topic is Biometrics.
+In a nutshell, Biometrics is the study of techniques to identify individuals through their physical, chemical,
+and behavioral traits, such as fingerprints, face, iris, DNA, voice, gait, etc.
+Our focus will be on the technical and ethical aspects of computer-aided Biometrics,
+discussing the issues of going from simple and benign authentication to the more problematic case of surveillance.
+The course will have an intense hands-on approach, with the collection of samples and implementation of fingerprint,
+face, and iris recognition.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Requirements to attend this course are basic programming skills (especially Python).
+This course and its materials are also available in &lt;a href=&#34;https://sakai.luc.edu/x/9WVTcd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;schedule-tentative&#34;&gt;Schedule &lt;em&gt;(Tentative)&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Materials will be linked here as we move forward with the classes.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;08/26 - Syllabus, Course details.&lt;/li&gt;
+&lt;li&gt;08/28 - Basics I, Biometrics, traits, and systems.&lt;/li&gt;
+&lt;li&gt;09/02 - Labor Day, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;09/04 - Basics II, Biometric systems, errors, and metrics.&lt;/li&gt;
+&lt;li&gt;09/09 - 1st Coding Class, Metrics&amp;rsquo; implementation.&lt;/li&gt;
+&lt;li&gt;09/11 - Fingerprint Recog. I, History and features.&lt;/li&gt;
+&lt;li&gt;09/16 - Fingerprint Recog. II, Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;09/18 - Fingerprint Recog. III, Minutiae detection.&lt;/li&gt;
+&lt;li&gt;09/23 - Fingerprint Recog. IV, Data collection.&lt;/li&gt;
+&lt;li&gt;09/25 - 2nd Coding Class, Fingerprint recognition.&lt;/li&gt;
+&lt;li&gt;09/30 - Midterm Preparation, Recap and project discussion.&lt;/li&gt;
+&lt;li&gt;10/02 - Midterm Exam. &lt;!--, Grades on Sakai. --&gt;&lt;/li&gt;
+&lt;li&gt;10/07 - Fall Break, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;10/09 - Face Recog. I, Why faces and faces vs. other traits.&lt;/li&gt;
+&lt;li&gt;10/14 - Face Recog. II, Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;10/16 - Face Recog. III, Description and matching.&lt;/li&gt;
+&lt;li&gt;10/21 - Face Recog. IV, Deep learning face recognition.&lt;/li&gt;
+&lt;li&gt;10/23 - 3rd Coding Class, Face recognition.&lt;/li&gt;
+&lt;li&gt;10/28 - Iris Recog. I, Why irises and irises vs. other traits.&lt;/li&gt;
+&lt;li&gt;10/30 - Iris Recog. II, Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;11/04 - Iris Recog. III, Description and matching.&lt;/li&gt;
+&lt;li&gt;11/06 - 4th Coding Class, Iris recognition.&lt;/li&gt;
+&lt;li&gt;11/11 - Other Traits, Alternative traits and Soft Biometrics.&lt;/li&gt;
+&lt;li&gt;11/13 - Multibiometrics, Data fusion.&lt;/li&gt;
+&lt;li&gt;11/18 - Feature Indexing, Index building and feature querying.&lt;/li&gt;
+&lt;li&gt;11/20 - 1st Invited Talk. &lt;!-- ,](#abharati) Dr. Aparna Bharati. --&gt;&lt;/li&gt;
+&lt;li&gt;11/25 - Office Hours to Conclude Projects, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;11/27 - Thanksgiving, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;12/02 - &lt;a href=&#34;#project&#34;&gt;Project presentations&lt;/a&gt;. &lt;!-- , 5 groups present. --&gt;&lt;/li&gt;
+&lt;li&gt;12/04 - 2nd Invited Talk. &lt;!-- ,](#aczajka) Dr. Adam Czajka. --&gt;&lt;/li&gt;
+&lt;li&gt;12/09 - Final Exam. &lt;!-- Grades on Sakai. --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;08/26 - First Class.&lt;/li&gt;
+&lt;li&gt;09/02 - Labor Day, no classes.&lt;/li&gt;
+&lt;li&gt;09/09 - 1st Coding Class.&lt;/li&gt;
+&lt;li&gt;09/25 - 2nd Coding Class and Fingerprint Collection.&lt;/li&gt;
+&lt;li&gt;10/02 - Midterm Exam.&lt;/li&gt;
+&lt;li&gt;10/07 - Fall Break, no classes.&lt;/li&gt;
+&lt;li&gt;10/23 - 3rd Coding Class.&lt;/li&gt;
+&lt;li&gt;11/06 - 4th Coding Class.&lt;/li&gt;
+&lt;li&gt;11/27 - Thanksgiving, no classes.&lt;/li&gt;
+&lt;li&gt;12/02 - Project presentations.&lt;/li&gt;
+&lt;li&gt;12/09 - Final Exam.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- * ~~10/02 - 1st Assignment deadline.~~ --&gt;
+&lt;!-- * ~~10/16 - 2nd Assignment deadline.~~ --&gt;
+&lt;!-- * ~~11/13 - 3rd Assignment deadline.~~ --&gt;
+&lt;!-- * ~~11/27 - Dr. Aparna Bharati’s talk.~~ --&gt;
+&lt;!-- * ~~12/06 - Dr. Adam Czajka’s talk.~~ --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;notebooks-for-coding-classes&#34;&gt;Notebooks &lt;em&gt;(for coding classes)&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Online notebooks will be linked here as we move forward with the classes.&lt;/em&gt;&lt;/p&gt;
+&lt;!-- * [Notebook 01,](https://colab.research.google.com/drive/1Yd-C7m8bhHP7-QcJH70iJyyjgrKOBaNT) Metrics&#39; implementation.
+* [Notebook 02,](https://colab.research.google.com/drive/1a6JdRkwRAMtyRif2LTIchtMCgsa7KL9l) Fingerprint recognition.
+* [Notebook 03,](https://colab.research.google.com/drive/18-PZJTQt1v7Pej37uVmZYNTZFdiiM2cG) Face recognition.
+* [Notebook 04,](https://colab.research.google.com/drive/1rJ5vjm48eMAg5ZdHApazo3X_IVMvIDKc) Iris recognition. --&gt;
+&lt;hr&gt;
+&lt;!-- &lt;a name=&#34;abharati&#34;&gt;&lt;/a&gt; --&gt;
+&lt;h2 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Information about the talks will be added here as soon as they are settled.&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+|                                     |                                                                                                                                                          |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Dr. Aparna Bharati](bharati.jpg)  | [Dr. Aparna Bharati](https://www.aparnabharati.com/)&lt;/br&gt; Assistant Professor&lt;/br&gt; Department of Computer Science and Engineering&lt;/br&gt; Lehigh University |
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| &lt;b&gt;Synthetic Data in Face Biometrics&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; How do image manipulations affect face recognition? How can computer-aided solutions detect and profile these manipulations? In this talk, I will present my recent work and the findings obtained while trying to answer these questions. We will discuss solutions to detect retouched faces by a variety of methods, including smartphone apps, as well as evaluate when face retouching is a problem for face recognition and our society. Moreover, we will talk about the recent trend of generating synthetic faces and how one can measure identity leakage from the training set to the generated samples, a major privacy issue that indeed deserves attention. Lastly, I introduce our recent work on SynthProv, which allies provenance analysis to synthetic face detection and identity leakage evaluation. &lt;a name=&#34;aczajka&#34;&gt;&lt;/a&gt; |
+
+|                                |                                                                                                                                                                               |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Dr. Adam Czajka](czajka.jpg) | [Dr. Adam Czajka](https://engineering.nd.edu/faculty/adam-czajka/)&lt;/br&gt; Associate Professor&lt;/br&gt; Department of Computer Science and Engineering&lt;/br&gt; University of Notre Dame |
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| &lt;b&gt;Do you want a better presentation attack detection algorithm? Tell it where to look!&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; This lecture will discuss the topic of human-machine pairing for building trustworthy and human-interpretable iris recognition and biometric presentation attack detection methods. We will discuss approaches of guiding modern Artificial Intelligence models towards features salient for humans comparing irises (including forensic samples) and detecting spoofing attacks. Such guidance allows the AI methods to generalize to unknown attack types, and to create human-interpretable solutions assisting human examiners. We will discuss also selected approaches for effective use of always-limited human salience information (e.g., utilization of human salience in a teacher-student training paradigm) to scale this methodology to large datasets not accompanied by human annotations.  |
+--&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;grading&#34;&gt;Grading&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Concept &lt;/th&gt;
+&lt;th&gt;Interval (%) &lt;/th&gt;
+&lt;th&gt;Concept &lt;/th&gt;
+&lt;th&gt;Interval (%) &lt;/th&gt;
+&lt;th&gt;Concept &lt;/th&gt;
+&lt;th&gt;Interval (%) &lt;/th&gt;
+&lt;th&gt;Concept &lt;/th&gt;
+&lt;th&gt;Interval (%)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;[96, 100)&lt;/td&gt;
+&lt;td&gt;B+&lt;/td&gt;
+&lt;td&gt;[88, 92)&lt;/td&gt;
+&lt;td&gt;C+&lt;/td&gt;
+&lt;td&gt;[76, 80)&lt;/td&gt;
+&lt;td&gt;D+&lt;/td&gt;
+&lt;td&gt;[64, 68)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A-&lt;/td&gt;
+&lt;td&gt;[92, 96)&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;td&gt;[84, 88)&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;td&gt;[72, 76)&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;td&gt;[60, 64)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;B-&lt;/td&gt;
+&lt;td&gt;[80, 84)&lt;/td&gt;
+&lt;td&gt;C-&lt;/td&gt;
+&lt;td&gt;[68, 72)&lt;/td&gt;
+&lt;td&gt;F&lt;/td&gt;
+&lt;td&gt;(0, 60)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;distribution&#34;&gt;Distribution&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Undergraduate  &lt;/th&gt;
+&lt;th&gt;Graduate&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Assignments (4)  &lt;/td&gt;
+&lt;td&gt;40%&lt;/td&gt;
+&lt;td&gt;25%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Exams (2)&lt;/td&gt;
+&lt;td&gt;50%&lt;/td&gt;
+&lt;td&gt;40%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Project&lt;/td&gt;
+&lt;td&gt;+10% (extra)&lt;/td&gt;
+&lt;td&gt;25%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Participation&lt;/td&gt;
+&lt;td&gt;10%&lt;/td&gt;
+&lt;td&gt;10%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;On the News&lt;/td&gt;
+&lt;td&gt;+1% (extra)&lt;/td&gt;
+&lt;td&gt;+1% (extra)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;assignments&#34;&gt;Assignments&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Assignment material will be linked here as we move forward with the classes.&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+* [Assignment 1](/teaching/biometrics-aut23/assign_01.pdf), [data](/teaching/biometrics-aut23/assign_01.zip), [good answers](/teaching/biometrics-aut23/assign_01_answers.pdf).
+* [Assignment 2](/teaching/biometrics-aut23/assign_02.pdf), [data](/teaching/biometrics-aut23/assign_02.zip), [good answers](/teaching/biometrics-aut23/assign_02_answers.pdf).
+* [Assignment 3](/teaching/biometrics-aut23/assign_03.pdf), [data](/teaching/biometrics-aut23/assign_03_data.zip), [good answers](/teaching/biometrics-aut23/assign_03_answers.pdf).
+* [Assignment 4](/teaching/biometrics-aut23/assign_04.pdf), [data](/teaching/biometrics-aut23/assign_04_data.zip), [good answers](/teaching/biometrics-aut23/assign_04_answers.pdf).
+--&gt;
+&lt;!-- XyPK04;579?) --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Late Policy&lt;/strong&gt;&lt;br&gt;
+Deduction of 10% of the maximum possible grade for each day of delay.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;exams&#34;&gt;Exams&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Midterm Exam, 10/02. &lt;!-- , [good answers](/teaching/biometrics-aut23/midterm_answers.pdf). --&gt;&lt;/li&gt;
+&lt;li&gt;Final Exam, 12/09. &lt;!-- , [good answers](/teaching/biometrics-aut23/final_answers.pdf). --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name=&#34;project&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;project&#34;&gt;Project&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Written report and presentation, work alone or in pairs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Possible Topics&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Implementation of &lt;em&gt;complete&lt;/em&gt; class attendance system.&lt;/li&gt;
+&lt;li&gt;Presentation attack (performance, detection, and mitigation) of fingerprint recognition.&lt;/li&gt;
+&lt;li&gt;Presentation attack of face recognition.&lt;/li&gt;
+&lt;li&gt;Presentation attack of iris recognition.&lt;/li&gt;
+&lt;li&gt;Implementation of recognition of traits other than fingerprints, face, and iris.&lt;/li&gt;
+&lt;li&gt;Presentation and implementation of state-of-the-art scientific publications.&lt;/li&gt;
+&lt;li&gt;Discussion about the ethical aspects of Biometrics and surveillance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+*Chosen Topics*
+| Team          | Topic                            | Presentation                                   |
+|---------------|----------------------------------|------------------------------------------------|
+| Team 1 &amp;emsp; | The Ethics of Biometrics &amp;emsp;  | [slides](/teaching/biometrics-aut23/pres1.pdf) |
+| Team 2        | Fingerprint Spoofing             | [slides](/teaching/biometrics-aut23/pres2.pdf) |
+| Team 3        | Iris Spoofing                    | [slides](/teaching/biometrics-aut23/pres3.pdf) |
+| Team 4        | Iris Obfuscation                 | [slides](/teaching/biometrics-aut23/pres4.pdf) |
+| Team 5        | Speaker Recognition              | [slides](/teaching/biometrics-aut23/pres5.pdf) |
+--&gt;
+&lt;p&gt;&lt;a name=&#34;part&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;participation&#34;&gt;Participation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Class Attendance: every presence counts.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Today-I-missed&lt;/em&gt; Statements: every submission counts.&lt;/li&gt;
+&lt;li&gt;Grace Cards: use them to pardon class absence or late work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Today-I-missed&lt;/em&gt; Statements&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;After every attended class, each student will have to submit (through Sakai) a short paragraph answering one of the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What is your biggest question after class? &lt;strong&gt;OR&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;What was the most interesting point you learned today?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;Inspired by  &lt;a href=&#34;https://www.ic.unicamp.br/~sandra/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sandra Avila&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Today I missed&amp;amp;hellip;&#34;
+           src=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/point.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Grace Cards&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Each student has three Grace Cards, which will allow them to avoid losing points because of class absence.
+They might also use their cards to excuse late-delivered assignments and give a one-week extension.
+The cards are not valid to dismiss or postpone exam and final project dates.
+Students may use their cards at their own discretion, as long as they clearly communicate the instructor.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Life happens, be wise.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- ![Oopsie card.](card.gif) --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;biometrics-on-the-news&#34;&gt;Biometrics on the News&lt;/h2&gt;
+&lt;p&gt;Posted by the students and the instructor on Sakai.&lt;br&gt;
+&lt;em&gt;Links will be added here as they appear on Sakai.&lt;/em&gt;&lt;/p&gt;
+&lt;!-- 
+1. [Koalas have fingerprints almost identical to ours.](https://www.pbs.org/wgbh/nova/article/koala-fingerprints/)
+2. [Brazilian thief spoofed victims faces.](https://www.dailymail.co.uk/news/article-12210813/Brazilian-thief-taped-photos-victims-faces-DUMMY-bypass-facial-recognition.html)
+3. [Fingerprint cloning: myth or reality?](https://blog.talosintelligence.com/fingerprint-research/)
+4. [Data leak of 1M people&#39;s biometric data in UK.](https://www.technologyreview.com/2019/08/14/133723/data-leak-exposes-unchangeable-biometric-data-of-over-1-million-people/)
+5. [Samsung phones use ultrasonic fingerprint device.](https://www.theverge.com/2019/10/23/20929178/samsung-galaxy-s10-note-1o-fingerprint-recognition-issue-patch-ultrasonic-sensor)
+6. [Apple uses capacitive fingerprint device (with 500 ppi).](https://en.wikipedia.org/wiki/Touch_ID)
+7. [Racial Discrimination in Face Recognition Technology.](https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/)
+8. [What is Facial Recognition Technology?](https://www.ajl.org/facial-recognition-technology)
+9. [Boston Bans Use Of Facial Recognition Technology.](https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban)
+10. [Adversarial Attack on ArcFace.](https://www.youtube.com/watch?v=a4iNg0wWBsQ)
+11. [Scrutiny of Iris-scanning Crypto Project Grows.](https://www.reuters.com/technology/scrutiny-iris-scanning-crypto-project-worldcoin-grows-2023-09-01/)
+12. [Scammers used AI to replicate son’s voice.](https://twitter.com/notcapnamerica/status/1725901659270742084)
+--&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Links will be added here as we move forward with the classes.&lt;/em&gt;&lt;/p&gt;
+&lt;!-- * [Yale face dataset](http://vision.ucsd.edu/content/yale-face-database), used in the 3rd assignment. --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Jain, Ross, and Nandakumar. &lt;em&gt;Introduction to Biometrics&lt;/em&gt;. Springer Books, 2011.&lt;/li&gt;
+&lt;li&gt;Jain, Flynn, and Ross. &lt;em&gt;Handbook of Biometrics&lt;/em&gt;. Springer Books, 2008.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+&lt;p&gt;At the end of the course, students will master the theoretical foundations, key techniques, and applications of Biometrics to real-world scenarios.
+Their repertoire will include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understanding the fundamentals of Biometrics.&lt;/li&gt;
+&lt;li&gt;Developing and implementing Biometric algorithms.&lt;/li&gt;
+&lt;li&gt;Assessing the performance of Biometric systems.&lt;/li&gt;
+&lt;li&gt;Applying Biometrics to real-world applications.&lt;/li&gt;
+&lt;li&gt;Identifying the privacy and ethics issues of Biometric systems.&lt;/li&gt;
+&lt;li&gt;Being up-to-date with emerging trends in Biometrics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;academic-integrity&#34;&gt;Academic Integrity&lt;/h2&gt;
+&lt;p&gt;Students are expected to adhere to the LUC statements on academic integrity available at &lt;a href=&#34;https://tinyurl.com/5n6ru62s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tinyurl.com/5n6ru62s&lt;/a&gt;.
+These policies fully apply to this course.
+The penalty for task-wise academic misconduct is losing all the task&amp;rsquo;s points.
+Multiple events of misconduct will incur in failing the entire course (with an F grade).
+All cases of academic misconduct will be reported to the proper department offices.
+Lastly, students are not allowed to use AI assisted technology (such as &lt;a href=&#34;https://chat.openai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ChatGPT&lt;/a&gt;) along the entirety of the course,
+unless explicitly authorized by the instructor.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;accommodations&#34;&gt;Accommodations&lt;/h2&gt;
+&lt;p&gt;Students who have disabilities and wish to request academic accommodations are advised to contact the
+&lt;em&gt;Services for Students With Disabilities&lt;/em&gt; (SSWD) office at 773-508-3700 or &lt;a href=&#34;mailto:SSWD@luc.edu&#34;&gt;SSWD@luc.edu&lt;/a&gt; as soon as possible.
+The SSWD office will provide accommodation letters that, once shared with the instructor, will be fully accommodated
+as per the terms of their content with no further questions.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Biometrics, Fall 2023</title>
