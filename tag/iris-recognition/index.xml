@@ -50,7 +50,7 @@
 Level: Undergraduate and Graduate&lt;br&gt;
 Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;br&gt;
 TA: Fiona Nicdao (&lt;a href=&#34;mailto:fnicdao@luc.edu&#34;&gt;fnicdao@luc.edu&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Lectures: MON and WED, 4:15 to 5:30 PM, 408 Mundelein Center&lt;br&gt;
+&lt;p&gt;Lectures: MON and WED, 4:15 to 5:30 PM, in person at 408 Mundelein Center&lt;br&gt;
 Office Hours: MON and WED evenings, and FRI afternoons,&lt;br&gt;
 310 Doyle Center or Zoom, &lt;a href=&#34;https://calendly.com/danielmoreira/fall-2024-office-hours&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;&lt;br&gt;
 Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/9WVTcd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sakai.luc.edu/x/9WVTcd&lt;/a&gt;&lt;/p&gt;
@@ -214,8 +214,8 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
-&lt;th&gt;Undergraduate  &lt;/th&gt;
-&lt;th&gt;Graduate&lt;/th&gt;
+&lt;th&gt;Undergraduate (COMP 388-002)  &lt;/th&gt;
+&lt;th&gt;Graduate (COMP 488-002)&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -231,7 +231,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Project&lt;/td&gt;
-&lt;td&gt;+10% (extra)&lt;/td&gt;
+&lt;td&gt;+10% (optional and extra)&lt;/td&gt;
 &lt;td&gt;25%&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -262,7 +262,7 @@ Deduction of 10% of the maximum possible grade for each day of delay.&lt;/p&gt;
 &lt;h3 id=&#34;exams&#34;&gt;Exams&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Midterm Exam, 10/02. &lt;!-- , [good answers](/teaching/biometrics-aut23/midterm_answers.pdf). --&gt;&lt;/li&gt;
-&lt;li&gt;Final Exam, 12/09. &lt;!-- , [good answers](/teaching/biometrics-aut23/final_answers.pdf). --&gt;&lt;/li&gt;
+&lt;li&gt;Final Exam, 12/09 &lt;em&gt;(unconfirmed)&lt;/em&gt;. &lt;!-- , [good answers](/teaching/biometrics-aut23/final_answers.pdf). --&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a name=&#34;project&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;project&#34;&gt;Project&lt;/h3&gt;
@@ -297,6 +297,7 @@ Deduction of 10% of the maximum possible grade for each day of delay.&lt;/p&gt;
 &lt;li&gt;Class Attendance: every presence counts.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Today-I-missed&lt;/em&gt; Statements: every submission counts.&lt;/li&gt;
 &lt;li&gt;Grace Cards: use them to pardon class absence or late work.&lt;/li&gt;
+&lt;li&gt;Religious holidays will be honored according to the student&amp;rsquo;s faith, as stated in &lt;a href=&#34;https://tinyurl.com/4uujcuw2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tinyurl.com/4uujcuw2&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Today-I-missed&lt;/em&gt; Statements&lt;/strong&gt;&lt;/p&gt;
@@ -379,6 +380,12 @@ Their repertoire will include:&lt;/p&gt;
 &lt;li&gt;Identifying the privacy and ethics issues of Biometric systems.&lt;/li&gt;
 &lt;li&gt;Being up-to-date with emerging trends in Biometrics.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Graduate students (within COMP 488-002), in particular, will acquire the following extra skills:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reading, peer-reviewing, and writing scientific papers about Biometrics.&lt;/li&gt;
+&lt;li&gt;Conducting research in Biometrics, from the design of hypotheses, development of solutions, and comparison to
+existing baselines, to the design and execution of experiments.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;academic-integrity&#34;&gt;Academic Integrity&lt;/h2&gt;
 &lt;p&gt;Students are expected to adhere to the LUC statements on academic integrity available at &lt;a href=&#34;https://tinyurl.com/5n6ru62s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tinyurl.com/5n6ru62s&lt;/a&gt;.
@@ -386,14 +393,14 @@ These policies fully apply to this course.
 The penalty for task-wise academic misconduct is losing all the task&amp;rsquo;s points.
 Multiple events of misconduct will incur in failing the entire course (with an F grade).
 All cases of academic misconduct will be reported to the proper department offices.
-Lastly, students are not allowed to use AI assisted technology (such as &lt;a href=&#34;https://chat.openai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ChatGPT&lt;/a&gt;) along the entirety of the course,
-unless explicitly authorized by the instructor.&lt;/p&gt;
+Lastly, students are not allowed to use AI assisted technology (such as &lt;a href=&#34;https://chat.openai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ChatGPT&lt;/a&gt;) along the
+entirety of the course, unless explicitly authorized by the instructor.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;accommodations&#34;&gt;Accommodations&lt;/h2&gt;
 &lt;p&gt;Students who have disabilities and wish to request academic accommodations are advised to contact the
-&lt;em&gt;Services for Students With Disabilities&lt;/em&gt; (SSWD) office at 773-508-3700 or &lt;a href=&#34;mailto:SSWD@luc.edu&#34;&gt;SSWD@luc.edu&lt;/a&gt; as soon as possible.
-The SSWD office will provide accommodation letters that, once shared with the instructor, will be fully accommodated
-as per the terms of their content with no further questions.&lt;/p&gt;
+&lt;em&gt;Student Accessibility Center&lt;/em&gt; (SAC) at 773-508-3700 or &lt;a href=&#34;mailto:sac@luc.edu&#34;&gt;sac@luc.edu&lt;/a&gt; as soon as possible.
+SAC will provide accommodation letters that, once shared with the instructor, will be fully honored
+as per the terms of their content with no further questions and total confidentiality.&lt;/p&gt;
 </description>
     </item>
     
