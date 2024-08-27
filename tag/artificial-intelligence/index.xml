@@ -114,7 +114,7 @@ fundamentals (such as linear algebra and calculus), and probability and statisti
 This course and its materials are available in &lt;a href=&#34;https://sakai.luc.edu/x/Od0gze&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+&lt;h2 id=&#34;schedule-materials-in-sakaihttpssakailuceduxcuz5vo&#34;&gt;Schedule &lt;em&gt;(materials in &lt;a href=&#34;https://sakai.luc.edu/x/cuz5vo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt;)&lt;/em&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;01/18 - Syllabus and Intro&lt;/li&gt;
 &lt;li&gt;01/25 - Data-driven Aspects&lt;/li&gt;
@@ -125,9 +125,9 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;li&gt;02/29 - Logistic Regression&lt;/li&gt;
 &lt;li&gt;03/07 - Spring Break, &lt;em&gt;no classes&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;03/14 - Classification Metrics&lt;/li&gt;
-&lt;li&gt;03/21 - Classification Methods&lt;/li&gt;
+&lt;li&gt;03/21 - Classification Methods (K-Nearest Neighbors, Decision Trees)&lt;/li&gt;
 &lt;li&gt;03/28 - Easter Break, &lt;em&gt;no classes&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;04/04 - Classification Methods (cont.)&lt;/li&gt;
+&lt;li&gt;04/04 - Classification Methods (cont., Support Vector Machines)&lt;/li&gt;
 &lt;li&gt;04/11 - Neural Nets&lt;/li&gt;
 &lt;li&gt;04/18 - Convolutional Neural Nets&lt;/li&gt;
 &lt;li&gt;04/25 - Graduate Students&amp;rsquo; Lectures and Wrap-up&lt;/li&gt;
@@ -139,37 +139,23 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;li&gt;&lt;del&gt;02/15 - Definition of project groups.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;02/29 - Definition of project topics.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;03/07 - Spring Break.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;03/14 - Midterm Exam.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;03/21 - Midterm Exam.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;03/21 - Definition of project plan.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;03/28 - Easter Break.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;04/11 - Report of project status.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;04/25 - Graduate students&amp;rsquo; lectures.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;05/02 - Project presentation.&lt;/del&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- -----------
-## Notebooks *(for coding classes)*
-* [Notebook 01,](https://colab.research.google.com/drive/1Yd-C7m8bhHP7-QcJH70iJyyjgrKOBaNT) Metrics&#39; implementation.
-* [Notebook 02,](https://colab.research.google.com/drive/1a6JdRkwRAMtyRif2LTIchtMCgsa7KL9l) Fingerprint recognition.
-* [Notebook 03,](https://colab.research.google.com/drive/18-PZJTQt1v7Pej37uVmZYNTZFdiiM2cG) Face recognition.
-* [Notebook 04,](https://colab.research.google.com/drive/1rJ5vjm48eMAg5ZdHApazo3X_IVMvIDKc) Iris recognition. --&gt;
-&lt;!-- -----------
-&lt;a name=&#34;abharati&#34;&gt;&lt;/a&gt;
-## Invited Talks
-|                                     |                                                                                                                                                          |
-|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Dr. Aparna Bharati](bharati.jpg)  | [Dr. Aparna Bharati](https://www.aparnabharati.com/)&lt;/br&gt; Assistant Professor&lt;/br&gt; Department of Computer Science and Engineering&lt;/br&gt; Lehigh University |
-
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| &lt;b&gt;Synthetic Data in Face Biometrics&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; How do image manipulations affect face recognition? How can computer-aided solutions detect and profile these manipulations? In this talk, I will present my recent work and the findings obtained while trying to answer these questions. We will discuss solutions to detect retouched faces by a variety of methods, including smartphone apps, as well as evaluate when face retouching is a problem for face recognition and our society. Moreover, we will talk about the recent trend of generating synthetic faces and how one can measure identity leakage from the training set to the generated samples, a major privacy issue that indeed deserves attention. Lastly, I introduce our recent work on SynthProv, which allies provenance analysis to synthetic face detection and identity leakage evaluation. &lt;a name=&#34;aczajka&#34;&gt;&lt;/a&gt; |
-
-|                                |                                                                                                                                                                               |
-|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Dr. Adam Czajka](czajka.jpg) | [Dr. Adam Czajka](https://engineering.nd.edu/faculty/adam-czajka/)&lt;/br&gt; Associate Professor&lt;/br&gt; Department of Computer Science and Engineering&lt;/br&gt; University of Notre Dame |
-
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| &lt;b&gt;Do you want a better presentation attack detection algorithm? Tell it where to look!&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; This lecture will discuss the topic of human-machine pairing for building trustworthy and human-interpretable iris recognition and biometric presentation attack detection methods. We will discuss approaches of guiding modern Artificial Intelligence models towards features salient for humans comparing irises (including forensic samples) and detecting spoofing attacks. Such guidance allows the AI methods to generalize to unknown attack types, and to create human-interpretable solutions assisting human examiners. We will discuss also selected approaches for effective use of always-limited human salience information (e.g., utilization of human salience in a teacher-student training paradigm) to scale this methodology to large datasets not accompanied by human annotations.  | --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;notebooks-for-hands-on-activities&#34;&gt;Notebooks &lt;em&gt;(for hands-on activities)&lt;/em&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/17IATgNji8ZNZCN4fNUMpvMqigexztO7z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 01,&lt;/a&gt; Data-driven Aspects.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1Q6DnkGYbjX1UQ_CL_lnWUSH6CEvvNPK9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 02,&lt;/a&gt; Principal Component Analysis.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1XHF9C1gQJZ36eax2V5Gm01icU70LY3O0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 03,&lt;/a&gt; Linear Regression.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1DfJxYXXqmZNTgVg3Q2LFNPLp0Gw4n9mJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 04,&lt;/a&gt; Logistic Regression.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1puZqLAXuRfjRpnuosbhR-aCEe55CxALA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 05,&lt;/a&gt; Classification Methods.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1KEYKKVqdmGhX-pDBLZ2V2ZpzoxHwG7pK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 06,&lt;/a&gt; Neural Networks.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;grading&#34;&gt;Grading&lt;/h2&gt;
 &lt;table&gt;
@@ -234,7 +220,7 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;td&gt;25%&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Exams (1)&lt;/td&gt;
+&lt;td&gt;Exams &lt;del&gt;(2)&lt;/del&gt; (1)&lt;/td&gt;
 &lt;td&gt;30%&lt;/td&gt;
 &lt;td&gt;25%&lt;/td&gt;
 &lt;/tr&gt;
@@ -260,29 +246,25 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h3 id=&#34;assignments&#34;&gt;Assignments&lt;/h3&gt;
+&lt;h3 id=&#34;assignments-materials-in-sakaihttpssakailuceduxx50tjo&#34;&gt;Assignments &lt;em&gt;(materials in &lt;a href=&#34;https://sakai.luc.edu/x/x50TJo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt;)&lt;/em&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Soon.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Assignment 1, Data-driven Aspects, Notebook 01.&lt;/li&gt;
+&lt;li&gt;Assignment 2, PCA and Linear Regression, Notebooks 02 and 03.&lt;/li&gt;
+&lt;li&gt;Assignment 3, Logistic Regression and Classification Methods, Notebooks 04 and 05.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- * [Assignment 1](/teaching/biometrics-aut23/assign_01.pdf), [data](/teaching/biometrics-aut23/assign_01.zip), [good answers](/teaching/biometrics-aut23/assign_01_answers.pdf).
-* [Assignment 2](/teaching/biometrics-aut23/assign_02.pdf), [data](/teaching/biometrics-aut23/assign_02.zip), [good answers](/teaching/biometrics-aut23/assign_02_answers.pdf).
-* [Assignment 3](/teaching/biometrics-aut23/assign_03.pdf), [data](/teaching/biometrics-aut23/assign_03_data.zip), [good answers](/teaching/biometrics-aut23/assign_03_answers.pdf).
-* [Assignment 4](/teaching/biometrics-aut23/assign_04.pdf), [data](/teaching/biometrics-aut23/assign_04_data.zip), [good answers](/teaching/biometrics-aut23/assign_04_answers.pdf). --&gt;
-&lt;!-- XyPK04;579?) --&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Late Policy&lt;/strong&gt;&lt;br&gt;
 Deduction of 10% of the maximum possible grade for each day of delay.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;exams&#34;&gt;Exams&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Midterm Exam, 03/14. &lt;!-- , [good answers](/teaching/biometrics-aut23/midterm_answers.pdf). --&gt;&lt;/li&gt;
-&lt;li&gt;Final Exam, 05/02. &lt;!-- , [good answers](/teaching/biometrics-aut23/final_answers.pdf). --&gt;&lt;/li&gt;
+&lt;li&gt;Midterm Exam, 03/21, &lt;a href=&#34;https://danielmoreira.github.io/teaching/ml-spr24/midterm-answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Final Exam&lt;/del&gt; &lt;em&gt;Final Project Presentation&lt;/em&gt;, 05/02.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a name=&#34;project&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;project&#34;&gt;Project&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Written report and presentation, work alone or in groups.&lt;/li&gt;
-&lt;li&gt;More &lt;em&gt;soon&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Written report (and presentation), work alone or in groups.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- &gt; **Possible Topics**  
 &gt; * Presentation attack (performance, detection, and mitigation) of fingerprint recognition.
@@ -291,16 +273,80 @@ Deduction of 10% of the maximum possible grade for each day of delay.&lt;/p&gt;
 &gt; * Implementation of *complete* class attendance system.
 &gt; * Implementation of recognition of traits other than fingerprints, face, and iris.
 &gt; * Presentation and implementation of state-of-the-art scientific publications.
-&gt; * Discussion about the ethical aspects of Biometrics and surveillance.
-
-*Chosen Topics*
-| Team          | Topic                            | Presentation                                   |
-|---------------|----------------------------------|------------------------------------------------|
-| Team 1 &amp;emsp; | The Ethics of Biometrics &amp;emsp;  | [slides](/teaching/biometrics-aut23/pres1.pdf) |
-| Team 2        | Fingerprint Spoofing             | [slides](/teaching/biometrics-aut23/pres2.pdf) |
-| Team 3        | Iris Spoofing                    | [slides](/teaching/biometrics-aut23/pres3.pdf) |
-| Team 4        | Iris Obfuscation                 | [slides](/teaching/biometrics-aut23/pres4.pdf) |
-| Team 5        | Speaker Recognition              | [slides](/teaching/biometrics-aut23/pres5.pdf) | --&gt;
+&gt; * Discussion about the ethical aspects of Biometrics and surveillance. --&gt;
+&lt;p&gt;&lt;em&gt;Chosen Topics&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Group&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Group&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 01  &lt;/td&gt;
+&lt;td&gt;Breast Cancer Detector&lt;/td&gt;
+&lt;td&gt;Team 11  &lt;/td&gt;
+&lt;td&gt;March Madness Standings Predictor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 02&lt;/td&gt;
+&lt;td&gt;Car Price Estimator&lt;/td&gt;
+&lt;td&gt;Team 12&lt;/td&gt;
+&lt;td&gt;House Price Estimator&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 03&lt;/td&gt;
+&lt;td&gt;Real Estate Predictor&lt;/td&gt;
+&lt;td&gt;Team 13&lt;/td&gt;
+&lt;td&gt;Music Source Separator&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 04&lt;/td&gt;
+&lt;td&gt;LUC Ranking Estimator&lt;/td&gt;
+&lt;td&gt;Team 14&lt;/td&gt;
+&lt;td&gt;Soccer Player Transference Value Estimator&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 05&lt;/td&gt;
+&lt;td&gt;Bitcoin Trading Advisor&lt;/td&gt;
+&lt;td&gt;Team 15&lt;/td&gt;
+&lt;td&gt;Lawyer Recommendation System&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 06&lt;/td&gt;
+&lt;td&gt;Car Emission Estimator&lt;/td&gt;
+&lt;td&gt;Team 16&lt;/td&gt;
+&lt;td&gt;Music Genre Classifier&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 07&lt;/td&gt;
+&lt;td&gt;NBA MVP Predictor&lt;/td&gt;
+&lt;td&gt;Team 17&lt;/td&gt;
+&lt;td&gt;Heart Condition Classifier&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 08&lt;/td&gt;
+&lt;td&gt;Twitter Sentiment Analyzer&lt;/td&gt;
+&lt;td&gt;Team 18&lt;/td&gt;
+&lt;td&gt;Person&amp;rsquo;s Age Prediction from MR&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 09&lt;/td&gt;
+&lt;td&gt;Diabetes Condition Classifier  &lt;/td&gt;
+&lt;td&gt;Team 19&lt;/td&gt;
+&lt;td&gt;Credit Condition Classifier&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 10&lt;/td&gt;
+&lt;td&gt;Credit Card Fraud Detector&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;&lt;a name=&#34;part&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;participation&#34;&gt;Participation&lt;/h3&gt;
 &lt;ul&gt;
@@ -371,22 +417,23 @@ Students may use their cards at their own discretion, as long as they clearly co
 &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;ml-on-the-news&#34;&gt;ML on the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Soon&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- Posted by the students and the instructor on Sakai.
-1. [Koalas have fingerprints almost identical to ours.](https://www.pbs.org/wgbh/nova/article/koala-fingerprints/)
-2. [Brazilian thief spoofed victims faces.](https://www.dailymail.co.uk/news/article-12210813/Brazilian-thief-taped-photos-victims-faces-DUMMY-bypass-facial-recognition.html)
-3. [Fingerprint cloning: myth or reality?](https://blog.talosintelligence.com/fingerprint-research/)
-4. [Data leak of 1M people&#39;s biometric data in UK.](https://www.technologyreview.com/2019/08/14/133723/data-leak-exposes-unchangeable-biometric-data-of-over-1-million-people/)
-5. [Samsung phones use ultrasonic fingerprint device.](https://www.theverge.com/2019/10/23/20929178/samsung-galaxy-s10-note-1o-fingerprint-recognition-issue-patch-ultrasonic-sensor)
-6. [Apple uses capacitive fingerprint device (with 500 ppi).](https://en.wikipedia.org/wiki/Touch_ID)
-7. [Racial Discrimination in Face Recognition Technology.](https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/)
-8. [What is Facial Recognition Technology?](https://www.ajl.org/facial-recognition-technology)
-9. [Boston Bans Use Of Facial Recognition Technology.](https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban)
-10. [Adversarial Attack on ArcFace.](https://www.youtube.com/watch?v=a4iNg0wWBsQ)
-11. [Scrutiny of Iris-scanning Crypto Project Grows.](https://www.reuters.com/technology/scrutiny-iris-scanning-crypto-project-worldcoin-grows-2023-09-01/)
-12. [Scammers used AI to replicate son’s voice.](https://twitter.com/notcapnamerica/status/1725901659270742084) --&gt;
+&lt;p&gt;Posted by the students on Sakai.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://openai.com/sora&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenAI Sora.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.japantimes.co.jp/business/2024/03/06/tech/inoue-uber-eats-robot/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Self-driving delivery robots.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://time.com/6903563/eu-ai-act-law-aritificial-intelligence-passes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EU AI Law.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://opencv.org/blog/devin-ai-software-engineer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Devin - AI Software Engineer.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/automl-revolution-future-automated-machine-learning-transforming-j75sc?trk=public_post_main-feed-card_feed-article-content#:~:text=The%20landscape%20of%20AutoML%20is,accessible%20to%20a%20broader%20audience&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AutoML - Automated ML model development.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wsj.com/articles/open-source-companies-are-sharing-their-ai-free-can-they-crack-openais-dominance-26149e9c?mod=ai_news_article_pos5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open-Source Companies Are Sharing Their AI Free. Can They Crack OpenAI’s Dominance?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timesofindia.indiatimes.com/gadgets-news/bharatgpt-hanooman-all-you-need-to-know-about-the-ai-model-developed-by-reliance-and-9-iits-ac&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BharatGPT Hanooman.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.mit.edu/2024/brain-surgery-training-avatar-0229&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Remote Brain Surgery Training.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.figure.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Figure.ai.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://openai.com/dall-e-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DALL-E 2: Create realistic images and art from a description in natural language.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/spaces/Xintao/GFPGAN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GFP-GAN : Photo Restoration.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sciencealert.com/machine-learning-uncovers-new-ways-to-kill-bacteria-with-non-antibiotic-drugs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning Uncovers New Ways to Kill Bacteria With Non-Antibiotic Drugs.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.mit.edu/2024/building-better-ai-helper-starts-with-modeling-irrational-behavior-0419&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;To build a better AI helper, start by modeling the irrational behavior of humans.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meet Your New Assistant: Meta AI, Built With Llama 3.&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
