@@ -87,7 +87,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;09/09 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_04.pdf&#34;&gt;1st Coding Class,&lt;/a&gt; Metrics&amp;rsquo; implementation.&lt;/li&gt;
 &lt;li&gt;09/11 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_05.pdf&#34;&gt;Fingerprint Recog. I,&lt;/a&gt; History and features.&lt;/li&gt;
 &lt;li&gt;09/16 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_06.pdf&#34;&gt;Fingerprint Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
-&lt;li&gt;09/18 - Fingerprint Recog. III, Minutiae detection.&lt;/li&gt;
+&lt;li&gt;09/18 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_07.pdf&#34;&gt;Fingerprint Recog. III,&lt;/a&gt; Minutiae detection.&lt;/li&gt;
 &lt;li&gt;09/23 - Fingerprint Recog. IV, Data collection.&lt;/li&gt;
 &lt;li&gt;09/25 - 2nd Coding Class, Fingerprint recognition.&lt;/li&gt;
 &lt;li&gt;09/30 - Midterm Preparation, Recap and project discussion.&lt;/li&gt;
@@ -134,7 +134,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;!-- * ~~12/06 - Dr. Adam Czajka’s talk.~~ --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;notebooks-for-coding-classes&#34;&gt;Notebooks &lt;em&gt;(for coding classes)&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Online notebooks will be linked here as we move forward with the classes.&lt;/em&gt;&lt;/p&gt;
+&lt;!-- *Online notebooks will be linked here as we move forward with the classes.* --&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1Yd-C7m8bhHP7-QcJH70iJyyjgrKOBaNT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 01,&lt;/a&gt; Metrics&amp;rsquo; implementation.&lt;/li&gt;
 &lt;/ul&gt;
@@ -248,7 +248,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3 id=&#34;assignments&#34;&gt;Assignments&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Assignment material will be linked here as we move forward with the classes.&lt;/em&gt;&lt;/p&gt;
+&lt;!-- *Assignment material will be linked here as we move forward with the classes.* --&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/assignments/assign_01.pdf&#34;&gt;Assignment 1,&lt;/a&gt; due on Sep 25.&lt;/li&gt;
 &lt;/ul&gt;
