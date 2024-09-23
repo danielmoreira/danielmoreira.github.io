@@ -88,7 +88,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;09/11 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_05.pdf&#34;&gt;Fingerprint Recog. I,&lt;/a&gt; History and features.&lt;/li&gt;
 &lt;li&gt;09/16 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_06.pdf&#34;&gt;Fingerprint Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
 &lt;li&gt;09/18 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_07.pdf&#34;&gt;Fingerprint Recog. III,&lt;/a&gt; Minutiae detection.&lt;/li&gt;
-&lt;li&gt;09/23 - Fingerprint Recog. IV, Data collection.&lt;/li&gt;
+&lt;li&gt;09/23 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_08.pdf&#34;&gt;Fingerprint Recog. IV,&lt;/a&gt; Data collection.&lt;/li&gt;
 &lt;li&gt;09/25 - 2nd Coding Class, Fingerprint recognition.&lt;/li&gt;
 &lt;li&gt;09/30 - Midterm Preparation, Recap and project discussion.&lt;/li&gt;
 &lt;li&gt;10/02 - Midterm Exam. &lt;!--, Grades on Sakai. --&gt;&lt;/li&gt;
@@ -137,9 +137,9 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;!-- *Online notebooks will be linked here as we move forward with the classes.* --&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1Yd-C7m8bhHP7-QcJH70iJyyjgrKOBaNT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 01,&lt;/a&gt; Metrics&amp;rsquo; implementation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1a6JdRkwRAMtyRif2LTIchtMCgsa7KL9l&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 02,&lt;/a&gt; Fingerprint recognition.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- * [Notebook 02,](https://colab.research.google.com/drive/1a6JdRkwRAMtyRif2LTIchtMCgsa7KL9l) Fingerprint recognition.
-* [Notebook 03,](https://colab.research.google.com/drive/18-PZJTQt1v7Pej37uVmZYNTZFdiiM2cG) Face recognition.
+&lt;!-- * [Notebook 03,](https://colab.research.google.com/drive/18-PZJTQt1v7Pej37uVmZYNTZFdiiM2cG) Face recognition.
 * [Notebook 04,](https://colab.research.google.com/drive/1rJ5vjm48eMAg5ZdHApazo3X_IVMvIDKc) Iris recognition. --&gt;
 &lt;hr&gt;
 &lt;!-- &lt;a name=&#34;abharati&#34;&gt;&lt;/a&gt; --&gt;
