@@ -89,11 +89,11 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;09/16 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_06.pdf&#34;&gt;Fingerprint Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
 &lt;li&gt;09/18 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_07.pdf&#34;&gt;Fingerprint Recog. III,&lt;/a&gt; Minutiae detection.&lt;/li&gt;
 &lt;li&gt;09/23 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_08.pdf&#34;&gt;Fingerprint Recog. IV,&lt;/a&gt; Data collection.&lt;/li&gt;
-&lt;li&gt;09/25 - 2nd Coding Class, Fingerprint recognition.&lt;/li&gt;
-&lt;li&gt;09/30 - Midterm Preparation, Recap and project discussion.&lt;/li&gt;
-&lt;li&gt;10/02 - Midterm Exam. &lt;!--, Grades on Sakai. --&gt;&lt;/li&gt;
+&lt;li&gt;09/25 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_08.pdf&#34;&gt;2nd Coding Class&lt;/a&gt;, Fingerprint recognition.&lt;/li&gt;
+&lt;li&gt;09/30 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_09.pdf&#34;&gt;Face Recog. I,&lt;/a&gt; Why faces and faces vs. other traits.&lt;/li&gt;
+&lt;li&gt;10/02 - Midterm Preparation, Recap and project discussion.&lt;/li&gt;
 &lt;li&gt;10/07 - Fall Break, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;10/09 - Face Recog. I, Why faces and faces vs. other traits.&lt;/li&gt;
+&lt;li&gt;10/09 - Midterm Exam. &lt;!--, Grades on Sakai. --&gt;&lt;/li&gt;
 &lt;li&gt;10/14 - Face Recog. II, Acquisition and enhancement.&lt;/li&gt;
 &lt;li&gt;10/16 - Face Recog. III, Description and matching.&lt;/li&gt;
 &lt;li&gt;10/21 - Face Recog. IV, Deep learning face recognition.&lt;/li&gt;
@@ -118,9 +118,9 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;&lt;del&gt;08/26 - First Class.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;09/02 - Labor Day, no classes.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;09/09 - 1st Coding Class.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;09/25 - 2nd Coding Class and Fingerprint Collection.&lt;/li&gt;
-&lt;li&gt;10/02 - Midterm Exam.&lt;/li&gt;
+&lt;li&gt;09/25 - 2nd Coding Class and 1st Assignment deadline.&lt;/li&gt;
 &lt;li&gt;10/07 - Fall Break, no classes.&lt;/li&gt;
+&lt;li&gt;10/09 - Midterm Exam.&lt;/li&gt;
 &lt;li&gt;10/23 - 3rd Coding Class.&lt;/li&gt;
 &lt;li&gt;11/06 - 4th Coding Class.&lt;/li&gt;
 &lt;li&gt;11/27 - Thanksgiving, no classes.&lt;/li&gt;
@@ -305,7 +305,8 @@ Deduction of 10% of the maximum possible grade for each day of delay.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Today-I-missed&lt;/em&gt; Statements&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;After every attended class, each student will have to submit (through Sakai) a short paragraph answering one of the following:&lt;/p&gt;
+&lt;p&gt;After every attended class, each student will have to submit (through Sakai) a short paragraph answering one of the
+following:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;What is your biggest question after class? &lt;strong&gt;OR&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;What was the most interesting point you learned today?&lt;/li&gt;
@@ -379,7 +380,8 @@ Students may use their cards at their own discretion, as long as they clearly co
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
-&lt;p&gt;At the end of the course, students will master the theoretical foundations, key techniques, and applications of Biometrics to real-world scenarios.
+&lt;p&gt;At the end of the course, students will master the theoretical foundations, key techniques, and applications of
+Biometrics to real-world scenarios.
 Their repertoire will include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Understanding the fundamentals of Biometrics.&lt;/li&gt;
