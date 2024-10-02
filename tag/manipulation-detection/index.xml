@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manipulation Detection | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tag/manipulation-detection/</link>
+      <atom:link href="https://danielmoreira.github.io/tag/manipulation-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manipulation Detection</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Manipulation Detection</title>
+      <link>https://danielmoreira.github.io/tag/manipulation-detection/</link>
+    </image>
+    
+    <item>
+      <title>Exploring Saliency Bias in Manipulation Detection</title>
+      <link>https://danielmoreira.github.io/publication/2024_icip/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2024_icip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
