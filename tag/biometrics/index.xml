@@ -91,10 +91,10 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;09/23 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_08.pdf&#34;&gt;Fingerprint Recog. IV,&lt;/a&gt; Data collection.&lt;/li&gt;
 &lt;li&gt;09/25 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_08.pdf&#34;&gt;2nd Coding Class&lt;/a&gt;, Fingerprint recognition.&lt;/li&gt;
 &lt;li&gt;09/30 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_09.pdf&#34;&gt;Face Recog. I,&lt;/a&gt; Why faces and faces vs. other traits.&lt;/li&gt;
-&lt;li&gt;10/02 - Midterm Preparation, Recap and project discussion.&lt;/li&gt;
+&lt;li&gt;10/02 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_11.pdf&#34;&gt;Midterm Preparation&lt;/a&gt;, Recap and project discussion.&lt;/li&gt;
 &lt;li&gt;10/07 - Fall Break, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;10/09 - Midterm Exam. &lt;!--, Grades on Sakai. --&gt;&lt;/li&gt;
-&lt;li&gt;10/14 - Face Recog. II, Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;10/14 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_10.pdf&#34;&gt;Face Recog. II&lt;/a&gt;, Acquisition and enhancement.&lt;/li&gt;
 &lt;li&gt;10/16 - Face Recog. III, Description and matching.&lt;/li&gt;
 &lt;li&gt;10/21 - Face Recog. IV, Deep learning face recognition.&lt;/li&gt;
 &lt;li&gt;10/23 - 3rd Coding Class, Face recognition.&lt;/li&gt;
@@ -118,10 +118,11 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;&lt;del&gt;08/26 - First Class.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;09/02 - Labor Day, no classes.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;09/09 - 1st Coding Class.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;09/25 - 2nd Coding Class and 1st Assignment deadline.&lt;/li&gt;
-&lt;li&gt;10/07 - Fall Break, no classes.&lt;/li&gt;
-&lt;li&gt;10/09 - Midterm Exam.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;09/25 - 2nd Coding Class and 1st Assignment deadline.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;10/07 - Fall Break, no classes.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;10/09 - Midterm Exam.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;10/23 - 3rd Coding Class.&lt;/li&gt;
+&lt;li&gt;10/24 - 2nd Assignment deadline.&lt;/li&gt;
 &lt;li&gt;11/06 - 4th Coding Class.&lt;/li&gt;
 &lt;li&gt;11/27 - Thanksgiving, no classes.&lt;/li&gt;
 &lt;li&gt;12/02 - Project presentations.&lt;/li&gt;
@@ -251,7 +252,10 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;!-- *Assignment material will be linked here as we move forward with the classes.* --&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/assignments/assign_01.pdf&#34;&gt;Assignment 1,&lt;/a&gt; due on Sep 25.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/assignments/assign_02.pdf&#34;&gt;Assignment 2,&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/hrpxu62e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;, due on
+Oct 24.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- XyPK04;579?) --&gt;
 &lt;!--
 * [Assignment 1](/teaching/biometrics-aut23/assign_01.pdf), [data](/teaching/biometrics-aut23/assign_01.zip), [good answers](/teaching/biometrics-aut23/assign_01_answers.pdf).
 * [Assignment 2](/teaching/biometrics-aut23/assign_02.pdf), [data](/teaching/biometrics-aut23/assign_02.zip), [good answers](/teaching/biometrics-aut23/assign_02_answers.pdf).
@@ -352,6 +356,7 @@ Students may use their cards at their own discretion, as long as they clearly co
 &lt;li&gt;&lt;a href=&#34;https://sakai.luc.edu/access/content/group/COMP_388_002_4321_1246/student-uploads/cprevost__2024.01.24_China_Ethics_Biometrics_20240827104004049.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ethical Problems continue to plague biometric studies of Chinese minority groups.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://diabetesjournals.org/care/article-pdf/14/7/612/341538/14-7-612a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Illegible Fingerprints.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.pbs.org/wgbh/nova/article/koala-fingerprints/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koalas have fingerprints almost identical to ours.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theguardian.com/technology/2019/aug/14/major-breach-found-in-biometrics-system-used-by-banks-uk-police-and-defence-firms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Major breach found in biometrics system&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;!-- *Links will be added here as they appear on Sakai.* --&gt;
 &lt;!-- 
