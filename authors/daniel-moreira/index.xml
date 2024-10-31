@@ -5,12 +5,20 @@
     <link>https://danielmoreira.github.io/authors/daniel-moreira/</link>
       <atom:link href="https://danielmoreira.github.io/authors/daniel-moreira/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Moreira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
       <title>Daniel Moreira</title>
       <link>https://danielmoreira.github.io/authors/daniel-moreira/</link>
     </image>
+    
+    <item>
+      <title>Unveiling scientific articles from paper mills with provenance analysis</title>
+      <link>https://danielmoreira.github.io/publication/2024_plosone/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2024_plosone/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploring Saliency Bias in Manipulation Detection</title>
