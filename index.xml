@@ -118,7 +118,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;10/30 - &lt;a href=&#34;#reading&#34;&gt;Reading Activity,&lt;/a&gt; &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;11/04 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_16.pdf&#34;&gt;Iris Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
 &lt;li&gt;11/04 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_17.pdf&#34;&gt;Iris Recog. III,&lt;/a&gt; Description and matching.&lt;/li&gt;
-&lt;li&gt;11/06 - 4th Coding Class, Iris recognition.&lt;/li&gt;
+&lt;li&gt;11/06 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_18.pdf&#34;&gt;4th Coding Class,&lt;/a&gt; Iris recognition.&lt;/li&gt;
 &lt;li&gt;11/11 - Other Traits, Alternative traits and Soft Biometrics.&lt;/li&gt;
 &lt;li&gt;11/13 - Multibiometrics, Data fusion.&lt;/li&gt;
 &lt;li&gt;11/18 - 1st Invited Talk, Dr. Adam Czajka. &lt;!-- ,](#abharati) Dr. Aparna Bharati. --&gt;&lt;/li&gt;
@@ -160,8 +160,8 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1Yd-C7m8bhHP7-QcJH70iJyyjgrKOBaNT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 01,&lt;/a&gt; Metrics&amp;rsquo; implementation.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1a6JdRkwRAMtyRif2LTIchtMCgsa7KL9l&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 02,&lt;/a&gt; Fingerprint recognition.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/18-PZJTQt1v7Pej37uVmZYNTZFdiiM2cG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 03,&lt;/a&gt; Face recognition.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1rJ5vjm48eMAg5ZdHApazo3X_IVMvIDKc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 04,&lt;/a&gt; Iris recognition.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- * [Notebook 04,](https://colab.research.google.com/drive/1rJ5vjm48eMAg5ZdHApazo3X_IVMvIDKc) Iris recognition. --&gt;
 &lt;hr&gt;
 &lt;!-- &lt;a name=&#34;abharati&#34;&gt;&lt;/a&gt; --&gt;
 &lt;h2 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h2&gt;
