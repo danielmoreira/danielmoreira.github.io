@@ -105,8 +105,8 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;11/06 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_18.pdf&#34;&gt;4th Coding Class,&lt;/a&gt; Iris recognition.&lt;/li&gt;
 &lt;li&gt;11/11 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_19.pdf&#34;&gt;Other Traits,&lt;/a&gt; Alternative traits and Soft Biometrics.&lt;/li&gt;
 &lt;li&gt;11/13 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_20.pdf&#34;&gt;Multibiometrics,&lt;/a&gt; Data fusion.&lt;/li&gt;
-&lt;li&gt;11/18 - 1st Invited Talk, Dr. Adam Czajka. &lt;!-- ,](#abharati) Dr. Aparna Bharati. --&gt;&lt;/li&gt;
-&lt;li&gt;11/20 - 2nd Invited Talk, Dr. Dinko Bačić. &lt;!-- ,](#aczajka) Dr. Adam Czajka. --&gt;&lt;/li&gt;
+&lt;li&gt;11/18 - &lt;a href=&#34;#aczajka&#34;&gt;1st Invited Talk,&lt;/a&gt; Dr. Adam Czajka.&lt;/li&gt;
+&lt;li&gt;11/20 - &lt;a href=&#34;#bacic&#34;&gt;2nd Invited Talk,&lt;/a&gt; Dr. Dinko Bačić.&lt;/li&gt;
 &lt;li&gt;11/25 - Feature Indexing, Index building and feature querying.&lt;/li&gt;
 &lt;li&gt;11/27 - Thanksgiving, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;12/02 - Office Hours to Conclude Projects, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
@@ -147,26 +147,114 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1rJ5vjm48eMAg5ZdHApazo3X_IVMvIDKc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 04,&lt;/a&gt; Iris recognition.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;!-- &lt;a name=&#34;abharati&#34;&gt;&lt;/a&gt; --&gt;
+&lt;p&gt;&lt;a name=&#34;aczajka&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Information about the talks will be added here as soon as they are settled.&lt;/em&gt;&lt;/p&gt;
-&lt;!--
-|                                     |                                                                                                                                                          |
-|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Dr. Aparna Bharati](bharati.jpg)  | [Dr. Aparna Bharati](https://www.aparnabharati.com/)&lt;/br&gt; Assistant Professor&lt;/br&gt; Department of Computer Science and Engineering&lt;/br&gt; Lehigh University |
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| &lt;b&gt;Synthetic Data in Face Biometrics&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; How do image manipulations affect face recognition? How can computer-aided solutions detect and profile these manipulations? In this talk, I will present my recent work and the findings obtained while trying to answer these questions. We will discuss solutions to detect retouched faces by a variety of methods, including smartphone apps, as well as evaluate when face retouching is a problem for face recognition and our society. Moreover, we will talk about the recent trend of generating synthetic faces and how one can measure identity leakage from the training set to the generated samples, a major privacy issue that indeed deserves attention. Lastly, I introduce our recent work on SynthProv, which allies provenance analysis to synthetic face detection and identity leakage evaluation. &lt;a name=&#34;aczajka&#34;&gt;&lt;/a&gt; |
 
-|                                |                                                                                                                                                                               |
-|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Dr. Adam Czajka](czajka.jpg) | [Dr. Adam Czajka](https://engineering.nd.edu/faculty/adam-czajka/)&lt;/br&gt; Associate Professor&lt;/br&gt; Department of Computer Science and Engineering&lt;/br&gt; University of Notre Dame |
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| &lt;b&gt;Do you want a better presentation attack detection algorithm? Tell it where to look!&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; This lecture will discuss the topic of human-machine pairing for building trustworthy and human-interpretable iris recognition and biometric presentation attack detection methods. We will discuss approaches of guiding modern Artificial Intelligence models towards features salient for humans comparing irises (including forensic samples) and detecting spoofing attacks. Such guidance allows the AI methods to generalize to unknown attack types, and to create human-interpretable solutions assisting human examiners. We will discuss also selected approaches for effective use of always-limited human salience information (e.g., utilization of human salience in a teacher-student training paradigm) to scale this methodology to large datasets not accompanied by human annotations.  |
---&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Dr. Adam Czajka&#34; srcset=&#34;
+               /teaching/biometrics-aut24/czajka_hua56767b233d4ac23bce131738d751b09_4473_5e340d6c75c6a539b40a1cc35e79e1d5.webp 400w,
+               /teaching/biometrics-aut24/czajka_hua56767b233d4ac23bce131738d751b09_4473_ccd09ede64b65d0435b3900a03dc0f6d.webp 760w,
+               /teaching/biometrics-aut24/czajka_hua56767b233d4ac23bce131738d751b09_4473_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/czajka_hua56767b233d4ac23bce131738d751b09_4473_5e340d6c75c6a539b40a1cc35e79e1d5.webp&#34;
+               width=&#34;100&#34;
+               height=&#34;120&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://engineering.nd.edu/faculty/adam-czajka/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Adam Czajka&lt;/a&gt;&lt;/br&gt; Associate Professor&lt;/br&gt; Department of Computer Science and Engineering&lt;/br&gt; University of Notre Dame&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;b&gt;Do you want a better presentation attack detection algorithm? Tell it where to look!&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; This lecture will discuss Dr. Czajka&amp;rsquo;s group&amp;rsquo;s research efforts on establishing a holistic framework for human-machine supervision cycle to enable (a) human-guided design of computer vision methods to make the biometric presentation attack detection mechanisms generalize better to unknown attack instruments, and (b) creation of computer-aided methods of assisting human examiners in detecting of fake inputs. The lecture will use iris recognition and iris presentation attack detection as use cases for the discussed methodologies. &lt;a name=&#34;bacic&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Dr. Dinko Bačić&#34; srcset=&#34;
+               /teaching/biometrics-aut24/bacic_hua001e5621fa676ad7488c6e922d12db7_18111_16782075c94d8af50087e68cd060255b.webp 400w,
+               /teaching/biometrics-aut24/bacic_hua001e5621fa676ad7488c6e922d12db7_18111_6bf83748b6c9f9fac63828710a0ab49e.webp 760w,
+               /teaching/biometrics-aut24/bacic_hua001e5621fa676ad7488c6e922d12db7_18111_1200x1200_fit_q90_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/bacic_hua001e5621fa676ad7488c6e922d12db7_18111_16782075c94d8af50087e68cd060255b.webp&#34;
+               width=&#34;100&#34;
+               height=&#34;120&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.luc.edu/quinlan/faculty/dinkobai.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Dinko Bačić&lt;/a&gt;&lt;/br&gt; Assistant Professor&lt;/br&gt; Quinlan School of Business&lt;/br&gt; Loyola University Chicago&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;b&gt;Title will be here soon&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; Abstract will be here soon. &lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;grading&#34;&gt;Grading&lt;/h2&gt;
 &lt;table&gt;
