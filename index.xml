@@ -123,7 +123,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;11/13 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_20.pdf&#34;&gt;Multibiometrics,&lt;/a&gt; Data fusion.&lt;/li&gt;
 &lt;li&gt;11/18 - &lt;a href=&#34;#aczajka&#34;&gt;1st Invited Talk,&lt;/a&gt; Dr. Adam Czajka.&lt;/li&gt;
 &lt;li&gt;11/20 - &lt;a href=&#34;#bacic&#34;&gt;2nd Invited Talk,&lt;/a&gt; Dr. Dinko Bačić.&lt;/li&gt;
-&lt;li&gt;11/25 - Feature Indexing, Index building and feature querying.&lt;/li&gt;
+&lt;li&gt;11/25 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut24/slides/lecture_21.pdf&#34;&gt;Feature Indexing,&lt;/a&gt; Index building and feature querying.&lt;/li&gt;
 &lt;li&gt;11/27 - Thanksgiving, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;12/02 - Office Hours to Conclude Projects, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;12/04 - &lt;a href=&#34;#project&#34;&gt;Project presentations.&lt;/a&gt; &lt;!-- , 5 groups present. --&gt;&lt;/li&gt;
@@ -143,7 +143,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;&lt;del&gt;11/06 - 4th Coding Class.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;11/12 - 3rd Assignment Deadline.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;11/18 - Dr. Czajka&amp;rsquo;s Talk.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;11/20 - Dr. Bačić&amp;rsquo;s Talk.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;11/20 - Dr. Bačić&amp;rsquo;s Talk.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;11/27 - Thanksgiving, no classes.&lt;/li&gt;
 &lt;li&gt;12/04 - Project presentations.&lt;/li&gt;
 &lt;li&gt;12/08 - 4th Assignment deadline&lt;/li&gt;
@@ -388,6 +388,38 @@ Deduction of 10% of the maximum possible grade for each day of delay.&lt;/p&gt;
 &lt;li&gt;Discussion about the ethical aspects of Biometrics and surveillance.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;Chosen Topics&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Team&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Presentation&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 1  &lt;/td&gt;
+&lt;td&gt;Disrupting Facial Recognition&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Soon.&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 2&lt;/td&gt;
+&lt;td&gt;Facial Presentation Attack Detection  &lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Soon.&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 3&lt;/td&gt;
+&lt;td&gt;Covert Biometrics&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Soon.&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 4&lt;/td&gt;
+&lt;td&gt;MacOS Fingerprint Attack&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Soon.&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;!-- 
 *Chosen Topics*
 | Team          | Topic                            | Presentation                                   |
