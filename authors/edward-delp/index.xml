@@ -5,12 +5,20 @@
     <link>https://danielmoreira.github.io/authors/edward-delp/</link>
       <atom:link href="https://danielmoreira.github.io/authors/edward-delp/index.xml" rel="self" type="application/rss+xml" />
     <description>Edward Delp</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
       <title>Edward Delp</title>
       <link>https://danielmoreira.github.io/authors/edward-delp/</link>
     </image>
+    
+    <item>
+      <title>Explainable artifacts for synthetic Western blot source attribution</title>
+      <link>https://danielmoreira.github.io/publication/2024_wifs_cardenuto/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2024_wifs_cardenuto/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SILA: a system for scientific image analysis</title>

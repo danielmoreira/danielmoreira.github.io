@@ -5,12 +5,28 @@
     <link>https://danielmoreira.github.io/authors/sara-mandelli/</link>
       <atom:link href="https://danielmoreira.github.io/authors/sara-mandelli/index.xml" rel="self" type="application/rss+xml" />
     <description>Sara Mandelli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
       <title>Sara Mandelli</title>
       <link>https://danielmoreira.github.io/authors/sara-mandelli/</link>
     </image>
+    
+    <item>
+      <title>Explainable artifacts for synthetic Western blot source attribution</title>
+      <link>https://danielmoreira.github.io/publication/2024_wifs_cardenuto/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2024_wifs_cardenuto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Localization of synthetic manipulations in Western blot images</title>
+      <link>https://danielmoreira.github.io/publication/2024_wifs_manjunath/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2024_wifs_manjunath/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Forensic Analysis of Synthetically Generated Western Blot Images</title>

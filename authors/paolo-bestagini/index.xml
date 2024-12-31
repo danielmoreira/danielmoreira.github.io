@@ -5,12 +5,28 @@
     <link>https://danielmoreira.github.io/authors/paolo-bestagini/</link>
       <atom:link href="https://danielmoreira.github.io/authors/paolo-bestagini/index.xml" rel="self" type="application/rss+xml" />
     <description>Paolo Bestagini</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
       <title>Paolo Bestagini</title>
       <link>https://danielmoreira.github.io/authors/paolo-bestagini/</link>
     </image>
+    
+    <item>
+      <title>Explainable artifacts for synthetic Western blot source attribution</title>
+      <link>https://danielmoreira.github.io/publication/2024_wifs_cardenuto/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2024_wifs_cardenuto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Localization of synthetic manipulations in Western blot images</title>
+      <link>https://danielmoreira.github.io/publication/2024_wifs_manjunath/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2024_wifs_manjunath/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SILA: a system for scientific image analysis</title>

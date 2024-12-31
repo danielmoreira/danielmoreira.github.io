@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Synthetic Image Manipulation Localization | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/tag/synthetic-image-manipulation-localization/</link>
+      <atom:link href="https://danielmoreira.github.io/tag/synthetic-image-manipulation-localization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Synthetic Image Manipulation Localization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Synthetic Image Manipulation Localization</title>
+      <link>https://danielmoreira.github.io/tag/synthetic-image-manipulation-localization/</link>
+    </image>
+    
+    <item>
+      <title>Localization of synthetic manipulations in Western blot images</title>
+      <link>https://danielmoreira.github.io/publication/2024_wifs_manjunath/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2024_wifs_manjunath/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
