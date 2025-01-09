@@ -54,9 +54,15 @@ TA: Fiona Nicdao (&lt;a href=&#34;mailto:fnicdao@luc.edu&#34;&gt;fnicdao@luc.edu
 Office Hours: MON and WED evenings, and FRI afternoons,&lt;br&gt;
 310 Doyle Center or Zoom, &lt;a href=&#34;https://calendly.com/danielmoreira/fall-2024-office-hours&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;&lt;br&gt;
 Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/9WVTcd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sakai.luc.edu/x/9WVTcd&lt;/a&gt;&lt;/p&gt;
-&lt;!-- &gt; Final grades were released on Sakai. Thank you, everyone! --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Final grades were released on Sakai. Thank you, everyone!&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;video class=&#34;video-shortcode&#34; preload=&#34;auto&#34; controls&gt;
+    &lt;source src=&#34;attack.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    You should see a video here but your browser does not seem to support it.
+&lt;/video&gt;
 &lt;!-- ![Presentation attacks done by students.](fake.png) --&gt;
 &lt;p&gt;How do computers match a person&amp;rsquo;s fingerprints?
 Do they still use the same techniques proposed in the XIX century?
@@ -667,7 +673,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;11/29 - Office Hours to Conclude Projects, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;12/04 - &lt;a href=&#34;#project&#34;&gt;Project presentations&lt;/a&gt;, 5 groups present.&lt;/li&gt;
 &lt;li&gt;12/06 - &lt;a href=&#34;#aczajka&#34;&gt;2nd Invited Talk,&lt;/a&gt; Dr. Adam Czajka.&lt;/li&gt;
-&lt;li&gt;12/11 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/__final_answers.pdf&#34;&gt;Final Exam,&lt;/a&gt; Grades on Sakai.&lt;/li&gt;
+&lt;li&gt;12/11 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/final_answers.pdf&#34;&gt;Final Exam,&lt;/a&gt; Grades on Sakai.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
@@ -906,7 +912,7 @@ Deduction of 10% of the maximum possible grade for each day of delay.&lt;/p&gt;
 &lt;h3 id=&#34;exams&#34;&gt;Exams&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Midterm Exam, 10/04, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/midterm_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Final Exam, 12/11, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/__final_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Final Exam, 12/11, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut23/final_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a name=&#34;project&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;project&#34;&gt;Project&lt;/h3&gt;

@@ -5,12 +5,418 @@
     <link>https://danielmoreira.github.io/tag/machine-learning/</link>
       <atom:link href="https://danielmoreira.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
       <title>Machine Learning</title>
       <link>https://danielmoreira.github.io/tag/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>Machine Learning, Spring 2025</title>
+      <link>https://danielmoreira.github.io/teaching/ml_spr25/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/teaching/ml_spr25/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /teaching/ml_spr25/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_2ae554ab12a8e6233cd3bf1480fc4a45.webp 400w,
+               /teaching/ml_spr25/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e51b41172736727dd7a34ff04a09a9a2.webp 760w,
+               /teaching/ml_spr25/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/ml_spr25/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_2ae554ab12a8e6233cd3bf1480fc4a45.webp&#34;
+               width=&#34;250px&#34;
+               height=&#34;116&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;p&gt;Course: COMP 379-001 / COMP 479-001 Machine Learning&lt;br&gt;
+Level: Undergraduate and Graduate&lt;br&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;!-- Teaching Assistants: Erik Pautsch (epautsch@luc.edu) and   
+Sagar Pyakurel (spyakurel@luc.edu) --&gt;
+&lt;p&gt;Lectures: THR, 4:15 to 6:45 PM, in person at 616 Mundelein Center &lt;br&gt;
+Office Hours: MON evenings and FRI mornings, 310 Doyle Center or Zoom, &lt;a href=&#34;https://calendly.com/danielmoreira/spring-2025-office-hours&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt; &lt;br&gt;
+Sakai: &lt;em&gt;Soon&lt;/em&gt;&lt;/p&gt;
+&lt;!-- &gt; Final grades were released on Sakai. Thank you, everyone! --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Supervised learning.&#34; srcset=&#34;
+               /teaching/ml_spr25/ml_hub8d24dd5fb3e0e44a9c633968263ace6_65864_81122346f9f283a17fd248cb3bb8350a.webp 400w,
+               /teaching/ml_spr25/ml_hub8d24dd5fb3e0e44a9c633968263ace6_65864_1102fa7df0243b7e9cdc32a02870a619.webp 760w,
+               /teaching/ml_spr25/ml_hub8d24dd5fb3e0e44a9c633968263ace6_65864_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/ml_spr25/ml_hub8d24dd5fb3e0e44a9c633968263ace6_65864_81122346f9f283a17fd248cb3bb8350a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;322&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Machine Learning is the field of study that gives computers the ability to learn without being explicitly programmed.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ndash; Arthur Samuel, 1959&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Even though Samuel&amp;rsquo;s definition is now more than six decades old, it still holds true.
+With the recent advances in computer processing power, memory, and storage, machine learning has stressed its
+learn-by-example data-driven aspect, and is available — commonly as a black box — to everyone.&lt;/p&gt;
+&lt;p&gt;Annotated high-quality datasets can be easily harnessed to train a multitude of models to solve very specific problems
+under the different paradigms of supervised, unsupervised, hybrid (e.g., semi-supervised and self-supervised), and
+reinforcement learning. This course will cover these paradigms with a strong focus on supervised and unsupervised
+learning, trying to establish a balance between theory and  practice. While students will be exposed to the theories
+that fight the black-box and irresponsible usage of machine learning, hands-on activities leveraging real-world data
+will prepare them for industrial, academic, and societal  needs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Let&amp;rsquo;s learn how the machines learn!&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Requirements to attend this course are basic programming skills (especially Python), data structures, math
+fundamentals (such as linear algebra and calculus), and probability and statistics.
+This course and its materials are available in &lt;a href=&#34;https://sakai.luc.edu/x/Od0gze&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;tentative-schedule-materials-in-sakaihttpssakailuceduxcuz5vo&#34;&gt;Tentative Schedule &lt;em&gt;(materials in &lt;a href=&#34;https://sakai.luc.edu/x/cuz5vo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt;)&lt;/em&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;01/16 - Syllabus and Intro.&lt;/li&gt;
+&lt;li&gt;01/23 - Data-driven Aspects.&lt;/li&gt;
+&lt;li&gt;01/30 - Principal Component Analysis.&lt;/li&gt;
+&lt;li&gt;02/06 - Linear Regression.&lt;/li&gt;
+&lt;li&gt;02/13 - Logistic Regression.&lt;/li&gt;
+&lt;li&gt;02/20 - Classification Metrics.&lt;/li&gt;
+&lt;li&gt;02/27 - K-Nearest Neighbors, Decision Trees.&lt;/li&gt;
+&lt;li&gt;03/06 - Spring Break, &lt;em&gt;no class&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;03/13 - Support Vector Machines.&lt;/li&gt;
+&lt;li&gt;03/20 - Neural Nets.&lt;/li&gt;
+&lt;li&gt;03/27 - Ensemble Learning.&lt;/li&gt;
+&lt;li&gt;04/03 - Clustering.&lt;/li&gt;
+&lt;li&gt;04/10 - Convolutional Neural Nets.&lt;/li&gt;
+&lt;li&gt;04/17 - Easter Break, &lt;em&gt;no class&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;04/24 - Graduate Students&amp;rsquo; Seminars.&lt;/li&gt;
+&lt;li&gt;05/01 - Project Presentations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;01/30 - Project groups&amp;rsquo; definition.&lt;/li&gt;
+&lt;li&gt;02/07 - Assignment #1 due date.&lt;/li&gt;
+&lt;li&gt;02/13 - Project topics&amp;rsquo; definition.&lt;/li&gt;
+&lt;li&gt;02/21 - Assignment #2 due date.&lt;/li&gt;
+&lt;li&gt;02/27 - Project plans&amp;rsquo; definition and data delivery.&lt;/li&gt;
+&lt;li&gt;03/06 - Spring break.&lt;/li&gt;
+&lt;li&gt;03/13 - Midterm exam.&lt;/li&gt;
+&lt;li&gt;03/28 - Assignment #3 due date.&lt;/li&gt;
+&lt;li&gt;04/03 - Project status&amp;rsquo; update.&lt;/li&gt;
+&lt;li&gt;04/11 - Assignment #4 due date.&lt;/li&gt;
+&lt;li&gt;04/17 - Easter break.&lt;/li&gt;
+&lt;li&gt;04/24 - Graduate students&amp;rsquo; seminars.&lt;/li&gt;
+&lt;li&gt;04/25 - Assignment #5 due date.&lt;/li&gt;
+&lt;li&gt;05/01 - Project presentations and report delivery.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;notebooks-for-hands-on-activities&#34;&gt;Notebooks &lt;em&gt;(for hands-on activities)&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Soon&lt;/em&gt;.&lt;/p&gt;
+&lt;!-- * [Notebook 01,](https://colab.research.google.com/drive/17IATgNji8ZNZCN4fNUMpvMqigexztO7z) Data-driven Aspects.
+* [Notebook 02,](https://colab.research.google.com/drive/1Q6DnkGYbjX1UQ_CL_lnWUSH6CEvvNPK9) Principal Component Analysis.
+* [Notebook 03,](https://colab.research.google.com/drive/1XHF9C1gQJZ36eax2V5Gm01icU70LY3O0) Linear Regression.
+* [Notebook 04,](https://colab.research.google.com/drive/1DfJxYXXqmZNTgVg3Q2LFNPLp0Gw4n9mJ) Logistic Regression.
+* [Notebook 05,](https://colab.research.google.com/drive/1puZqLAXuRfjRpnuosbhR-aCEe55CxALA) Classification Methods.
+* [Notebook 06,](https://colab.research.google.com/drive/1KEYKKVqdmGhX-pDBLZ2V2ZpzoxHwG7pK) Neural Nets. --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;grading&#34;&gt;Grading&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Concept &lt;/th&gt;
+&lt;th&gt;Interval (%) &lt;/th&gt;
+&lt;th&gt;Concept &lt;/th&gt;
+&lt;th&gt;Interval (%) &lt;/th&gt;
+&lt;th&gt;Concept &lt;/th&gt;
+&lt;th&gt;Interval (%) &lt;/th&gt;
+&lt;th&gt;Concept &lt;/th&gt;
+&lt;th&gt;Interval (%)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;[96, 100)&lt;/td&gt;
+&lt;td&gt;B+&lt;/td&gt;
+&lt;td&gt;[88, 92)&lt;/td&gt;
+&lt;td&gt;C+&lt;/td&gt;
+&lt;td&gt;[76, 80)&lt;/td&gt;
+&lt;td&gt;D+&lt;/td&gt;
+&lt;td&gt;[64, 68)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A-&lt;/td&gt;
+&lt;td&gt;[92, 96)&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;td&gt;[84, 88)&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;td&gt;[72, 76)&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;td&gt;[60, 64)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;B-&lt;/td&gt;
+&lt;td&gt;[80, 84)&lt;/td&gt;
+&lt;td&gt;C-&lt;/td&gt;
+&lt;td&gt;[68, 72)&lt;/td&gt;
+&lt;td&gt;F&lt;/td&gt;
+&lt;td&gt;(0, 60)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;distribution&#34;&gt;Distribution&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Undergraduate&lt;/th&gt;
+&lt;th&gt;Graduate&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Assignments (5)  &lt;/td&gt;
+&lt;td&gt;40%&lt;/td&gt;
+&lt;td&gt;25%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Midterm Exam&lt;/td&gt;
+&lt;td&gt;20%&lt;/td&gt;
+&lt;td&gt;20%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Project&lt;/td&gt;
+&lt;td&gt;30%&lt;/td&gt;
+&lt;td&gt;30%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Seminar&lt;/td&gt;
+&lt;td&gt;N.A.&lt;/td&gt;
+&lt;td&gt;15%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Participation&lt;/td&gt;
+&lt;td&gt;10%&lt;/td&gt;
+&lt;td&gt;10%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;On the News&lt;/td&gt;
+&lt;td&gt;+1% (extra, max: 4%)   &lt;/td&gt;
+&lt;td&gt;+1% (extra, max: 4%)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;assignments-materials-in-sakaihttpssakailuceduxx50tjo&#34;&gt;Assignments &lt;em&gt;(materials in &lt;a href=&#34;https://sakai.luc.edu/x/x50TJo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt;)&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Soon.&lt;/em&gt;&lt;/p&gt;
+&lt;!-- * Assignment 1, Data-driven Aspects, Notebook 01.
+* Assignment 2, PCA and Linear Regression, Notebooks 02 and 03.
+* Assignment 3, Logistic Regression and Classification Methods, Notebooks 04 and 05. --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Late Policy&lt;/strong&gt;&lt;br&gt;
+Deduction of 10% of the maximum possible grade for each day of delay.
+Works more than 9 days late will be completely lost.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;midterm-exam&#34;&gt;Midterm Exam&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;In-class written test (03/13).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- * Midterm Exam (10/09), [good answers,](/teaching/biometrics-aut24/exams/midterm_answers.pdf) [grades.](/teaching/biometrics-aut24/exams/midterm_grades.pdf)
+* Final Exam (12/09), [good answers,](/teaching/biometrics-aut24/exams/final_answers.pdf) [grades.](/teaching/biometrics-aut24/exams/final_grades.pdf) --&gt;
+&lt;h3 id=&#34;project&#34;&gt;Project&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Written report and presentation in the finals week, work in teams of 5 students.&lt;/li&gt;
+&lt;li&gt;Choose and solve a problem with social impact.&lt;/li&gt;
+&lt;li&gt;Make sure to employ a machine-learning data-driven approach.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- *Chosen Topics*
+
+| Team          | Topic         | Presentation |
+|---------------|---------------|--------------|
+| *Soon* &amp;emsp; | *Soon* &amp;emsp; | *Soon*       | --&gt;
+&lt;h3 id=&#34;seminar&#34;&gt;Seminar&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Graduate students only, work in pais.&lt;/li&gt;
+&lt;li&gt;In-class 15-min presentations plus Q&amp;amp;A and discussion on 04/24.&lt;/li&gt;
+&lt;li&gt;Uncovered Machine Learning topic or scientific paper.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Possible Topics&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Semi-supervised learning.&lt;/li&gt;
+&lt;li&gt;Self-supervised learning.&lt;/li&gt;
+&lt;li&gt;Reinforcement learning.&lt;/li&gt;
+&lt;li&gt;Ethics, privacy, and security in Machine Learning.&lt;/li&gt;
+&lt;li&gt;AGI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;!-- *Chosen Topics*
+
+| Team          | Topic         | Presentation  |
+|---------------|---------------|---------------|
+| *Soon* &amp;emsp; | *Soon* &amp;emsp; | *Soon* &amp;emsp; | --&gt;
+&lt;h3 id=&#34;participation&#34;&gt;Participation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Class Attendance: every presence counts.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Today-I-missed&lt;/em&gt; Statements: every submission counts.&lt;/li&gt;
+&lt;li&gt;Grace Cards: use them to pardon class absence or late work.&lt;/li&gt;
+&lt;li&gt;Religious holidays will be honored according to the student&amp;rsquo;s faith, as stated &lt;a href=&#34;https://www.luc.edu/campusministry/faithprograms/interfaith/religiousobservances/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Today-I-missed&lt;/em&gt; Statements&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;After every attended class, each student will have to submit (through Sakai) a short paragraph answering one of the
+following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What is your biggest question after class? &lt;strong&gt;OR&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;What was the most interesting point you learned today?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;Inspired by  &lt;a href=&#34;https://www.ic.unicamp.br/~sandra/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sandra Avila&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Today I missed&amp;amp;hellip;&#34;
+           src=&#34;https://danielmoreira.github.io/teaching/ml_spr25/point.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Grace Cards&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Each student has three Grace Cards, which will allow them to avoid losing points because of class absence.
+They might also use their cards to excuse late-delivered assignments, as long as the delay is no greater than 9 days.
+The cards are not valid to dismiss or postpone exams, seminars (graduate students), or project-related dates.
+Students may use their cards at their own discretion, as long as they clearly communicate the usage to the instructor.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Life happens, be wise.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- ![Grace card.](card.gif) --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ml-on-the-news&#34;&gt;ML on the News&lt;/h2&gt;
+&lt;p&gt;Posted by the students on Sakai.&lt;br&gt;
+&lt;em&gt;Links will be added here as they are sent by the students.&lt;/em&gt;&lt;/p&gt;
+&lt;!-- 1. [OpenAI Sora.](https://openai.com/sora)
+2. [Self-driving delivery robots.](https://www.japantimes.co.jp/business/2024/03/06/tech/inoue-uber-eats-robot/)
+3. [EU AI Law.](https://time.com/6903563/eu-ai-act-law-aritificial-intelligence-passes/)
+4. [Devin - AI Software Engineer.](https://opencv.org/blog/devin-ai-software-engineer/)
+5. [AutoML - Automated ML model development.](https://www.linkedin.com/pulse/automl-revolution-future-automated-machine-learning-transforming-j75sc?trk=public_post_main-feed-card_feed-article-content#:~:text=The%20landscape%20of%20AutoML%20is,accessible%20to%20a%20broader%20audience)
+6. [Open-Source Companies Are Sharing Their AI Free. Can They Crack OpenAI’s Dominance?](https://www.wsj.com/articles/open-source-companies-are-sharing-their-ai-free-can-they-crack-openais-dominance-26149e9c?mod=ai_news_article_pos5)
+7. [BharatGPT Hanooman.](https://timesofindia.indiatimes.com/gadgets-news/bharatgpt-hanooman-all-you-need-to-know-about-the-ai-model-developed-by-reliance-and-9-iits-ac)
+8. [Remote Brain Surgery Training.](https://news.mit.edu/2024/brain-surgery-training-avatar-0229)
+9. [Figure.ai.](https://www.figure.ai/)
+10. [DALL-E 2: Create realistic images and art from a description in natural language.](https://openai.com/dall-e-2)
+11. [GFP-GAN : Photo Restoration.]( https://huggingface.co/spaces/Xintao/GFPGAN)
+12. [Machine Learning Uncovers New Ways to Kill Bacteria With Non-Antibiotic Drugs.](https://www.sciencealert.com/machine-learning-uncovers-new-ways-to-kill-bacteria-with-non-antibiotic-drugs)
+13. [To build a better AI helper, start by modeling the irrational behavior of humans.](https://news.mit.edu/2024/building-better-ai-helper-starts-with-modeling-irrational-behavior-0419)
+14. [Meet Your New Assistant: Meta AI, Built With Llama 3.](https://about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3/) --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rasbt/machine-learning-book&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning with PyTorch and Scikit-Learn&lt;/a&gt; book, code repository.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ageron/handson-ml3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hands-On Machine Learning with Scikit-Learn, Keras &amp;amp; TensorFlow&lt;/a&gt; book, code repository,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- * [An Introduction to Statistical Learning with Applications in Python](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html) book, online version. --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Raschka, Liu, and Mirjalili. &lt;em&gt;Machine Learning with PyTorch and Scikit-Learn&lt;/em&gt;. Packt Book, 2022.&lt;/li&gt;
+&lt;li&gt;Géron. &lt;em&gt;Hands-On Machine Learning with Scikit-Learn, Keras &amp;amp; TensorFlow&lt;/em&gt;. O&amp;rsquo;Reilly Book, 2023.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+&lt;p&gt;At the end of the course, students will master the theoretical foundations, key techniques, and applications of
+Machine Learning to real-world scenarios.
+Their repertoire will include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understanding the fundamentals of Machine Learning.&lt;/li&gt;
+&lt;li&gt;Preparing and assessing the quality of datasets for training Machine Learning algorithms.&lt;/li&gt;
+&lt;li&gt;Developing, implementing, training, and leveraging Machine Learning algorithms.&lt;/li&gt;
+&lt;li&gt;Assessing the performance of Machine Learning systems.&lt;/li&gt;
+&lt;li&gt;Applying Machine Learning to real-world applications.&lt;/li&gt;
+&lt;li&gt;Identifying the privacy and ethics issues of Machine Learning-based systems.&lt;/li&gt;
+&lt;li&gt;Being up-to-date with emerging trends in Machine Learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Graduate students (within COMP 479-001), in particular, will acquire the following extra skills:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reading, peer-reviewing, and writing scientific papers about Machine Learning.&lt;/li&gt;
+&lt;li&gt;Conducting research in Machine Learning, from the design of hypotheses, development of solutions, and comparison to
+existing baselines, to the design and execution of experiments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;academic-integrity&#34;&gt;Academic Integrity&lt;/h2&gt;
+&lt;p&gt;Students must adhere to the &lt;a href=&#34;https://catalog.luc.edu/academic-standards-regulations/undergraduate/undergraduate.pdf#page=3.56&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LUC statements on academic integrity&lt;/a&gt;.
+These policies fully apply to this course.
+The penalty for task-wise academic misconduct is losing all the task&amp;rsquo;s points.
+Multiple events of misconduct will incur in failing the entire course (with an F grade).
+All cases of academic misconduct will be reported to the proper department offices.
+Lastly, students are not allowed to use AI assisted technology (such as &lt;a href=&#34;https://chat.openai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ChatGPT&lt;/a&gt;) along the
+entirety of the course, unless explicitly authorized by the instructor.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;accommodations&#34;&gt;Accommodations&lt;/h2&gt;
+&lt;p&gt;Students who have disabilities and wish to request academic accommodations are advised to contact the
+&lt;a href=&#34;https://www.luc.edu/sac/applywithsac&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Student Accessibility Center&lt;/em&gt; (SAC)&lt;/a&gt; at 773-508-3700 or &lt;a href=&#34;mailto:sac@luc.edu&#34;&gt;sac@luc.edu&lt;/a&gt; as soon as
+possible.
+The SAC will provide accommodation letters that, once shared with the instructor, will be fully honored
+as per the terms of their content with no further questions and total confidentiality.&lt;/p&gt;
+&lt;p&gt;The SAC, student, and instructor will engage in an interactive process to determine how each student&amp;rsquo;s accommodations
+are applied to individual class sections.
+Students are welcome to visit the SAC on the first floor of Sullivan Center, Suite 117, to share questions or concern
+with one of their accessibility specialists.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+&lt;p&gt;I would like to sincerely thank Professors &lt;a href=&#34;https://www.ic.unicamp.br/~sandra/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sandra Avila&lt;/a&gt; and
+&lt;a href=&#34;https://www.dmitriydligach.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dmitriy Dligach&lt;/a&gt; for kindly sharing their Machine Learning course materials.
+I heavily relied upon their content and experience to constitute this course.&lt;br&gt;
+&lt;em&gt;&amp;ndash; Daniel&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Machine Learning, Spring 2024</title>
@@ -76,7 +482,7 @@ Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/Od0gze&#34; target=&#34;_blank&#3
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Presentation attacks done by students.&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Supervised learning.&#34; srcset=&#34;
                /teaching/ml-spr24/ml_hub8d24dd5fb3e0e44a9c633968263ace6_65864_81122346f9f283a17fd248cb3bb8350a.webp 400w,
                /teaching/ml-spr24/ml_hub8d24dd5fb3e0e44a9c633968263ace6_65864_1102fa7df0243b7e9cdc32a02870a619.webp 760w,
                /teaching/ml-spr24/ml_hub8d24dd5fb3e0e44a9c633968263ace6_65864_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
