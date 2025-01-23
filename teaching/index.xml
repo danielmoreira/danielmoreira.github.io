@@ -143,9 +143,11 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;notebooks-for-hands-on-activities&#34;&gt;Notebooks &lt;em&gt;(for hands-on activities)&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Soon&lt;/em&gt;.&lt;/p&gt;
-&lt;!-- * [Notebook 01,](https://colab.research.google.com/drive/17IATgNji8ZNZCN4fNUMpvMqigexztO7z) Data-driven Aspects.
-* [Notebook 02,](https://colab.research.google.com/drive/1Q6DnkGYbjX1UQ_CL_lnWUSH6CEvvNPK9) Principal Component Analysis.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/17IATgNji8ZNZCN4fNUMpvMqigexztO7z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 01,&lt;/a&gt; Data-driven Aspects.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;More soon.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- * [Notebook 02,](https://colab.research.google.com/drive/1Q6DnkGYbjX1UQ_CL_lnWUSH6CEvvNPK9) Principal Component Analysis.
 * [Notebook 03,](https://colab.research.google.com/drive/1XHF9C1gQJZ36eax2V5Gm01icU70LY3O0) Linear Regression.
 * [Notebook 04,](https://colab.research.google.com/drive/1DfJxYXXqmZNTgVg3Q2LFNPLp0Gw4n9mJ) Logistic Regression.
 * [Notebook 05,](https://colab.research.google.com/drive/1puZqLAXuRfjRpnuosbhR-aCEe55CxALA) Classification Methods.
@@ -241,9 +243,11 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3 id=&#34;assignments-materials-in-sakaihttpssakailuceduxlhstio&#34;&gt;Assignments &lt;em&gt;(materials in &lt;a href=&#34;https://sakai.luc.edu/x/LhSTIo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt;)&lt;/em&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Soon.&lt;/em&gt;&lt;/p&gt;
-&lt;!-- * Assignment 1, Data-driven Aspects, Notebook 01.
-* Assignment 2, PCA and Linear Regression, Notebooks 02 and 03.
+&lt;ul&gt;
+&lt;li&gt;Assignment 1, Data-driven Aspects, Notebook 01.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;More soon.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- * Assignment 2, PCA and Linear Regression, Notebooks 02 and 03.
 * Assignment 3, Logistic Regression and Classification Methods, Notebooks 04 and 05. --&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Late Policy&lt;/strong&gt;&lt;br&gt;
@@ -359,7 +363,7 @@ Students may use their cards at their own discretion, as long as they clearly co
 &lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/rasbt/machine-learning-book&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning with PyTorch and Scikit-Learn&lt;/a&gt; book, code repository.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ageron/handson-ml3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hands-On Machine Learning with Scikit-Learn, Keras &amp;amp; TensorFlow&lt;/a&gt; book, code repository,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ageron/handson-ml3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hands-On Machine Learning with Scikit-Learn, Keras &amp;amp; TensorFlow&lt;/a&gt; book, code repository.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- * [An Introduction to Statistical Learning with Applications in Python](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html) book, online version. --&gt;
 &lt;hr&gt;
