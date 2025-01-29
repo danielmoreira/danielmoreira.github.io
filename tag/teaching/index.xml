@@ -127,8 +127,8 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;01/30 - Project groups&amp;rsquo; definition.&lt;/li&gt;
-&lt;li&gt;02/07 - Assignment #1 due date.&lt;/li&gt;
 &lt;li&gt;02/13 - Project topics&amp;rsquo; definition.&lt;/li&gt;
+&lt;li&gt;02/14 - Assignment #1 due date.&lt;/li&gt;
 &lt;li&gt;02/21 - Assignment #2 due date.&lt;/li&gt;
 &lt;li&gt;02/27 - Project plans&amp;rsquo; definition and data delivery.&lt;/li&gt;
 &lt;li&gt;03/06 - Spring break.&lt;/li&gt;
@@ -145,10 +145,10 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;h2 id=&#34;notebooks-for-hands-on-activities&#34;&gt;Notebooks &lt;em&gt;(for hands-on activities)&lt;/em&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/17IATgNji8ZNZCN4fNUMpvMqigexztO7z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 01,&lt;/a&gt; Data-driven Aspects.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1Q6DnkGYbjX1UQ_CL_lnWUSH6CEvvNPK9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 02,&lt;/a&gt; Principal Component Analysis.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;More soon.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- * [Notebook 02,](https://colab.research.google.com/drive/1Q6DnkGYbjX1UQ_CL_lnWUSH6CEvvNPK9) Principal Component Analysis.
-* [Notebook 03,](https://colab.research.google.com/drive/1XHF9C1gQJZ36eax2V5Gm01icU70LY3O0) Linear Regression.
+&lt;!-- * [Notebook 03,](https://colab.research.google.com/drive/1XHF9C1gQJZ36eax2V5Gm01icU70LY3O0) Linear Regression.
 * [Notebook 04,](https://colab.research.google.com/drive/1DfJxYXXqmZNTgVg3Q2LFNPLp0Gw4n9mJ) Logistic Regression.
 * [Notebook 05,](https://colab.research.google.com/drive/1puZqLAXuRfjRpnuosbhR-aCEe55CxALA) Classification Methods.
 * [Notebook 06,](https://colab.research.google.com/drive/1KEYKKVqdmGhX-pDBLZ2V2ZpzoxHwG7pK) Neural Nets. --&gt;
@@ -244,7 +244,7 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;/table&gt;
 &lt;h3 id=&#34;assignments-materials-in-sakaihttpssakailuceduxlhstio&#34;&gt;Assignments &lt;em&gt;(materials in &lt;a href=&#34;https://sakai.luc.edu/x/LhSTIo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt;)&lt;/em&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Assignment 1, Data-driven Aspects, Notebook 01.&lt;/li&gt;
+&lt;li&gt;Assignment 1, Data-driven Aspects and PCA, Notebooks 01 and 02.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;More soon.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- * Assignment 2, PCA and Linear Regression, Notebooks 02 and 03.
@@ -343,29 +343,23 @@ Students may use their cards at their own discretion, as long as they clearly co
 &lt;!-- ![Grace card.](card.gif) --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;ml-on-the-news&#34;&gt;ML on the News&lt;/h2&gt;
-&lt;p&gt;Posted by the students on Sakai.&lt;br&gt;
-&lt;em&gt;Links will be added here as they are sent by the students.&lt;/em&gt;&lt;/p&gt;
-&lt;!-- 1. [OpenAI Sora.](https://openai.com/sora)
-2. [Self-driving delivery robots.](https://www.japantimes.co.jp/business/2024/03/06/tech/inoue-uber-eats-robot/)
-3. [EU AI Law.](https://time.com/6903563/eu-ai-act-law-aritificial-intelligence-passes/)
-4. [Devin - AI Software Engineer.](https://opencv.org/blog/devin-ai-software-engineer/)
-5. [AutoML - Automated ML model development.](https://www.linkedin.com/pulse/automl-revolution-future-automated-machine-learning-transforming-j75sc?trk=public_post_main-feed-card_feed-article-content#:~:text=The%20landscape%20of%20AutoML%20is,accessible%20to%20a%20broader%20audience)
-6. [Open-Source Companies Are Sharing Their AI Free. Can They Crack OpenAI’s Dominance?](https://www.wsj.com/articles/open-source-companies-are-sharing-their-ai-free-can-they-crack-openais-dominance-26149e9c?mod=ai_news_article_pos5)
-7. [BharatGPT Hanooman.](https://timesofindia.indiatimes.com/gadgets-news/bharatgpt-hanooman-all-you-need-to-know-about-the-ai-model-developed-by-reliance-and-9-iits-ac)
-8. [Remote Brain Surgery Training.](https://news.mit.edu/2024/brain-surgery-training-avatar-0229)
-9. [Figure.ai.](https://www.figure.ai/)
-10. [DALL-E 2: Create realistic images and art from a description in natural language.](https://openai.com/dall-e-2)
-11. [GFP-GAN : Photo Restoration.]( https://huggingface.co/spaces/Xintao/GFPGAN)
-12. [Machine Learning Uncovers New Ways to Kill Bacteria With Non-Antibiotic Drugs.](https://www.sciencealert.com/machine-learning-uncovers-new-ways-to-kill-bacteria-with-non-antibiotic-drugs)
-13. [To build a better AI helper, start by modeling the irrational behavior of humans.](https://news.mit.edu/2024/building-better-ai-helper-starts-with-modeling-irrational-behavior-0419)
-14. [Meet Your New Assistant: Meta AI, Built With Llama 3.](https://about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3/) --&gt;
+&lt;p&gt;Posted by the students on Sakai or sent through email.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Generative AI&amp;rsquo;s environmental impact.&lt;/a&gt; &lt;!-- Troy Murray --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.firecrawl.dev/extract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Get web data with a prompt.&lt;/a&gt; &lt;!-- Eric Spencer --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;What to Know About &amp;lsquo;Stargate&amp;rsquo;, OpenAI&amp;rsquo;s New Venture.&lt;/a&gt; &lt;!-- Arrianna Szymczak --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cnbc.com/2025/01/23/openai-operator-ai-agent-can-automate-tasks-like-vacation-planning.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenAI introduces Operator.&lt;/a&gt; &lt;!-- Ahmad Ahmad --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.msn.com/en-us/news/other/deepseek/ar-AA1y1kgt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepSeek turned the AI world on its head.&lt;/a&gt; &lt;!-- Tigist Tefera --&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/rasbt/machine-learning-book&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning with PyTorch and Scikit-Learn&lt;/a&gt; book, code repository.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ageron/handson-ml3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hands-On Machine Learning with Scikit-Learn, Keras &amp;amp; TensorFlow&lt;/a&gt; book, code repository.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Introduction to Statistical Learning with Applications in Python&lt;/a&gt; book, online version.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.12948&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepSeek&lt;/a&gt; research paper.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- * [An Introduction to Statistical Learning with Applications in Python](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html) book, online version. --&gt;
+&lt;!-- https://www.computer.org/csdl/magazine/co/2025/01/10834279/23lk4MALOLe?source=cedge1121  --&gt; &lt;!-- Troy Murray --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;ul&gt;
