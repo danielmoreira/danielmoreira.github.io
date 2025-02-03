@@ -126,13 +126,13 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;hr&gt;
 &lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;01/30 - Project groups&amp;rsquo; definition.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;01/30 - Project groups&amp;rsquo; definition.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;02/13 - Project topics&amp;rsquo; definition.&lt;/li&gt;
-&lt;li&gt;02/14 - Assignment #1 due date.&lt;/li&gt;
-&lt;li&gt;02/21 - Assignment #2 due date.&lt;/li&gt;
+&lt;li&gt;02/21 - Assignment #1 due date.&lt;/li&gt;
 &lt;li&gt;02/27 - Project plans&amp;rsquo; definition and data delivery.&lt;/li&gt;
 &lt;li&gt;03/06 - Spring break.&lt;/li&gt;
 &lt;li&gt;03/13 - Midterm exam.&lt;/li&gt;
+&lt;li&gt;03/14 - Assignment #2 due date.&lt;/li&gt;
 &lt;li&gt;03/28 - Assignment #3 due date.&lt;/li&gt;
 &lt;li&gt;04/03 - Project status&amp;rsquo; update.&lt;/li&gt;
 &lt;li&gt;04/11 - Assignment #4 due date.&lt;/li&gt;
@@ -146,10 +146,10 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/17IATgNji8ZNZCN4fNUMpvMqigexztO7z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 01,&lt;/a&gt; Data-driven Aspects.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1Q6DnkGYbjX1UQ_CL_lnWUSH6CEvvNPK9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 02,&lt;/a&gt; Principal Component Analysis.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1XHF9C1gQJZ36eax2V5Gm01icU70LY3O0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 03,&lt;/a&gt; Linear Regression.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;More soon.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- * [Notebook 03,](https://colab.research.google.com/drive/1XHF9C1gQJZ36eax2V5Gm01icU70LY3O0) Linear Regression.
-* [Notebook 04,](https://colab.research.google.com/drive/1DfJxYXXqmZNTgVg3Q2LFNPLp0Gw4n9mJ) Logistic Regression.
+&lt;!-- * [Notebook 04,](https://colab.research.google.com/drive/1DfJxYXXqmZNTgVg3Q2LFNPLp0Gw4n9mJ) Logistic Regression.
 * [Notebook 05,](https://colab.research.google.com/drive/1puZqLAXuRfjRpnuosbhR-aCEe55CxALA) Classification Methods.
 * [Notebook 06,](https://colab.research.google.com/drive/1KEYKKVqdmGhX-pDBLZ2V2ZpzoxHwG7pK) Neural Nets. --&gt;
 &lt;hr&gt;
