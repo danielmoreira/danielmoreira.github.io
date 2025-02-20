@@ -111,13 +111,13 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;li&gt;01/30 - Data-driven Aspects (cont.).&lt;/li&gt;
 &lt;li&gt;02/06 - Principal Component Analysis.&lt;/li&gt;
 &lt;li&gt;02/13 - Linear Regression.&lt;/li&gt;
-&lt;li&gt;02/20 - Logistic Regression.&lt;/li&gt;
-&lt;li&gt;02/27 - K-Nearest Neighbors, Decision Trees.&lt;/li&gt;
+&lt;li&gt;02/20 - Linear Regression (cont.).&lt;/li&gt;
+&lt;li&gt;02/27 - Logistic Regression.&lt;/li&gt;
 &lt;li&gt;03/06 - Spring Break, &lt;em&gt;no class&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;03/13 - Support Vector Machines.&lt;/li&gt;
-&lt;li&gt;03/20 - Neural Nets.&lt;/li&gt;
-&lt;li&gt;03/27 - Ensemble Learning.&lt;/li&gt;
-&lt;li&gt;04/03 - Clustering.&lt;/li&gt;
+&lt;li&gt;03/13 - K-Nearest Neighbors, Decision Trees.&lt;/li&gt;
+&lt;li&gt;03/20 - Support Vector Machines.&lt;/li&gt;
+&lt;li&gt;03/27 - Neural Nets.&lt;/li&gt;
+&lt;li&gt;04/03 - Ensemble Learning and Clustering.&lt;/li&gt;
 &lt;li&gt;04/10 - Convolutional Neural Nets.&lt;/li&gt;
 &lt;li&gt;04/17 - Easter Break, &lt;em&gt;no class&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;04/24 - Graduate Students&amp;rsquo; Seminars.&lt;/li&gt;
@@ -127,8 +127,8 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;del&gt;01/30 - Project groups&amp;rsquo; definition.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;02/20 - Project topics&amp;rsquo; definition.&lt;/li&gt;
 &lt;li&gt;02/21 - Assignment #1 due date.&lt;/li&gt;
+&lt;li&gt;03/01 - Project topics&amp;rsquo; definition.&lt;/li&gt;
 &lt;li&gt;03/06 - Spring break.&lt;/li&gt;
 &lt;li&gt;03/13 - Midterm exam.&lt;/li&gt;
 &lt;li&gt;03/14 - Assignment #2 due date.&lt;/li&gt;
@@ -354,6 +354,7 @@ Students may use their cards at their own discretion, as long as they clearly co
 &lt;li&gt;&lt;a href=&#34;https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Researchers seek to &amp;ldquo;poison&amp;rdquo; AI art generators.&lt;/a&gt; &lt;!-- Troy Murray --&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.gbnews.com/tech/whatsapp-update-chatgpt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WhatsApp update lets you talk to ChatGPT.&lt;/a&gt; &lt;!-- Ololade Akinsanola --&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://denvergazette.com/news/nation-world/uk-makes-use-of-ai-tools-to-create-child-abuse-material-a-crime/article_eda029cf-22e6-5aa6-9f74-cf544ffd6b6d.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UK makes use of AI tools to create child abuse material a crime.&lt;/a&gt; &lt;!-- Winston Essibu --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=P_fHJIYENdI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The most useful thing AI has done.&lt;/a&gt; &lt;!-- Aidan Klug --&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
