@@ -114,8 +114,8 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;li&gt;02/20 - Linear Regression (cont.).&lt;/li&gt;
 &lt;li&gt;02/27 - Logistic Regression.&lt;/li&gt;
 &lt;li&gt;03/06 - Spring Break, &lt;em&gt;no class&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;03/13 - Midterm Exam.&lt;/li&gt;
-&lt;li&gt;03/20 - K-Nearest Neighbors, Decision Trees.&lt;/li&gt;
+&lt;li&gt;03/13 - Classification Metrics and Midterm.&lt;/li&gt;
+&lt;li&gt;03/20 - K-Nearest Neighbors and Decision Trees.&lt;/li&gt;
 &lt;li&gt;03/27 - Support Vector Machines.&lt;/li&gt;
 &lt;li&gt;04/03 - Neural Nets.&lt;/li&gt;
 &lt;li&gt;04/10 - Convolutional Neural Nets.&lt;/li&gt;
@@ -130,11 +130,11 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;li&gt;&lt;del&gt;02/21 - Assignment #1 due date.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;03/01 - Project topics&amp;rsquo; definition.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;03/06 - Spring break.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;03/13 - Midterm exam.&lt;/li&gt;
-&lt;li&gt;03/17 - Assignment #2 due date.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;03/13 - Midterm exam.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;03/17 - Assignment #2 due date.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;03/22 - Project plans&amp;rsquo; definition and data delivery.&lt;/li&gt;
-&lt;li&gt;03/28 - Assignment #3 due date.&lt;/li&gt;
-&lt;li&gt;04/03 - Project status&amp;rsquo; update.&lt;/li&gt;
+&lt;li&gt;04/03 - Assignment #3 due date.&lt;/li&gt;
+&lt;li&gt;04/04 - Project status&amp;rsquo; update.&lt;/li&gt;
 &lt;li&gt;04/11 - Assignment #4 due date.&lt;/li&gt;
 &lt;li&gt;04/17 - Easter break.&lt;/li&gt;
 &lt;li&gt;04/24 - Graduate students&amp;rsquo; seminars.&lt;/li&gt;
@@ -148,10 +148,10 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1Q6DnkGYbjX1UQ_CL_lnWUSH6CEvvNPK9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 02,&lt;/a&gt; Principal Component Analysis.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1XHF9C1gQJZ36eax2V5Gm01icU70LY3O0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 03,&lt;/a&gt; Linear Regression.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1DfJxYXXqmZNTgVg3Q2LFNPLp0Gw4n9mJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 04,&lt;/a&gt; Logistic Regression.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1puZqLAXuRfjRpnuosbhR-aCEe55CxALA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 05,&lt;/a&gt; Classification Methods.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;More soon.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- * [Notebook 05,](https://colab.research.google.com/drive/1puZqLAXuRfjRpnuosbhR-aCEe55CxALA) Classification Methods.
-* [Notebook 06,](https://colab.research.google.com/drive/1KEYKKVqdmGhX-pDBLZ2V2ZpzoxHwG7pK) Neural Nets. --&gt;
+&lt;!-- * [Notebook 06,](https://colab.research.google.com/drive/1KEYKKVqdmGhX-pDBLZ2V2ZpzoxHwG7pK) Neural Nets. --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;grading&#34;&gt;Grading&lt;/h2&gt;
 &lt;table&gt;
@@ -246,6 +246,7 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;ul&gt;
 &lt;li&gt;Assignment 1, Data-driven Aspects and PCA, Notebooks 01 and 02.&lt;/li&gt;
 &lt;li&gt;Assignment 2, Linear Regression, Notebook 03.&lt;/li&gt;
+&lt;li&gt;Assignment 3, Logistic Regression, Notebook 04.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;More soon.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- * Assignment 2, PCA and Linear Regression, Notebooks 02 and 03.
@@ -257,10 +258,9 @@ Works more than 9 days late will be completely lost.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;midterm-exam&#34;&gt;Midterm Exam&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;In-class written test (03/13).&lt;/li&gt;
+&lt;li&gt;In-class written test (03/13), &lt;a href=&#34;https://danielmoreira.github.io/teaching/ml_25/exams/midterm_answers.pdf&#34;&gt;good answers,&lt;/a&gt; &lt;a href=&#34;https://danielmoreira.github.io/teaching/ml_25/exams/midterm_grades.pdf&#34;&gt;grades.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- * Midterm Exam (10/09), [good answers,](/teaching/biometrics-aut24/exams/midterm_answers.pdf) [grades.](/teaching/biometrics-aut24/exams/midterm_grades.pdf)
-* Final Exam (12/09), [good answers,](/teaching/biometrics-aut24/exams/final_answers.pdf) [grades.](/teaching/biometrics-aut24/exams/final_grades.pdf) --&gt;
+&lt;!-- * Final Exam (12/09), [good answers,](/teaching/biometrics-aut24/exams/final_answers.pdf) [grades.](/teaching/biometrics-aut24/exams/final_grades.pdf) --&gt;
 &lt;h3 id=&#34;project&#34;&gt;Project&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Written report and presentation in the finals week, work in teams of 5 students.&lt;/li&gt;
