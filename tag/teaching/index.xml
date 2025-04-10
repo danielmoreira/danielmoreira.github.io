@@ -133,12 +133,11 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;li&gt;&lt;del&gt;03/13 - Midterm exam.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;03/17 - Assignment #2 due date.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;03/22 - Project plans&amp;rsquo; definition and data delivery.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;04/03 - Assignment #3 due date.&lt;/li&gt;
-&lt;li&gt;04/12 - Project status&amp;rsquo; update.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/03 - Assignment #3 due date.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;04/17 - Easter break.&lt;/li&gt;
 &lt;li&gt;04/18 - Assignment #4 due date.&lt;/li&gt;
+&lt;li&gt;04/22 - Project status&amp;rsquo; update.&lt;/li&gt;
 &lt;li&gt;04/24 - Graduate students&amp;rsquo; seminars.&lt;/li&gt;
-&lt;li&gt;04/25 - Assignment #5 due date.&lt;/li&gt;
 &lt;li&gt;05/01 - Project presentations and report delivery.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -210,7 +209,7 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Assignments (5)  &lt;/td&gt;
+&lt;td&gt;Assignments (4)  &lt;/td&gt;
 &lt;td&gt;40%&lt;/td&gt;
 &lt;td&gt;25%&lt;/td&gt;
 &lt;/tr&gt;
@@ -247,9 +246,9 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;li&gt;Assignment 2, Linear Regression, Notebook 03.&lt;/li&gt;
 &lt;li&gt;Assignment 3, Logistic Regression, Notebook 04.&lt;/li&gt;
 &lt;li&gt;Assignment 4, Classification Methods, Notebook 05.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;More soon.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- * Assignment 2, PCA and Linear Regression, Notebooks 02 and 03.
+&lt;!-- * *More soon.*
+ * Assignment 2, PCA and Linear Regression, Notebooks 02 and 03.
 * Assignment 3, Logistic Regression and Classification Methods, Notebooks 04 and 05. --&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Late Policy&lt;/strong&gt;&lt;br&gt;
@@ -351,7 +350,7 @@ Works more than 9 days late will be completely lost.&lt;/p&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Group 01  &lt;/td&gt;
-&lt;td&gt;Generative Adversarial Networks  &lt;/td&gt;
+&lt;td&gt;Generative Adversarial Networks&lt;/td&gt;
 &lt;td&gt;&lt;em&gt;Soon&lt;/em&gt;  &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -367,6 +366,16 @@ Works more than 9 days late will be completely lost.&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;Group 04&lt;/td&gt;
 &lt;td&gt;Semi-supervised Learning&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Soon&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Group 05&lt;/td&gt;
+&lt;td&gt;Hardware Acceleration for Deep Learning  &lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Soon&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Group 06&lt;/td&gt;
+&lt;td&gt;Ethics, Privacy, and Security&lt;/td&gt;
 &lt;td&gt;&lt;em&gt;Soon&lt;/em&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -447,6 +456,8 @@ Students may use their cards at their own discretion, as long as they clearly co
 &lt;li&gt;&lt;a href=&#34;https://techxplore.com/news/2025-02-psychology-based-tasks-multi-modal.html#google_vignette&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Psychology-based tasks assess multi-modal LLM visual cognition limits.&lt;/a&gt; &lt;!-- MD Sharuf Hossain --&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://openai.com/index/introducing-4o-image-generation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introducing 4o Image Generation.&lt;/a&gt; &lt;!-- Ismail Muritala --&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.wired.com/story/amazon-ai-agents-nova-web-browsing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&amp;rsquo;s AGI Lab Reveals Its First Work: Advanced AI Agents&lt;/a&gt; &lt;!-- Andrew Allison --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hpcwire.com/off-the-wire/texas-am-researchers-mimic-brain-function-to-build-more-efficient-ai-systems/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Researchers Mimic Brain Function to Build More Efficient AI Systems&lt;/a&gt;. &lt;!-- Troy Murray --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ai.meta.com/blog/llama-4-multimodal-intelligence/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation&lt;/a&gt; &lt;!-- Ismail Muritala --&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
