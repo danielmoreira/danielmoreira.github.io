@@ -137,7 +137,7 @@ This course and its materials are available in &lt;a href=&#34;https://sakai.luc
 &lt;li&gt;&lt;del&gt;04/17 - Easter break.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;04/18 - Assignment #4 due date.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;04/22 - Project status&amp;rsquo; update.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;04/24 - Graduate students&amp;rsquo; seminars.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;04/24 - Graduate students&amp;rsquo; seminars.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;05/01 - Project presentations and report delivery.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -313,7 +313,7 @@ Works more than 9 days late will be completely lost.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Group 10  &lt;/td&gt;
-&lt;td&gt;Job matching system&lt;/td&gt;
+&lt;td&gt;Chicago Food Inspection Prediction&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Group 11  &lt;/td&gt;
@@ -327,17 +327,13 @@ Works more than 9 days late will be completely lost.&lt;/p&gt;
 &lt;li&gt;In-class 15-min presentations plus Q&amp;amp;A and discussion on 04/24.&lt;/li&gt;
 &lt;li&gt;Uncovered Machine Learning topic or scientific paper.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Possible Topics&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Clustering.&lt;/li&gt;
-&lt;li&gt;Semi-supervised learning.&lt;/li&gt;
-&lt;li&gt;Self-supervised learning.&lt;/li&gt;
-&lt;li&gt;Reinforcement learning.&lt;/li&gt;
-&lt;li&gt;Ethics, privacy, and security in Machine Learning.&lt;/li&gt;
-&lt;li&gt;AGI.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;!-- **Possible Topics**
+&gt; * Clustering.
+&gt; * Semi-supervised learning.
+&gt; * Self-supervised learning.
+&gt; * Reinforcement learning.
+&gt; * Ethics, privacy, and security in Machine Learning.
+&gt; * AGI. --&gt;
 &lt;p&gt;&lt;em&gt;Chosen Topics&lt;/em&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -478,6 +474,13 @@ Students may use their cards at their own discretion, as long as they clearly co
 &lt;li&gt;&lt;a href=&#34;https://www.wired.com/story/amazon-ai-agents-nova-web-browsing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&amp;rsquo;s AGI Lab Reveals Its First Work: Advanced AI Agents&lt;/a&gt; &lt;!-- Andrew Allison --&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.hpcwire.com/off-the-wire/texas-am-researchers-mimic-brain-function-to-build-more-efficient-ai-systems/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Researchers Mimic Brain Function to Build More Efficient AI Systems&lt;/a&gt;. &lt;!-- Troy Murray --&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ai.meta.com/blog/llama-4-multimodal-intelligence/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation&lt;/a&gt; &lt;!-- Ismail Muritala --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.news-medical.net/news/20250217/AI-predicts-preterm-birth-risk-with-8225-accuracy.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI predicts preterm birth risk with 82% accuracy.&lt;/a&gt; &lt;!-- Francis Olakangil --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/openai/codex&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenAI released Codex CLI.&lt;/a&gt; &lt;!-- Ismail Muritala --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.axios.com/2025/04/17/model-context-protocol-anthropic-open-source&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hot new protocol glues together AI and apps.&lt;/a&gt; &lt;!-- Eric Spencer --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.artificialintelligence-news.com/news/google-introduces-ai-reasoning-control-gemini-2-5-flash/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google introduces AI reasoning control in Gemini 2.5 Flash.&lt;/a&gt; &lt;!-- Tigist Tefera --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sloanreview.mit.edu/article/when-to-use-genai-versus-predictive-ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;When to Use GenAI Versus Predictive AI.&lt;/a&gt; &lt;!-- Francis Olakangil --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theverge.com/news/650467/wikipedia-kaggle-partnership-ai-dataset-machine-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia is giving AI developers its data to fend off bot scrapers.&lt;/a&gt; &lt;!-- Francis Olakangil --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://techxplore.com/news/2025-04-financial-fake-ai-billing-fraud.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Can you spot a financial fake? How AI is raising our risks of billing fraud.&lt;/a&gt; &lt;!-- MD Sharuf Hossain --&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
