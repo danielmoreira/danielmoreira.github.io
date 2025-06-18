@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas Nogueira | Daniel Moreira</title>
+    <link>https://danielmoreira.github.io/authors/lucas-nogueira/</link>
+      <atom:link href="https://danielmoreira.github.io/authors/lucas-nogueira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lucas Nogueira</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielmoreira.github.io/media/sharing.jpg</url>
+      <title>Lucas Nogueira</title>
+      <link>https://danielmoreira.github.io/authors/lucas-nogueira/</link>
+    </image>
+    
+    <item>
+      <title>Implications of neural compression to scientific images</title>
+      <link>https://danielmoreira.github.io/publication/2025_ihmmsec/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2025_ihmmsec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

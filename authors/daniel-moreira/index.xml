@@ -5,12 +5,20 @@
     <link>https://danielmoreira.github.io/authors/daniel-moreira/</link>
       <atom:link href="https://danielmoreira.github.io/authors/daniel-moreira/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Moreira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
       <title>Daniel Moreira</title>
       <link>https://danielmoreira.github.io/authors/daniel-moreira/</link>
     </image>
+    
+    <item>
+      <title>Implications of neural compression to scientific images</title>
+      <link>https://danielmoreira.github.io/publication/2025_ihmmsec/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2025_ihmmsec/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Explainable artifacts for synthetic Western blot source attribution</title>

@@ -5,12 +5,20 @@
     <link>https://danielmoreira.github.io/authors/joshua-krinsky/</link>
       <atom:link href="https://danielmoreira.github.io/authors/joshua-krinsky/index.xml" rel="self" type="application/rss+xml" />
     <description>Joshua Krinsky</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
       <title>Joshua Krinsky</title>
       <link>https://danielmoreira.github.io/authors/joshua-krinsky/</link>
     </image>
+    
+    <item>
+      <title>Implications of neural compression to scientific images</title>
+      <link>https://danielmoreira.github.io/publication/2025_ihmmsec/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2025_ihmmsec/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploring Saliency Bias in Manipulation Detection</title>
