@@ -51,8 +51,8 @@ Level: Undergraduate and Graduate&lt;br&gt;
 Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;/p&gt;
 &lt;!-- TA: Fiona Nicdao (fnicdao@luc.edu) --&gt;
 &lt;p&gt;Lectures: MON and WED, 4:15 to 5:30 PM, in person at Information Commons 112&lt;br&gt;
-Office Hours: TUE evenings and FRI mornings, Doyle Center 310 or Zoom, &lt;a href=&#34;https://calendly.com/danielmoreira/fall-2025-office-hours&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;&lt;/p&gt;
-&lt;!-- Sakai: https://sakai.luc.edu/x/9WVTcd TODO --&gt;
+Office Hours: TUE evenings and FRI mornings, Doyle Center 310 or Zoom, &lt;a href=&#34;https://calendly.com/danielmoreira/fall-2025-office-hours&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;&lt;br&gt;
+Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/wYe0XI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sakai.luc.edu/x/wYe0XI&lt;/a&gt;&lt;/p&gt;
 &lt;!-- &gt; Final grades were released on Sakai. Thank you, everyone! --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -77,9 +77,9 @@ discussing the issues of going from simple and benign authentication to the more
 The course will have an intense hands-on approach, with the collection of samples and implementation of fingerprint,
 face, and iris recognition.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Requirements to attend this course are basic programming skills (especially Python).&lt;/p&gt;
+&lt;p&gt;Requirements to attend this course are basic programming skills (especially Python).
+This course and its materials are also available in &lt;a href=&#34;https://sakai.luc.edu/x/wYe0XI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakai&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;!-- &gt; This course and its materials are also available in [Sakai](https://sakai.luc.edu/x/9WVTcd). TODO --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
 &lt;!-- * 08/25 - [Syllabus,](/teaching/biometrics-aut24/slides/lecture_01.pdf) Course details. --&gt;
@@ -477,10 +477,10 @@ More information can be found at &lt;a href=&#34;https://www.luc.edu/wellness&#3
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /teaching/comptool-aut25/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e839b6c2cdaf3ce0071b2d652a019b75.webp 400w,
+               /teaching/comptool-aut25/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_2ae554ab12a8e6233cd3bf1480fc4a45.webp 400w,
                /teaching/comptool-aut25/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e51b41172736727dd7a34ff04a09a9a2.webp 760w,
                /teaching/comptool-aut25/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_1200x1200_fit_q90_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://danielmoreira.github.io/teaching/comptool-aut25/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e839b6c2cdaf3ce0071b2d652a019b75.webp&#34;
+               src=&#34;https://danielmoreira.github.io/teaching/comptool-aut25/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_2ae554ab12a8e6233cd3bf1480fc4a45.webp&#34;
                width=&#34;250px&#34;
                height=&#34;116&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
