@@ -87,7 +87,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;08/27 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/slides/lecture_02.pdf&#34;&gt;Basics I&lt;/a&gt;, Biometrics, traits, and systems.&lt;/li&gt;
 &lt;li&gt;09/01 - &lt;strong&gt;Labor Day&lt;/strong&gt;, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;09/03 - &lt;a href=&#34;https://www.nature.com/articles/s42256-024-00874-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reading Activity&lt;/a&gt;, &lt;em&gt;no sync class&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;09/08 - &lt;strong&gt;Basics II&lt;/strong&gt;, Biometric systems, errors, and metrics.&lt;/li&gt;
+&lt;li&gt;09/08 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/slides/lecture_03.pdf&#34;&gt;Basics II&lt;/a&gt;, Biometric systems, errors, and metrics.&lt;/li&gt;
 &lt;li&gt;09/10 - &lt;strong&gt;1st Coding Class&lt;/strong&gt;, Metrics&amp;rsquo; implementation.&lt;/li&gt;
 &lt;li&gt;09/15 - &lt;strong&gt;Fingerprint Recog. I&lt;/strong&gt;, History and features.&lt;/li&gt;
 &lt;li&gt;09/17 - &lt;strong&gt;Fingerprint Recog. II&lt;/strong&gt;, Acquisition and enhancement.&lt;/li&gt;
@@ -118,8 +118,8 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;hr&gt;
 &lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;09/01 - Labor Day, no classes.&lt;/li&gt;
-&lt;li&gt;09/03 - Reading Activity, no sync class, Prof. Moreira&amp;rsquo;s &lt;a href=&#34;https://peerreviewcongress.org/peer-review-congress-2025-program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plenary talk&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;09/01 - Labor Day, no classes.&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;09/03 - Reading Activity, no sync class, Prof. Moreira&amp;rsquo;s &lt;a href=&#34;https://peerreviewcongress.org/peer-review-congress-2025-program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plenary talk&lt;/a&gt;.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;09/10 - 1st Coding Class, bring your laptops.&lt;/li&gt;
 &lt;li&gt;09/29 - 2nd Coding Class, bring your laptops.&lt;/li&gt;
 &lt;li&gt;10/06 - Fall Break, no classes.&lt;/li&gt;
@@ -136,7 +136,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;h2 id=&#34;notebooks-for-coding-classes&#34;&gt;Notebooks &lt;em&gt;(for coding classes)&lt;/em&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Online notebooks will be linked here as we move forward with the classes.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Notebook 1&lt;/strong&gt;, &lt;em&gt;link soon&lt;/em&gt;, Metrics&amp;rsquo; implementation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1qTi7rz9-YK-7N4Acirik5bm8Vllx4JiI?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 1&lt;/a&gt;, Metrics&amp;rsquo; implementation.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Notebook 2&lt;/strong&gt;, &lt;em&gt;link soon&lt;/em&gt;, Fingerprint recognition.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Notebook 3&lt;/strong&gt;, &lt;em&gt;link soon&lt;/em&gt;, Face recognition.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Notebook 4&lt;/strong&gt;, &lt;em&gt;link soon&lt;/em&gt;, Iris recognition.&lt;/li&gt;
