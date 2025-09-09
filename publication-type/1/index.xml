@@ -5,12 +5,20 @@
     <link>https://danielmoreira.github.io/publication-type/1/</link>
       <atom:link href="https://danielmoreira.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielmoreira.github.io/media/sharing.jpg</url>
       <title>1</title>
       <link>https://danielmoreira.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Characterizing Problematic Images in Retracted Scientific Articles</title>
+      <link>https://danielmoreira.github.io/publication/2025_prc/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://danielmoreira.github.io/publication/2025_prc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Implications of neural compression to scientific images</title>
