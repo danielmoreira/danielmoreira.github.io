@@ -97,7 +97,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;09/03 - &lt;a href=&#34;https://www.nature.com/articles/s42256-024-00874-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reading Activity&lt;/a&gt;, &lt;em&gt;no sync class&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;09/08 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/slides/lecture_03.pdf&#34;&gt;Basics II&lt;/a&gt;, Biometric systems, errors, and metrics.&lt;/li&gt;
 &lt;li&gt;09/10 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/slides/lecture_04.pdf&#34;&gt;1st Coding Class&lt;/a&gt;, Metrics&amp;rsquo; implementation.&lt;/li&gt;
-&lt;li&gt;09/15 - &lt;strong&gt;Fingerprint Recog. I&lt;/strong&gt;, History and features.&lt;/li&gt;
+&lt;li&gt;09/15 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/slides/lecture_05.pdf&#34;&gt;Fingerprint Recog. I&lt;/a&gt;, History and features.&lt;/li&gt;
 &lt;li&gt;09/17 - &lt;strong&gt;Fingerprint Recog. II&lt;/strong&gt;, Acquisition and enhancement.&lt;/li&gt;
 &lt;li&gt;09/22 - &lt;strong&gt;Fingerprint Recog. III&lt;/strong&gt;, Minutiae detection.&lt;/li&gt;
 &lt;li&gt;09/24 - &lt;strong&gt;Fingerprint Recog. IV&lt;/strong&gt;, Data collection.&lt;/li&gt;
@@ -128,8 +128,9 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;ul&gt;
 &lt;li&gt;&lt;del&gt;09/01 - Labor Day, no classes.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;09/03 - Reading Activity, no sync class, Prof. Moreira&amp;rsquo;s &lt;a href=&#34;https://peerreviewcongress.org/peer-review-congress-2025-program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plenary talk&lt;/a&gt;.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;09/10 - 1st Coding Class, bring your laptops.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;09/10 - 1st Coding Class, bring your laptops.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;09/29 - 2nd Coding Class, bring your laptops.&lt;/li&gt;
+&lt;li&gt;09/29 - 1st assignment due date.&lt;/li&gt;
 &lt;li&gt;10/06 - Fall Break, no classes.&lt;/li&gt;
 &lt;li&gt;10/08 - Midterm Exam.&lt;/li&gt;
 &lt;li&gt;10/27 - 3rd Coding Class, bring your laptops.&lt;/li&gt;
@@ -264,7 +265,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;h3 id=&#34;assignments&#34;&gt;Assignments&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Assignment material will be linked here as we move forward with the classes.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Assignment 1&lt;/strong&gt;, &lt;em&gt;link soon&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assignment_01.pdf&#34;&gt;Assignment 1&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/yzewsd94&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;. &lt;!-- [good answers.](/teaching/biometrics-aut24/assignments/assign_01_answers.pdf) --&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Assignment 2&lt;/strong&gt;, &lt;em&gt;link soon&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Assignment 3&lt;/strong&gt;, &lt;em&gt;link soon&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Assignment 4&lt;/strong&gt;, &lt;em&gt;link soon&lt;/em&gt;.&lt;/li&gt;
