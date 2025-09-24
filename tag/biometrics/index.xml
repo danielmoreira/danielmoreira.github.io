@@ -92,7 +92,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;09/15 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/slides/lecture_05.pdf&#34;&gt;Fingerprint Recog. I&lt;/a&gt;, History and features.&lt;/li&gt;
 &lt;li&gt;09/17 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/slides/lecture_06.pdf&#34;&gt;Fingerprint Recog. II&lt;/a&gt;, Acquisition and enhancement.&lt;/li&gt;
 &lt;li&gt;09/22 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/slides/lecture_07.pdf&#34;&gt;Fingerprint Recog. III&lt;/a&gt;, Minutiae detection.&lt;/li&gt;
-&lt;li&gt;09/24 - &lt;strong&gt;Fingerprint Recog. IV&lt;/strong&gt;, Data collection.&lt;/li&gt;
+&lt;li&gt;09/24 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/slides/lecture_08.pdf&#34;&gt;Fingerprint Recog. IV&lt;/a&gt;, Data collection.&lt;/li&gt;
 &lt;li&gt;09/29 - &lt;strong&gt;2nd Coding Class&lt;/strong&gt;, Fingerprint recognition.&lt;/li&gt;
 &lt;li&gt;10/01 - &lt;strong&gt;Midterm Preparation&lt;/strong&gt;, Recap, and project discussion.&lt;/li&gt;
 &lt;li&gt;10/06 - &lt;strong&gt;Fall Break&lt;/strong&gt;, &lt;em&gt;no classes&lt;/em&gt;. &lt;!-- * 10/08 - [Midterm Exam,](/teaching/biometrics-aut24/exams/midterm_answers.pdf) [grades.](/teaching/biometrics-aut24/exams/midterm_grades.pdf) --&gt;&lt;/li&gt;
@@ -138,7 +138,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;p&gt;&lt;em&gt;Online notebooks will be linked here as we move forward with the classes.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1qTi7rz9-YK-7N4Acirik5bm8Vllx4JiI?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 1&lt;/a&gt;, Metrics&amp;rsquo; implementation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Notebook 2&lt;/strong&gt;, &lt;em&gt;link soon&lt;/em&gt;, Fingerprint recognition.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1l7pSSXknayehfMfAQUXAxI8ouKMvlw__?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 2&lt;/a&gt;, Fingerprint recognition.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Notebook 3&lt;/strong&gt;, &lt;em&gt;link soon&lt;/em&gt;, Face recognition.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Notebook 4&lt;/strong&gt;, &lt;em&gt;link soon&lt;/em&gt;, Iris recognition.&lt;/li&gt;
 &lt;/ul&gt;
@@ -367,6 +367,9 @@ Students may use their cards at their own discretion, as long as they clearly co
 &lt;li&gt;&lt;a href=&#34;https://www.forbes.com/sites/roberthart/2024/09/03/clearview-ai-controversial-facial-recognition-firm-fined-33-million-for-illegal-database/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clearview AI Fined $33 Million.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.cnbc.com/2025/03/30/23andme-bankruptcy-selling-deleting-dna-genetic-testing.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;23andMe bankruptcy: With America&amp;rsquo;s DNA put on sale, market panic gets a new twist.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.pbs.org/wgbh/nova/article/koala-fingerprints/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koalas have fingerprints almost identical to ours.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cnbc.com/2025/04/30/sam-altman-eye-scanning-id.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eye-scanning ID project launches in U.S. with six locations.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bbc.com/news/technology-30623611&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Politician&amp;rsquo;s fingerprint &amp;lsquo;cloned from photos&amp;rsquo; by hacker.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.popsci.com/computer-scientists-are-developing-master-fingerprint-that-could-unlock-your-phone/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer scientists are developing a &amp;lsquo;master&amp;rsquo; fingerprint that could unlock your phone.&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;!-- 1. [Ethical Problems continue to plague biometric studies of Chinese minority groups.](https://sakai.luc.edu/access/content/group/COMP_388_002_4321_1246/student-uploads/cprevost__2024.01.24_China_Ethics_Biometrics_20240827104004049.pdf)
 2. [Illegible Fingerprints.](https://diabetesjournals.org/care/article-pdf/14/7/612/341538/14-7-612a.pdf)
