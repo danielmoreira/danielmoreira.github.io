@@ -96,7 +96,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;09/29 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/slides/lecture_09.pdf&#34;&gt;2nd Coding Class&lt;/a&gt;, Fingerprint recognition.&lt;/li&gt;
 &lt;li&gt;10/01 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/slides/lecture_10.pdf&#34;&gt;Midterm Preparation&lt;/a&gt;, Recap, and project discussion.&lt;/li&gt;
 &lt;li&gt;10/06 - &lt;strong&gt;Fall Break&lt;/strong&gt;, &lt;em&gt;no classes&lt;/em&gt;. &lt;!-- * 10/08 - [Midterm Exam,](/teaching/biometrics-aut24/exams/midterm_answers.pdf) [grades.](/teaching/biometrics-aut24/exams/midterm_grades.pdf) --&gt;&lt;/li&gt;
-&lt;li&gt;10/08 - &lt;strong&gt;Midterm Exam&lt;/strong&gt;, &lt;em&gt;good luck&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;10/08 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/exams/midterm_answers.pdf&#34;&gt;Midterm Exam&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/exams/midterm_grades.pdf&#34;&gt;Grades&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;10/13 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/slides/lecture_11.pdf&#34;&gt;Face Recog. I&lt;/a&gt;, Why faces and faces vs. other traits.&lt;/li&gt;
 &lt;li&gt;10/15 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/slides/lecture_12.pdf&#34;&gt;Face Recog. II&lt;/a&gt;, Acquisition and enhancement.&lt;/li&gt;
 &lt;li&gt;10/20 - &lt;strong&gt;Face Recog. III&lt;/strong&gt;, Description and matching.&lt;/li&gt;
@@ -107,13 +107,13 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;11/05 - &lt;strong&gt;Iris Recog. III&lt;/strong&gt;, Description and matching.&lt;/li&gt;
 &lt;li&gt;11/10 - &lt;strong&gt;4th Coding Class&lt;/strong&gt;, Iris recognition.&lt;/li&gt;
 &lt;li&gt;11/12 - &lt;strong&gt;Other Traits&lt;/strong&gt;, Alternative traits and Soft Biometrics.&lt;/li&gt;
-&lt;li&gt;11/17 - &lt;strong&gt;Multibiometrics&lt;/strong&gt;, Data fusion.&lt;/li&gt;
+&lt;li&gt;11/17 - &lt;strong&gt;Multibiometrics&lt;/strong&gt;, Data fusion.midterm&lt;/li&gt;
 &lt;li&gt;11/19 - &lt;strong&gt;Feature Indexing&lt;/strong&gt;, Index building and feature querying.&lt;/li&gt;
-&lt;li&gt;11/24 - &lt;strong&gt;1st Invited Talk&lt;/strong&gt;, &lt;em&gt;more info soon&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;11/26 - &lt;strong&gt;Thanksgiving&lt;/strong&gt;, &lt;em&gt;no classes&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;12/01 - &lt;strong&gt;2nd Invited Talk&lt;/strong&gt;, &lt;em&gt;more info soon&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;12/03 - &lt;a href=&#34;#project&#34;&gt;Project presentations&lt;/a&gt;, &lt;em&gt;show time&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;12/08 - &lt;strong&gt;Final Exam&lt;/strong&gt;, &lt;em&gt;good luck&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;11/24 - &lt;strong&gt;1st Invited Talk&lt;/strong&gt;, &lt;em&gt;More info soon&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;11/26 - &lt;strong&gt;Thanksgiving&lt;/strong&gt;, &lt;em&gt;No classes&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;12/01 - &lt;strong&gt;2nd Invited Talk&lt;/strong&gt;, &lt;em&gt;More info soon&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;12/03 - &lt;a href=&#34;#project&#34;&gt;Project presentations&lt;/a&gt;, &lt;em&gt;Show time&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;12/08 - &lt;strong&gt;Final Exam&lt;/strong&gt;, &lt;em&gt;Good luck&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
@@ -144,8 +144,6 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;&lt;strong&gt;Notebook 4&lt;/strong&gt;, &lt;em&gt;link soon&lt;/em&gt;, Iris recognition.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- 
-* [Notebook 01,](https://colab.research.google.com/drive/1Yd-C7m8bhHP7-QcJH70iJyyjgrKOBaNT) Metrics&#39; implementation.
-* [Notebook 02,](https://colab.research.google.com/drive/1a6JdRkwRAMtyRif2LTIchtMCgsa7KL9l) Fingerprint recognition.
 * [Notebook 03,](https://colab.research.google.com/drive/18-PZJTQt1v7Pej37uVmZYNTZFdiiM2cG) Face recognition.
 * [Notebook 04,](https://colab.research.google.com/drive/1rJ5vjm48eMAg5ZdHApazo3X_IVMvIDKc) Iris recognition.
 --&gt;
@@ -258,13 +256,12 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;h3 id=&#34;assignments&#34;&gt;Assignments&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Assignment material will be linked here as we move forward with the classes.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assignment_01.pdf&#34;&gt;Assignment 1&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/yzewsd94&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;. &lt;!-- [good answers.](/teaching/biometrics-aut24/assignments/assign_01_answers.pdf) --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assignment_01.pdf&#34;&gt;Assignment 1&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/yzewsd94&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assign_01_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assignment_02.pdf&#34;&gt;Assignment 2&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/mr5c5ajf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Assignment 3&lt;/strong&gt;, &lt;em&gt;link soon&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Assignment 4&lt;/strong&gt;, &lt;em&gt;link soon&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--
-* [Assignment 1,](/teaching/biometrics-aut24/assignments/assign_01.pdf) [data,](https://tinyurl.com/yzewsd94) [good answers.](/teaching/biometrics-aut24/assignments/assign_01_answers.pdf)
 * [Assignment 2,](/teaching/biometrics-aut24/assignments/assign_02.pdf) [data,](https://tinyurl.com/hrpxu62e) [good answers.](/teaching/biometrics-aut24/assignments/assign_02_answers.pdf)
 * [Assignment 3,](/teaching/biometrics-aut24/assignments/assign_03.pdf) [data,](https://bit.ly/3Qb9iYY) [good answers.](/teaching/biometrics-aut24/assignments/assign_03_answers.pdf)
 * [Assignment 4,](/teaching/biometrics-aut24/assignments/assign_04.pdf) [data,](https://tinyurl.com/wyzch4et) [good answers.](/teaching/biometrics-aut24/assignments/assign_04_answers.pdf)
@@ -277,11 +274,10 @@ Works late more than 9 days will be completely lost.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;exams&#34;&gt;Exams&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Midterm Exam&lt;/strong&gt; (10/08), &lt;em&gt;info soon&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Midterm Exam&lt;/strong&gt; (10/08), &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/exams/midterm_answers.pdf&#34;&gt;good answers&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/exams/midterm_grades.pdf&#34;&gt;grades&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Final Exam&lt;/strong&gt; (12/08), &lt;em&gt;info soon&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- * Midterm Exam (10/08), [good answers,](/teaching/biometrics-aut24/exams/midterm_answers.pdf) [grades.](/teaching/biometrics-aut24/exams/midterm_grades.pdf)
-* Final Exam (12/08), [good answers,](/teaching/biometrics-aut24/exams/final_answers.pdf) [grades.](/teaching/biometrics-aut24/exams/final_grades.pdf) --&gt;
+&lt;!-- Final Exam (12/08), [good answers,](/teaching/biometrics-aut24/exams/final_answers.pdf) [grades.](/teaching/biometrics-aut24/exams/final_grades.pdf) --&gt;
 &lt;p&gt;&lt;a name=&#34;project&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;project&#34;&gt;Project&lt;/h3&gt;
 &lt;ul&gt;
