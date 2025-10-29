@@ -128,6 +128,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;&lt;del&gt;10/17 - 2nd assignment due date.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;10/27 - 3rd Coding Class, bring your laptops.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;11/10 - 4th Coding Class, bring your laptops.&lt;/li&gt;
+&lt;li&gt;11/14 - 3rd assignment due date.&lt;/li&gt;
 &lt;li&gt;11/24 - 1st Invited Talk.&lt;/li&gt;
 &lt;li&gt;11/26 - Thanksgiving, no classes.&lt;/li&gt;
 &lt;li&gt;12/01 - 2nd Invited Talk.&lt;/li&gt;
@@ -257,7 +258,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assignment_01.pdf&#34;&gt;Assignment 1&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/yzewsd94&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assign_01_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assignment_02.pdf&#34;&gt;Assignment 2&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/mr5c5ajf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Assignment 3&lt;/strong&gt;, &lt;em&gt;link soon&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assignment_03.pdf&#34;&gt;Assignment 3&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/4bwsx53m&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Assignment 4&lt;/strong&gt;, &lt;em&gt;link soon&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--
@@ -356,7 +357,7 @@ Students may use their cards at their own discretion, as long as they clearly co
 &lt;!-- ![Oopsie card.](card.gif) --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;biometrics-on-the-news&#34;&gt;Biometrics on the News&lt;/h2&gt;
-&lt;p&gt;Posted by the students and the instructor on Sakai.&lt;/p&gt;
+&lt;p&gt;Shared by the students and the instructor.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.cnbc.com/2025/07/17/roblox-age-verification-friends-chat.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Roblox launches new age verification system.&lt;/a&gt; &lt;!-- Laila Hamdan --&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.cnn.com/2025/08/13/tech/youtube-ai-age-verification&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube will start using AI to guess your age.&lt;/a&gt; &lt;!-- Laila Hamdan --&gt;&lt;/li&gt;
@@ -407,8 +408,12 @@ Students may use their cards at their own discretion, as long as they clearly co
 --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Links will be added here as we move forward with the classes.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s42256-024-00874-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Responsible ML datasets&lt;/a&gt;, used in reading activity on 09/03.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vision.ucsd.edu/content/yale-face-database&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yale face dataset&lt;/a&gt;, used in the 3rd assignment.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--
+*Links will be added here as we move forward with the classes.*
 * [Yale face dataset,](http://vision.ucsd.edu/content/yale-face-database) used in the 3rd assignment.
 * &lt;a name=&#34;reading&#34;&gt;&lt;/a&gt; [Human performance in iris recognition,](https://ieeexplore.ieee.org/document/8658624) used in extra reading activity on 10/30.
 --&gt;
