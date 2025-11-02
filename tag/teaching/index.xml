@@ -257,12 +257,11 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;p&gt;&lt;em&gt;Assignment material will be linked here as we move forward with the classes.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assignment_01.pdf&#34;&gt;Assignment 1&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/yzewsd94&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assign_01_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assignment_02.pdf&#34;&gt;Assignment 2&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/mr5c5ajf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assignment_02.pdf&#34;&gt;Assignment 2&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/mr5c5ajf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assign_02_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assignment_03.pdf&#34;&gt;Assignment 3&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/4bwsx53m&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Assignment 4&lt;/strong&gt;, &lt;em&gt;link soon&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--
-* [Assignment 2,](/teaching/biometrics-aut24/assignments/assign_02.pdf) [data,](https://tinyurl.com/hrpxu62e) [good answers.](/teaching/biometrics-aut24/assignments/assign_02_answers.pdf)
 * [Assignment 3,](/teaching/biometrics-aut24/assignments/assign_03.pdf) [data,](https://bit.ly/3Qb9iYY) [good answers.](/teaching/biometrics-aut24/assignments/assign_03_answers.pdf)
 * [Assignment 4,](/teaching/biometrics-aut24/assignments/assign_04.pdf) [data,](https://tinyurl.com/wyzch4et) [good answers.](/teaching/biometrics-aut24/assignments/assign_04_answers.pdf)
 --&gt;
@@ -282,6 +281,7 @@ Works late more than 9 days will be completely lost.&lt;/p&gt;
 &lt;h3 id=&#34;project&#34;&gt;Project&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Written report and presentation, work alone or in groups.&lt;/li&gt;
+&lt;li&gt;Presentations will happen on 12/03 and reports are due on the same date.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Possible Topics&lt;/strong&gt;&lt;/p&gt;
@@ -295,6 +295,49 @@ Works late more than 9 days will be completely lost.&lt;/p&gt;
 &lt;li&gt;Discussion about the ethical aspects of Biometrics and surveillance.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;Chosen Topics&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Team&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 1  &lt;/td&gt;
+&lt;td&gt;The Impact of Being Identified Online&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 2&lt;/td&gt;
+&lt;td&gt;Ethical Implications of Biometrics and Surveillance: Balancing Security and Privacy&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 3&lt;/td&gt;
+&lt;td&gt;Ethics of Surveillance in Public Spaces&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 4&lt;/td&gt;
+&lt;td&gt;Are EMG Signals Unique Enough for Person Identification?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 5&lt;/td&gt;
+&lt;td&gt;Technical and Ethical Implications of Subdermal Microchip Implants for Identification&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 6&lt;/td&gt;
+&lt;td&gt;Fingerprint Spoofing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 7&lt;/td&gt;
+&lt;td&gt;Gait Recognition&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 8&lt;/td&gt;
+&lt;td&gt;Biometric Contracts: Consent Mechanisms for Biometric Data Usage&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;!--
 *Chosen Topics*
 
@@ -408,12 +451,14 @@ Students may use their cards at their own discretion, as long as they clearly co
 --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
+&lt;!--
+*Links will be added here as we move forward with the classes.*
+--&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s42256-024-00874-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Responsible ML datasets&lt;/a&gt;, used in reading activity on 09/03.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://vision.ucsd.edu/content/yale-face-database&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yale face dataset&lt;/a&gt;, used in the 3rd assignment.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--
-*Links will be added here as we move forward with the classes.*
 * [Yale face dataset,](http://vision.ucsd.edu/content/yale-face-database) used in the 3rd assignment.
 * &lt;a name=&#34;reading&#34;&gt;&lt;/a&gt; [Human performance in iris recognition,](https://ieeexplore.ieee.org/document/8658624) used in extra reading activity on 10/30.
 --&gt;
