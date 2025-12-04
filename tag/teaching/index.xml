@@ -132,13 +132,13 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;&lt;del&gt;11/24 - 1st Invited Talk.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;11/26 - Thanksgiving, no classes.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;12/01 - 2nd Invited Talk.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;12/03 - Project presentations.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;12/03 - Project presentations.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;12/05 - 4th assignment due date.&lt;/li&gt;
 &lt;li&gt;12/08 - Final Exam.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;notebooks-for-coding-classes&#34;&gt;Notebooks &lt;em&gt;(for coding classes)&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Online notebooks will be linked here as we move forward with the classes.&lt;/em&gt;&lt;/p&gt;
+&lt;!-- *Online notebooks will be linked here as we move forward with the classes.* --&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1qTi7rz9-YK-7N4Acirik5bm8Vllx4JiI?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 1&lt;/a&gt;, Metrics&amp;rsquo; implementation.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1l7pSSXknayehfMfAQUXAxI8ouKMvlw__?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 2&lt;/a&gt;, Fingerprint recognition.&lt;/li&gt;
@@ -255,15 +255,6 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;!--
-|                               |                                                                                                                                                               |
-|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Dr. Dinko Bačić](bacic.jpg) | [Dr. Dinko Bačić](https://www.luc.edu/quinlan/faculty/dinkobai.shtml)&lt;/br&gt; Assistant Professor&lt;/br&gt; Quinlan School of Business&lt;/br&gt; Loyola University Chicago |
-
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| &lt;b&gt;Exploring biometric data in research and teaching: Insights from the [UX &amp; BIOMETRICS LAB](https://www.uxbiometriclab.com/)&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; The integration of biometric data into research and teaching has unlocked exciting opportunities to understand human behavior and decision-making. This talk will provide an overview of cutting-edge research and innovative teaching methods developed at the UX &amp; Biometrics Lab (uxbiometriclab.com). The presentation will introduce how biometric data — captured through technologies like eye tracking, galvanic skin response, and facial muscle movement — enables researchers to uncover subconscious responses and enhance the study of user experiences. Examples of ongoing research projects will demonstrate the potential of biometric insights to understand user engagement, inform system design, improve decision-making frameworks, and optimize information visualization. Additionally, the talk will highlight how biometric research is incorporated into experiential learning for students, fostering critical thinking and technical skills.&lt;/a&gt; |
---&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;grading&#34;&gt;Grading&lt;/h2&gt;
 &lt;table&gt;
@@ -350,11 +341,11 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3 id=&#34;assignments&#34;&gt;Assignments&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Assignment material will be linked here as we move forward with the classes.&lt;/em&gt;&lt;/p&gt;
+&lt;!-- *Assignment material will be linked here as we move forward with the classes.* --&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assignment_01.pdf&#34;&gt;Assignment 1&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/yzewsd94&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assign_01_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assignment_02.pdf&#34;&gt;Assignment 2&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/mr5c5ajf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assign_02_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assignment_03.pdf&#34;&gt;Assignment 3&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/4bwsx53m&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assignment_03.pdf&#34;&gt;Assignment 3&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/4bwsx53m&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;, &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assign_03_answers.pdf&#34;&gt;good answers&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut25/assignments/assignment_04.pdf&#34;&gt;Assignment 4&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/5bdevtfn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- XyPK04;579?) --&gt;
@@ -427,6 +418,10 @@ Works late more than 9 days will be completely lost.&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;Team 8&lt;/td&gt;
 &lt;td&gt;Biometric Contracts: Consent Mechanisms for Biometric Data Usage&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Team 9&lt;/td&gt;
+&lt;td&gt;Password Keystroke Dynamics&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -534,20 +529,16 @@ Students may use their cards at their own discretion, as long as they clearly co
 7. [Scrutiny of Iris-scanning Crypto Project Grows.](https://www.reuters.com/technology/scrutiny-iris-scanning-crypto-project-worldcoin-grows-2023-09-01/)
 8. [Unusual Biometric Techniques.](https://www.securitysolutionsmedia.com/2013/11/14/unusual-biometric-techniques/)
 9. [Scammers used AI to replicate son’s voice.](https://twitter.com/notcapnamerica/status/1725901659270742084)
--- &gt;
-&lt;!-- 
-1. [Koalas have fingerprints almost identical to ours.](https://www.pbs.org/wgbh/nova/article/koala-fingerprints/)
-2. [Brazilian thief spoofed victims faces.](https://www.dailymail.co.uk/news/article-12210813/Brazilian-thief-taped-photos-victims-faces-DUMMY-bypass-facial-recognition.html)
-3. [Fingerprint cloning: myth or reality?](https://blog.talosintelligence.com/fingerprint-research/)
-4. [Data leak of 1M people&#39;s biometric data in UK.](https://www.technologyreview.com/2019/08/14/133723/data-leak-exposes-unchangeable-biometric-data-of-over-1-million-people/)
-5. [Samsung phones use ultrasonic fingerprint device.](https://www.theverge.com/2019/10/23/20929178/samsung-galaxy-s10-note-1o-fingerprint-recognition-issue-patch-ultrasonic-sensor)
-6. [Apple uses capacitive fingerprint device (with 500 ppi).](https://en.wikipedia.org/wiki/Touch_ID)
-7. [Racial Discrimination in Face Recognition Technology.](https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/)
-8. [What is Facial Recognition Technology?](https://www.ajl.org/facial-recognition-technology)
-9. [Boston Bans Use Of Facial Recognition Technology.](https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban)
-10. [Adversarial Attack on ArcFace.](https://www.youtube.com/watch?v=a4iNg0wWBsQ)
-11. [Scrutiny of Iris-scanning Crypto Project Grows.](https://www.reuters.com/technology/scrutiny-iris-scanning-crypto-project-worldcoin-grows-2023-09-01/)
-12. [Scammers used AI to replicate son’s voice.](https://twitter.com/notcapnamerica/status/1725901659270742084)
+10. [Brazilian thief spoofed victims faces.](https://www.dailymail.co.uk/news/article-12210813/Brazilian-thief-taped-photos-victims-faces-DUMMY-bypass-facial-recognition.html)
+11. [Fingerprint cloning: myth or reality?](https://blog.talosintelligence.com/fingerprint-research/)
+12. [Data leak of 1M people&#39;s biometric data in UK.](https://www.technologyreview.com/2019/08/14/133723/data-leak-exposes-unchangeable-biometric-data-of-over-1-million-people/)
+13. [Samsung phones use ultrasonic fingerprint device.](https://www.theverge.com/2019/10/23/20929178/samsung-galaxy-s10-note-1o-fingerprint-recognition-issue-patch-ultrasonic-sensor)
+14. [Apple uses capacitive fingerprint device (with 500 ppi).](https://en.wikipedia.org/wiki/Touch_ID)
+15. [Racial Discrimination in Face Recognition Technology.](https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/)
+16. [What is Facial Recognition Technology?](https://www.ajl.org/facial-recognition-technology)
+17. [Boston Bans Use Of Facial Recognition Technology.](https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban)
+18. [Adversarial Attack on ArcFace.](https://www.youtube.com/watch?v=a4iNg0wWBsQ)
+19. [Scrutiny of Iris-scanning Crypto Project Grows.](https://www.reuters.com/technology/scrutiny-iris-scanning-crypto-project-worldcoin-grows-2023-09-01/)
 --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
@@ -558,10 +549,6 @@ Students may use their cards at their own discretion, as long as they clearly co
 &lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s42256-024-00874-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Responsible ML datasets&lt;/a&gt;, used in reading activity on 09/03.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://vision.ucsd.edu/content/yale-face-database&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yale face dataset&lt;/a&gt;, used in the 3rd assignment.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!--
-* [Yale face dataset,](http://vision.ucsd.edu/content/yale-face-database) used in the 3rd assignment.
-* &lt;a name=&#34;reading&#34;&gt;&lt;/a&gt; [Human performance in iris recognition,](https://ieeexplore.ieee.org/document/8658624) used in extra reading activity on 10/30.
---&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;ul&gt;
