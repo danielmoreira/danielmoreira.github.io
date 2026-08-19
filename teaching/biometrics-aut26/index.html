@@ -1,0 +1,1899 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.6.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather&family=Roboto+Mono&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather&family=Roboto+Mono&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Daniel Moreira" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="COMP 388-002 / COMP 488-002 Computer Science Topics" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://danielmoreira.github.io/teaching/biometrics-aut26/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#922247" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.77ea3df7ef206ff0be44f23a0eac0392.css" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N44XTV94DF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-N44XTV94DF', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_hu841424792684eefa604903eccd1ecb0c_59936_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu841424792684eefa604903eccd1ecb0c_59936_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://danielmoreira.github.io/teaching/biometrics-aut26/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@dmoreira_cs" />
+    <meta property="twitter:creator" content="@dmoreira_cs" />
+  
+  <meta property="og:site_name" content="Daniel Moreira" />
+  <meta property="og:url" content="https://danielmoreira.github.io/teaching/biometrics-aut26/" />
+  <meta property="og:title" content="Biometrics, Fall 2026 | Daniel Moreira" />
+  <meta property="og:description" content="COMP 388-002 / COMP 488-002 Computer Science Topics" /><meta property="og:image" content="https://danielmoreira.github.io/media/sharing.jpg" />
+    <meta property="twitter:image" content="https://danielmoreira.github.io/media/sharing.jpg" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2026-08-17T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2026-08-17T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+
+  <title>Biometrics, Fall 2026 | Daniel Moreira</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="eeac3b8e02be6b1ca000a16ab0a9d947" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.edcf9542bc63018f22383168efaef744.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Daniel Moreira</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Daniel Moreira</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#experience"><span>Career</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#services"><span>Service</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#accomplishments"><span>Awards</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Biometrics, Fall 2026</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Aug 17, 2026
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /teaching/biometrics-aut26/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_2ae554ab12a8e6233cd3bf1480fc4a45.webp 400w,
+               /teaching/biometrics-aut26/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_e51b41172736727dd7a34ff04a09a9a2.webp 760w,
+               /teaching/biometrics-aut26/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_1200x1200_fit_q90_h2_lanczos_3.webp 1200w"
+               src="/teaching/biometrics-aut26/luc_hu9eb1c109e0914ceadff222ece6a1d872_7759_2ae554ab12a8e6233cd3bf1480fc4a45.webp"
+               width="250px"
+               height="116"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<hr>
+<h2 id="details">Details</h2>
+<p>Course: COMP 388-002 / COMP 488-002 Computer Science Topics<br>
+Level: Undergraduate and Graduate<br>
+Instructor: <a href="/">Daniel Moreira</a> (<a href="mailto:dmoreira1@luc.edu">dmoreira1@luc.edu</a>)</p>
+<!-- TA: Fiona Nicdao (fnicdao@luc.edu) -->
+<p>Lectures: TUE and THR, 4:15 to 5:30 PM, in person at Mundelein Center 519<br>
+Office Hours: TUE, WED, and THR evenings, Doyle Center 310 or Zoom, <a href="https://calendly.com/danielmoreira/fall-2026-office-hours" target="_blank" rel="noopener">by appointment</a><br>
+Sakai: <a href="https://sakai.luc.edu/x/wWJz6k" target="_blank" rel="noopener">https://sakai.luc.edu/x/wWJz6k</a></p>
+<!-- > Final grades were released on Sakai. Thank you, everyone! -->
+<hr>
+<h2 id="overview">Overview</h2>
+<!-- <video class="video-shortcode" preload="auto" controls>
+    <source src="attack.mp4" type="video/mp4">
+    You should see a video here but your browser does not seem to support it.
+</video> -->
+<!-- ![Presentation attacks done by students.](fake.png) -->
+<p>How do computers match a person&rsquo;s fingerprints?
+Do they still use the same techniques proposed in the XIX century?
+How do computers identify people captured in a video?
+Do they leverage the depicted faces only, or can they use other traits such as gait or voice?
+How about iris recognition as portrayed in the movies?
+Is it really possible?
+What happens in the case of people who look very similar, such as identical twins?
+Which traits are more reliable and robust to impersonation or prone to falsification?
+These are some of the questions we will address in this course, whose main topic is Biometrics.
+In a nutshell, Biometrics is the study of techniques to identify individuals through their physical
+and behavioral traits, such as fingerprints, face, iris, DNA, voice, gait, etc.
+Our focus will be on the technical and ethical aspects of computer-aided Biometrics,
+discussing the issues of going from simple and benign authentication to the more problematic case of surveillance.
+The course will have an intense hands-on approach, with the collection of samples and implementation of fingerprint,
+face, and iris recognition.</p>
+<blockquote>
+<p>Requirements to attend this course are basic programming skills (especially Python).
+This course and its materials are also available in <a href="https://sakai.luc.edu/x/wWJz6k" target="_blank" rel="noopener">Sakai</a>.</p>
+</blockquote>
+<hr>
+<h2 id="schedule">Schedule</h2>
+<ul>
+<li>08/25 - Syllabus, Course details.</li>
+<li>08/27 - Basics I, Biometrics, traits, and systems.</li>
+<li>09/01 - Basics II, Biometric systems, errors, and metrics.</li>
+<li>09/03 - 1st Coding Class, Metrics&rsquo; implementation.</li>
+<li>09/08 - Fingerprint Recog. I, History and features.</li>
+<li>09/10 - Fingerprint Recog. II, Acquisition and enhancement.</li>
+<li>09/15 - Reading Activity, <em>No sync class</em>.</li>
+<li>09/17 - Fingerprint Recog. III, Minutiae detection.</li>
+<li>09/22 - Fingerprint Recog. IV, Data collection.</li>
+<li>09/24 - 2nd Coding Class, Fingerprint recognition.</li>
+<li>09/29 - Midterm Preparation, Recap, and project discussion.</li>
+<li>10/01 - Midterm Exam, <em>More soon</em>.</li>
+<li>10/06 - <strong>Fall Break</strong>, <em>No classes</em>.</li>
+<li>10/08 - Face Recog. I, Why faces and faces vs. other traits.</li>
+<li>10/13 - Face Recog. II, Acquisition and enhancement.</li>
+<li>10/15 - Face Recog. III, Description and matching.</li>
+<li>10/20 - Face Recog. IV, Deep learning face recognition.</li>
+<li>10/22 - 3rd Coding Class, Face recognition.</li>
+<li>10/27 - Iris Recog. I, Why irises and irises vs. other traits.</li>
+<li>10/29 - Iris Recog. II, Acquisition and enhancement.</li>
+<li>11/03 - Iris Recog. III, Description and matching.</li>
+<li>11/05 - 4th Coding Class, Iris recognition.</li>
+<li>11/10 - Other Traits, Alternative traits and Soft Biometrics.</li>
+<li>11/12 - Multibiometrics, Data fusion.</li>
+<li>11/17 - Feature Indexing, Index building and feature querying.</li>
+<li>11/19 - 1st Invited Talk, <em>More soon</em>.</li>
+<li>11/24 - 2nd Invited Talk, <em>More soon</em>.</li>
+<li>11/26 - <strong>Thanksgiving</strong>, <em>No classes</em>.</li>
+<li>12/01 - Project Presentations I, <em>Show time</em>.</li>
+<li>12/03 - Project Presentations II, <em>Show time</em>.</li>
+<li>12/08 - Final Exam, <em>More soon</em>.</li>
+</ul>
+<!-- * 08/25 - [Syllabus](/teaching/biometrics-aut25/slides/lecture_01.pdf), Course details.
+* 08/27 - [Basics I](/teaching/biometrics-aut25/slides/lecture_02.pdf), Biometrics, traits, and systems.
+* 09/01 - **Labor Day**, *no classes*.
+* 09/03 - [Reading Activity](https://www.nature.com/articles/s42256-024-00874-y), *no sync class*.
+* 09/08 - [Basics II](/teaching/biometrics-aut25/slides/lecture_03.pdf), Biometric systems, errors, and metrics.
+* 09/10 - [1st Coding Class](/teaching/biometrics-aut25/slides/lecture_04.pdf), Metrics' implementation.
+* 09/15 - [Fingerprint Recog. I](/teaching/biometrics-aut25/slides/lecture_05.pdf), History and features.
+* 09/17 - [Fingerprint Recog. II](/teaching/biometrics-aut25/slides/lecture_06.pdf), Acquisition and enhancement.
+* 09/22 - [Fingerprint Recog. III](/teaching/biometrics-aut25/slides/lecture_07.pdf), Minutiae detection.
+* 09/24 - [Fingerprint Recog. IV](/teaching/biometrics-aut25/slides/lecture_08.pdf), Data collection.
+* 09/29 - [2nd Coding Class](/teaching/biometrics-aut25/slides/lecture_09.pdf), Fingerprint recognition.
+* 10/01 - [Midterm Preparation](/teaching/biometrics-aut25/slides/lecture_10.pdf), Recap, and project discussion.
+* 10/06 - **Fall Break**, *no classes*. 
+* 10/08 - [Midterm Exam,](/teaching/biometrics-aut24/exams/midterm_answers.pdf) [grades.](/teaching/biometrics-aut24/exams/midterm_grades.pdf)
+* 10/08 - [Midterm Exam](/teaching/biometrics-aut25/exams/midterm_answers.pdf), [Grades](/teaching/biometrics-aut25/exams/midterm_grades.pdf).
+* 10/13 - [Face Recog. I](/teaching/biometrics-aut25/slides/lecture_11.pdf), Why faces and faces vs. other traits.
+* 10/15 - [Face Recog. II](/teaching/biometrics-aut25/slides/lecture_12.pdf), Acquisition and enhancement.
+* 10/20 - [Face Recog. III](/teaching/biometrics-aut25/slides/lecture_13.pdf), Description and matching.
+* 10/22 - [Face Recog. IV](/teaching/biometrics-aut25/slides/lecture_14.pdf), Deep learning face recognition.
+* 10/27 - [3rd Coding Class](/teaching/biometrics-aut25/slides/lecture_15.pdf), Face recognition.
+* 10/29 - [Iris Recog. I](/teaching/biometrics-aut25/slides/lecture_16.pdf), Why irises and irises vs. other traits.
+* 11/03 - [Iris Recog. II](/teaching/biometrics-aut25/slides/lecture_17.pdf), Acquisition and enhancement.
+* 11/05 - [Iris Recog. III](/teaching/biometrics-aut25/slides/lecture_18.pdf), Description and matching.
+* 11/10 - [4th Coding Class](/teaching/biometrics-aut25/slides/lecture_19.pdf), Iris recognition.
+* 11/12 - [Other Traits](/teaching/biometrics-aut25/slides/lecture_20.pdf), Alternative traits and Soft Biometrics.
+* 11/17 - [Multibiometrics](/teaching/biometrics-aut25/slides/lecture_21.pdf), Data fusion.
+* 11/19 - [Feature Indexing](/teaching/biometrics-aut25/slides/lecture_22.pdf), Index building and feature querying.
+* 11/24 - [1st Invited Talk](#dbacic), Dr. Dinko Bačić.
+* 11/26 - **Thanksgiving**, *No classes*.
+* 12/01 - [2nd Invited Talk](#aczajka), Dr. Adam Czajka.
+* 12/03 - [Project presentations](#project), *Show time*.
+* 12/08 - [Final Exam](/teaching/biometrics-aut25/exams/final_answers.pdf), [Grades](/teaching/biometrics-aut25/exams/final_grades.pdf).
+-->
+<hr>
+<h2 id="important-dates">Important Dates</h2>
+<ul>
+<li>09/03 - 1st Coding Class, bring your laptops.</li>
+<li>09/15 - Reading Activity, no sync class, Prof. Moreira&rsquo;s <a href="https://sites.google.com/view/scifor-2026" target="_blank" rel="noopener">workshop at ICIP 2026</a>.</li>
+<li>09/24 - 2nd Coding Class, bring your laptops.</li>
+<li>10/01 - Midterm Exam, in class.</li>
+<li>10/06 - Fall Break, no classes.</li>
+<li>10/22 - 3rd Coding Class, bring your laptops.</li>
+<li>11/05 - 4th Coding Class, bring your laptops.</li>
+<li>11/19 - 1st Invited Talk.</li>
+<li>11/24 - 2nd Invited Talk.</li>
+<li>11/26 - Thanksgiving, no classes.</li>
+<li>12/01 - Project Presentations I.</li>
+<li>12/03 - Project Presentations II.</li>
+<li>12/08 - Final Exam.</li>
+</ul>
+<!-- * ~~09/03 - Reading Activity, no sync class, Prof. Moreira's [plenary talk](https://peerreviewcongress.org/peer-review-congress-2025-program/).~~
+* ~~09/29 - 2nd Coding Class, bring your laptops.~~
+* ~~09/29 - 1st assignment due date.~~
+* ~~10/06 - Fall Break, no classes.~~
+* ~~10/08 - Midterm Exam.~~
+* ~~10/17 - 2nd assignment due date.~~
+* ~~10/27 - 3rd Coding Class, bring your laptops.~~
+* ~~11/10 - 4th Coding Class, bring your laptops.~~
+* ~~11/17 - 3rd assignment due date.~~
+* ~~11/24 - 1st Invited Talk.~~
+* ~~11/26 - Thanksgiving, no classes.~~
+* ~~12/01 - 2nd Invited Talk.~~
+* ~~12/03 - Project presentations.~~
+* ~~12/05 - 4th assignment due date.~~
+* ~~12/08 - Final Exam.~~ -->
+<hr>
+<h2 id="notebooks-for-coding-classes">Notebooks <em>(for coding classes)</em></h2>
+<p><em>Online notebooks will be linked here as we move forward with the classes.</em></p>
+<!-- * [Notebook 1](https://colab.research.google.com/drive/1qTi7rz9-YK-7N4Acirik5bm8Vllx4JiI?usp=sharing), Metrics' implementation.
+* [Notebook 2](https://colab.research.google.com/drive/1l7pSSXknayehfMfAQUXAxI8ouKMvlw__?usp=sharing), Fingerprint recognition.
+* [Notebook 3](https://colab.research.google.com/drive/1S04x_NrEA3AQJBiEoN0McUeqEek01pdZ?usp=sharing), Face recognition.
+* [Notebook 4](https://colab.research.google.com/drive/1Nmzh9a4Vn6r7r8kG30KxHJRZ3U7PwLG5?usp=sharing), Iris recognition.
+-->
+<hr>
+<!-- <a name="dbacic"></a> -->
+<h2 id="invited-talks">Invited Talks</h2>
+<p><em>Information about the two talks will be added here as soon as they are settled.</em></p>
+<!--
+|                               |                                                                                                                                                               |
+|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Dr. Dinko Bačić](bacic.jpg) | [Dr. Dinko Bačić](https://www.luc.edu/quinlan/faculty/dinkobai.shtml)</br> Associate Professor</br> Quinlan School of Business</br> Loyola University Chicago |
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <b>Learning Through Knowledge Creation: The Transformative Power of Biometric Research in Business Education</b></br></br> At Quinlan School of Business (Loyola University Chicago), embedding hands-on biometric research through the **UX & Biometrics Lab** into the curriculum has transformed both student learning and scholarly impact. Students actively create knowledge by designing and conducting experiments that have led to journal publications, conference proceedings, and international presentations. This presentation introduces basic biometric equipment and respective data, and highlights sample research created in this environment, including studies on smartphone decision-making under information overload, profanity in lectures, subtitles in streaming, gendered marketing, misinformation moderation, persuasive data visualizations, deepfake detection, sports excitement, and workplace disruptions. <a name="aczajka"></a> |
+
+|                                |                                                                                                                                                                               |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Dr. Adam Czajka](czajka.jpg) | [Dr. Adam Czajka](https://engineering.nd.edu/faculty/adam-czajka/)</br> Associate Professor</br> Department of Computer Science and Engineering</br> University of Notre Dame |
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <b>From Cradle to Grave Biometrics: Forensic Iris Recognition</b></br></br> Hollywood's favorite biometric attack often involves an eye plucked from its socket and presented on a stick to an iris camera. But... can this attack actually succeed in reality? Can we use iris patterns to recognize humans after death? And if so, how long after death is this possible? Looking at the other end of life: can we apply iris recognition for newborns? Can we learn from human experts to develop iris recognition and presentation attack detection methods that generalize well to unseen data? Can we synthesize realistically-looking irises of non-existent identities and condition these models with specific anomalies to assist forensic experts in their work? Join Adam on a fascinating biometric journey that starts at birth and ends after death. Along the way, we'll try to find answers to the above questions, supported by the latest research advancements in forensic iris recognition.  |
+-->
+<hr>
+<h2 id="grading">Grading</h2>
+<table>
+<thead>
+<tr>
+<th>Concept </th>
+<th>Interval (%) </th>
+<th>Concept </th>
+<th>Interval (%) </th>
+<th>Concept </th>
+<th>Interval (%) </th>
+<th>Concept </th>
+<th>Interval (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td>[96, 100)</td>
+<td>B+</td>
+<td>[88, 92)</td>
+<td>C+</td>
+<td>[76, 80)</td>
+<td>D+</td>
+<td>[64, 68)</td>
+</tr>
+<tr>
+<td>A-</td>
+<td>[92, 96)</td>
+<td>B</td>
+<td>[84, 88)</td>
+<td>C</td>
+<td>[72, 76)</td>
+<td>D</td>
+<td>[60, 64)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>B-</td>
+<td>[80, 84)</td>
+<td>C-</td>
+<td>[68, 72)</td>
+<td>F</td>
+<td>(0, 60)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="distribution">Distribution</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Undergraduate (COMP 388-002)  </th>
+<th>Graduate (COMP 488-002)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Assignments (4)  </td>
+<td>40%</td>
+<td>25%</td>
+</tr>
+<tr>
+<td>Exams (2)</td>
+<td>50%</td>
+<td>40%</td>
+</tr>
+<tr>
+<td>Project</td>
+<td>+10% (optional and extra)</td>
+<td>25%</td>
+</tr>
+<tr>
+<td>Participation</td>
+<td>10%</td>
+<td>10%</td>
+</tr>
+<tr>
+<td>On the News</td>
+<td>+1% (extra, max: 4%)</td>
+<td>+1% (extra, max: 4%)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="assignments">Assignments</h3>
+<p><em>Assignment material will be linked here as we move forward with the classes.</em></p>
+<!-- * [Assignment 1](/teaching/biometrics-aut25/assignments/assignment_01.pdf), [data](https://tinyurl.com/yzewsd94), [good answers](/teaching/biometrics-aut25/assignments/assign_01_answers.pdf).
+* [Assignment 2](/teaching/biometrics-aut25/assignments/assignment_02.pdf), [data](https://tinyurl.com/mr5c5ajf), [good answers](/teaching/biometrics-aut25/assignments/assign_02_answers.pdf).
+* [Assignment 3](/teaching/biometrics-aut25/assignments/assignment_03.pdf), [data](https://tinyurl.com/4bwsx53m), [good answers](/teaching/biometrics-aut25/assignments/assign_03_answers.pdf).
+* [Assignment 4](/teaching/biometrics-aut25/assignments/assignment_04.pdf), [data](https://tinyurl.com/5bdevtfn), [good answers](/teaching/biometrics-aut25/assignments/assign_04_answers.pdf).
+-->
+<!-- XyPK04;579?) -->
+<blockquote>
+<p><strong>Late Policy</strong> <br>
+Deduction of 10% of the maximum possible grade for each day of delay.
+Works late more than 9 days will be completely lost.
+Late penalties are waived for delays caused by an <a href="https://catalog.luc.edu/academic-standards-regulations/undergraduate/#UGATTENDPOLICY" target="_blank" rel="noopener">excused absence</a>.</p>
+</blockquote>
+<h3 id="exams">Exams</h3>
+<ul>
+<li><strong>Midterm Exam</strong> (10/01), <em>more soon</em>.</li>
+<li><strong>Final Exam</strong> (12/08), <em>more soon</em>.</li>
+</ul>
+<!-- * **Midterm Exam** (10/01), [good answers](/teaching/biometrics-aut25/exams/midterm_answers.pdf), [grades](/teaching/biometrics-aut25/exams/midterm_grades.pdf).
+* **Final Exam** (12/08), [good answers](/teaching/biometrics-aut25/exams/final_answers.pdf), [grades](/teaching/biometrics-aut25/exams/final_grades.pdf). -->
+<blockquote>
+<p><strong>Makeup Policy</strong><br>
+If your absence is <a href="https://catalog.luc.edu/academic-standards-regulations/undergraduate/#UGATTENDPOLICY" target="_blank" rel="noopener">excused</a>,
+you will be allowed to make up the missed exam. The instructor will set the form and the timing of that makeup: it
+may be something that differs from the one taken by the rest of the class, or an alternative activity in its place,
+and it may be scheduled outside regular class time, with a short turnaround. If circumstances prevent you from taking
+the Final Exam, contact the instructor as soon as possible. When the remainder of the coursework is complete, a
+temporary grade of Incomplete (&ldquo;I&rdquo;) may be the appropriate outcome, and is governed by the University&rsquo;s
+<a href="https://catalog.luc.edu/academic-standards-regulations/undergraduate/#UGGRADESYSTEM" target="_blank" rel="noopener">Incomplete Grades policy</a>.</p>
+</blockquote>
+<p><a name="project"></a></p>
+<h3 id="project">Project</h3>
+<ul>
+<li>Written report and presentation, work alone or in groups.</li>
+<li>Continuous activity graded along the semester, with no need for makeup.</li>
+<li>Presentations will happen on 12/01 and 12/03, and reports are due on 12/01.</li>
+</ul>
+<blockquote>
+<p><strong>Possible Topics</strong></p>
+<ul>
+<li>Implementation of <em>complete</em> class attendance system.</li>
+<li>Presentation attack (performance, detection, and mitigation) of fingerprint recognition.</li>
+<li>Presentation attack of face recognition.</li>
+<li>Presentation attack of iris recognition.</li>
+<li>Implementation of recognition of traits other than fingerprints, face, and iris.</li>
+<li>Presentation and implementation of state-of-the-art scientific publications.</li>
+<li>Discussion about the ethical aspects of Biometrics and surveillance.</li>
+</ul>
+</blockquote>
+<!-- *Chosen Topics*
+
+| Team          | Topic                                                                                 |
+|---------------|---------------------------------------------------------------------------------------|
+| Team 1 &emsp; | The Impact of Being Identified Online                                                 |
+| Team 2        | Ethical Implications of Biometrics and Surveillance: Balancing Security and Privacy   |
+| Team 3        | Ethics of Surveillance in Public Spaces                                               |
+| Team 4        | Are EMG Signals Unique Enough for Person Identification?                              |
+| Team 5        | Technical and Ethical Implications of Subdermal Microchip Implants for Identification |
+| Team 6        | Fingerprint Spoofing                                                                  |
+| Team 7        | Gait Recognition                                                                      |
+| Team 8        | Biometric Contracts: Consent Mechanisms for Biometric Data Usage                      |
+| Team 9        | Password Keystroke Dynamics                                                           |
+-->
+<!--
+*Chosen Topics*
+
+| Team          | Topic                                       | Presentation                                          |
+|---------------|---------------------------------------------|-------------------------------------------------------|
+| Team 1 &emsp; | Disrupting Facial Recognition               | [slides](/teaching/biometrics-aut24/slides/pres1.pdf) |
+| Team 2        | Facial Presentation Attack Detection &emsp; | [slides](/teaching/biometrics-aut24/slides/pres2.pdf) |
+| Team 3        | Covert Biometrics                           | [slides](/teaching/biometrics-aut24/slides/pres3.pdf) |
+| Team 4        | MacOS Fingerprint Attack                    | [slides](/teaching/biometrics-aut24/slides/pres4.pdf) |
+-->
+<!-- <a name="part"></a> -->
+<h3 id="participation">Participation</h3>
+<ul>
+<li>Class Attendance: every presence counts.</li>
+<li><em>Today-I-missed</em> Statements: every submission counts.</li>
+<li>Grace Cards: use them to pardon class absence or late work.</li>
+<li>Religious holidays will be honored according to the student&rsquo;s faith, as stated <a href="https://www.luc.edu/campusministry/faithprograms/interfaith/religiousobservances/" target="_blank" rel="noopener">here</a>.</li>
+</ul>
+<blockquote>
+<p><strong><em>Today-I-missed</em> Statements</strong></p>
+<p>After every attended class, each student will have to submit (through Sakai) a short paragraph answering one of the
+following:</p>
+<ol>
+<li>What is your biggest question after class? <strong>OR</strong></li>
+<li>What was the most interesting point you learned today?</li>
+</ol>
+<p><em>Inspired by  <a href="https://www.ic.unicamp.br/~sandra/" target="_blank" rel="noopener">Dr. Sandra Avila</a>.</em></p>
+</blockquote>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Today I missed&amp;hellip;"
+           src="/teaching/biometrics-aut26/point.gif"
+           loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<blockquote>
+<p><strong>Grace Cards</strong></p>
+<p>Each student has three Grace Cards, which will allow them to avoid losing points because of class absence.
+They might also use their cards to excuse late-delivered assignments, as long as the delay is no greater than 9 days.
+The cards are not valid to dismiss or postpone exams or project-related dates.
+Students may use their cards at their own discretion, as long as they clearly communicate the usage to the instructor.</p>
+<p><em>Life happens, be wise.</em></p>
+</blockquote>
+<!-- ![Oopsie card.](card.gif) -->
+<hr>
+<h2 id="biometrics-on-the-news">Biometrics on the News</h2>
+<p>Shared by the students and the instructor.</p>
+<ul>
+<li><em>Soon.</em></li>
+</ul>
+<!-- 1. [Roblox launches new age verification system.](https://www.cnbc.com/2025/07/17/roblox-age-verification-friends-chat.html) <!-- Laila Hamdan -->
+<!-- 2. [YouTube will start using AI to guess your age.](https://www.cnn.com/2025/08/13/tech/youtube-ai-age-verification) <!-- Laila Hamdan -->
+<!-- 3. [Clearview AI Fined $33 Million.](https://www.forbes.com/sites/roberthart/2024/09/03/clearview-ai-controversial-facial-recognition-firm-fined-33-million-for-illegal-database/)
+<!-- 4. [23andMe bankruptcy: With America's DNA put on sale, market panic gets a new twist.](https://www.cnbc.com/2025/03/30/23andme-bankruptcy-selling-deleting-dna-genetic-testing.html)
+<!-- 5. [Koalas have fingerprints almost identical to ours.](https://www.pbs.org/wgbh/nova/article/koala-fingerprints/)
+<!-- 6. [Eye-scanning ID project launches in U.S. with six locations.](https://www.cnbc.com/2025/04/30/sam-altman-eye-scanning-id.html)
+<!-- 7. [Politician's fingerprint 'cloned from photos' by hacker.](https://www.bbc.com/news/technology-30623611)
+<!-- 8. [Computer scientists are developing a 'master' fingerprint that could unlock your phone.](https://www.popsci.com/computer-scientists-are-developing-master-fingerprint-that-could-unlock-your-phone/)
+<!-- 9. [At E.U. airports, passport stamps are out and fingerprint scans are in.](https://www.washingtonpost.com/travel/2025/09/29/europe-entry-requirements-fingerprints-face-scan/) <!-- Alexis Fenderson -->
+<!-- 10. [Illegible Fingerprints.](https://diabetesjournals.org/care/article-pdf/14/7/612/341538/14-7-612a.pdf)
+<!-- 11. [Suspected Charlie Kirk killer's weapon and palm print recovered.](https://www.rawstory.com/charlie-kirk-2673984028/#) <!-- Joe Montroy -->
+<!-- 12. [Thousands Of Swedes are inserting microchips under their skin.](https://www.npr.org/2018/10/22/658808705/thousands-of-swedes-are-inserting-microchips-under-their-skin) <!-- Paul Lim -->
+<!-- 13. [Vietnam shuts down millions of bank accounts over biometric rules.](https://icobench.com/news/vietnam-shuts-down-millions-of-bank-accounts-over-biometric-rules/) <!-- Elizabeth Bastow -->
+<!-- 14. [Man arrested as facial recognition cameras launched.](https://www.bbc.com/news/articles/cx27ldzd7nvo) <!-- Paul Lim -->
+<!-- 15. [This hacker hoodie Uses surveillance camera parts to blind surveillance cameras.](https://www.vice.com/en/article/this-hacker-hoodie-uses-surveillance-camera-parts-to-blind-surveillance-cameras/) <!-- Christina Truszkowski -->
+<!-- 16. [Are Biometrics the unsung hero or the ultimate villain in cybersecurity?](https://www.huntress.com/blog/are-biometrics-the-unsung-hero-or-the-ultimate-villain-in-cybersecurity) <!-- Eamon Jouett -->
+<!-- 17. [Major breach found in biometrics system.](https://www.theguardian.com/technology/2019/aug/14/major-breach-found-in-biometrics-system-used-by-banks-uk-police-and-defence-firms)
+<!-- 18. [Leave no trace: Long history of criminals mutilating their fingerprints.](https://themobmuseum.org/blog/leave-no-trace)
+<!-- 19. [Woman uses altered finger tips to beat security.](https://www.news.com.au/breaking-news/woman-uses-altered-finger-tips-to-beat-security/news-story/1b90b4bc8e9ec1c61dae80b06b76b824)
+<!-- 20. [These hyper-realistic masks are being used to train facial recognition tech.](https://www.theverge.com/2018/11/20/18105189/realistic-masks-facial-recognition-tech-training-realf-co-japan)
+<!-- 21. [Real-time biometric vetting to US Navy ships in foreign ports.](https://www.biometricupdate.com/202510/parsons-brings-real-time-biometric-vetting-to-us-navy-ships-in-foreign-ports) <!-- Eamon Jouett -->
+<!-- 22. [How the NYPD's facial recognition tool landed the wrong man in jail.](https://www.nytimes.com/2025/08/26/nyregion/nypd-facial-recognition-dismissed-case.html) 
+<!-- 23. [DHS expands biometric entry-exit, CBP to photograph all non-citizens at US borders.](https://www.biometricupdate.com/202510/dhs-expands-biometric-entry-exit-cbp-to-photograph-all-noncitizens-at-us-borders) <!-- Ryan Ethier -->
+<!-- 24. [Face biometrics for student nutrition programs.](https://www.biometricupdate.com/202511/realsense-enables-face-biometrics-for-student-nutrition-programs-through-tabletkiosk) <!-- Christina Truszkowski -->
+<!-- 25. [Deepfakes now outsmarting detection by mimicking heartbeats.](https://studyfinds.org/deepfakes-outsmarting-detection-heartbeats/)
+<!-- 26. [BigBear.ai expects more gov't contracts after O'Hare biometrics launch, gen AI deal.](https://www.biometricupdate.com/202511/bigbear-ai-expects-more-govt-contracts-after-ohare-biometrics-launch-gen-ai-deal) <!-- Elizabeth Bastow -->
+<!-- 27. [Can We Opt Out of Facial Recognition Technology?](https://www.thenation.com/article/society/hazard-of-facial-recognition-technology/) <!-- Eamon Jouett -->
+<!-- 28. [Disguised Handwriting: Unmasking The JonBenet Ramsey Ransom Note.](https://www.experthandwritinganalysis.com/jonbenet-ramsey/) <!-- Christina Truszkowski -->
+<!-- 29. [Orlando International Airport and CBP launch new biometric entry system.](https://www.visaverge.com/travelrequirements/orlando-international-airport-and-cbp-launch-new-biometric-entry-system/) <!-- Joe Montroy -->
+<!-- 30. [No REAL ID? It could cost you $18 to go through TSA checkpoints under proposed rule.](https://abcnews.go.com/US/real-id-cost-18-tsa-checkpoints-proposed-rule/story?id=127690599) <!-- Laila Hamdan -->
+<!-- 31. [Uganda MPs want clarity on biometric voting system as EC asks for more funds.](https://www.biometricupdate.com/202512/uganda-mps-want-clarity-on-biometric-voting-system-as-ec-asks-for-more-funds) <!-- Blake Doan -->
+<!-- 1. [Ethical Problems continue to plague biometric studies of Chinese minority groups.](https://sakai.luc.edu/access/content/group/COMP_388_002_4321_1246/student-uploads/cprevost__2024.01.24_China_Ethics_Biometrics_20240827104004049.pdf)
+2. [Illegible Fingerprints.](https://diabetesjournals.org/care/article-pdf/14/7/612/341538/14-7-612a.pdf)
+3. [Koalas have fingerprints almost identical to ours.](https://www.pbs.org/wgbh/nova/article/koala-fingerprints/)
+4. [The mystery of the Phantom of Heilbronn.](https://www.iso.org/news/2016/07/Ref2094.html)
+5. [Major breach found in biometrics system.](https://www.theguardian.com/technology/2019/aug/14/major-breach-found-in-biometrics-system-used-by-banks-uk-police-and-defence-firms)
+6. [On Airports' Horizon: Facial Recognition.](https://www.proquest.com/docview/2928355934?_oafollow=false&accountid=12163&pq-origsite=primo&sourcetype=Newspapers&parentSessionId=UrKJjyL4XZnwytTpLctTnIShc9ZWKoUamREyNxYvk20%3D)
+7. [Scrutiny of Iris-scanning Crypto Project Grows.](https://www.reuters.com/technology/scrutiny-iris-scanning-crypto-project-worldcoin-grows-2023-09-01/)
+8. [Unusual Biometric Techniques.](https://www.securitysolutionsmedia.com/2013/11/14/unusual-biometric-techniques/)
+9. [Scammers used AI to replicate son’s voice.](https://twitter.com/notcapnamerica/status/1725901659270742084)
+10. [Brazilian thief spoofed victims faces.](https://www.dailymail.co.uk/news/article-12210813/Brazilian-thief-taped-photos-victims-faces-DUMMY-bypass-facial-recognition.html)
+11. [Fingerprint cloning: myth or reality?](https://blog.talosintelligence.com/fingerprint-research/)
+12. [Data leak of 1M people's biometric data in UK.](https://www.technologyreview.com/2019/08/14/133723/data-leak-exposes-unchangeable-biometric-data-of-over-1-million-people/)
+13. [Samsung phones use ultrasonic fingerprint device.](https://www.theverge.com/2019/10/23/20929178/samsung-galaxy-s10-note-1o-fingerprint-recognition-issue-patch-ultrasonic-sensor)
+14. [Apple uses capacitive fingerprint device (with 500 ppi).](https://en.wikipedia.org/wiki/Touch_ID)
+15. [Racial Discrimination in Face Recognition Technology.](https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/)
+16. [What is Facial Recognition Technology?](https://www.ajl.org/facial-recognition-technology)
+17. [Boston Bans Use Of Facial Recognition Technology.](https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban)
+18. [Adversarial Attack on ArcFace.](https://www.youtube.com/watch?v=a4iNg0wWBsQ)
+19. [Scrutiny of Iris-scanning Crypto Project Grows.](https://www.reuters.com/technology/scrutiny-iris-scanning-crypto-project-worldcoin-grows-2023-09-01/)
+-->
+<hr>
+<h2 id="useful-links">Useful Links</h2>
+<p><em>Links will be added here as we move forward with the classes.</em></p>
+<!-- * [Responsible ML datasets](https://www.nature.com/articles/s42256-024-00874-y), used in reading activity on 09/03.
+* [Yale face dataset](http://vision.ucsd.edu/content/yale-face-database), used in the 3rd assignment. -->
+<hr>
+<h2 id="references">References</h2>
+<ul>
+<li>Jain, Ross, Nandakumar, and Swearingen. <em>Introduction to Biometrics</em>, 2nd Edition. Springer Books, 2025.</li>
+<li>Jain, Ross, and Nandakumar. <em>Introduction to Biometrics</em>. Springer Books, 2011.</li>
+<li>Jain, Flynn, and Ross. <em>Handbook of Biometrics</em>. Springer Books, 2008.</li>
+</ul>
+<hr>
+<h2 id="learning-objectives">Learning Objectives</h2>
+<p>At the end of the course, students will master the theoretical foundations, key techniques, and applications of
+Biometrics to real-world scenarios.
+Their repertoire will include:</p>
+<ul>
+<li>Understanding the fundamentals of Biometrics.</li>
+<li>Developing and implementing Biometric algorithms.</li>
+<li>Assessing the performance of Biometric systems.</li>
+<li>Applying Biometrics to real-world applications.</li>
+<li>Identifying the privacy and ethics issues of Biometric systems.</li>
+<li>Being up-to-date with emerging trends in Biometrics.</li>
+</ul>
+<p>Graduate students (within COMP 488-002), in particular, will acquire the following extra skills:</p>
+<ul>
+<li>Reading, peer-reviewing, and writing scientific papers about Biometrics.</li>
+<li>Conducting research in Biometrics, from the design of hypotheses, development of solutions, and comparison to
+existing baselines, to the design and execution of experiments.</li>
+</ul>
+<hr>
+<h2 id="academic-integrity">Academic Integrity</h2>
+<p>Students must adhere to the <a href="https://catalog.luc.edu/academic-standards-regulations/undergraduate/#UGACADINTEG" target="_blank" rel="noopener">LUC statements on academic integrity</a>.
+These policies fully apply to this course.
+The penalty for task-wise academic misconduct is losing all the task&rsquo;s points.
+Multiple events of misconduct will incur in failing the entire course (with an F grade).
+All cases of academic misconduct will be reported to the proper department offices.
+Lastly, students are not allowed to use AI assisted technology (such as <a href="https://chat.openai.com/" target="_blank" rel="noopener">ChatGPT</a>) along the
+entirety of the course, unless explicitly authorized by the instructor.</p>
+<hr>
+<h2 id="accommodations">Accommodations</h2>
+<p>Students who have disabilities and wish to request academic accommodations are advised to contact the
+<a href="https://www.luc.edu/sac/applywithsac" target="_blank" rel="noopener"><em>Student Accessibility Center</em> (SAC)</a> at 773-508-3700 or <a href="mailto:sac@luc.edu">sac@luc.edu</a> as soon as
+possible.
+The SAC will provide accommodation letters that, once shared with the instructor, will be fully honored
+as per the terms of their content with no further questions and total confidentiality.</p>
+<p>The SAC, student, and instructor will engage in an interactive process to determine how each student&rsquo;s accommodations
+are applied to individual class sections.
+Students are welcome to visit the SAC on the first floor of Sullivan Center, Suite 117, to share questions or concern
+with one of their accessibility specialists.</p>
+<hr>
+<h2 id="responsible-campus-partner">Responsible Campus Partner</h2>
+<p>The instructor is a &ldquo;Responsible Campus Partner&rdquo; and will fully adhere to Loyola&rsquo;s <a href="https://www.luc.edu/equity/titleixequitylaws/titleix/" target="_blank" rel="noopener">Title IX Sex-based Discrimination</a>.
+He will also fully comply with the Illinois law of <a href="https://www.luc.edu/hr/legal-notices/mandatedreportingofchildabuseandneglect/" target="_blank" rel="noopener">disclosing suspected instances of child abuse or neglect</a>.</p>
+<p>In addition to the instructor&rsquo;s support, University’s resources are available to all the students who experience
+sexual/gender-based violence.
+Students in need are advised to safely contact the &ldquo;Office for Equity &amp; Compliance&rdquo; (OEC) at <a href="mailto:equity@luc.edu">equity@luc.edu</a> or 773-508-7766.
+No student will ever be forced to file a report with the police.</p>
+<p>Lastly, Loyola confidential advocates who can provide support and talk through options (medical, legal, etc.) are
+available at 773-494-3810.
+More information can be found at <a href="https://www.luc.edu/wellness" target="_blank" rel="noopener">https://www.luc.edu/wellness</a>.</p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/teaching/">Teaching</a>
+  
+  <a class="badge badge-light" href="/tag/biometrics/">Biometrics</a>
+  
+  <a class="badge badge-light" href="/tag/fingerprint-recognition/">Fingerprint Recognition</a>
+  
+  <a class="badge badge-light" href="/tag/iris-recognition/">Iris Recognition</a>
+  
+  <a class="badge badge-light" href="/tag/face-recognition/">Face Recognition</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://danielmoreira.github.io/teaching/biometrics-aut26/&amp;text=Biometrics,%20Fall%202026" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Biometrics,%20Fall%202026&amp;body=https://danielmoreira.github.io/teaching/biometrics-aut26/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://danielmoreira.github.io/teaching/biometrics-aut26/&amp;title=Biometrics,%20Fall%202026" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Biometrics,%20Fall%202026%20https://danielmoreira.github.io/teaching/biometrics-aut26/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://danielmoreira.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/daniel/avatar_huebbfad1edfa8e198fe68a27ac6a615ca_148952_270x270_fill_q90_lanczos_center.jpg" alt="Daniel Moreira"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://danielmoreira.github.io/">Daniel Moreira</a></h5>
+      <h6 class="card-subtitle">Assistant Professor of Computer Science</h6>
+      <p class="card-text">Computer scientist with interests in (but not limited to) Computer Vision, Machine Learning, Media Forensics, and Biometrics.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:dmoreira1@luc.edu" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/uploads/cv.pdf" >
+        <i class="fas fa-file-pdf"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=duhWplcAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/dhmoreira/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4734372Z3" target="_blank" rel="noopener">
+        <i class="ai ai-lattes"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/danielmoreira" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://hub.docker.com/u/dmoreira" target="_blank" rel="noopener">
+        <i class="fab fa-docker"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/dmoreira_cs" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2026 Daniel Moreira
+  </p>
+  
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.fab8b449b814cc9f95b22fcf2e45f05b.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.2a14e6cafbd89dd0247015b525702e10.js"></script>
+
+
+
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
