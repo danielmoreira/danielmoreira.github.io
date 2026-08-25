@@ -48,8 +48,8 @@
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
 &lt;p&gt;Course: COMP 388-002 / COMP 488-002 Computer Science Topics&lt;br&gt;
 Level: Undergraduate and Graduate&lt;br&gt;
-Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;/p&gt;
-&lt;!-- TA: Fiona Nicdao (fnicdao@luc.edu) --&gt;
+Instructor: &lt;a href=&#34;https://danielmoreira.github.io/&#34;&gt;Daniel Moreira&lt;/a&gt; (&lt;a href=&#34;mailto:dmoreira1@luc.edu&#34;&gt;dmoreira1@luc.edu&lt;/a&gt;)&lt;br&gt;
+TA: Alisa Samakhval (&lt;a href=&#34;mailto:asamakhval@luc.edu&#34;&gt;asamakhval@luc.edu&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Lectures: TUE and THR, 4:15 to 5:30 PM, in person at Mundelein Center 519&lt;br&gt;
 Office Hours: TUE, WED, and THR evenings, Doyle Center 310 or Zoom, &lt;a href=&#34;https://calendly.com/danielmoreira/fall-2026-office-hours&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;by appointment&lt;/a&gt;&lt;br&gt;
 Sakai: &lt;a href=&#34;https://sakai.luc.edu/x/wWJz6k&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sakai.luc.edu/x/wWJz6k&lt;/a&gt;&lt;/p&gt;
@@ -83,7 +83,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;hr&gt;
 &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;08/25 - Syllabus, Course details.&lt;/li&gt;
+&lt;li&gt;08/25 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_01.pdf&#34;&gt;Syllabus&lt;/a&gt;, Course details.&lt;/li&gt;
 &lt;li&gt;08/27 - Basics I, Biometrics, traits, and systems.&lt;/li&gt;
 &lt;li&gt;09/01 - Basics II, Biometric systems, errors, and metrics.&lt;/li&gt;
 &lt;li&gt;09/03 - 1st Coding Class, Metrics&amp;rsquo; implementation.&lt;/li&gt;
