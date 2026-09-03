@@ -86,7 +86,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;08/25 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_01.pdf&#34;&gt;Syllabus&lt;/a&gt;, Course details.&lt;/li&gt;
 &lt;li&gt;08/27 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_02.pdf&#34;&gt;Basics I&lt;/a&gt;, Biometrics, traits, and systems.&lt;/li&gt;
 &lt;li&gt;09/01 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_03.pdf&#34;&gt;Basics II&lt;/a&gt;, Biometric systems, errors, and metrics.&lt;/li&gt;
-&lt;li&gt;09/03 - 1st Coding Class, Metrics&amp;rsquo; implementation.&lt;/li&gt;
+&lt;li&gt;09/03 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_04.pdf&#34;&gt;1st Coding Class&lt;/a&gt;, Metrics&amp;rsquo; implementation.&lt;/li&gt;
 &lt;li&gt;09/08 - Fingerprint Recog. I, History and features.&lt;/li&gt;
 &lt;li&gt;09/10 - Fingerprint Recog. II, Acquisition and enhancement.&lt;/li&gt;
 &lt;li&gt;09/15 - Reading Activity, &lt;em&gt;No sync class&lt;/em&gt;.&lt;/li&gt;
@@ -182,9 +182,11 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 * ~~12/08 - Final Exam.~~ --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;notebooks-for-coding-classes&#34;&gt;Notebooks &lt;em&gt;(for coding classes)&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Online notebooks will be linked here as we move forward with the classes.&lt;/em&gt;&lt;/p&gt;
-&lt;!-- * [Notebook 1](https://colab.research.google.com/drive/1qTi7rz9-YK-7N4Acirik5bm8Vllx4JiI?usp=sharing), Metrics&#39; implementation.
-* [Notebook 2](https://colab.research.google.com/drive/1l7pSSXknayehfMfAQUXAxI8ouKMvlw__?usp=sharing), Fingerprint recognition.
+&lt;!-- *Online notebooks will be linked here as we move forward with the classes.* --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1qTi7rz9-YK-7N4Acirik5bm8Vllx4JiI?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 1&lt;/a&gt;, Metrics&amp;rsquo; implementation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- * [Notebook 2](https://colab.research.google.com/drive/1l7pSSXknayehfMfAQUXAxI8ouKMvlw__?usp=sharing), Fingerprint recognition.
 * [Notebook 3](https://colab.research.google.com/drive/1S04x_NrEA3AQJBiEoN0McUeqEek01pdZ?usp=sharing), Face recognition.
 * [Notebook 4](https://colab.research.google.com/drive/1Nmzh9a4Vn6r7r8kG30KxHJRZ3U7PwLG5?usp=sharing), Iris recognition.
 --&gt;
