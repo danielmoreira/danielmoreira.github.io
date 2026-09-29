@@ -93,7 +93,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;09/17 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_07.pdf&#34;&gt;Fingerprint Recog. III,&lt;/a&gt; Minutiae detection.&lt;/li&gt;
 &lt;li&gt;09/22 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_08.pdf&#34;&gt;Fingerprint Recog. IV,&lt;/a&gt; Data collection.&lt;/li&gt;
 &lt;li&gt;09/24 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_09.pdf&#34;&gt;2nd Coding Class,&lt;/a&gt; Fingerprint recognition.&lt;/li&gt;
-&lt;li&gt;09/29 - Midterm Preparation, Recap, and project discussion.&lt;/li&gt;
+&lt;li&gt;09/29 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_10.pdf&#34;&gt;Midterm Preparation,&lt;/a&gt; Recap, and project discussion.&lt;/li&gt;
 &lt;li&gt;10/01 - Midterm Exam, &lt;em&gt;More soon&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;10/06 - &lt;strong&gt;Fall Break&lt;/strong&gt;, &lt;em&gt;No classes&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;10/08 - Face Recog. I, Why faces and faces vs. other traits.&lt;/li&gt;
@@ -154,9 +154,10 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;&lt;del&gt;09/03 - 1st Coding Class, bring your laptops.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;09/15 - Reading Activity, no sync class, Prof. Moreira&amp;rsquo;s &lt;a href=&#34;https://sites.google.com/view/scifor-2026&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;workshop at ICIP 2026&lt;/a&gt;.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;09/22 - 1st assignment due date.&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;09/24 - 2nd Coding Class, bring your laptops.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;09/24 - 2nd Coding Class, bring your laptops.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;10/01 - Midterm Exam, in class.&lt;/li&gt;
 &lt;li&gt;10/06 - Fall Break, no classes.&lt;/li&gt;
+&lt;li&gt;10/20 - 2nd Assignment due date.&lt;/li&gt;
 &lt;li&gt;10/22 - 3rd Coding Class, bring your laptops.&lt;/li&gt;
 &lt;li&gt;11/05 - 4th Coding Class, bring your laptops.&lt;/li&gt;
 &lt;li&gt;11/19 - 1st Invited Talk.&lt;/li&gt;
@@ -301,6 +302,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;!-- *Assignment material will be linked here as we move forward with the classes.* --&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/assignments/assignment_1.pdf&#34;&gt;Assignment 1&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/yzewsd94&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;. &lt;!-- [good answers](/teaching/biometrics-aut25/assignments/assign_01_answers.pdf). --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/assignments/assignment_2.pdf&#34;&gt;Assignment 2&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/mr5c5ajf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;. &lt;!-- [good answers](/teaching/biometrics-aut25/assignments/assign_01_answers.pdf). --&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- * [Assignment 1](/teaching/biometrics-aut25/assignments/assignment_01.pdf), [data](https://tinyurl.com/yzewsd94), [good answers](/teaching/biometrics-aut25/assignments/assign_01_answers.pdf).
 * [Assignment 2](/teaching/biometrics-aut25/assignments/assignment_02.pdf), [data](https://tinyurl.com/mr5c5ajf), [good answers](/teaching/biometrics-aut25/assignments/assign_02_answers.pdf).
@@ -432,6 +434,7 @@ Students may use their cards at their own discretion, as long as they clearly co
 &lt;li&gt;&lt;a href=&#34;https://edition.cnn.com/2021/05/25/uk/drug-dealer-cheese-sentenced-scli-gbr-intl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drug dealer jailed after sharing a photo of cheese that included his fingerprints.&lt;/a&gt; &lt;!-- Devon Griffith --&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.pbs.org/wgbh/nova/article/koala-fingerprints/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koalas have fingerprints almost identical to ours.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://themobmuseum.org/blog/leave-no-trace&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leave no trace: Long history of criminals mutilating their fingerprints.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nist.gov/services-resources/software/nist-biometric-image-software-nbis?utm_source=chatgpt.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIST Biometric Image Software (NBIS).&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;!-- 1. [Roblox launches new age verification system.](https://www.cnbc.com/2025/07/17/roblox-age-verification-friends-chat.html) &lt;!-- Laila Hamdan --&gt;
 &lt;!-- 2. [YouTube will start using AI to guess your age.](https://www.cnn.com/2025/08/13/tech/youtube-ai-age-verification) &lt;!-- Laila Hamdan --&gt;
