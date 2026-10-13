@@ -97,7 +97,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;10/01 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/exams/midterm_answers.pdf&#34;&gt;Midterm Exam,&lt;/a&gt; &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/exams/midterm_grades.pdf&#34;&gt;Grades.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;10/06 - &lt;strong&gt;Fall Break&lt;/strong&gt;, &lt;em&gt;No classes&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;10/08 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_11.pdf&#34;&gt;Face Recog. I,&lt;/a&gt; Why faces and faces vs. other traits.&lt;/li&gt;
-&lt;li&gt;10/13 - Face Recog. II, Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;10/13 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_12.pdf&#34;&gt;Face Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
 &lt;li&gt;10/15 - Face Recog. III, Description and matching.&lt;/li&gt;
 &lt;li&gt;10/20 - Face Recog. IV, Deep learning face recognition.&lt;/li&gt;
 &lt;li&gt;10/22 - 3rd Coding Class, Face recognition.&lt;/li&gt;
@@ -302,7 +302,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;!-- *Assignment material will be linked here as we move forward with the classes.* --&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/assignments/assignment_1.pdf&#34;&gt;Assignment 1&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/yzewsd94&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;. &lt;!-- [good answers](/teaching/biometrics-aut25/assignments/assign_01_answers.pdf). --&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/assignments/assignment_2.pdf&#34;&gt;Assignment 2&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/mr5c5ajf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;. &lt;!-- [good answers](/teaching/biometrics-aut25/assignments/assign_01_answers.pdf). --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/assignments/assignment_2.pdf&#34;&gt;Assignment 2&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/y8ddwj85&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;. &lt;!-- [good answers](/teaching/biometrics-aut25/assignments/assign_01_answers.pdf). --&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- * [Assignment 1](/teaching/biometrics-aut25/assignments/assignment_01.pdf), [data](https://tinyurl.com/yzewsd94), [good answers](/teaching/biometrics-aut25/assignments/assign_01_answers.pdf).
 * [Assignment 2](/teaching/biometrics-aut25/assignments/assignment_02.pdf), [data](https://tinyurl.com/mr5c5ajf), [good answers](/teaching/biometrics-aut25/assignments/assign_02_answers.pdf).
@@ -489,7 +489,10 @@ Students may use their cards at their own discretion, as long as they clearly co
 --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Links will be added here as we move forward with the classes.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s42256-024-00874-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Responsible ML datasets&lt;/a&gt;, used in reading activity on 09/15.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- *Links will be added here as we move forward with the classes.* --&gt;
 &lt;!-- * [Responsible ML datasets](https://www.nature.com/articles/s42256-024-00874-y), used in reading activity on 09/03.
 * [Yale face dataset](http://vision.ucsd.edu/content/yale-face-database), used in the 3rd assignment. --&gt;
 &lt;hr&gt;
