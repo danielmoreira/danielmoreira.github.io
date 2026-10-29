@@ -102,7 +102,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;10/20 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_14.pdf&#34;&gt;Face Recog. IV,&lt;/a&gt; Deep learning face recognition.&lt;/li&gt;
 &lt;li&gt;10/22 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_15.pdf&#34;&gt;3rd Coding Class,&lt;/a&gt; Face recognition.&lt;/li&gt;
 &lt;li&gt;10/27 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_16.pdf&#34;&gt;Iris Recog. I,&lt;/a&gt; Why irises and irises vs. other traits.&lt;/li&gt;
-&lt;li&gt;10/29 - Iris Recog. II, Acquisition and enhancement.&lt;/li&gt;
+&lt;li&gt;10/29 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_17.pdf&#34;&gt;Iris Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
 &lt;li&gt;11/03 - Iris Recog. III, Description and matching.&lt;/li&gt;
 &lt;li&gt;11/05 - 4th Coding Class, Iris recognition.&lt;/li&gt;
 &lt;li&gt;11/10 - Other Traits, Alternative traits and Soft Biometrics.&lt;/li&gt;
@@ -160,6 +160,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;&lt;del&gt;10/20 - 2nd Assignment due date.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;10/22 - 3rd Coding Class, bring your laptops.&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;11/05 - 4th Coding Class, bring your laptops.&lt;/li&gt;
+&lt;li&gt;11/15 - 3rd assignment due date.&lt;/li&gt;
 &lt;li&gt;11/19 - 1st Invited Talk.&lt;/li&gt;
 &lt;li&gt;11/24 - 2nd Invited Talk.&lt;/li&gt;
 &lt;li&gt;11/26 - Thanksgiving, no classes.&lt;/li&gt;
@@ -188,7 +189,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1qTi7rz9-YK-7N4Acirik5bm8Vllx4JiI?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 1&lt;/a&gt;, Metrics&amp;rsquo; implementation.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1l7pSSXknayehfMfAQUXAxI8ouKMvlw__?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 2&lt;/a&gt;, Fingerprint recognition.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1l7pSSXknayehfMfAQUXAxI8ouKMvlw__?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 3&lt;/a&gt;, Face recognition.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1GsI39o-BWdm2pSMCK-zOZbe0UYcpSpcU?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 3&lt;/a&gt;, Face recognition.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- * [Notebook 4](https://colab.research.google.com/drive/1Nmzh9a4Vn6r7r8kG30KxHJRZ3U7PwLG5?usp=sharing), Iris recognition. 
 --&gt;
@@ -303,6 +304,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/assignments/assignment_1.pdf&#34;&gt;Assignment 1&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/yzewsd94&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;. &lt;!-- [good answers](/teaching/biometrics-aut25/assignments/assign_01_answers.pdf). --&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/assignments/assignment_2.pdf&#34;&gt;Assignment 2&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/y8ddwj85&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;. &lt;!-- [good answers](/teaching/biometrics-aut25/assignments/assign_01_answers.pdf). --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/assignments/assignment_3.pdf&#34;&gt;Assignment 3&lt;/a&gt;, &lt;a href=&#34;https://tinyurl.com/4bwsx53m&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;. &lt;!-- [good answers](/teaching/biometrics-aut25/assignments/assign_01_answers.pdf). --&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- * [Assignment 1](/teaching/biometrics-aut25/assignments/assignment_01.pdf), [data](https://tinyurl.com/yzewsd94), [good answers](/teaching/biometrics-aut25/assignments/assign_01_answers.pdf).
 * [Assignment 2](/teaching/biometrics-aut25/assignments/assignment_02.pdf), [data](https://tinyurl.com/mr5c5ajf), [good answers](/teaching/biometrics-aut25/assignments/assign_02_answers.pdf).
@@ -492,10 +494,8 @@ Students may use their cards at their own discretion, as long as they clearly co
 &lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s42256-024-00874-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Responsible ML datasets&lt;/a&gt;, used in reading activity on 09/15.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vision.ucsd.edu/content/yale-face-database&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yale face dataset&lt;/a&gt;, used in the 3rd assignment.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- *Links will be added here as we move forward with the classes.* --&gt;
-&lt;!-- * [Responsible ML datasets](https://www.nature.com/articles/s42256-024-00874-y), used in reading activity on 09/03.
-* [Yale face dataset](http://vision.ucsd.edu/content/yale-face-database), used in the 3rd assignment. --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;ul&gt;
