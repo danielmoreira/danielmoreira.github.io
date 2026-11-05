@@ -104,7 +104,7 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;10/27 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_16.pdf&#34;&gt;Iris Recog. I,&lt;/a&gt; Why irises and irises vs. other traits.&lt;/li&gt;
 &lt;li&gt;10/29 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_17.pdf&#34;&gt;Iris Recog. II,&lt;/a&gt; Acquisition and enhancement.&lt;/li&gt;
 &lt;li&gt;11/03 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_18.pdf&#34;&gt;Iris Recog. III,&lt;/a&gt; Description and matching.&lt;/li&gt;
-&lt;li&gt;11/05 - 4th Coding Class, Iris recognition.&lt;/li&gt;
+&lt;li&gt;11/05 - &lt;a href=&#34;https://danielmoreira.github.io/teaching/biometrics-aut26/slides/lecture_19.pdf&#34;&gt;4th Coding Class,&lt;/a&gt; Iris recognition.&lt;/li&gt;
 &lt;li&gt;11/10 - Other Traits, Alternative traits and Soft Biometrics.&lt;/li&gt;
 &lt;li&gt;11/12 - Multibiometrics, Data fusion.&lt;/li&gt;
 &lt;li&gt;11/17 - Feature Indexing, Index building and feature querying.&lt;/li&gt;
@@ -190,9 +190,8 @@ This course and its materials are also available in &lt;a href=&#34;https://saka
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1qTi7rz9-YK-7N4Acirik5bm8Vllx4JiI?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 1&lt;/a&gt;, Metrics&amp;rsquo; implementation.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1l7pSSXknayehfMfAQUXAxI8ouKMvlw__?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 2&lt;/a&gt;, Fingerprint recognition.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1GsI39o-BWdm2pSMCK-zOZbe0UYcpSpcU?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 3&lt;/a&gt;, Face recognition.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1Nmzh9a4Vn6r7r8kG30KxHJRZ3U7PwLG5?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notebook 4&lt;/a&gt;, Iris recognition.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- * [Notebook 4](https://colab.research.google.com/drive/1Nmzh9a4Vn6r7r8kG30KxHJRZ3U7PwLG5?usp=sharing), Iris recognition. 
---&gt;
 &lt;hr&gt;
 &lt;!-- &lt;a name=&#34;dbacic&#34;&gt;&lt;/a&gt; --&gt;
 &lt;h2 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h2&gt;
